@@ -9,10 +9,10 @@
 <meta name="description" content="Preliminary, unofficial situational overview of the M7.7 Azuero (Panama) earthquake of 9 October 2026, compiled from public internet sources.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@500&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/MarkerCluster.min.css">
-<link rel="stylesheet" href="assets/style.css?v=202610092105">
+<link rel="stylesheet" href="assets/style.css?v=202610092115">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Cpath d='M2 17h6l3-8 5 15 4-11 3 4h7' fill='none' stroke='%23d03b3b' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E">
 </head>
 <body>
@@ -68,50 +68,43 @@
 <!-- ================= OVERVIEW ================= -->
 <section id="tab-overview" class="tab">
   <p class="lede" id="headline"></p>
-  <div class="upcoming" id="upcoming"></div>
+  <p class="asof" id="asof"></p>
 
-  <h2 class="sec">Officially reported figures <span class="tag tag-official">Official</span></h2>
-  <div class="tiles" id="official-tiles"></div>
-  <p class="note" id="official-note"></p>
+  <h2 class="sec sec-first">Key numbers</h2>
+  <div class="numbers" id="numbers"></div>
+  <p class="numbers-key"><span class="kind kind-official">Official</span> reported by Panamanian authorities &nbsp; <span class="kind kind-reported">Reported</span> compiled from media and social media &nbsp; <span class="kind kind-model">Estimate</span> automated models, not counts</p>
 
-  <h2 class="sec">Impact map <span class="tag tag-reported">Live &amp; curated</span></h2>
+  <h2 class="sec">At a glance</h2>
+  <div class="glance">
+    <div class="g-card g-what">
+      <h3><span class="g-num">1</span> What happened</h3>
+      <ul class="g-list" id="g-what"></ul>
+    </div>
+    <div class="g-card g-know">
+      <h3><span class="g-num">2</span> What we know so far</h3>
+      <ul class="g-list" id="key-points"></ul>
+      <div class="g-src">Preliminary, from news, social media and official statements. <a href="#impacts">See all reports →</a></div>
+    </div>
+    <div class="g-card g-unknown">
+      <h3><span class="g-num">3</span> What we don't know yet</h3>
+      <ul class="g-list" id="g-unknown"></ul>
+      <div class="g-next" id="upcoming"></div>
+    </div>
+  </div>
+
+  <h2 class="sec">Impact map</h2>
   <div class="map-intro">
-    <p><strong>Where the shaking was strongest and where impacts have been reported.</strong> Coloured bands show the modelled shaking intensity from the USGS ShakeMap (MMI scale: VI strong, VII very strong, VIII severe, IX violent). Photo pins are damage photos from news and social media, each checked by eye and placed at town level. Click one to see the image, a summary and its source. Dots are other reported impacts; circles are aftershocks, updated live from USGS (red = last hour). Switch on <em>Indicative damage by district</em> to see the rapid risk estimate.</p>
-    <p class="muted small">Locations are approximate. Few reports from an area can mean an information gap (power and telecom outages) rather than an absence of damage. <a href="#map">Open the map full-screen →</a></p>
+    <p><strong>Where the shaking was strongest and where impacts have been reported.</strong> Click a photo pin to see the damage, a summary and the source. <a href="#map">Full-screen map →</a></p>
+    <details class="howto"><summary>How to read this map</summary>
+      <p>Coloured bands show modelled shaking from the USGS ShakeMap (VI strong, VII very strong, VIII severe, IX violent). Photo pins are damage photos from news and social media, each checked by eye and placed at town level. Dots are other reported impacts. Circles are aftershocks, updated live from USGS (red = last hour). Switch on <em>Indicative damage by district</em> for the rapid risk estimate. Locations are approximate. Few reports from an area can mean an information gap (power and telecom outages) rather than no damage.</p>
+    </details>
   </div>
   <div class="map-wrap map-home">
     <div id="ov-map" aria-label="Impact map: shaking intensity, aftershocks, damage photos and reported impacts"></div>
     <aside class="map-panel" data-panel="ov"></aside>
   </div>
 
-  <div class="grid-2">
-    <div class="card">
-      <h3>The earthquake</h3>
-      <dl class="facts" id="event-facts"></dl>
-    </div>
-    <div class="card">
-      <h3>Conflicting information</h3>
-      <div class="conflict" id="conflict-box"></div>
-    </div>
-  </div>
-
-  <h2 class="sec">Modelled estimates <span class="tag tag-model">Model, not observed</span></h2>
-  <div class="tiles tiles-model" id="model-tiles"></div>
-  <div class="grid-2">
-    <div class="card">
-      <h3>USGS PAGER: estimated fatalities</h3>
-      <p class="muted small">Probability of each range. Automated model from shaking and population; not a count.</p>
-      <div class="pager-bars" id="pager-fat"></div>
-    </div>
-    <div class="card">
-      <h3>USGS PAGER: estimated economic losses (US$)</h3>
-      <p class="muted small">Probability of each range. Red alert: national or international response historically required.</p>
-      <div class="pager-bars" id="pager-econ"></div>
-    </div>
-  </div>
-
-  <h2 class="sec">Reported impacts by area <span class="tag tag-reported">Media &amp; social media</span></h2>
-  <ul class="key-points" id="key-points"></ul>
+  <h2 class="sec">Reported impacts by area</h2>
   <div class="areas" id="areas"></div>
 
   <h2 class="sec">Services &amp; infrastructure</h2>
@@ -124,9 +117,33 @@
       <a class="more" href="#impacts">All impact reports →</a>
     </div>
     <div class="card">
-      <h3>Latest headlines <span class="muted small">(auto-refreshed every 15 min)</span></h3>
+      <h3>Latest headlines <span class="muted small">(auto-refreshed)</span></h3>
       <ul class="headlines" id="headlines"></ul>
       <a class="more" href="#news">Full news stream →</a>
+    </div>
+  </div>
+
+  <h2 class="sec">Behind the numbers</h2>
+  <div class="grid-2">
+    <div class="card">
+      <h3>Estimated deaths: probability by range</h3>
+      <p class="muted small">USGS PAGER automated model from shaking and population. Not a count.</p>
+      <div class="pager-bars" id="pager-fat"></div>
+    </div>
+    <div class="card">
+      <h3>Estimated economic losses (US$): probability by range</h3>
+      <p class="muted small">USGS PAGER. Red alert: past events at this level needed a national or international response.</p>
+      <div class="pager-bars" id="pager-econ"></div>
+    </div>
+  </div>
+  <div class="grid-2">
+    <div class="card">
+      <h3>Latest official statement</h3>
+      <div id="official-note" class="small-prose"></div>
+    </div>
+    <div class="card">
+      <h3>Conflicting information</h3>
+      <div class="conflict" id="conflict-box"></div>
     </div>
   </div>
 </section>
@@ -252,6 +269,6 @@
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/leaflet.markercluster.min.js"></script>
-<script src="assets/app.js?v=202610092105"></script>
+<script src="assets/app.js?v=202610092115"></script>
 </body>
 </html>

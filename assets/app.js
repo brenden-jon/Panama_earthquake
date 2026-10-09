@@ -117,49 +117,56 @@ async function loadQuakes() {
 // ---------- overview ----------
 function renderOverview() {
   const h = state.highlights, s = state.summary;
+  const q = state.quakes ? state.quakes.features.filter(f => f.properties.time > T0 + 1000) : [];
+  const big = q.slice().sort((a, b) => b.properties.mag - a.properties.mag)[0];
   if (h) {
     $("#headline").textContent = h.headline;
-    $("#upcoming").textContent = h.upcoming || "";
+    $("#asof").textContent = `Situation as of ${localTime(h.updated_utc)} · updated continuously`;
+    $("#upcoming").innerHTML = h.upcoming ? `<strong>Next:</strong> ${esc(h.upcoming)}` : "";
     $("#key-points").innerHTML = h.key_points.map(p => `<li>${esc(p)}</li>`).join("");
+    $("#g-unknown").innerHTML = (h.unknowns || []).map(p => `<li>${esc(p)}</li>`).join("");
     $("#areas").innerHTML = h.areas.map(a => `<div class="area"><h4>${esc(a.area)} <span class="badge b-${a.status}">${statusIcon(a.status)} ${esc(a.status)}</span></h4>${esc(a.text)}</div>`).join("");
     $("#services").innerHTML = h.services.map(v => `<div class="svc"><div class="h">${esc(v.sector)} <span class="badge b-${v.status}">${statusIcon(v.status)} ${esc(v.status)}</span></div>${esc(v.text)}<div class="src">${esc(v.source)}</div></div>`).join("");
   }
+  const popLo = s ? Math.min(s.exposure.pop_mmi7plus, sumArr(s.pager.pop_exposure_pa_by_mmi.slice(6))) : 0;
+  const popHi = s ? Math.max(s.exposure.pop_mmi7plus, sumArr(s.pager.pop_exposure_pa_by_mmi.slice(6))) : 0;
+  $("#g-what").innerHTML = [
+    `<b>M7.7 earthquake</b>, shallow (13 km deep), at <b>12:56 local time</b> on Friday 9 October (17:56 UTC). <span class="muted">Panama's Instituto de Geociencias measured M7.2.</span>`,
+    `<b>Epicentre:</b> southern Azuero Peninsula, between Los Santos and Herrera.`,
+    `<b>Strongest shaking:</b> severe to violent around Tonosí and Macaracas; very strong across Herrera, Los Santos and southern Veraguas${s ? `, where about <b>${fmtK(roundTo(popLo, 10000))}–${fmtK(roundTo(popHi, 10000))} people</b> live` : ""}.`,
+    `<b>Aftershocks:</b> ${q.length ? `${q.length} recorded by USGS so far` : "ongoing"}${big ? `, largest <b>M${big.properties.mag.toFixed(1)}</b>` : ""}. More strong aftershocks are possible.`,
+    `<b>Tsunami:</b> initial warning lifted; no tsunami damage reported.`,
+  ].map(x => `<li>${x}</li>`).join("");
+
   if (s) {
     const o = s.official_latest || {};
-    const tiles = [
-      ["Deaths", o.deaths], ["Injured", o.injured], ["Missing", o.missing],
-      ["Displaced / in shelters", o.displaced], ["Homes damaged", o.homes_damaged], ["Homes destroyed", o.homes_destroyed],
-    ];
-    $("#official-tiles").innerHTML = tiles.map(([l, v]) => `<div class="tile"><div class="label">${l}</div>${v == null ? `<div class="value na">Not yet reported</div>` : `<div class="value">${fmt(v)}</div>`}<div class="foot">${o.as_of_utc ? "as of " + localTime(o.as_of_utc) : ""}</div></div>`).join("");
-    $("#official-note").innerHTML = o.note ? `${esc(o.note)} <span class="muted">Source: <a href="${esc(o.url)}" target="_blank" rel="noopener">${esc(o.source_name)}</a></span>` : "";
-
+    const offFields = [["deaths", "deaths"], ["injured", "injured"], ["missing", "missing"], ["displaced", "displaced"], ["homes_damaged", "homes damaged"], ["homes_destroyed", "homes destroyed"]];
+    const known = offFields.filter(([k]) => o[k] != null);
     const p = s.pager, e = s.exposure;
-    const pop7lo = Math.min(e.pop_mmi7plus, sumArr(p.pop_exposure_pa_by_mmi.slice(6)));
-    const pop7hi = Math.max(e.pop_mmi7plus, sumArr(p.pop_exposure_pa_by_mmi.slice(6)));
     const fatTop = topBin(p.fatality_bins), econTop = topBin(p.economic_bins);
-    $("#model-tiles").innerHTML = [
-      { cls: "alert-" + p.fatality_alert, l: "Fatalities — most likely range", v: binLabel(fatTop, false), f: `USGS PAGER ${p.fatality_alert} alert · ${Math.round(fatTop.probability * 100)}% probability` },
-      { cls: "alert-" + p.economic_alert, l: "Economic losses — most likely", v: "US$" + binLabel(econTop, true), f: `USGS PAGER ${p.economic_alert} alert · median ~US$${(p.losses_usd_empirical / 1e9).toFixed(1)} bn` },
-      { cls: "", l: "People in very strong shaking (MMI VII+)", v: `${fmtK(roundTo(pop7lo, 1000))}–${fmtK(roundTo(pop7hi, 1000))}`, f: "Census 2023-scaled & PAGER estimates" },
-      { cls: "", l: "Buildings with moderate+ damage", v: `${fmtK(roundTo(e.dmg_mod_lo, 1000))}–${fmtK(roundTo(e.dmg_mod_hi, 1000))}`, f: `incl. ${fmtK(roundTo(e.dmg_heavy_lo, 100))}–${fmtK(roundTo(e.dmg_heavy_hi, 100))} heavy damage / collapse · indicative` },
-    ].map(t => `<div class="tile ${t.cls}"><div class="label">${t.l}</div><div class="value">${t.v}</div><div class="foot">${t.f}</div></div>`).join("");
+    const photos = state.reports.filter(r => r.image_url && r.image_verdict === "damage").length;
+    const places = new Set(state.reports.map(r => r.place)).size;
+    const official = known.length
+      ? `<div class="num num-official num-wide"><span class="kind kind-official">Official</span>
+           <div class="off-grid">${known.map(([k, l]) => `<div><div class="nv">${fmt(o[k])}</div><div class="nl">${l}</div></div>`).join("")}</div>
+           <div class="nf">as of ${localTime(o.as_of_utc)} · <a href="${esc(o.url)}" target="_blank" rel="noopener">${esc(o.source_name)}</a></div></div>`
+      : `<div class="num num-official num-wide num-pending"><span class="kind kind-official">Official</span>
+           <div class="nv nv-pending">No official casualty figures yet</div>
+           <div class="nl">Authorities have not published deaths, injured, missing or displaced counts.</div>
+           <div class="nf">Last checked ${localTime(h ? h.updated_utc : o.as_of_utc)}</div></div>`;
+    $("#numbers").innerHTML = official + [
+      { k: "reported", v: fmt(state.reports.length), l: "impact reports compiled", f: `from ${places} places · ${photos} damage photos` },
+      { k: "model", v: binLabel(fatTop, false), l: "deaths most likely (estimate)", f: `USGS PAGER · ${Math.round(fatTop.probability * 100)}% probability` },
+      { k: "model", v: "US$" + binLabel(econTop, true), l: "economic losses most likely", f: `USGS PAGER red alert · up to 9% of GDP` },
+      { k: "model", v: `${fmtK(roundTo(e.dmg_mod_lo, 1000))}–${fmtK(roundTo(e.dmg_mod_hi, 1000))}`, l: "buildings likely damaged", f: `incl. ${fmtK(roundTo(e.dmg_heavy_lo, 100))}–${fmtK(roundTo(e.dmg_heavy_hi, 100))} heavily / collapsed · rapid estimate` },
+    ].map(t => `<div class="num num-${t.k}"><span class="kind kind-${t.k}">${t.k === "model" ? "Estimate" : "Reported"}</span><div class="nv">${t.v}</div><div class="nl">${t.l}</div><div class="nf">${t.f}</div></div>`).join("");
+
+    $("#official-note").innerHTML = o.note ? `<p>${esc(o.note)}</p><p class="muted small">Source: <a href="${esc(o.url)}" target="_blank" rel="noopener">${esc(o.source_name)}</a> · ${localTime(o.as_of_utc)}</p>` : `<p class="muted">No official statement recorded yet.</p>`;
     pagerBars("#pager-fat", p.fatality_bins, false);
     pagerBars("#pager-econ", p.economic_bins, true);
-
     const c = s.conflicts || [];
     $("#conflict-box").innerHTML = c.length ? `<ul>${c.map(x => `<li>${esc(x)}</li>`).join("")}</ul>` : `<p class="muted">No conflicting reports noted.</p>`;
   }
-  const st = state.status || {};
-  const q = state.quakes ? state.quakes.features.filter(f => f.properties.time > T0 + 1000) : [];
-  const big = q.slice().sort((a, b) => b.properties.mag - a.properties.mag)[0];
-  $("#event-facts").innerHTML = `
-    <dt>Magnitude</dt><dd>M${st.mag || 7.7} (USGS) · M7.2 (Instituto de Geociencias, UP)</dd>
-    <dt>Time</dt><dd>9 Oct 2026, 12:56 local · 17:56 UTC <span class="muted">(${sinceEq(Date.now())} ago)</span></dd>
-    <dt>Epicentre</dt><dd>7.59°N 80.77°W · southern Azuero Peninsula, ~12 km WSW of Pitaloza Arriba (Los Santos/Herrera)</dd>
-    <dt>Depth</dt><dd>12.6 km (shallow)</dd>
-    <dt>Max. intensity</dt><dd><span class="mmi-chip" style="background:${mmiColor(8.7)}">VIII–IX</span> modelled (ShakeMap); ${fmt(st.felt || 533)} "Did You Feel It?" reports</dd>
-    <dt>Aftershocks</dt><dd>${q.length} of M2.5+ in USGS catalogue${big ? `, largest M${big.properties.mag.toFixed(1)} (${esc(big.properties.place)})` : ""}. IGC-UP reports 30+ incl. M6.4.</dd>
-    <dt>Alerts</dt><dd>USGS PAGER <b style="color:var(--critical)">red</b> (economic) · GDACS ${esc((st.gdacs && st.gdacs[0] && st.gdacs[0].alert) || "Orange")} · tsunami threat lifted</dd>`;
 
   const withImg = state.reports.filter(r => r.image_url && r.image_verdict !== "event").sort((a, b) => (a.image_verdict === "damage" ? 0 : 1) - (b.image_verdict === "damage" ? 0 : 1));
   $("#thumbs").innerHTML = withImg.slice(0, 9).map(r => `<figure data-img="${esc(r.image_url)}" data-cap="${esc(r.title)}" data-url="${esc(r.url)}"><img loading="lazy" referrerpolicy="no-referrer" src="${esc(r.image_url)}" alt="${esc(r.title)}" onerror="this.closest('figure').remove()"><figcaption>${esc(r.place)}</figcaption></figure>`).join("");
