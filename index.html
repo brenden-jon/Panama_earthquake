@@ -12,7 +12,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@500&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/MarkerCluster.min.css">
-<link rel="stylesheet" href="assets/style.css?v=202610092038">
+<link rel="stylesheet" href="assets/style.css?v=202610092045">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Cpath d='M2 17h6l3-8 5 15 4-11 3 4h7' fill='none' stroke='%23d03b3b' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E">
 </head>
 <body>
@@ -74,15 +74,24 @@
   <div class="tiles" id="official-tiles"></div>
   <p class="note" id="official-note"></p>
 
+  <h2 class="sec">Impact map <span class="tag tag-reported">Live &amp; curated</span></h2>
+  <div class="map-intro">
+    <p><strong>Where the shaking was strongest and where impacts have been reported.</strong> Coloured bands show the modelled shaking intensity from the USGS ShakeMap (MMI scale: VI strong, VII very strong, VIII severe, IX violent). Photo pins are damage photos from news and social media, each checked by eye and placed at town level. Click one to see the image, a summary and its source. Dots are other reported impacts; circles are aftershocks, updated live from USGS (red = last hour). Switch on <em>Indicative damage by district</em> to see the rapid risk estimate.</p>
+    <p class="muted small">Locations are approximate. Few reports from an area can mean an information gap (power and telecom outages) rather than an absence of damage. <a href="#map">Open the map full-screen →</a></p>
+  </div>
+  <div class="map-wrap map-home">
+    <div id="ov-map" aria-label="Impact map: shaking intensity, aftershocks, damage photos and reported impacts"></div>
+    <aside class="map-panel" data-panel="ov"></aside>
+  </div>
+
   <div class="grid-2">
     <div class="card">
       <h3>The earthquake</h3>
       <dl class="facts" id="event-facts"></dl>
-      <div class="conflict" id="conflict-box"></div>
     </div>
-    <div class="card card-map">
-      <div id="mini-map" class="mini-map" aria-label="Overview map of shaking intensity and reported impacts"></div>
-      <div class="map-caption">Shaking intensity (USGS ShakeMap), epicentre ★, aftershocks ○, reported impacts ●. <a href="#map">Open full map →</a></div>
+    <div class="card">
+      <h3>Conflicting information</h3>
+      <div class="conflict" id="conflict-box"></div>
     </div>
   </div>
 
@@ -126,24 +135,7 @@
 <section id="tab-map" class="tab">
   <div class="map-wrap">
     <div id="big-map" aria-label="Interactive map"></div>
-    <aside class="map-panel" id="map-panel">
-      <h3>Layers</h3>
-      <label><input type="checkbox" data-layer="mmi" checked> Shaking intensity (MMI)</label>
-      <label><input type="checkbox" data-layer="quakes" checked> Earthquakes &amp; aftershocks <span class="muted">(live)</span></label>
-      <label><input type="checkbox" data-layer="reports" checked> Reported impacts (no damage photo)</label>
-      <label><input type="checkbox" data-layer="photos" checked> Damage photos <span class="muted">(click to open)</span></label>
-      <label><input type="checkbox" data-layer="damage"> Indicative damage by district</label>
-      <h3>Shaking (MMI)</h3>
-      <div class="mmi-legend" id="mmi-legend"></div>
-      <h3>Reports</h3>
-      <div class="legend-items">
-        <div><span class="dot dot-damage"></span> Damage, casualties</div>
-        <div><span class="dot dot-infra"></span> Infrastructure, services</div>
-        <div><span class="dot dot-other"></span> Response, other</div>
-      </div>
-      <h3>Aftershocks</h3>
-      <div class="muted small" id="quake-count">Loading…</div>
-    </aside>
+    <aside class="map-panel" data-panel="big"></aside>
   </div>
 </section>
 
@@ -260,6 +252,6 @@
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/leaflet.markercluster.min.js"></script>
-<script src="assets/app.js?v=202610092038"></script>
+<script src="assets/app.js?v=202610092045"></script>
 </body>
 </html>

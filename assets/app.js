@@ -72,9 +72,9 @@ function showTab() {
   const tab = valid.includes(id) ? id : "overview";
   document.querySelectorAll(".tab").forEach(s => s.classList.toggle("active", s.id === "tab-" + tab));
   document.querySelectorAll(".tabs a").forEach(a => a.classList.toggle("active", a.dataset.tab === tab));
-  if (tab === "map") initBigMap();
+  if (tab === "map") initFullMap("big", "big-map");
   if (tab === "risk") initRiskMap();
-  if (tab === "overview") initMiniMap();
+  if (tab === "overview") initFullMap("ov", "ov-map");
   setTimeout(() => Object.values(maps).forEach(m => m.invalidateSize()), 50);
   window.scrollTo({ top: 0 });
 }
@@ -147,7 +147,7 @@ function renderOverview() {
     pagerBars("#pager-econ", p.economic_bins, true);
 
     const c = s.conflicts || [];
-    $("#conflict-box").innerHTML = c.length ? `<strong>Conflicting information</strong><ul>${c.slice(0, 5).map(x => `<li>${esc(x)}</li>`).join("")}</ul>` : "";
+    $("#conflict-box").innerHTML = c.length ? `<ul>${c.map(x => `<li>${esc(x)}</li>`).join("")}</ul>` : `<p class="muted">No conflicting reports noted.</p>`;
   }
   const st = state.status || {};
   const q = state.quakes ? state.quakes.features.filter(f => f.properties.time > T0 + 1000) : [];
@@ -299,24 +299,45 @@ function damageLayer(metric = "dmg") {
     },
   });
 }
-function initMiniMap() {
-  if (maps.mini || !window.L) return;
-  const m = maps.mini = L.map("mini-map", { zoomSnap: 0.25, scrollWheelZoom: false, zoomControl: true, dragging: !L.Browser.mobile, tap: false }).fitBounds([[7.15, -81.4], [9.1, -79.4]]);
+const PANEL_HTML = `
+  <h3>Layers</h3>
+  <label><input type="checkbox" data-layer="mmi" checked> Shaking intensity (MMI)</label>
+  <label><input type="checkbox" data-layer="quakes" checked> Earthquakes &amp; aftershocks <span class="muted">(live)</span></label>
+  <label><input type="checkbox" data-layer="photos" checked> Damage photos <span class="muted">(click to open)</span></label>
+  <label><input type="checkbox" data-layer="reports" checked> Other reported impacts</label>
+  <label><input type="checkbox" data-layer="damage"> Indicative damage by district <span class="muted">(model)</span></label>
+  <h3>Shaking (MMI)</h3>
+  <div class="mmi-legend"></div>
+  <h3>Reports</h3>
+  <div class="legend-items">
+    <div><span class="photo-swatch"></span> Verified damage photo</div>
+    <div><span class="dot dot-damage"></span> Damage, casualties</div>
+    <div><span class="dot dot-infra"></span> Infrastructure, services</div>
+    <div><span class="dot dot-other"></span> Response, other</div>
+    <div><span class="epi-swatch">★</span> Epicentre (M7.7)</div>
+  </div>
+  <h3>Aftershocks</h3>
+  <div class="muted small quake-count">Loading…</div>`;
+const FULL_BOUNDS = [[7.15, -81.6], [9.15, -79.3]];
+function initFullMap(key, elId) {
+  if (maps[key] || !window.L) return;
+  const panel = document.querySelector(`.map-panel[data-panel="${key}"]`);
+  panel.innerHTML = PANEL_HTML;
+  const homepage = key === "ov";
+  const m = maps[key] = L.map(elId, {
+    zoomControl: true, zoomSnap: 0.25, tap: false,
+    scrollWheelZoom: !homepage,                 // homepage: don't hijack page scrolling
+    dragging: !(homepage && L.Browser.mobile),  // phones: one-finger scroll stays with the page
+  }).fitBounds(FULL_BOUNDS);
+  m._panel = panel;
   baseLayer(m);
   m._layers_ = {};
-  refreshMapLayers(m, { mmi: true, quakes: true, reports: true, photos: false });
-}
-function initBigMap() {
-  if (maps.big || !window.L) return;
-  const m = maps.big = L.map("big-map", { zoomControl: true, zoomSnap: 0.25 }).fitBounds([[7.15, -81.6], [9.15, -79.3]]);
-  baseLayer(m);
-  m._layers_ = {};
-  refreshMapLayers(m, layerToggles());
-  document.querySelectorAll("#map-panel input[data-layer]").forEach(i => i.addEventListener("change", () => refreshMapLayers(m, layerToggles())));
-  $("#mmi-legend").innerHTML = [4, 5, 6, 7, 8, 9].map(v => `<div style="background:${MMI_COLORS[v]}">${ROMAN[v]}</div>`).join("") +
+  refreshMapLayers(m, layerToggles(m));
+  panel.querySelectorAll("input[data-layer]").forEach(i => i.addEventListener("change", () => refreshMapLayers(m, layerToggles(m))));
+  panel.querySelector(".mmi-legend").innerHTML = [4, 5, 6, 7, 8, 9].map(v => `<div style="background:${MMI_COLORS[v]}">${ROMAN[v]}</div>`).join("") +
     ["Light", "Moderate", "Strong", "V. strong", "Severe", "Violent"].map(t => `<span class="muted" style="font-size:9.5px">${t}</span>`).join("");
 }
-const layerToggles = () => Object.fromEntries([...document.querySelectorAll("#map-panel input[data-layer]")].map(i => [i.dataset.layer, i.checked]));
+const layerToggles = m => Object.fromEntries([...m._panel.querySelectorAll("input[data-layer]")].map(i => [i.dataset.layer, i.checked]));
 function refreshMapLayers(m, on) {
   if (!m.getPane("photoPane")) m.createPane("photoPane").style.zIndex = 640;
   Object.values(m._layers_).forEach(l => m.removeLayer(l));
@@ -328,9 +349,9 @@ function refreshMapLayers(m, on) {
   if (on.reports) m._layers_.reports = dots.addTo(m);
   if (on.photos) m._layers_.photos = photos.addTo(m);
   m._layers_.epi = epicentre().addTo(m);
-  if (m === maps.big) {
+  if (m._panel) {
     const q = state.quakes ? state.quakes.features.filter(f => f.properties.time > T0 + 1000).length : 0;
-    $("#quake-count").innerHTML = `${q} aftershocks M2.5+ (USGS). Red = last hour. ${state.quakesLive ? "Live from USGS, refreshed every 2 min." : "Cached copy."}`;
+    m._panel.querySelector(".quake-count").innerHTML = `${q} aftershocks M2.5+ (USGS). Red = last hour. ${state.quakesLive ? "Live from USGS, refreshed every 2 min." : "Cached copy."}`;
   }
 }
 function initRiskMap() {
@@ -495,8 +516,7 @@ function renderAll() {
   renderRisk();
   renderSources();
   Object.values(maps).forEach(m => {
-    if (m === maps.big) refreshMapLayers(m, layerToggles());
-    else if (m === maps.mini) refreshMapLayers(m, { mmi: true, quakes: true, reports: true, photos: false });
+    if (m._panel) refreshMapLayers(m, layerToggles(m));
     else if (m._redraw) m._redraw();
   });
 }
@@ -552,7 +572,7 @@ async function boot() {
   renderAll();
   renderVuln();
   showTab();
-  setInterval(async () => { await loadQuakes(); renderHeader(); renderOverview(); Object.values(maps).forEach(m => m._layers_ && refreshMapLayers(m, m === maps.big ? layerToggles() : { mmi: true, quakes: true, reports: true, photos: false })); }, QUAKE_REFRESH_MS);
+  setInterval(async () => { await loadQuakes(); renderHeader(); renderOverview(); Object.values(maps).forEach(m => m._panel && refreshMapLayers(m, layerToggles(m))); }, QUAKE_REFRESH_MS);
   setInterval(async () => { await loadData(); renderAll(); }, DATA_REFRESH_MS);
   setInterval(renderHeader, 60000);
 }
