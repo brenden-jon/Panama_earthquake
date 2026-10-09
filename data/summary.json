@@ -1,17 +1,17 @@
 {
- "generated_utc": "2026-10-09T22:45:58Z",
+ "generated_utc": "2026-10-09T22:59:51Z",
  "official_latest": {
-  "as_of_utc": "2026-10-09T21:08:02Z",
+  "as_of_utc": "2026-10-09T22:58:00Z",
   "deaths": 0,
   "injured": null,
-  "missing": null,
+  "missing": 0,
   "displaced": null,
   "homes_damaged": null,
   "homes_destroyed": null,
-  "source_name": "SINAPROC (deputy director Malitzie Rivera / director Omar Smith), as reported by media",
-  "url": "https://www.panamaamerica.com.pa/sociedad/sinaproc-descarta-victimas-fatales-tras-sismo-de-72-y-monitorea-el-nivel-del-mar-en-las",
-  "note": "Sinaproc says no deaths recorded. 'Several' injured were taken to hospitals in the central provinces, but no number was given. As of ~21:30Z no consolidated figures for injured, displaced or damaged homes had been published. Also cited at 16:24 local in El Tiempo's live blog: https://www.eltiempo.com/mundo/latinoamerica/fuerte-terremoto-en-panama-reportan-sismo-de-magnitud-8-0-durante-la-tarde-de-este-viernes-9-de-octubre-hay-alerta-de-tsunami-3592581 . CSS (Social Security) separately reported no injured patients, users or staff in its facilities (La Estrella, existing report u202610092103_4).",
-  "note_es": "El Sinaproc indica que no se han registrado fallecidos. «Varios» heridos fueron trasladados a hospitales de las provincias centrales, pero no se dio una cifra. Hasta ~21:30Z no se habían publicado cifras consolidadas de heridos, desplazados ni viviendas dañadas. También citado a las 16:24 hora local en la cobertura en vivo de El Tiempo: https://www.eltiempo.com/mundo/latinoamerica/fuerte-terremoto-en-panama-reportan-sismo-de-magnitud-8-0-durante-la-tarde-de-este-viernes-9-de-octubre-hay-alerta-de-tsunami-3592581 . Por separado, la CSS (Caja de Seguro Social) informó que no hubo pacientes, usuarios ni funcionarios heridos en sus instalaciones (La Estrella, reporte existente u202610092103_4)."
+  "source_name": "SINAPROC / Ministerio de Gobierno — Comunicado Oficial N° 1",
+  "url": "https://sismopanama.org/data/official/sinaproc_comunicado1_p1.jpg",
+  "note": "Comunicado Oficial N° 1 (9 Oct 2026; time not stated, recorded 17:58 local): no deaths; 'some people injured' without a total (incl. 15 students with minor injuries at Escuela Alberto Zúñiga, Coclé); no missing persons reported; 47+ aftershocks (IGC-UP). Damage to government buildings, roads, churches, hotels, shops and homes in Azuero, Coclé, Panamá, Darién and Chiriquí; water treatment plants damaged nationwide (Chilibre at 20%).",
+  "note_es": "Comunicado Oficial N° 1 (9 oct 2026; sin hora indicada, registrado 17:58 hora local): sin fallecidos; 'algunas personas lesionadas' sin cifra total (incluidos 15 estudiantes con lesiones menores en la Escuela Alberto Zúñiga, Coclé); no se registran personas desaparecidas; más de 47 réplicas (IGC-UP). Afectaciones en edificios gubernamentales, vías, iglesias, hoteles, comercios y viviendas en Azuero, Coclé, Panamá, Darién y Chiriquí; plantas potabilizadoras dañadas a nivel nacional (Chilibre al 20 %)."
  },
  "official_snapshots": [
   {
@@ -39,6 +39,19 @@
    "url": "https://www.panamaamerica.com.pa/sociedad/sinaproc-descarta-victimas-fatales-tras-sismo-de-72-y-monitorea-el-nivel-del-mar-en-las",
    "note": "Sinaproc says no deaths recorded. 'Several' injured were taken to hospitals in the central provinces, but no number was given. As of ~21:30Z no consolidated figures for injured, displaced or damaged homes had been published. Also cited at 16:24 local in El Tiempo's live blog: https://www.eltiempo.com/mundo/latinoamerica/fuerte-terremoto-en-panama-reportan-sismo-de-magnitud-8-0-durante-la-tarde-de-este-viernes-9-de-octubre-hay-alerta-de-tsunami-3592581 . CSS (Social Security) separately reported no injured patients, users or staff in its facilities (La Estrella, existing report u202610092103_4).",
    "note_es": "El Sinaproc indica que no se han registrado fallecidos. «Varios» heridos fueron trasladados a hospitales de las provincias centrales, pero no se dio una cifra. Hasta ~21:30Z no se habían publicado cifras consolidadas de heridos, desplazados ni viviendas dañadas. También citado a las 16:24 hora local en la cobertura en vivo de El Tiempo: https://www.eltiempo.com/mundo/latinoamerica/fuerte-terremoto-en-panama-reportan-sismo-de-magnitud-8-0-durante-la-tarde-de-este-viernes-9-de-octubre-hay-alerta-de-tsunami-3592581 . Por separado, la CSS (Caja de Seguro Social) informó que no hubo pacientes, usuarios ni funcionarios heridos en sus instalaciones (La Estrella, reporte existente u202610092103_4)."
+  },
+  {
+   "as_of_utc": "2026-10-09T22:58:00Z",
+   "deaths": 0,
+   "injured": null,
+   "missing": 0,
+   "displaced": null,
+   "homes_damaged": null,
+   "homes_destroyed": null,
+   "source_name": "SINAPROC / Ministerio de Gobierno — Comunicado Oficial N° 1",
+   "url": "https://sismopanama.org/data/official/sinaproc_comunicado1_p1.jpg",
+   "note": "Comunicado Oficial N° 1 (9 Oct 2026; time not stated, recorded 17:58 local): no deaths; 'some people injured' without a total (incl. 15 students with minor injuries at Escuela Alberto Zúñiga, Coclé); no missing persons reported; 47+ aftershocks (IGC-UP). Damage to government buildings, roads, churches, hotels, shops and homes in Azuero, Coclé, Panamá, Darién and Chiriquí; water treatment plants damaged nationwide (Chilibre at 20%).",
+   "note_es": "Comunicado Oficial N° 1 (9 oct 2026; sin hora indicada, registrado 17:58 hora local): sin fallecidos; 'algunas personas lesionadas' sin cifra total (incluidos 15 estudiantes con lesiones menores en la Escuela Alberto Zúñiga, Coclé); no se registran personas desaparecidas; más de 47 réplicas (IGC-UP). Afectaciones en edificios gubernamentales, vías, iglesias, hoteles, comercios y viviendas en Azuero, Coclé, Panamá, Darién y Chiriquí; plantas potabilizadoras dañadas a nivel nacional (Chilibre al 20 %)."
   }
  ],
  "conflicts": [
@@ -214,39 +227,52 @@
    ]
   }
  },
- "reports_count": 122,
+ "reports_count": 142,
  "reports_with_images": 58,
  "places_with_damage": [
   "Aguadulce",
+  "Aguadulce (municipal market)",
+  "Archipiélago de las Perlas",
   "Atalaya",
   "Calle 50 / Paitilla, Panama City",
   "Cambutal",
+  "Chiriquí province",
   "Chitré",
+  "Chitré (fire stations)",
+  "David (fire station 1)",
   "Eastern Chiriquí",
+  "Escuela Alberto Zúñiga (Coclé)",
+  "La Chorrera (fire stations)",
   "La Villa de Los Santos",
   "La Villa de Los Santos (Iglesia de San Atanasio)",
   "La Villa de Los Santos (Museo de la Nacionalidad)",
   "Las Minas",
   "Los Pozos",
+  "Los Santos province",
   "Los Santos province (fire stations)",
+  "Macaracas (fire station)",
   "Macaracas (university building)",
   "Marbella, Panama City",
   "Natá",
   "Panama (national)",
+  "Panama City (high-rise buildings)",
   "Pedasí",
   "Penonomé",
   "Penonomé (Catedral San Juan Bautista)",
   "Penonomé (Gobernación)",
   "Penonomé (Mercado Público)",
+  "Penonomé (fire station 1)",
   "Penonomé (town centre)",
   "Playa Venao",
   "Playa Venao (Hostal El Sitio)",
   "Santiago",
   "Santiago (Hotel Mykonos)",
+  "Santiago (fire station 1)",
   "Santiago de Veraguas",
   "Soná",
   "Soná (Estación de Bomberos Mayor Alberto Martinelli)",
   "Soná (Martinelli residence)",
+  "Soná (fire station)",
   "Tonosí"
  ]
 }

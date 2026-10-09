@@ -1,13 +1,13 @@
 {
- "updated_utc": "2026-10-09T21:10:00Z",
- "headline": "A shallow M7.7 earthquake struck the Azuero Peninsula at 12:56 local time. Buildings are damaged across four provinces; authorities have not yet released casualty figures.",
+ "updated_utc": "2026-10-09T22:58:00Z",
+ "headline": "A shallow M7.7 earthquake struck the Azuero Peninsula at 12:56 local time. SINAPROC's first official communiqué reports no deaths, no missing persons and some injured, with damage across six provinces.",
  "key_points": [
-  "Worst documented damage: Penonomé (Coclé) — partial hotel collapse, cathedral tower fell, hospital evacuated.",
-  "Near the epicentre (Tonosí, Cambutal, Playa Venao): houses and a hostel collapsed; roads damaged.",
-  "Veraguas: churches and public buildings damaged in Santiago, Atalaya and Soná; road to Torio ruptured.",
-  "\"Several injured\" (SINAPROC), at least 1 confirmed in Penonomé. No deaths confirmed so far.",
-  "Power and phone outages in six provinces; Tocumen airport and Panama City Metro closed. Canal operating.",
-  "Strong aftershocks continue: largest M6.6 at 15:25 local near Coiba; 50+ recorded."
+  "Official (SINAPROC Communiqué No. 1): no deaths, no missing persons; some injured, incl. 15 students with minor injuries in Coclé.",
+  "Worst documented damage: Penonomé (partial hotel collapse, churches, facades) and southern Azuero (homes collapsed in Los Santos).",
+  "Fire stations damaged in six provinces; much of the Soná station collapsed, trapping emergency vehicles.",
+  "Water treatment plants damaged nationwide; Chilibre plant serving Panama City at 20% capacity.",
+  "Damage also reported in Chiriquí, the Pearl Islands and Darién; Tonosí and Pedasí hospitals lightly damaged.",
+  "Strong aftershocks continue: 47+ recorded (IGC-UP), largest M6.6 near Coiba at 15:25 local."
  ],
  "areas": [
   {
@@ -54,6 +54,16 @@
    "area": "Panama City",
    "status": "moderate",
    "text": "Broken windows on Calle 50 and Paitilla; hospitals evacuated as a precaution; Metro lines 1 and 2 suspended; Tocumen airport closed."
+  },
+  {
+   "area": "Macaracas, Los Santos",
+   "status": "reported",
+   "text": "Considerable structural cracks at the Macaracas fire station (Fire Brigade via SINAPROC). Strong modelled shaking; few other reports so far."
+  },
+  {
+   "area": "Chiriquí, Pearl Islands & Darién",
+   "status": "moderate",
+   "text": "Light damage to homes and businesses and to several schools in Chiriquí; cracks at the David fire station; shops and homes affected in the Pearl Islands; minor damage to a school in Darién (SINAPROC)."
   }
  ],
  "services": [
@@ -66,8 +76,8 @@
   {
    "sector": "Water",
    "status": "disrupted",
-   "text": "Chilibre treatment plant (serves most of Panama City & San Miguelito) at 20% capacity.",
-   "source": "IDAAN via media"
+   "text": "Water treatment plants damaged nationwide (IDAAN); Chilibre plant, serving most of Panama City and San Miguelito, at 20% capacity.",
+   "source": "IDAAN via SINAPROC Communiqué No. 1"
   },
   {
    "sector": "Telecoms",
@@ -118,12 +128,12 @@
    "source": "Telemetro live"
   }
  ],
- "upcoming": "Press conference by Minister Dinoska Montalvo and SINAPROC announced by President Mulino (~15:30 local); no figures reported from it yet as of 21:10 UTC. Figures will be added as soon as official numbers are published.",
+ "upcoming": "Further official communiqués from SINAPROC / Ministry of Government expected; figures will be updated as they are published.",
  "unknowns": [
-  "Official numbers of deaths, injured, missing and displaced — press conference by Minister Montalvo and SINAPROC is pending.",
-  "Whether anyone was trapped in the Playa Venao hostel collapse (locals say yes; authorities say the buildings were empty).",
-  "Damage in the hardest-shaken rural areas (Tonosí, Macaracas, Las Minas, Los Pozos) — few reports, likely due to outages.",
-  "How many homes are damaged or destroyed; no field assessment yet.",
+  "Total number of injured — SINAPROC reports 'some people injured' without a national count.",
+  "How many homes are damaged or destroyed; Los Santos reports collapsed homes but no figures yet.",
+  "Damage in the hardest-shaken rural areas (Tonosí, Macaracas, Las Minas, Los Pozos), where reporting is limited.",
+  "Extent of damage to water treatment plants and when supply in Panama City will be restored.",
   "Landslides in the hills of southern Azuero and Veraguas (modelled risk is high)."
  ]
 }

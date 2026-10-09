@@ -564,11 +564,92 @@
   "l9": {
    "title": "Daños en la torre de la iglesia de Atalaya",
    "summary": "La Prensa informó de daños en la torre de la iglesia de Atalaya, Veraguas (sede de la basílica de Jesús Nazareno). También informó de daños estructurales en la catedral de Santiago. No se dieron cifras."
+  },
+  "c1_1": {
+   "title": "Oficial: colapso parcial del Hotel Dos Continentes, sin heridos; fachadas e iglesias afectadas",
+   "summary": "SINAPROC confirma el colapso parcial del Hotel Dos Continentes sin personas heridas reportadas, colapso de fachadas en locales comerciales, afectaciones en iglesias y evacuación preventiva de hospitales en Coclé."
+  },
+  "c1_2": {
+   "title": "Oficial: 15 estudiantes evacuados con lesiones menores en la Escuela Alberto Zúñiga",
+   "summary": "Quince estudiantes de la Escuela Alberto Zúñiga, en Coclé, fueron evacuados con lesiones menores (ubicación de la escuela aproximada)."
+  },
+  "c1_3": {
+   "title": "Oficial: una persona rescatada en el mercado municipal de Aguadulce",
+   "summary": "Una persona fue rescatada en las instalaciones del mercado municipal de Aguadulce."
+  },
+  "c1_4": {
+   "title": "Oficial: afectaciones en la infraestructura vial de Coclé",
+   "summary": "SINAPROC reporta afectaciones en la infraestructura vial de Coclé."
+  },
+  "c1_5": {
+   "title": "Oficial: colapso de residencias y daños en edificios religiosos y gubernamentales en Los Santos",
+   "summary": "SINAPROC reporta colapso de residencias, daños en edificaciones religiosas y gubernamentales y en la infraestructura vial, y daños estructurales en dos cuarteles (Bomberos y Policía Nacional) en la provincia de Los Santos."
+  },
+  "c1_6": {
+   "title": "Oficial: afectaciones menores en el hospital de Tonosí",
+   "summary": "SINAPROC reporta afectaciones menores en el hospital de Tonosí."
+  },
+  "c1_7": {
+   "title": "Oficial: afectaciones menores en el hospital de Pedasí",
+   "summary": "SINAPROC reporta afectaciones menores en el hospital de Pedasí."
+  },
+  "c1_8": {
+   "title": "Oficial: incremento de oleaje en Isla Cañas",
+   "summary": "SINAPROC reporta un incremento del oleaje en Isla Cañas tras el sismo."
+  },
+  "c1_9": {
+   "title": "Oficial: rajaduras considerables en las estaciones de bomberos de Macaracas y La Villa",
+   "summary": "El Cuerpo de Bomberos reporta rajaduras considerables en la estructura de sus estaciones de La Villa de Los Santos y Macaracas."
+  },
+  "c1_10": {
+   "title": "Oficial: se desploma gran parte de la estación de bomberos de Soná",
+   "summary": "El Cuerpo de Bomberos reporta que gran parte de la estación de Soná se desplomó, quedando atrapados los vehículos de emergencia y una zodiac."
+  },
+  "c1_11": {
+   "title": "Oficial: desprendimiento de losa y rajaduras en la estación 1 de bomberos de Santiago",
+   "summary": "El Cuerpo de Bomberos reporta desprendimiento de losa y rajaduras en la estructura de la Estación 1 de Santiago."
+  },
+  "c1_12": {
+   "title": "Oficial: desprendimiento de cielorraso en la estación central de Coclé",
+   "summary": "El Cuerpo de Bomberos reporta afectaciones y desprendimiento de cielorraso en la Estación 1 central de Coclé."
+  },
+  "c1_13": {
+   "title": "Oficial: afectaciones leves en estaciones de bomberos de Herrera",
+   "summary": "El Cuerpo de Bomberos reporta afectaciones leves en Herrera: caída de cielorraso y baldosas levantadas."
+  },
+  "c1_14": {
+   "title": "Oficial: desprendimiento de losa y rajaduras en estaciones de La Chorrera y Veracruz",
+   "summary": "El Cuerpo de Bomberos reporta desprendimiento de losa y rajadura del salón de oficiales en la estación de La Chorrera, y rajadura en la estación de Veracruz."
+  },
+  "c1_15": {
+   "title": "Oficial: rajaduras en la estructura de la estación central de bomberos de David",
+   "summary": "El Cuerpo de Bomberos reporta rajaduras en la estructura de la Estación 1 central de David; las demás estaciones están en evaluación."
+  },
+  "c1_16": {
+   "title": "Oficial: afectaciones en comercios y residencias del Archipiélago de las Perlas",
+   "summary": "SINAPROC reporta afectaciones en comercios y residencias ubicadas en el Archipiélago de las Perlas."
+  },
+  "c1_17": {
+   "title": "Oficial: afectaciones menores en cuatro propiedades horizontales (PH) en Panamá",
+   "summary": "SINAPROC reporta afectaciones menores en la infraestructura de cuatro propiedades horizontales (PH), evacuación preventiva de hospitales y centros de salud, y monitoreo constante del nivel del mar en la provincia de Panamá."
+  },
+  "c1_18": {
+   "title": "Oficial: afectaciones menores en el Centro Educativo de Zapayal, Darién",
+   "summary": "SINAPROC reporta afectaciones menores en la infraestructura del Centro Educativo de Zapayal, en Darién (ubicación aproximada)."
+  },
+  "c1_19": {
+   "title": "Oficial: daños leves en residencias y comercios de Chiriquí; escuelas afectadas",
+   "summary": "SINAPROC reporta daños leves en residencias y algunos establecimientos comerciales de Chiriquí. MEDUCA reporta centros educativos con afectaciones preliminares, entre ellos en David, Barú (Progreso, Paso Canoas), Remedios, Bugaba, Gualaca, Boquerón y San Félix."
+  },
+  "c1_20": {
+   "title": "Oficial: potabilizadoras afectadas a nivel nacional; Chilibre al 20 %",
+   "summary": "El IDAAN reporta daños en la infraestructura de casi todas las plantas potabilizadoras del país; la planta de Chilibre, en la capital, opera al 20 % de su capacidad."
   }
  },
  "official_notes": {
   "2026-10-09T20:00:00Z": "Aún no hay un balance oficial consolidado. El director del Sinaproc, Omar Smith, informó de «varios heridos» (sin cifra) y de daños concentrados en Veraguas, Herrera y Los Santos (Chitré, Venao). Ninguna autoridad ha confirmado fallecidos. Al menos 1 herido en el mercado de Penonomé (El Siglo/Infobae). Sin confirmar los reportes de personas atrapadas en el hostal El Sitio, Playa Venao.",
-  "2026-10-09T21:08:02Z": "El Sinaproc indica que no se han registrado fallecidos. «Varios» heridos fueron trasladados a hospitales de las provincias centrales, pero no se dio una cifra. Hasta ~21:30Z no se habían publicado cifras consolidadas de heridos, desplazados ni viviendas dañadas. También citado a las 16:24 hora local en la cobertura en vivo de El Tiempo: https://www.eltiempo.com/mundo/latinoamerica/fuerte-terremoto-en-panama-reportan-sismo-de-magnitud-8-0-durante-la-tarde-de-este-viernes-9-de-octubre-hay-alerta-de-tsunami-3592581 . Por separado, la CSS (Caja de Seguro Social) informó que no hubo pacientes, usuarios ni funcionarios heridos en sus instalaciones (La Estrella, reporte existente u202610092103_4)."
+  "2026-10-09T21:08:02Z": "El Sinaproc indica que no se han registrado fallecidos. «Varios» heridos fueron trasladados a hospitales de las provincias centrales, pero no se dio una cifra. Hasta ~21:30Z no se habían publicado cifras consolidadas de heridos, desplazados ni viviendas dañadas. También citado a las 16:24 hora local en la cobertura en vivo de El Tiempo: https://www.eltiempo.com/mundo/latinoamerica/fuerte-terremoto-en-panama-reportan-sismo-de-magnitud-8-0-durante-la-tarde-de-este-viernes-9-de-octubre-hay-alerta-de-tsunami-3592581 . Por separado, la CSS (Caja de Seguro Social) informó que no hubo pacientes, usuarios ni funcionarios heridos en sus instalaciones (La Estrella, reporte existente u202610092103_4).",
+  "2026-10-09T22:58:00Z": "Comunicado Oficial N° 1 (9 oct 2026; sin hora indicada, registrado 17:58 hora local): sin fallecidos; 'algunas personas lesionadas' sin cifra total (incluidos 15 estudiantes con lesiones menores en la Escuela Alberto Zúñiga, Coclé); no se registran personas desaparecidas; más de 47 réplicas (IGC-UP). Afectaciones en edificios gubernamentales, vías, iglesias, hoteles, comercios y viviendas en Azuero, Coclé, Panamá, Darién y Chiriquí; plantas potabilizadoras dañadas a nivel nacional (Chilibre al 20 %)."
  },
  "conflicts": [
   "Magnitud: USGS M7,7 (inicialmente 8,0, luego 7,6), profundidad de 12,6 km; IGC-UP M7,2 (inicialmente 7,0), profundidad de 4–10 km, ubicado a 39 km al O/NO de Tonosí; SGC de Colombia, 7,3 y luego 8,0.",

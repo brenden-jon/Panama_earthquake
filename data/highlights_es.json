@@ -1,13 +1,13 @@
 {
- "updated_utc": "2026-10-09T21:10:00Z",
- "headline": "Un sismo superficial de magnitud 7,7 sacudió la península de Azuero a las 12:56 hora local. Hay edificaciones dañadas en cuatro provincias; las autoridades aún no han publicado cifras de víctimas.",
+ "updated_utc": "2026-10-09T22:58:00Z",
+ "headline": "Un sismo superficial de magnitud 7,7 sacudió la península de Azuero a las 12:56 hora local. El primer comunicado oficial de SINAPROC reporta cero fallecidos, ningún desaparecido y algunos lesionados, con daños en seis provincias.",
  "key_points": [
-  "Daños más graves documentados: Penonomé (Coclé) — colapso parcial de un hotel, caída de la torre de la catedral, hospital evacuado.",
-  "Cerca del epicentro (Tonosí, Cambutal, Playa Venao): colapsaron viviendas y un hostal; vías dañadas.",
-  "Veraguas: iglesias y edificios públicos dañados en Santiago, Atalaya y Soná; fracturada la vía a Torio.",
-  "«Varios heridos» (SINAPROC), al menos 1 confirmado en Penonomé. Hasta ahora no se han confirmado fallecidos.",
-  "Cortes de luz y telefonía en seis provincias; cerrados el aeropuerto de Tocumen y el Metro de Panamá. El Canal opera con normalidad.",
-  "Continúan fuertes réplicas: la mayor, de M6,6, a las 15:25 hora local cerca de Coiba; más de 50 registradas."
+  "Oficial (Comunicado N° 1 de SINAPROC): sin fallecidos ni desaparecidos; algunos lesionados, incl. 15 estudiantes con lesiones menores en Coclé.",
+  "Daños más graves documentados: Penonomé (colapso parcial de hotel, iglesias, fachadas) y sur de Azuero (viviendas colapsadas en Los Santos).",
+  "Estaciones de bomberos dañadas en seis provincias; gran parte de la de Soná colapsó, atrapando vehículos de emergencia.",
+  "Plantas potabilizadoras dañadas en todo el país; la planta de Chilibre, que abastece a la capital, opera al 20 %.",
+  "También se reportan daños en Chiriquí, el Archipiélago de las Perlas y Darién; hospitales de Tonosí y Pedasí con afectaciones leves.",
+  "Continúan réplicas fuertes: más de 47 registradas (IGC-UP), la mayor M6,6 cerca de Coiba a las 15:25 hora local."
  ],
  "areas": [
   {
@@ -54,6 +54,16 @@
    "area": "Ciudad de Panamá",
    "status": "moderate",
    "text": "Ventanas rotas en Calle 50 y Paitilla; hospitales evacuados por precaución; suspendidas las Líneas 1 y 2 del Metro; cerrado el aeropuerto de Tocumen."
+  },
+  {
+   "area": "Macaracas, Los Santos",
+   "status": "reported",
+   "text": "Rajaduras considerables en la estructura de la estación de bomberos de Macaracas (Bomberos vía SINAPROC). Intensidad modelada alta; pocos reportes adicionales por ahora."
+  },
+  {
+   "area": "Chiriquí, Archipiélago de las Perlas y Darién",
+   "status": "moderate",
+   "text": "Daños leves en viviendas, comercios y varias escuelas de Chiriquí; rajaduras en la estación de bomberos de David; comercios y viviendas afectados en el Archipiélago de las Perlas; afectaciones menores en una escuela de Darién (SINAPROC)."
   }
  ],
  "services": [
@@ -66,8 +76,8 @@
   {
    "sector": "Agua",
    "status": "disrupted",
-   "text": "La potabilizadora de Chilibre (abastece a la mayor parte de la Ciudad de Panamá y San Miguelito) opera al 20 % de su capacidad.",
-   "source": "IDAAN vía medios"
+   "text": "Plantas potabilizadoras dañadas en todo el país (IDAAN); la planta de Chilibre, que abastece a la mayor parte de la Ciudad de Panamá y San Miguelito, opera al 20 %.",
+   "source": "IDAAN vía Comunicado N° 1 de SINAPROC"
   },
   {
    "sector": "Telecomunicaciones",
@@ -118,12 +128,12 @@
    "source": "Telemetro en vivo"
   }
  ],
- "upcoming": "El presidente Mulino anunció una conferencia de prensa de la ministra Dinoska Montalvo y el SINAPROC (~15:30 hora local); hasta las 21:10 UTC aún no se habían reportado cifras de esa conferencia. Las cifras se añadirán en cuanto se publiquen los datos oficiales.",
+ "upcoming": "Se esperan nuevos comunicados oficiales de SINAPROC / Ministerio de Gobierno; las cifras se actualizarán a medida que se publiquen.",
  "unknowns": [
-  "Cifras oficiales de fallecidos, heridos, desaparecidos y desplazados: está pendiente la conferencia de prensa de la ministra Montalvo y el SINAPROC.",
-  "Si alguien quedó atrapado en el colapso del hostal de Playa Venao (los lugareños dicen que sí; las autoridades, que los edificios estaban vacíos).",
-  "Daños en las zonas rurales con el movimiento más fuerte (Tonosí, Macaracas, Las Minas, Los Pozos): hay pocos reportes, probablemente por los cortes de comunicación.",
-  "Cuántas viviendas resultaron dañadas o destruidas; aún no hay evaluación de campo.",
-  "Deslizamientos en las zonas montañosas del sur de Azuero y Veraguas (el riesgo modelado es alto)."
+  "Número total de lesionados: SINAPROC informa 'algunas personas lesionadas' sin cifra nacional.",
+  "Cuántas viviendas están dañadas o destruidas; Los Santos reporta viviendas colapsadas, aún sin cifras.",
+  "Daños en las zonas rurales con mayor intensidad (Tonosí, Macaracas, Las Minas, Los Pozos), con información limitada.",
+  "Alcance de los daños en las potabilizadoras y cuándo se restablecerá el suministro en la Ciudad de Panamá.",
+  "Deslizamientos en las zonas montañosas del sur de Azuero y Veraguas (riesgo modelado alto)."
  ]
 }
