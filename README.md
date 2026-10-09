@@ -4,7 +4,7 @@
 
 **Preliminary and unofficial.** This is a living situational-awareness page compiled from public internet sources: USGS, news, official statements as quoted in the media, and social media. It is not a formal damage or risk assessment, and it is not a product of the Government of Panama, the World Bank or any other institution. Compiled by Brenden Jongman.
 
-Live site: https://brenden-jon.github.io/Panama_earthquake/
+Live site: https://sismopanama.org (the original https://brenden-jon.github.io/Panama_earthquake/ redirects there)
 
 ## What updates, and how
 
