@@ -1,0 +1,38 @@
+{
+ "_note": "Append a new snapshot each time an authority (SINAPROC, MINSA, Presidencia) publishes figures. null = not reported.",
+ "snapshots": [
+  {
+   "as_of_utc": "2026-10-09T19:30:00Z",
+   "deaths": 0,
+   "injured": null,
+   "missing": null,
+   "displaced": null,
+   "homes_damaged": null,
+   "homes_destroyed": null,
+   "source_name": "Sinaproc (via El Salvador Times / Infobae)",
+   "url": "https://www.elsalvadortimes.com/internacional/registran-terremoto-magnitud-72-panama-que-activo-evacuaciones-preventivas-victimas/20261009123352105028.html",
+   "note": "Early Sinaproc line: event passed 'sin personas afectadas al momento'; no official count of deaths. Superseded by later reports of injuries."
+  },
+  {
+   "as_of_utc": "2026-10-09T20:00:00Z",
+   "deaths": null,
+   "injured": null,
+   "missing": null,
+   "displaced": null,
+   "homes_damaged": null,
+   "homes_destroyed": null,
+   "source_name": "Sinaproc (via Telemetro/La Nación)",
+   "url": "https://www.lanacion.com.ar/el-mundo/las-impactantes-imagenes-y-videos-del-terremoto-que-sacudio-a-panama-nid09102026/",
+   "note": "No consolidated official balance yet. Sinaproc director Omar Smith reported 'several injured' (no figure) and damage concentrated in Veraguas, Herrera and Los Santos (Chitré, Venao). No deaths confirmed by any authority. At least 1 injured in Penonomé market (El Siglo/Infobae). Claims of trapped people at El Sitio hostel, Playa Venao, unconfirmed."
+  }
+ ],
+ "conflicts": [
+  "Magnitude: USGS M7.7 (initially 8.0, then 7.6), depth 12.6 km; IGC-UP M7.2 (initially 7.0), depth 4–10 km, located 39 km W/NW of Tonosí; SGC Colombia 7.3 then 8.0.",
+  "Epicentre province: USGS names Pitaloza Arriba (AP/Reuters say Herrera); local media cite Tonosí, Los Santos.",
+  "Collapsed hotel location: Panamanian media place it in Penonomé (Hotel Dos Continentes); BioBioChile wrongly reported a four-storey hotel in downtown Panama City; es.wikipedia/Infobae also mention a separate partial hotel collapse near Tonosí.",
+  "Some outlets (Vanguardia) wrongly call Penonomé the epicentre zone.",
+  "Strongest aftershock: IGC M6.4 (13:37 local, 21 km N of Tonosí); es.wikipedia M6.2; foreign media 6.1/6.0; USGS lists M5.8 (El Cacao) and M5.5 (Bajo Corral).",
+  "PorEsto claims damage to Puente Centenario; El Tiempo video shows only shaking, no damage reported.",
+  "Several outlets recycled Sinaproc text from the 10 Aug 2026 Colombia quake ('9:31 a.m. no persons affected') — not applicable to this event."
+ ]
+}

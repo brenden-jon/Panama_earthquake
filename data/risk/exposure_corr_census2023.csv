@@ -1,0 +1,700 @@
+LMPR_NOMB,LMDI_NOMB,LMCO_NOMB,COD_PROV,COD_DIST,COD_CORREG,Total_Poblacion,H_AREA_Urbano,H_AREA_Rural,pop23_mmi5,pop23_mmi6,pop23_mmi7,pop23_mmi8,pop23_mmi9,pop23_mmi7plus,mean_mmi,centroid_lat,centroid_lon
+Provincia de Veraguas,Distrito de Santiago,Corregimiento Santiago (Cabecera),09,0910,091001,23236,7100,393,0,0,23236,0,0,23236,6.92,8.0821,-80.974
+Provincia de Herrera,Distrito de Chitré,Corregimiento Monagrillo,06,0601,060103,19419,6384,96,0,0,19419,0,0,19419,6.8,7.9989,-80.4488
+Provincia de Veraguas,Distrito de Santiago,Corregimiento San Martín de Porres,09,0910,091011,16156,4813,0,0,0,16156,0,0,16156,6.84,8.1146,-80.9534
+Provincia de Veraguas,Distrito de Santiago,Corregimiento Canto del Llano,09,0910,091007,13678,2144,1960,0,0,13678,0,0,13678,6.8,8.1754,-80.9548
+Provincia de Herrera,Distrito de Chitré,Corregimiento San Juan Bautista,06,0601,060105,12798,4581,8,0,0,12798,0,0,12798,6.81,7.9675,-80.4134
+Provincia de Veraguas,Distrito de Soná,Corregimiento Soná (Cabecera),09,0911,091101,12242,2156,1233,0,0,12242,0,0,12242,7.31,7.9738,-81.3279
+Provincia de Herrera,Distrito de Chitré,Corregimiento Llano Bonito,06,0601,060104,10938,3773,41,0,12,10926,0,0,10926,6.81,7.9906,-80.4119
+Provincia de Veraguas,Distrito de Santiago,Corregimiento Nuevo Santiago,09,0910,091014,10677,2478,397,0,0,10677,0,0,10677,6.94,8.1002,-80.927
+Provincia de Los Santos,Distrito de Los Santos,Corregimiento La Villa de Los Santos (Cabecera),07,0703,070301,9724,3045,525,0,0,9724,0,0,9724,6.86,7.8973,-80.4547
+Provincia de Veraguas,Distrito de Santiago,Corregimiento Rodrigo Luque,09,0910,091013,9114,1084,1487,0,0,9114,0,0,9114,6.84,8.1438,-80.9917
+Provincia de Herrera,Distrito de Chitré,Corregimiento Chitré (Cabecera),06,0601,060101,9022,3185,44,0,0,9022,0,0,9022,6.82,7.9531,-80.4388
+Provincia de Herrera,Distrito de Chitré,Corregimiento La Arena,06,0601,060102,8780,2747,250,0,0,8780,0,0,8780,6.87,7.9622,-80.4821
+Provincia de Los Santos,Distrito de Las Tablas,Corregimiento Las Tablas (Cabecera),07,0702,070201,8655,3167,13,0,0,8655,0,0,8655,7.2,7.7737,-80.277
+Provincia de Veraguas,Distrito de Santiago,Corregimiento Los Algarrobos,09,0910,091008,8218,1225,1341,0,0,8218,0,0,8218,6.92,8.0905,-81.0507
+Provincia de Veraguas,Distrito de Atalaya,Corregimiento Atalaya (Cabecera),09,0901,090101,7762,2108,322,0,0,7762,0,0,7762,6.98,8.0361,-80.9316
+Provincia de Herrera,Distrito de Ocú,Corregimiento Ocú (Cabecera),06,0604,060401,7756,1324,1199,0,0,7756,0,0,7756,7.14,7.9544,-80.7827
+Provincia de Veraguas,Distrito de Atalaya,Corregimiento San Antonio,09,0901,090105,7115,1030,1141,0,0,7115,0,0,7115,6.95,8.0711,-80.9031
+Provincia de Veraguas,Distrito de Santiago,Corregimiento La Peña,09,0910,091003,5943,1025,786,0,15,5928,0,0,5928,6.81,8.1895,-81.0643
+Provincia de Veraguas,Distrito de Santiago,Corregimiento Carlos Santana Ávila,09,0910,091009,5500,0,1708,0,0,5500,0,0,5500,6.87,8.1009,-80.8384
+Provincia de Los Santos,Distrito de Guararé,Corregimiento Guararé (Cabecera),07,0701,070101,5388,1478,479,0,0,5388,0,0,5388,7.05,7.816,-80.2803
+Provincia de Coclé,Distrito de Aguadulce,Corregimiento El Roble,02,0201,020103,4830,0,1522,0,3,4827,0,0,4827,6.61,8.1535,-80.5698
+Provincia de Herrera,Distrito de Parita,Corregimiento Parita (Cabecera),06,0605,060501,4180,1130,250,0,7,4173,0,0,4173,6.8,8.0193,-80.5111
+Provincia de Veraguas,Distrito de Santiago,Corregimiento Edwin Fábrega,09,0910,091010,4054,0,1222,0,0,4054,0,0,4054,6.94,8.0519,-81.017
+Provincia de Coclé,Distrito de Aguadulce,Corregimiento Pueblos Unidos,02,0201,020106,4055,0,1271,0,139,3916,0,0,3916,6.59,8.1927,-80.6876
+Provincia de Veraguas,Distrito de La Mesa,Corregimiento La Mesa (Cabecera),09,0904,090401,3458,669,386,0,22,3436,0,0,3436,6.69,8.1446,-81.1875
+Provincia de Los Santos,Distrito de Pedasí,Corregimiento Pedasí (Cabecera),07,0705,070501,2980,846,260,0,0,2602,378,0,2980,7.41,7.4986,-80.049
+Provincia de Veraguas,Distrito de Mariato,Corregimiento Llano de Catival o Mariato (Cabecera),09,0912,091201,2884,0,949,0,0,0,1489,1395,2884,8.4,7.6129,-80.9221
+Provincia de Los Santos,Distrito de Macaracas,Corregimiento Macaracas (Cabecera),07,0704,070401,2832,769,252,0,0,164,2668,0,2832,7.57,7.7293,-80.5313
+Provincia de Herrera,Distrito de Pesé,Corregimiento Pesé (Cabecera),06,0606,060601,2771,954,0,0,0,2771,0,0,2771,7.06,7.9153,-80.6133
+Provincia de Los Santos,Distrito de Las Tablas,Corregimiento Las Palmitas,07,0702,070213,2743,338,669,0,0,2743,0,0,2743,7.18,7.7678,-80.3025
+Provincia de Los Santos,Distrito de Los Santos,Corregimiento Llano Largo,07,0703,070309,2689,0,951,0,0,2689,0,0,2689,6.77,7.9098,-80.4238
+Provincia de Veraguas,Distrito de Santiago,Corregimiento La Colorada,09,0910,091002,2652,0,881,0,0,2652,0,0,2652,6.96,7.9922,-80.9891
+Provincia de Veraguas,Distrito de Soná,Corregimiento El Marañón,09,0911,091105,2640,0,811,0,0,2639,1,0,2640,6.99,8.0173,-81.2543
+Provincia de Veraguas,Distrito de Montijo,Corregimiento Montijo (Cabecera),09,0906,090601,2501,646,136,0,0,2501,0,0,2501,7.23,7.9924,-81.0482
+Provincia de Veraguas,Distrito de Río de Jesús,Corregimiento Río de Jesús (Cabecera),09,0907,090701,2482,0,855,0,0,2429,53,0,2482,7.27,7.9967,-81.1651
+Provincia de Los Santos,Distrito de Las Tablas,Corregimiento El Cocal,07,0702,070205,2333,0,881,0,0,2333,0,0,2333,7.18,7.7403,-80.278
+Provincia de Herrera,Distrito de Santa María,Corregimiento Santa María (Cabecera),06,0607,060701,2261,723,2,0,0,2261,0,0,2261,6.8,8.1085,-80.6605
+Provincia de Los Santos,Distrito de Las Tablas,Corregimiento Santo Domingo,07,0702,070221,2232,704,105,0,0,2232,0,0,2232,7.13,7.7473,-80.2138
+Provincia de Herrera,Distrito de Los Pozos,Corregimiento Los Pozos (Cabecera),06,0603,060301,2218,0,810,0,0,2198,20,0,2218,7.33,7.7866,-80.6596
+Provincia de Los Santos,Distrito de Los Santos,Corregimiento El Ejido,07,0703,070315,2186,0,764,0,0,2186,0,0,2186,6.84,7.913,-80.3751
+Provincia de Los Santos,Distrito de Las Tablas,Corregimiento Las Tablas Abajo,07,0702,070214,2170,119,667,0,0,2170,0,0,2170,7.11,7.8077,-80.2478
+Provincia de Los Santos,Distrito de Tonosí,Corregimiento Tonosí (Cabecera),07,0707,070701,2170,541,291,0,0,0,1560,610,2170,8.36,7.3755,-80.4001
+Provincia de Herrera,Distrito de Pesé,Corregimiento Las Cabras,06,0606,060602,2147,0,733,0,0,2147,0,0,2147,7.05,7.8813,-80.5674
+Provincia de Herrera,Distrito de Santa María,Corregimiento Los Canelos,06,0607,060705,2121,0,615,0,0,2121,0,0,2121,6.74,8.1114,-80.7223
+Provincia de Veraguas,Distrito de Santiago,Corregimiento La Raya de Santa María,09,0910,091004,2109,0,663,0,0,2109,0,0,2109,6.67,8.1498,-80.8106
+Provincia de Veraguas,Distrito de Santiago,Corregimiento Urracá,09,0910,091012,2101,0,622,0,0,2101,0,0,2101,6.72,8.155,-80.8983
+Provincia de Herrera,Distrito de Ocú,Corregimiento Los Llanos,06,0604,060403,2069,0,739,0,0,2069,0,0,2069,7.18,7.9273,-80.8719
+Provincia de Los Santos,Distrito de Los Santos,Corregimiento Sabana Grande,07,0703,070310,2051,0,757,0,0,2051,0,0,2051,7.03,7.841,-80.3621
+Provincia de Herrera,Distrito de Ocú,Corregimiento Peña Chatas,06,0604,060405,2033,0,711,0,0,2033,0,0,2033,6.94,8.0331,-80.7911
+Provincia de Herrera,Distrito de Pesé,Corregimiento El Barrero,06,0606,060604,2007,0,687,0,0,2007,0,0,2007,6.9,7.9321,-80.5461
+Provincia de Veraguas,Distrito de Soná,Corregimiento Hicaco,09,0911,091111,2007,0,618,0,0,0,2007,0,2007,7.9,7.6705,-81.2424
+Provincia de Herrera,Distrito de Las Minas,Corregimiento Las Minas (Cabecera),06,0602,060201,1988,0,709,0,0,906,1082,0,1988,7.46,7.7913,-80.7315
+Provincia de Veraguas,Distrito de Santiago,Corregimiento San Pedro del Espino,09,0910,091006,1974,0,622,0,0,1974,0,0,1974,6.9,8.1366,-81.078
+Provincia de Los Santos,Distrito de Los Santos,Corregimiento Santa Ana,07,0703,070311,2004,0,726,0,109,1895,0,0,1895,6.85,7.9553,-80.3624
+Provincia de Los Santos,Distrito de Las Tablas,Corregimiento La Tiza,07,0702,070212,1843,73,619,0,0,1843,0,0,1843,7.2,7.7524,-80.2931
+Provincia de Los Santos,Distrito de Macaracas,Corregimiento Llano de Piedras,07,0704,070410,1804,0,668,0,0,67,1737,0,1804,7.78,7.636,-80.5502
+Provincia de Los Santos,Distrito de Los Santos,Corregimiento La Espigadilla,07,0703,070304,1782,0,671,0,0,1782,0,0,1782,6.79,7.881,-80.3974
+Provincia de Herrera,Distrito de Santa María,Corregimiento El Rincón,06,0607,060703,1750,0,588,0,0,1750,0,0,1750,6.81,8.116,-80.5993
+Provincia de Veraguas,Distrito de Soná,Corregimiento Rodeo Viejo,09,0911,091110,1749,0,553,0,11,1738,0,0,1738,6.79,8.0908,-81.3182
+Provincia de Veraguas,Distrito de Montijo,Corregimiento Costa Hermosa,09,0906,090607,1721,0,507,0,0,1624,97,0,1721,7.45,7.9369,-81.0592
+Provincia de Los Santos,Distrito de Guararé,Corregimiento La Enea,07,0701,070105,1688,566,56,0,0,1688,0,0,1688,6.97,7.8414,-80.2705
+Provincia de Herrera,Distrito de Pesé,Corregimiento Sabana Grande,06,0606,060607,1617,0,565,0,0,1617,0,0,1617,7.09,7.8672,-80.6565
+Provincia de Veraguas,Distrito de Soná,Corregimiento La Trinchera,09,0911,091112,1524,0,472,0,0,260,1264,0,1524,7.83,7.7824,-81.3133
+Provincia de Herrera,Distrito de Pesé,Corregimiento El Pedregoso,06,0606,060605,1500,0,539,0,0,1500,0,0,1500,7.03,7.9301,-80.6393
+Provincia de Veraguas,Distrito de La Mesa,Corregimiento Los Milagros,09,0904,090406,1500,0,458,0,0,1500,0,0,1500,6.78,8.1592,-81.1124
+Provincia de Los Santos,Distrito de Las Tablas,Corregimiento El Manantial,07,0702,070206,1497,0,542,0,0,1497,0,0,1497,7.08,7.7881,-80.2243
+Provincia de Veraguas,Distrito de Soná,Corregimiento La Soledad,09,0911,091107,1496,0,472,0,0,536,960,0,1496,7.56,7.8954,-81.2936
+Provincia de Los Santos,Distrito de Los Santos,Corregimiento Los Olivos,07,0703,070308,1484,0,545,0,0,1484,0,0,1484,7.03,7.9118,-80.4984
+Provincia de Herrera,Distrito de Ocú,Corregimiento Menchaca,06,0604,060407,1479,0,534,0,0,1479,0,0,1479,7.17,7.8862,-80.7665
+Provincia de Veraguas,Distrito de Santiago,Corregimiento Ponuga,09,0910,091005,1477,0,555,0,0,1336,141,0,1477,7.25,7.8979,-80.9916
+Provincia de Veraguas,Distrito de La Mesa,Corregimiento Bisvalles,09,0904,090402,2169,0,670,0,694,1475,0,0,1475,6.53,8.2135,-81.223
+Provincia de Los Santos,Distrito de Los Santos,Corregimiento Las Cruces,07,0703,070305,1463,0,523,0,0,1463,0,0,1463,7.02,7.8048,-80.4398
+Provincia de Veraguas,Distrito de Soná,Corregimiento Guarumal,09,0911,091106,1456,0,531,0,0,5,1451,0,1456,8.07,7.8232,-81.2249
+Provincia de Veraguas,Distrito de Santiago,Corregimiento Santiago Este,09,0910,091015,1449,0,463,0,0,1449,0,0,1449,6.75,8.1596,-80.7397
+Provincia de Veraguas,Distrito de Soná,Corregimiento Río Grande,09,0911,091109,1416,0,435,0,0,173,1243,0,1416,7.78,7.7117,-81.3446
+Provincia de Herrera,Distrito de Pesé,Corregimiento Rincón Hondo,06,0606,060608,1363,0,476,0,0,1363,0,0,1363,7.18,7.8388,-80.6135
+Provincia de Herrera,Distrito de Santa María,Corregimiento Chupampa,06,0607,060702,1334,0,459,0,0,1334,0,0,1334,6.78,8.0819,-80.7805
+Provincia de Los Santos,Distrito de Las Tablas,Corregimiento El Carate,07,0702,070204,1308,0,471,0,0,1308,0,0,1308,7.15,7.7299,-80.3083
+Provincia de Los Santos,Distrito de Tonosí,Corregimiento El Bebedero,07,0707,070704,1297,0,511,0,0,3,1015,279,1297,8.25,7.4238,-80.4966
+Provincia de Herrera,Distrito de Las Minas,Corregimiento Chepo,06,0602,060202,1289,0,437,0,0,35,1254,0,1289,7.88,7.6671,-80.8187
+Provincia de Veraguas,Distrito de Soná,Corregimiento Calidonia,09,0911,091103,1286,0,384,0,0,1274,12,0,1286,7.12,7.9117,-81.4369
+Provincia de Los Santos,Distrito de Guararé,Corregimiento El Espinal,07,0701,070102,1277,0,500,0,0,1277,0,0,1277,6.94,7.8507,-80.3178
+Provincia de Veraguas,Distrito de Santiago,Corregimiento Santiago Sur,09,0910,091016,1267,0,421,0,0,293,974,0,1267,7.76,7.7998,-81.0064
+Provincia de Veraguas,Distrito de Las Palmas,Corregimiento Puerto Vidal,09,0905,090509,1869,0,490,0,603,1266,0,0,1266,6.62,8.0301,-81.5965
+Provincia de Los Santos,Distrito de Los Santos,Corregimiento Agua Buena,07,0703,070313,1260,0,460,0,0,1260,0,0,1260,6.95,7.8205,-80.3996
+Provincia de Herrera,Distrito de Santa María,Corregimiento El Limón,06,0607,060704,1258,0,444,0,0,1258,0,0,1258,6.84,8.0633,-80.7488
+Provincia de Los Santos,Distrito de Guararé,Corregimiento La Pasera,07,0701,070106,1245,0,432,0,0,1245,0,0,1245,7.08,7.8063,-80.3114
+Provincia de Los Santos,Distrito de Los Santos,Corregimiento Villa Lourdes,07,0703,070314,1203,0,460,0,0,1203,0,0,1203,7.15,7.8097,-80.4693
+Provincia de Veraguas,Distrito de San Francisco,Corregimiento San Francisco (Cabecera),09,0908,090801,2567,576,193,0,1364,1203,0,0,1203,6.5,8.2417,-80.9747
+Provincia de Veraguas,Distrito de Mariato,Corregimiento Quebro,09,0912,091204,1195,0,448,0,0,345,850,0,1195,7.64,7.484,-80.8258
+Provincia de Herrera,Distrito de Parita,Corregimiento París,06,0605,060505,1176,0,412,0,19,1157,0,0,1157,6.68,8.0728,-80.5547
+Provincia de Veraguas,Distrito de La Mesa,Corregimiento Boró,09,0904,090403,1565,0,557,0,415,1150,0,0,1150,6.58,8.1667,-81.3071
+Provincia de Herrera,Distrito de Parita,Corregimiento Cabuya,06,0605,060502,1136,0,396,0,0,1136,0,0,1136,6.81,8.0272,-80.6507
+Provincia de Los Santos,Distrito de Las Tablas,Corregimiento La Palma,07,0702,070211,1122,0,459,0,0,1122,0,0,1122,7.2,7.7017,-80.1925
+Provincia de Herrera,Distrito de Ocú,Corregimiento Llano Grande,06,0604,060404,1106,0,429,0,0,1106,0,0,1106,6.93,7.9791,-80.6977
+Provincia de Veraguas,Distrito de Atalaya,Corregimiento El Barrito,09,0901,090102,1063,0,345,0,0,1063,0,0,1063,7.02,7.9817,-80.9416
+Provincia de Herrera,Distrito de Parita,Corregimiento Potuga,06,0605,060507,1060,0,399,0,5,1055,0,0,1055,6.67,8.0694,-80.6569
+Provincia de Los Santos,Distrito de Las Tablas,Corregimiento Sesteadero,07,0702,070222,1053,0,385,0,0,1053,0,0,1053,7.11,7.7463,-80.2559
+Provincia de Los Santos,Distrito de Las Tablas,Corregimiento Peña Blanca,07,0702,070217,1043,0,371,0,0,1043,0,0,1043,7.2,7.7152,-80.2749
+Provincia de Veraguas,Distrito de Las Palmas,Corregimiento El María,09,0905,090504,1040,0,333,0,4,1036,0,0,1036,6.86,7.9991,-81.4588
+Provincia de Veraguas,Distrito de Soná,Corregimiento Quebrada de Oro,09,0911,091108,1035,0,291,0,0,1035,0,0,1035,6.94,8.0343,-81.3704
+Provincia de Los Santos,Distrito de Los Santos,Corregimiento La Colorada,07,0703,070303,1018,0,380,0,0,1018,0,0,1018,7.3,7.8325,-80.5581
+Provincia de Veraguas,Distrito de Las Palmas,Corregimiento Zapotillo,09,0905,090512,992,0,311,0,8,984,0,0,984,6.87,7.968,-81.5361
+Provincia de Los Santos,Distrito de Pocrí,Corregimiento Pocrí (Cabecera),07,0706,070601,983,0,407,0,0,983,0,0,983,7.17,7.6488,-80.1145
+Provincia de Los Santos,Distrito de Tonosí,Corregimiento El Cacao,07,0707,070705,970,0,364,0,0,0,204,766,970,8.53,7.4488,-80.4049
+Provincia de Herrera,Distrito de Parita,Corregimiento Portobelillo,06,0605,060506,961,0,332,0,0,961,0,0,961,6.74,8.0102,-80.5842
+Provincia de Veraguas,Distrito de Calobre,Corregimiento Las Guías,09,0902,090210,1694,0,570,0,734,960,0,0,960,6.49,8.2389,-80.7578
+Provincia de Los Santos,Distrito de Los Santos,Corregimiento Los Ángeles,07,0703,070307,943,0,372,0,0,943,0,0,943,6.96,7.889,-80.345
+Provincia de Herrera,Distrito de Los Pozos,Corregimiento Los Cerritos,06,0603,060307,940,0,361,0,0,940,0,0,940,7.14,7.794,-80.6154
+Provincia de Veraguas,Distrito de Atalaya,Corregimiento La Montañuela,09,0901,090103,881,0,312,0,0,881,0,0,881,6.84,8.0247,-80.8686
+Provincia de Veraguas,Distrito de Montijo,Corregimiento Pilón,09,0906,090605,874,0,303,0,0,859,15,0,874,7.35,7.9624,-81.0929
+Provincia de Los Santos,Distrito de Los Santos,Corregimiento Tres Quebradas,07,0703,070312,864,0,311,0,0,864,0,0,864,6.94,7.8512,-80.4085
+Provincia de Veraguas,Distrito de Río de Jesús,Corregimiento Las Huacas,09,0907,090702,850,0,292,0,0,476,374,0,850,7.53,7.8885,-81.1546
+Provincia de Veraguas,Distrito de Montijo,Corregimiento Unión del Norte,09,0906,090608,832,0,288,0,0,832,0,0,832,7.09,8.0234,-81.0778
+Provincia de Los Santos,Distrito de Tonosí,Corregimiento Guánico,07,0707,070708,827,0,377,0,0,250,577,0,827,7.63,7.3378,-80.4991
+Provincia de Herrera,Distrito de Pesé,Corregimiento El Pájaro,06,0606,060603,827,0,326,0,0,827,0,0,827,6.98,7.9516,-80.5821
+Provincia de Herrera,Distrito de Parita,Corregimiento Los Castillos,06,0605,060503,823,0,288,0,0,823,0,0,823,6.9,7.9848,-80.6152
+Provincia de Veraguas,Distrito de Las Palmas,Corregimiento Lolá,09,0905,090507,915,0,271,0,128,787,0,0,787,6.59,8.0901,-81.4905
+Provincia de Veraguas,Distrito de La Mesa,Corregimiento Llano Grande,09,0904,090404,782,0,279,0,0,782,0,0,782,7.03,8.0902,-81.1417
+Provincia de Herrera,Distrito de Pesé,Corregimiento El Ciruelo,06,0606,060606,777,0,280,0,0,777,0,0,777,7.1,7.896,-80.6944
+Provincia de Herrera,Distrito de Los Pozos,Corregimiento Los Cerros de Paja,06,0603,060308,771,0,291,0,0,139,632,0,771,7.66,7.71,-80.6911
+Provincia de Veraguas,Distrito de La Mesa,Corregimiento San Bartolo,09,0904,090405,1099,0,373,0,332,767,0,0,767,6.55,8.2231,-81.2833
+Provincia de Veraguas,Distrito de Las Palmas,Corregimiento Corozal,09,0905,090503,882,0,273,0,128,754,0,0,754,6.66,8.0762,-81.4177
+Provincia de Herrera,Distrito de Las Minas,Corregimiento Quebrada El Ciprián,06,0602,060207,751,0,272,0,0,0,751,0,751,7.88,7.6845,-80.7568
+Provincia de Coclé,Distrito de Aguadulce,Corregimiento Barrios Unidos,02,0201,020105,9991,2999,148,0,9247,744,0,0,744,6.45,8.2071,-80.5216
+Provincia de Los Santos,Distrito de Los Santos,Corregimiento Las Guabas,07,0703,070306,728,0,308,0,0,728,0,0,728,7.15,7.8209,-80.4961
+Provincia de Veraguas,Distrito de Soná,Corregimiento Cativé,09,0911,091104,725,0,217,0,0,724,1,0,725,7.31,7.8532,-81.4027
+Provincia de Los Santos,Distrito de Pocrí,Corregimiento Paritilla,07,0706,070605,723,0,320,0,0,695,28,0,723,7.45,7.5965,-80.1808
+Provincia de Los Santos,Distrito de Pedasí,Corregimiento Los Asientos,07,0705,070502,714,0,317,0,0,32,682,0,714,7.59,7.4956,-80.1217
+Provincia de Veraguas,Distrito de Las Palmas,Corregimiento El Rincón,09,0905,090506,2635,0,730,0,1925,710,0,0,710,6.42,8.2212,-81.4139
+Provincia de Veraguas,Distrito de Río de Jesús,Corregimiento Catorce de Noviembre,09,0907,090705,708,0,264,0,0,657,51,0,708,7.3,7.9307,-81.1109
+Provincia de Los Santos,Distrito de Tonosí,Corregimiento Cañas,07,0707,070703,703,0,291,0,0,0,693,10,703,8.14,7.4635,-80.2865
+Provincia de Veraguas,Distrito de La Mesa,Corregimiento El Higo,09,0904,090407,1665,0,486,0,978,687,0,0,687,6.45,8.2213,-81.3473
+Provincia de Los Santos,Distrito de Macaracas,Corregimiento Bahía Honda,07,0704,070402,686,0,261,0,0,686,0,0,686,7.32,7.7141,-80.4474
+Provincia de Veraguas,Distrito de Atalaya,Corregimiento La Carrillo,09,0901,090104,686,0,253,0,0,686,0,0,686,7.0,7.9865,-80.8982
+Provincia de Herrera,Distrito de Las Minas,Corregimiento Quebrada del Rosario,06,0602,060206,682,0,266,0,0,408,274,0,682,7.48,7.7316,-80.7311
+Provincia de Los Santos,Distrito de Macaracas,Corregimiento La Mesa,07,0704,070408,673,0,254,0,0,0,673,0,673,8.0,7.6373,-80.6197
+Provincia de Herrera,Distrito de Las Minas,Corregimiento Chumical,06,0602,060203,673,0,254,0,0,673,0,0,673,7.19,7.8371,-80.7375
+Provincia de Veraguas,Distrito de Las Palmas,Corregimiento Pixvae,09,0905,090508,673,0,205,0,0,673,0,0,673,6.97,7.8819,-81.5799
+Provincia de Veraguas,Distrito de Soná,Corregimiento Bahía Honda,09,0911,091102,668,0,190,0,0,668,0,0,668,7.24,7.7676,-81.5051
+Provincia de Los Santos,Distrito de Las Tablas,Corregimiento San José,07,0702,070219,656,0,261,0,0,656,0,0,656,7.27,7.68,-80.2413
+Provincia de Veraguas,Distrito de Mariato,Corregimiento Tebario,09,0912,091205,642,0,239,0,0,0,489,153,642,8.37,7.7168,-80.9725
+Provincia de Herrera,Distrito de Las Minas,Corregimiento Leones,06,0602,060205,640,0,235,0,0,523,117,0,640,7.4,7.7787,-80.8044
+Provincia de Veraguas,Distrito de Mariato,Corregimiento Arenas,09,0912,091202,640,0,228,0,0,326,314,0,640,7.46,7.3699,-80.7732
+Provincia de Los Santos,Distrito de Macaracas,Corregimiento Corozal,07,0704,070404,637,0,238,0,0,637,0,0,637,7.27,7.7469,-80.4763
+Provincia de Los Santos,Distrito de Los Santos,Corregimiento El Guásimo,07,0703,070302,629,0,245,0,0,629,0,0,629,7.12,7.8319,-80.5254
+Provincia de Herrera,Distrito de Ocú,Corregimiento Entradero del Castillo,06,0604,060408,624,0,247,0,0,624,0,0,624,7.22,7.8454,-80.8671
+Provincia de Herrera,Distrito de Las Minas,Corregimiento El Toro,06,0602,060204,619,0,233,0,0,189,430,0,619,7.59,7.7526,-80.8891
+Provincia de Chiriquí,Distrito de Remedios,Corregimiento El Puerto,04,0409,040904,799,0,221,0,185,614,0,0,614,6.51,8.1994,-81.784
+Provincia de Herrera,Distrito de Ocú,Corregimiento Cerro Largo,06,0604,060402,609,0,230,0,0,603,6,0,609,7.23,7.8308,-80.8196
+Provincia de Los Santos,Distrito de Las Tablas,Corregimiento Bayano,07,0702,070203,608,0,248,0,0,426,182,0,608,7.45,7.5969,-80.4233
+Provincia de Los Santos,Distrito de Las Tablas,Corregimiento La Laja,07,0702,070209,605,0,241,0,0,605,0,0,605,7.12,7.7318,-80.2564
+Provincia de Los Santos,Distrito de Pocrí,Corregimiento Paraíso,07,0706,070604,589,0,236,0,0,589,0,0,589,7.2,7.7013,-80.1532
+Provincia de Los Santos,Distrito de Tonosí,Corregimiento Cambutal,07,0707,070710,575,0,224,0,0,575,0,0,575,7.08,7.2905,-80.5642
+Provincia de Los Santos,Distrito de Guararé,Corregimiento Llano Abajo,07,0701,070108,574,0,227,0,0,574,0,0,574,7.02,7.7667,-80.4162
+Provincia de Los Santos,Distrito de Macaracas,Corregimiento Chupá,07,0704,070405,571,0,214,0,0,557,14,0,571,7.33,7.7845,-80.5689
+Provincia de Herrera,Distrito de Los Pozos,Corregimiento El Calabacito,06,0603,060303,568,0,210,0,0,291,277,0,568,7.51,7.7124,-80.5959
+Provincia de Coclé,Distrito de Aguadulce,Corregimiento El Cristo,02,0201,020102,3085,0,966,0,2531,554,0,0,554,6.42,8.2563,-80.6277
+Provincia de Los Santos,Distrito de Tonosí,Corregimiento El Cortezo,07,0707,070706,544,0,229,0,0,27,517,0,544,8.0,7.4372,-80.6603
+Provincia de Los Santos,Distrito de Tonosí,Corregimiento Flores,07,0707,070707,538,0,215,0,0,0,434,104,538,8.29,7.513,-80.4361
+Provincia de Herrera,Distrito de Los Pozos,Corregimiento Las Llanas,06,0603,060309,534,0,204,0,0,0,533,1,534,8.02,7.6325,-80.7331
+Provincia de Herrera,Distrito de Los Pozos,Corregimiento La Arena,06,0603,060305,521,0,176,0,0,510,11,0,521,7.36,7.7488,-80.5928
+Provincia de Los Santos,Distrito de Guararé,Corregimiento Las Trancas,07,0701,070107,515,0,205,0,0,515,0,0,515,7.18,7.7336,-80.3858
+Provincia de Veraguas,Distrito de San Francisco,Corregimiento Corral Falso,09,0908,090802,515,0,186,0,0,515,0,0,515,6.67,8.2155,-80.8842
+Provincia de Veraguas,Distrito de Río de Jesús,Corregimiento Los Castillos,09,0907,090703,509,0,199,0,0,509,0,0,509,7.09,8.0294,-81.1139
+Provincia de Los Santos,Distrito de Macaracas,Corregimiento El Cedro,07,0704,070406,502,0,191,0,0,499,3,0,502,7.26,7.776,-80.5296
+Provincia de Los Santos,Distrito de Pedasí,Corregimiento Purio,07,0705,070504,498,0,208,0,0,498,0,0,498,7.33,7.5958,-80.0877
+Provincia de Los Santos,Distrito de Tonosí,Corregimiento Altos de Güera,07,0707,070702,498,0,198,0,0,0,390,108,498,8.39,7.5228,-80.6088
+Provincia de Veraguas,Distrito de Las Palmas,Corregimiento Manuel E. Amador Terrero,09,0905,090513,848,0,245,0,360,488,0,0,488,6.55,8.1609,-81.4234
+Provincia de Herrera,Distrito de Los Pozos,Corregimiento La Pitaloza,06,0603,060306,482,0,192,0,0,0,480,2,482,8.03,7.6012,-80.701
+Provincia de Coclé,Distrito de Aguadulce,Corregimiento Aguadulce (Cabecera),02,0201,020101,9576,3096,75,0,9096,480,0,0,480,6.44,8.2286,-80.5559
+Provincia de Los Santos,Distrito de Tonosí,Corregimiento La Tronosa,07,0707,070709,476,0,199,0,0,2,474,0,476,8.27,7.4543,-80.5718
+Provincia de Los Santos,Distrito de Macaracas,Corregimiento Bajos de Güera,07,0704,070403,471,0,177,0,0,0,374,97,471,8.3,7.5706,-80.625
+Provincia de Herrera,Distrito de Los Pozos,Corregimiento El Capurí,06,0603,060302,471,0,173,0,0,305,166,0,471,7.48,7.7279,-80.6502
+Provincia de Los Santos,Distrito de Las Tablas,Corregimiento Bajo Corral,07,0702,070202,465,0,197,0,0,370,95,0,465,7.43,7.5853,-80.2608
+Provincia de Los Santos,Distrito de Pocrí,Corregimiento Lajamina,07,0706,070603,459,0,202,0,0,458,1,0,459,7.4,7.5806,-80.1396
+Provincia de Herrera,Distrito de Ocú,Corregimiento El Tijera,06,0604,060406,440,0,166,0,0,324,116,0,440,7.33,7.8373,-80.9251
+Provincia de Herrera,Distrito de Los Pozos,Corregimiento El Cedro,06,0603,060304,423,0,162,0,0,0,423,0,423,7.78,7.6854,-80.6492
+Provincia de Los Santos,Distrito de Guararé,Corregimiento Perales,07,0701,070110,419,0,168,0,0,419,0,0,419,7.09,7.775,-80.3361
+Provincia de Los Santos,Distrito de Las Tablas,Corregimiento El Muñóz,07,0702,070207,400,0,147,0,0,400,0,0,400,7.22,7.6714,-80.3208
+Provincia de Veraguas,Distrito de Mariato,Corregimiento El Cacao,09,0912,091203,430,0,166,0,31,399,1,0,399,6.94,7.2745,-80.7835
+Provincia de Los Santos,Distrito de Macaracas,Corregimiento Las Palmas,07,0704,070409,395,0,167,0,0,280,115,0,395,7.41,7.676,-80.5038
+Provincia de Los Santos,Distrito de Guararé,Corregimiento Guararé Arriba,07,0701,070104,379,0,154,0,0,379,0,0,379,7.0,7.8,-80.3539
+Provincia de Los Santos,Distrito de Pedasí,Corregimiento Oria Arriba,07,0705,070505,377,0,196,0,0,3,374,0,377,7.69,7.4757,-80.1887
+Provincia de Los Santos,Distrito de Pedasí,Corregimiento Mariabé,07,0705,070503,373,0,133,0,0,373,0,0,373,7.26,7.5846,-80.058
+Provincia de Los Santos,Distrito de Guararé,Corregimiento El Hato,07,0701,070109,369,0,136,0,0,369,0,0,369,6.96,7.778,-80.3812
+Provincia de Los Santos,Distrito de Tonosí,Corregimiento Isla de Cañas,07,0707,070711,361,0,134,0,0,0,341,20,361,8.24,7.4166,-80.3282
+Provincia de Herrera,Distrito de Parita,Corregimiento Llano de La Cruz,06,0605,060504,359,0,139,0,0,359,0,0,359,6.97,7.963,-80.6326
+Provincia de Veraguas,Distrito de Calobre,Corregimiento La Raya de Calobre,09,0902,090207,498,0,173,0,145,353,0,0,353,6.53,8.2251,-80.8117
+Provincia de Veraguas,Distrito de Las Palmas,Corregimiento Las Palmas (Cabecera),09,0905,090501,2388,0,721,0,2036,352,0,0,352,6.45,8.1342,-81.4575
+Provincia de Los Santos,Distrito de Las Tablas,Corregimiento Valle Rico,07,0702,070223,324,0,131,0,0,100,224,0,324,7.57,7.6073,-80.3617
+Provincia de Chiriquí,Distrito de Tolé,Corregimiento Quebrada de Piedra,04,0413,041308,1041,0,286,0,741,300,0,0,300,6.39,8.0799,-81.6763
+Provincia de Los Santos,Distrito de Las Tablas,Corregimiento El Pedregoso,07,0702,070208,288,0,118,0,0,288,0,0,288,7.34,7.7058,-80.3238
+Provincia de Veraguas,Distrito de Montijo,Corregimiento Cébaco,09,0906,090606,285,0,102,0,0,96,189,0,285,7.58,7.5385,-81.1419
+Provincia de Veraguas,Distrito de Río de Jesús,Corregimiento Utira,09,0907,090704,273,0,104,0,0,257,16,0,273,7.24,7.9711,-81.216
+Provincia de Los Santos,Distrito de Pocrí,Corregimiento El Cañafístulo,07,0706,070602,271,0,117,0,0,177,94,0,271,7.42,7.6134,-80.2104
+Provincia de Los Santos,Distrito de Guararé,Corregimiento El Macano,07,0701,070103,253,0,102,0,0,253,0,0,253,7.19,7.6822,-80.4092
+Provincia de Veraguas,Distrito de San Francisco,Corregimiento Remance,09,0908,090804,1452,0,424,0,1202,250,0,0,250,6.3,8.2823,-81.0773
+Provincia de Los Santos,Distrito de Las Tablas,Corregimiento La Miel,07,0702,070210,243,0,99,0,0,31,212,0,243,7.63,7.5627,-80.3314
+Provincia de Los Santos,Distrito de Las Tablas,Corregimiento Vallerriquito,07,0702,070224,243,0,113,0,0,214,29,0,243,7.4,7.627,-80.3078
+Provincia de Los Santos,Distrito de Macaracas,Corregimiento Espino Amarillo,07,0704,070407,211,0,76,0,0,211,0,0,211,7.25,7.6838,-80.4628
+Provincia de Veraguas,Distrito de Las Palmas,Corregimiento Cerro de Casa,09,0905,090502,2198,0,537,0,1993,205,0,0,205,6.27,8.1192,-81.5732
+Provincia de Veraguas,Distrito de Montijo,Corregimiento La Garceana,09,0906,090603,192,0,93,0,0,192,0,0,192,7.33,7.9239,-81.0341
+Provincia de Los Santos,Distrito de Macaracas,Corregimiento Mogollón,07,0704,070411,183,0,87,0,0,60,123,0,183,7.7,7.6166,-80.4797
+Provincia de Los Santos,Distrito de Las Tablas,Corregimiento Río Hondo,07,0702,070218,182,0,71,0,0,182,0,0,182,7.26,7.7137,-80.3542
+Provincia de Los Santos,Distrito de Las Tablas,Corregimiento Nuario,07,0702,070215,173,0,75,0,0,0,173,0,173,7.87,7.5193,-80.2999
+Provincia de Veraguas,Distrito de Montijo,Corregimiento Leones,09,0906,090604,153,0,61,0,0,0,153,0,153,8.14,7.7607,-81.1124
+Provincia de Veraguas,Distrito de Montijo,Corregimiento Gobernadora,09,0906,090602,226,0,74,0,74,152,0,0,152,6.99,7.4652,-81.7506
+Provincia de Chiriquí,Distrito de Remedios,Corregimiento Remedios (Cabecera),04,0409,040901,844,0,267,0,696,148,0,0,148,6.46,8.1805,-81.8117
+Provincia de Veraguas,Distrito de Calobre,Corregimiento La Tetilla,09,0902,090208,426,0,140,0,283,143,0,0,143,6.4,8.2561,-80.8754
+Provincia de Los Santos,Distrito de Las Tablas,Corregimiento Palmira,07,0702,070216,140,0,50,0,0,140,0,0,140,7.22,7.6823,-80.3514
+Provincia de Coclé,Distrito de Natá,Corregimiento Natá (Cabecera),02,0204,020401,6317,1770,206,0,6185,132,0,0,132,6.4,8.3144,-80.4801
+Provincia de Los Santos,Distrito de Las Tablas,Corregimiento San Miguel,07,0702,070220,114,0,53,0,0,114,0,0,114,7.19,7.6468,-80.2771
+Provincia de Chiriquí,Distrito de San Lorenzo,Corregimiento San Juan,04,0412,041204,1672,0,489,0,1579,93,0,0,93,6.33,8.2702,-82.0034
+Provincia de Chiriquí,Distrito de San Félix,Corregimiento Las Lajas,04,0411,041101,1521,0,509,0,1436,85,0,0,85,6.39,8.2077,-81.8644
+Provincia de Chiriquí,Distrito de Tolé,Corregimiento Lajas de Tolé,04,0413,041306,725,0,216,0,651,74,0,0,74,6.27,8.1559,-81.6724
+Provincia de Chiriquí,Distrito de Remedios,Corregimiento Santa Lucía,04,0409,040905,584,0,150,0,510,74,0,0,74,6.37,8.2519,-81.8
+Provincia de Veraguas,Distrito de Cañazas,Corregimiento San Marcelo,09,0903,090306,1380,0,448,0,1316,64,0,0,64,6.29,8.2765,-81.1556
+Comarca Ngäbe Buglé,Distrito de Ñürün,Corregimiento Cerro Pelado,12,1205,120504,3278,0,682,0,3220,58,0,0,58,6.24,8.1643,-81.5361
+Provincia de Coclé,Distrito de Antón,Corregimiento Antón (Cabecera),02,0202,020201,10711,2174,1062,0,10661,50,0,0,50,6.37,8.382,-80.2781
+Provincia de Coclé,Distrito de Antón,Corregimiento El Chirú,02,0202,020203,3889,57,1154,0,3843,46,0,0,46,6.28,8.3667,-80.219
+Provincia de Coclé,Distrito de Aguadulce,Corregimiento Virgen del Carmen,02,0201,020107,7890,1907,400,0,7866,24,0,0,24,6.4,8.2567,-80.5781
+Provincia de Veraguas,Distrito de Cañazas,Corregimiento Cerro de Plata,09,0903,090302,1625,0,462,0,1606,19,0,0,19,6.26,8.2858,-81.3549
+Provincia de Coclé,Distrito de Natá,Corregimiento Capellanía,02,0204,020402,2967,0,914,0,2954,13,0,0,13,6.39,8.296,-80.55
+Provincia de Chiriquí,Distrito de San Félix,Corregimiento Lajas Adentro,04,0411,041103,868,0,265,0,856,12,0,0,12,6.37,8.2213,-81.904
+Provincia de Veraguas,Distrito de Cañazas,Corregimiento Cañazas (Cabecera),09,0903,090301,5367,961,500,0,5359,8,0,0,8,6.23,8.3168,-81.2227
+Provincia de Chiriquí,Distrito de Tolé,Corregimiento Bella Vista,04,0413,041302,759,0,232,0,751,8,0,0,8,6.15,8.1935,-81.6098
+Provincia de Veraguas,Distrito de San Francisco,Corregimiento Los Hatillos,09,0908,090803,1178,0,393,22,1149,7,0,0,7,5.96,8.336,-80.966
+Provincia de Coclé,Distrito de Antón,Corregimiento Juan Díaz,02,0202,020206,3516,0,1034,0,3510,6,0,0,6,6.26,8.4044,-80.3126
+Provincia de Veraguas,Distrito de Calobre,Corregimiento Calobre (Cabecera),09,0902,090201,2877,0,902,0,2872,5,0,0,5,6.31,8.2984,-80.8239
+Provincia de Coclé,Distrito de Aguadulce,Corregimiento El Hato de San Juan de Dios,02,0201,020108,1384,0,415,0,1381,3,0,0,3,6.25,8.2757,-80.6786
+Provincia de Chiriquí,Distrito de Tolé,Corregimiento Tolé (Cabecera),04,0413,041301,3372,899,116,0,3369,3,0,0,3,6.13,8.2195,-81.7065
+Provincia de Chiriquí,Distrito de San Félix,Corregimiento Santa Cruz,04,0411,041105,526,0,166,0,524,2,0,0,2,6.41,8.242,-81.922
+Provincia de Veraguas,Distrito de Cañazas,Corregimiento Las Cruces,09,0903,090308,1312,0,332,0,1310,2,0,0,2,6.13,8.3411,-81.3099
+Provincia de Panamá Oeste,Distrito de La Chorrera,Corregimiento La Represa,13,1307,130712,936,0,322,641,295,0,0,0,0,5.43,9.0235,-79.8172
+Provincia de Panamá Oeste,Distrito de La Chorrera,Corregimiento Obaldía,13,1307,130715,767,0,261,29,738,0,0,0,0,5.62,8.8843,-79.9611
+Provincia de Panamá Oeste,Distrito de La Chorrera,Corregimiento Los Díaz,13,1307,130713,1750,0,574,565,1185,0,0,0,0,5.55,8.8458,-79.9224
+Provincia de Panamá Oeste,Distrito de La Chorrera,Corregimiento Mendoza,13,1307,130714,1517,0,502,1189,328,0,0,0,0,5.39,9.0474,-79.8522
+Provincia de Veraguas,Distrito de Calobre,Corregimiento Barnizal,09,0902,090202,370,0,126,63,307,0,0,0,0,5.8,8.4073,-80.7678
+Provincia de Panamá Oeste,Distrito de La Chorrera,Corregimiento Hurtado,13,1307,130710,1599,0,553,87,1512,0,0,0,0,5.67,8.91,-79.8911
+Provincia de Panamá Oeste,Distrito de La Chorrera,Corregimiento Iturralde,13,1307,130711,1516,0,470,325,1191,0,0,0,0,5.57,9.0125,-79.9354
+Provincia de Panamá Oeste,Distrito de San Carlos,Corregimiento Guayabito,13,1309,130904,605,0,193,0,605,0,0,0,0,5.84,8.5458,-80.0002
+Provincia de Panamá Oeste,Distrito de La Chorrera,Corregimiento Playa Leona,13,1307,130716,36116,10809,352,9079,27037,0,0,0,0,5.55,8.8228,-79.7892
+Provincia de Panamá Oeste,Distrito de San Carlos,Corregimiento San José,13,1309,130909,3299,0,1097,0,3299,0,0,0,0,5.85,8.5331,-79.9423
+Provincia de Panamá Oeste,Distrito de San Carlos,Corregimiento San Carlos (Cabecera),13,1309,130901,3980,436,934,1,3979,0,0,0,0,5.79,8.4926,-79.9628
+Provincia de Panamá Oeste,Distrito de San Carlos,Corregimiento Los Llanitos,13,1309,130908,3791,0,1075,0,3791,0,0,0,0,5.98,8.5732,-80.0792
+Provincia de Panamá Oeste,Distrito de San Carlos,Corregimiento Las Uvas,13,1309,130907,1942,0,627,0,1942,0,0,0,0,6.02,8.4679,-79.9943
+Provincia de Panamá Oeste,Distrito de La Chorrera,Corregimiento Santa Rita,13,1307,130718,2445,0,827,63,2382,0,0,0,0,5.6,8.876,-79.902
+Provincia de Panamá Oeste,Distrito de San Carlos,Corregimiento La Laguna,13,1309,130906,1359,46,423,465,894,0,0,0,0,5.54,8.6076,-80.0434
+Provincia de Panamá Oeste,Distrito de San Carlos,Corregimiento El Espino,13,1309,130902,2032,0,643,0,2032,0,0,0,0,5.91,8.5102,-80.0239
+Provincia de Panamá Oeste,Distrito de San Carlos,Corregimiento El Higo,13,1309,130903,3373,0,1040,0,3373,0,0,0,0,6.02,8.4666,-80.0399
+Provincia de Veraguas,Distrito de Calobre,Corregimiento Chitra,09,0902,090203,1277,0,459,806,471,0,0,0,0,5.46,8.5185,-80.8978
+Provincia de Panamá Oeste,Distrito de San Carlos,Corregimiento La Ermita,13,1309,130905,1820,0,543,0,1820,0,0,0,0,6.04,8.4737,-80.0719
+Provincia de Panamá Oeste,Distrito de La Chorrera,Corregimiento Puerto Caimito,13,1307,130717,46923,14331,331,33819,13104,0,0,0,0,5.43,8.874,-79.7376
+Provincia de Panamá Oeste,Distrito de Arraiján,Corregimiento Nuevo Emperador,13,1301,130103,10414,2753,464,9556,858,0,0,0,0,5.37,9.0415,-79.7143
+Provincia de Veraguas,Distrito de Calobre,Corregimiento El Cocla,09,0902,090204,549,0,207,0,549,0,0,0,0,6.07,8.3316,-80.9019
+Provincia de Coclé,Distrito de Penonomé,Corregimiento Victoriano Lorenzo,0,0,020616,2038,0,478,0,2038,0,0,0,0,5.92,8.5768,-80.2848
+Provincia de Veraguas,Distrito de Santa Fe,Corregimiento Río Luis,09,0909,090907,3001,0,628,538,2463,0,0,0,0,5.64,8.65,-81.1492
+Provincia de Veraguas,Distrito de Santa Fe,Corregimiento Rubén Cantú,09,0909,090908,1025,0,341,714,311,0,0,0,0,5.42,8.4515,-80.9782
+Provincia de Veraguas,Distrito de Santa Fe,Corregimiento Santa Fe (Cabecera),09,0909,090901,2866,0,931,849,2017,0,0,0,0,5.58,8.4957,-81.0854
+Provincia de Coclé,Distrito de Penonomé,Corregimiento San Miguel,02,0206,020609,7440,0,2078,1116,6324,0,0,0,0,5.65,8.7909,-80.2847
+Provincia de Coclé,Distrito de Penonomé,Corregimiento Pajonal,02,0206,020606,7678,0,1965,0,7678,0,0,0,0,5.98,8.6097,-80.2195
+Provincia de Bocas del Toro,Distrito de Almirante,Corregimiento Barrio Francés,01,0104,010402,2192,678,6,2192,0,0,0,0,0,5.2,9.302,-82.3721
+Provincia de Panamá,Distrito de Panamá,Corregimiento El Chorrillo,08,0808,080802,16335,6122,0,16335,0,0,0,0,0,5.01,8.9495,-79.5442
+Provincia de Coclé,Distrito de Penonomé,Corregimiento Toabré,0,0,020614,2662,0,739,213,2449,0,0,0,0,5.81,8.6859,-80.2887
+Provincia de Veraguas,Distrito de Calobre,Corregimiento El Potrero,09,0902,090205,591,0,215,56,535,0,0,0,0,5.89,8.3852,-80.8081
+Provincia de Coclé,Distrito de Penonomé,Corregimiento Reicito,0,0,020613,8496,0,2411,1944,6552,0,0,0,0,5.57,8.8903,-80.2858
+Provincia de Coclé,Distrito de Penonomé,Corregimiento Tucue,0,0,020615,1315,0,283,551,764,0,0,0,0,5.54,8.7832,-80.3413
+Provincia de Coclé,Distrito de Penonomé,Corregimiento Las Minas,0,0,020612,3615,0,766,1577,2038,0,0,0,0,5.54,8.6181,-80.3798
+Provincia de Coclé,Distrito de Penonomé,Corregimiento Candelario Ovalle,0,0,020611,2090,0,519,342,1748,0,0,0,0,5.62,8.7481,-80.1809
+Provincia de Bocas del Toro,Distrito de Bocas del Toro,Corregimiento Bocas del Toro,01,0101,010101,6708,1589,448,6701,0,0,0,0,0,4.89,9.3635,-82.175
+Provincia de Bocas del Toro,Distrito de Bocas del Toro,Corregimiento Bocas del Drago,01,0101,010106,2518,393,376,2518,0,0,0,0,0,5.04,9.3919,-82.2896
+Provincia de Panamá Oeste,Distrito de Arraiján,Corregimiento Vacamonte,0,0,130109,46597,13597,0,14103,32494,0,0,0,0,5.56,8.8932,-79.6939
+Provincia de Veraguas,Distrito de Santa Fe,Corregimiento Gatú o Gatuncito,09,0909,090906,1451,0,351,1358,93,0,0,0,0,5.3,8.544,-80.9592
+Provincia de Veraguas,Distrito de Santa Fe,Corregimiento El Pantano,09,0909,090905,658,0,252,370,288,0,0,0,0,5.48,8.5738,-81.0724
+Provincia de Veraguas,Distrito de Santa Fe,Corregimiento El Cuay,09,0909,090904,1287,0,416,176,1111,0,0,0,0,5.76,8.4431,-81.1098
+Provincia de Veraguas,Distrito de Santa Fe,Corregimiento El Alto,09,0909,090903,1362,0,449,571,791,0,0,0,0,5.5,8.5459,-81.0283
+Provincia de Veraguas,Distrito de Calobre,Corregimiento La Laguna,09,0902,090206,708,0,260,0,708,0,0,0,0,6.27,8.3343,-80.7507
+Provincia de Veraguas,Distrito de Calobre,Corregimiento La Yeguada,09,0902,090209,1414,0,422,297,1117,0,0,0,0,5.69,8.4527,-80.8653
+Provincia de Veraguas,Distrito de Calobre,Corregimiento Monjarás,09,0902,090211,594,0,223,1,593,0,0,0,0,5.9,8.3816,-80.8571
+Provincia de Veraguas,Distrito de Calobre,Corregimiento San José,09,0902,090212,668,0,197,431,237,0,0,0,0,5.44,8.4595,-80.7922
+Provincia de Veraguas,Distrito de Cañazas,Corregimiento El Aromillo,09,0903,090307,1098,0,324,0,1098,0,0,0,0,5.95,8.3568,-81.1505
+Provincia de Veraguas,Distrito de Cañazas,Corregimiento El Picador,09,0903,090303,2974,0,688,223,2751,0,0,0,0,5.82,8.4187,-81.2908
+Provincia de Veraguas,Distrito de Cañazas,Corregimiento Los Valles,09,0903,090304,1240,0,354,1,1239,0,0,0,0,5.95,8.4269,-81.2073
+Provincia de Panamá Oeste,Distrito de La Chorrera,Corregimiento Guadalupe,13,1307,130708,38724,12242,319,15441,23283,0,0,0,0,5.53,8.8554,-79.8274
+Provincia de Veraguas,Distrito de Cañazas,Corregimiento San José,09,0903,090305,1937,0,509,123,1814,0,0,0,0,5.95,8.371,-81.422
+Provincia de Veraguas,Distrito de Las Palmas,Corregimiento El Prado,09,0905,090505,1256,0,355,0,1256,0,0,0,0,6.3,8.2261,-81.4881
+Provincia de Veraguas,Distrito de Las Palmas,Corregimiento San Martín de Porres,09,0905,090510,1266,0,282,0,1266,0,0,0,0,6.3,8.1989,-81.5366
+Provincia de Veraguas,Distrito de Las Palmas,Corregimiento Viguí,09,0905,090511,1109,0,281,0,1109,0,0,0,0,6.12,8.3377,-81.5003
+Provincia de Veraguas,Distrito de San Francisco,Corregimiento San José,09,0908,090806,2734,0,764,0,2734,0,0,0,0,6.01,8.3622,-81.0587
+Provincia de Veraguas,Distrito de San Francisco,Corregimiento San Juan,09,0908,090805,1661,0,508,0,1661,0,0,0,0,6.14,8.2974,-81.0342
+Provincia de Veraguas,Distrito de Santa Fe,Corregimiento Calovébora,09,0909,090902,6373,0,1035,1916,4457,0,0,0,0,5.53,8.7149,-80.9356
+Provincia de Panamá Oeste,Distrito de La Chorrera,Corregimiento Herrera,13,1307,130709,23424,6306,916,8239,15185,0,0,0,0,5.53,8.946,-79.841
+Provincia de Panamá Oeste,Distrito de Chame,Corregimiento Nueva Gorgona,13,1304,130408,4945,1673,50,203,4742,0,0,0,0,5.79,8.5583,-79.8786
+Provincia de Panamá Oeste,Distrito de La Chorrera,Corregimiento Feuillet,13,1307,130707,4094,1242,125,37,4057,0,0,0,0,5.63,8.838,-79.869
+Provincia de Panamá,Distrito de Panamá,Corregimiento Chilibre,08,0808,080815,49582,14755,503,49582,0,0,0,0,0,4.95,9.1493,-79.6027
+Provincia de Panamá,Distrito de Panamá,Corregimiento Parque Lefevre,08,0808,080810,42832,16047,0,42832,0,0,0,0,0,4.85,9.0139,-79.4856
+Provincia de Panamá,Distrito de Panamá,Corregimiento Pacora,08,0808,080817,70283,19563,1209,68429,0,0,0,0,0,4.97,9.1507,-79.3292
+Provincia de Panamá,Distrito de Panamá,Corregimiento Las Mañanitas,08,0808,080820,45241,12937,463,44101,0,0,0,0,0,4.75,9.1073,-79.4179
+Provincia de Panamá,Distrito de Panamá,Corregimiento Las Garzas,08,0808,080825,56980,12735,637,56970,0,0,0,0,0,4.98,9.0704,-79.2188
+Provincia de Panamá,Distrito de Panamá,Corregimiento Las Cumbres,08,0808,080816,39923,11573,224,34612,0,0,0,0,0,4.71,9.0897,-79.554
+Provincia de Panamá,Distrito de Panamá,Corregimiento Juan Díaz,08,0808,080812,56583,18721,0,56577,0,0,0,0,0,4.99,9.0325,-79.452
+Provincia de Panamá,Distrito de Panamá,Corregimiento Ernesto Córdoba Campos,08,0808,080823,71613,20746,6,71497,0,0,0,0,0,4.82,9.1005,-79.4928
+Provincia de Panamá,Distrito de Panamá,Corregimiento Don Bosco,08,0808,080826,49906,16069,0,49902,0,0,0,0,0,5.02,9.036,-79.4183
+Provincia de Panamá,Distrito de Panamá,Corregimiento Curundú,08,0808,080805,15458,5027,0,15458,0,0,0,0,0,4.94,8.979,-79.5393
+Provincia de Panamá,Distrito de Panamá,Corregimiento Calidonia o La Exposición,08,0808,080804,17300,7177,0,17300,0,0,0,0,0,4.93,8.9684,-79.5357
+Provincia de Panamá Oeste,Distrito de La Chorrera,Corregimiento El Coco,13,1307,130706,22807,7210,140,8834,13973,0,0,0,0,5.54,8.8834,-79.8239
+Provincia de Panamá,Distrito de Panamá,Corregimiento Caimitillo,08,0808,080824,34097,7621,2532,32046,0,0,0,0,0,4.91,9.3235,-79.4458
+Provincia de Panamá Oeste,Distrito de Arraiján,Corregimiento Veracruz,13,1301,130105,24486,6639,225,24387,0,0,0,0,0,4.89,8.9177,-79.6034
+Provincia de Panamá Oeste,Distrito de Capira,Corregimiento Caimito,13,1303,130302,2084,0,680,868,1216,0,0,0,0,5.49,8.8098,-79.9639
+Provincia de Panamá Oeste,Distrito de Capira,Corregimiento Campana,13,1303,130303,2268,0,692,2032,236,0,0,0,0,5.25,8.6927,-79.8712
+Provincia de Panamá Oeste,Distrito de Capira,Corregimiento Capira (Cabecera),13,1303,130301,5819,1158,702,1444,4375,0,0,0,0,5.61,8.7659,-79.8438
+Provincia de Panamá,Distrito de Panamá,Corregimiento Betania,08,0808,080806,42199,16021,0,42199,0,0,0,0,0,4.64,9.012,-79.5276
+Provincia de Panamá Oeste,Distrito de Capira,Corregimiento Cermeño,13,1303,130304,2274,0,715,2226,48,0,0,0,0,5.28,8.7251,-79.7979
+Provincia de Panamá,Distrito de Panamá,Corregimiento Bella Vista,08,0808,080807,33710,14455,0,33710,0,0,0,0,0,4.8,8.9846,-79.5254
+Provincia de Panamá,Distrito de Panamá,Corregimiento Ancón,08,0808,080814,37224,9076,2490,37145,0,0,0,0,0,4.92,9.0661,-79.6088
+Provincia de Panamá,Distrito de Panamá,Corregimiento Pedregal,08,0808,080813,57682,18084,66,54160,0,0,0,0,0,4.87,9.0965,-79.4378
+Provincia de Panamá,Distrito de Panamá,Corregimiento Pueblo Nuevo,08,0808,080808,24167,9482,0,24167,0,0,0,0,0,4.7,9.0114,-79.5138
+Provincia de Panamá,Distrito de Panamá,Corregimiento Río Abajo,08,0808,080811,28045,10422,0,28045,0,0,0,0,0,4.72,9.0239,-79.4936
+Provincia de Panamá,Distrito de Panamá,Corregimiento San Felipe,08,0808,080801,1258,549,0,1258,0,0,0,0,0,4.81,8.9526,-79.5355
+Provincia de Panamá Oeste,Distrito de Arraiján,Corregimiento Cerro Silvestre,13,1301,130108,31567,8399,1316,31567,0,0,0,0,0,5.23,8.9337,-79.6804
+Provincia de Panamá Oeste,Distrito de Arraiján,Corregimiento Burunga,13,1301,130107,51167,13636,1845,51167,0,0,0,0,0,5.22,8.9948,-79.6648
+Provincia de Panamá Oeste,Distrito de Arraiján,Corregimiento Arraiján (Cabecera),13,1301,130101,44327,12252,343,44327,0,0,0,0,0,5.11,8.9638,-79.6237
+Provincia de Panamá,Distrito de Taboga,Corregimiento Taboga (Cabecera),08,0811,081101,734,0,250,734,0,0,0,0,0,4.82,8.7914,-79.5489
+Provincia de Panamá,Distrito de Taboga,Corregimiento Otoque Oriente,08,0811,081103,188,0,59,188,0,0,0,0,0,5.17,8.5881,-79.5939
+Provincia de Panamá,Distrito de Taboga,Corregimiento Otoque Occidente,08,0811,081102,167,0,44,167,0,0,0,0,0,5.32,8.6016,-79.6056
+Provincia de Panamá,Distrito de San Miguelito,Corregimiento Victoriano Lorenzo,08,0810,081005,15181,5217,0,15181,0,0,0,0,0,4.69,9.0314,-79.5059
+Provincia de Panamá,Distrito de San Miguelito,Corregimiento Rufina Alfaro,08,0810,081009,41265,13031,0,41265,0,0,0,0,0,4.82,9.0697,-79.4577
+Provincia de Panamá,Distrito de San Miguelito,Corregimiento Omar Torrijos,08,0810,081008,32403,10617,0,32403,0,0,0,0,0,4.77,9.0597,-79.5215
+Provincia de Panamá,Distrito de San Miguelito,Corregimiento Mateo Iturralde,08,0810,081004,9638,3234,0,9638,0,0,0,0,0,4.7,9.0337,-79.4961
+Provincia de Panamá,Distrito de San Miguelito,Corregimiento José Domingo Espinar,08,0810,081003,44448,14219,0,44448,0,0,0,0,0,4.71,9.0489,-79.4781
+Provincia de Panamá Oeste,Distrito de Arraiján,Corregimiento Santa Clara,13,1301,130104,2630,0,832,2630,0,0,0,0,0,5.25,9.0758,-79.7621
+Provincia de Panamá,Distrito de San Miguelito,Corregimiento Belisario Porras,08,0810,081002,44129,13679,0,44129,0,0,0,0,0,4.7,9.0538,-79.499
+Provincia de Panamá,Distrito de San Miguelito,Corregimiento Belisario Frías,08,0810,081007,33072,9850,0,33072,0,0,0,0,0,4.88,9.0768,-79.4908
+Provincia de Panamá,Distrito de San Miguelito,Corregimiento Arnulfo Arias,08,0810,081006,31433,8761,0,31433,0,0,0,0,0,4.83,9.0654,-79.4821
+Provincia de Panamá,Distrito de Panamá,Corregimiento Tocumen,08,0808,080819,89361,27697,9,87116,0,0,0,0,0,4.83,9.1016,-79.3998
+Provincia de Panamá,Distrito de Panamá,Corregimiento Santa Ana,08,0808,080803,13495,5243,0,13495,0,0,0,0,0,5.01,8.9567,-79.5408
+Provincia de Panamá,Distrito de Panamá,Corregimiento San Martín,08,0808,080818,5485,0,1782,4262,0,0,0,0,0,4.65,9.2172,-79.2529
+Provincia de Panamá,Distrito de Panamá,Corregimiento San Francisco,08,0808,080809,61290,23584,0,60677,0,0,0,0,0,4.74,8.9908,-79.5079
+Provincia de Panamá,Distrito de Panamá,Corregimiento Alcalde Díaz,08,0808,080822,46976,14320,139,46930,0,0,0,0,0,4.94,9.1324,-79.5108
+Provincia de Panamá,Distrito de Panamá,Corregimiento 24 de Diciembre,08,0808,080821,79965,23176,931,70339,0,0,0,0,0,4.77,9.1427,-79.382
+Provincia de Panamá,Distrito de Chimán,Corregimiento Unión Santeña,08,0806,080605,849,0,254,633,0,0,0,0,0,4.65,8.8403,-78.6838
+Provincia de Panamá Oeste,Distrito de Capira,Corregimiento Las Ollas Arriba,13,1303,130309,1550,0,500,721,829,0,0,0,0,5.46,8.7977,-79.9056
+Provincia de Panamá Oeste,Distrito de Capira,Corregimiento Santa Rosa,13,1303,130313,2166,0,540,982,1184,0,0,0,0,5.51,8.8598,-80.1119
+Provincia de Panamá Oeste,Distrito de Capira,Corregimiento Villa Carmen,13,1303,130311,1697,0,536,10,1687,0,0,0,0,5.61,8.8042,-79.8689
+Provincia de Panamá Oeste,Distrito de Capira,Corregimiento Villa Rosario,13,1303,130312,5920,1264,605,454,5466,0,0,0,0,5.77,8.7918,-79.8628
+Provincia de Panamá Oeste,Distrito de Chame,Corregimiento Bejuco,13,1304,130402,6242,1377,642,175,6067,0,0,0,0,5.85,8.6241,-79.8885
+Provincia de Panamá Oeste,Distrito de Chame,Corregimiento Buenos Aires,13,1304,130403,2288,0,738,1753,535,0,0,0,0,5.41,8.6405,-79.9505
+Provincia de Panamá Oeste,Distrito de Chame,Corregimiento Cabuya,13,1304,130404,2078,14,673,2,2076,0,0,0,0,5.79,8.5803,-79.9558
+Provincia de Panamá Oeste,Distrito de Chame,Corregimiento Chame (Cabecera),13,1304,130401,2544,816,48,32,2512,0,0,0,0,5.89,8.5836,-79.85
+Provincia de Panamá Oeste,Distrito de Chame,Corregimiento Chicá,13,1304,130405,882,0,297,882,0,0,0,0,0,5.03,8.6729,-79.9427
+Provincia de Panamá Oeste,Distrito de Chame,Corregimiento El Líbano,13,1304,130406,299,0,111,280,19,0,0,0,0,5.3,8.6085,-79.8099
+Provincia de Panamá Oeste,Distrito de Chame,Corregimiento Las Lajas,13,1304,130407,3893,1279,71,264,3629,0,0,0,0,5.8,8.5436,-79.9126
+Provincia de Panamá Oeste,Distrito de Arraiján,Corregimiento Juan Demóstenes Arosemena,13,1301,130102,66474,20911,26,61580,4894,0,0,0,0,5.34,8.9404,-79.7322
+Provincia de Panamá Oeste,Distrito de Chame,Corregimiento Punta Chame,13,1304,130409,477,0,193,271,206,0,0,0,0,5.47,8.6055,-79.7586
+Provincia de Panamá Oeste,Distrito de Chame,Corregimiento Sajalices,13,1304,130410,3004,0,881,2331,673,0,0,0,0,5.41,8.6698,-79.8757
+Provincia de Panamá Oeste,Distrito de Chame,Corregimiento Sorá,13,1304,130411,1883,78,571,1753,130,0,0,0,0,5.38,8.6547,-80.0101
+Provincia de Panamá Oeste,Distrito de La Chorrera,Corregimiento Amador,13,1307,130703,3337,0,1080,1760,1577,0,0,0,0,5.46,9.1142,-79.8907
+Provincia de Panamá Oeste,Distrito de La Chorrera,Corregimiento Arosemena,13,1307,130704,586,0,187,0,586,0,0,0,0,5.57,8.9561,-79.9572
+Provincia de Panamá Oeste,Distrito de La Chorrera,Corregimiento Barrio Balboa,13,1307,130701,26165,8728,0,1373,24792,0,0,0,0,5.59,8.8785,-79.7909
+Provincia de Panamá Oeste,Distrito de La Chorrera,Corregimiento Barrio Colón,13,1307,130702,39273,12982,0,22212,17061,0,0,0,0,5.48,8.8942,-79.7651
+Provincia de Panamá Oeste,Distrito de La Chorrera,Corregimiento El Arado,13,1307,130705,6242,0,1966,5069,1173,0,0,0,0,5.4,8.991,-79.7817
+Provincia de Panamá Oeste,Distrito de Capira,Corregimiento Lídice,13,1303,130310,6315,1468,457,2287,4028,0,0,0,0,5.51,8.7509,-79.9323
+Provincia de Panamá Oeste,Distrito de Capira,Corregimiento La Trinidad,13,1303,130308,2991,0,874,1609,1382,0,0,0,0,5.49,8.912,-80.0135
+Provincia de Panamá,Distrito de Chimán,Corregimiento Pásiga,08,0806,080604,459,0,129,207,0,0,0,0,0,4.52,8.9014,-78.8259
+Provincia de Panamá Oeste,Distrito de Capira,Corregimiento El Cacao,13,1303,130307,5639,1,1538,4282,1357,0,0,0,0,5.4,8.7448,-80.0254
+Provincia de Panamá,Distrito de Chimán,Corregimiento Gonzalo Vásquez,08,0806,080603,207,0,64,144,0,0,0,0,0,4.6,8.4252,-78.4417
+Provincia de Panamá,Distrito de Chimán,Corregimiento Chimán (Cabecera),08,0806,080601,1013,0,255,696,0,0,0,0,0,4.78,8.7516,-78.5603
+Provincia de Panamá,Distrito de Chimán,Corregimiento Brujas,08,0806,080602,614,0,186,420,0,0,0,0,0,4.64,8.5859,-78.5014
+Provincia de Panamá,Distrito de Chepo,Corregimiento Tortí,08,0805,080508,10387,0,3332,6353,0,0,0,0,0,4.57,8.9458,-78.5017
+Provincia de Panamá,Distrito de Chepo,Corregimiento Santa Cruz de Chinina,08,0805,080506,1200,0,411,1056,0,0,0,0,0,4.74,9.0108,-78.9915
+Provincia de Panamá,Distrito de Chepo,Corregimiento Las Margaritas,08,0805,080505,5658,1661,196,4701,0,0,0,0,0,4.85,9.2715,-79.1368
+Provincia de Panamá,Distrito de Chepo,Corregimiento El Llano,08,0805,080504,3312,0,1142,2290,0,0,0,0,0,4.57,9.1442,-78.8918
+Provincia de Panamá,Distrito de Chepo,Corregimiento Chepo (Cabecera,08,0805,080501,34425,5227,5530,33769,0,0,0,0,0,4.96,9.1433,-79.0771
+Provincia de Panamá,Distrito de Chepo,Corregimiento Chepillo,08,0805,080503,195,0,53,163,0,0,0,0,0,4.55,8.9512,-79.1291
+Provincia de Panamá,Distrito de Chepo,Corregimiento Cañita,08,0805,080502,2764,0,920,1775,0,0,0,0,0,4.53,9.2975,-78.8301
+Provincia de Panamá,Distrito de Chepo,Comarca Kuna de Madungandí,08,0805,080507,7647,0,1074,5715,0,0,0,0,0,4.63,9.1462,-78.446
+Provincia de Panamá,Distrito de Balboa,Corregimiento San Miguel (Cabecera),08,0802,080201,738,0,269,738,0,0,0,0,0,4.98,8.4266,-78.9257
+Provincia de Panamá,Distrito de Balboa,Corregimiento Saboga,08,0802,080206,297,0,137,297,0,0,0,0,0,4.83,8.6136,-79.0451
+Provincia de Panamá,Distrito de Balboa,Corregimiento Pedro González,08,0802,080205,287,0,104,287,0,0,0,0,0,5.05,8.3003,-79.1093
+Provincia de Panamá,Distrito de Balboa,Corregimiento La Guinea,08,0802,080204,42,0,20,42,0,0,0,0,0,5.26,8.3426,-78.9361
+Provincia de Panamá,Distrito de Balboa,Corregimiento La Esmeralda,08,0802,080203,570,0,176,570,0,0,0,0,0,5.08,8.2938,-78.9175
+Provincia de Panamá,Distrito de Balboa,Corregimiento La Ensenada,08,0802,080202,55,0,23,55,0,0,0,0,0,4.92,8.3507,-78.8714
+Provincia de Panamá Oeste,Distrito de Capira,Corregimiento Cirí de Los Sotos,13,1303,130305,2313,0,645,2041,272,0,0,0,0,5.36,8.9325,-80.1028
+Provincia de Panamá Oeste,Distrito de Capira,Corregimiento Cirí Grande,13,1303,130306,4593,0,1193,1058,3535,0,0,0,0,5.57,8.776,-80.0904
+Provincia de Panamá,Distrito de San Miguelito,Corregimiento Amelia Denis de Icaza,08,0810,081001,29208,9309,0,29208,0,0,0,0,0,4.63,9.041,-79.5144
+Comarca Emberá Wounaán,Distrito de Cémaco (Área No. 1),Corregimiento Cirilo Guaynora (Cabecera),11,1101,110101,2520,0,506,2287,0,0,0,0,0,4.64,8.1568,-77.4605
+Comarca Emberá Wounaán,Distrito de Cémaco (Área No. 1),Corregimiento Lajas Blancas,11,1101,110102,5161,0,1003,4609,0,0,0,0,0,4.64,8.5474,-77.7074
+Provincia de Bocas del Toro,Distrito de Changuinola,Corregimiento La Mesa,01,0102,010223,2237,0,393,1370,0,0,0,0,0,4.54,9.4934,-82.7076
+Provincia de Bocas del Toro,Distrito de Changuinola,Corregimiento Finca 4,01,0102,010219,5781,0,1228,5781,0,0,0,0,0,5.01,9.4093,-82.493
+Provincia de Bocas del Toro,Distrito de Changuinola,Corregimiento Finca 51,01,0102,010221,5732,19,997,5732,0,0,0,0,0,5.29,9.5152,-82.5622
+Provincia de Bocas del Toro,Distrito de Changuinola,Corregimiento Finca 6,01,0102,010215,8982,1927,263,8982,0,0,0,0,0,5.35,9.4874,-82.4915
+Provincia de Bocas del Toro,Distrito de Changuinola,Corregimiento Finca 60,01,0102,010217,5329,0,1034,5329,0,0,0,0,0,5.33,9.4461,-82.4842
+Provincia de Bocas del Toro,Distrito de Changuinola,Corregimiento Finca 66,01,0102,010222,2184,658,0,2184,0,0,0,0,0,5.34,9.4435,-82.5108
+Provincia de Bocas del Toro,Distrito de Changuinola,Corregimiento Guabito,01,0102,010203,6573,901,584,6292,0,0,0,0,0,5.24,9.4608,-82.6276
+Provincia de Bocas del Toro,Distrito de Changuinola,Corregimiento La Gloria,01,0102,010209,3232,0,617,2975,0,0,0,0,0,4.78,9.3845,-82.4395
+Provincia de Bocas del Toro,Distrito de Changuinola,Corregimiento Las Delicias,01,0102,010210,1773,0,360,882,0,0,0,0,0,4.5,9.4179,-82.8536
+Provincia de Bocas del Toro,Distrito de Changuinola,Corregimiento Finca 12,01,0102,010220,3264,762,0,3264,0,0,0,0,0,5.32,9.4396,-82.529
+Provincia de Bocas del Toro,Distrito de Changuinola,Corregimiento Las Tablas,01,0102,010207,5002,619,325,1537,0,0,0,0,0,4.42,9.5593,-82.7711
+Provincia de Bocas del Toro,Distrito de Chiriquí Grande,Corregimiento Bajo Cedro,01,0103,010306,1853,0,329,1832,0,0,0,0,0,4.77,9.1192,-82.3001
+Provincia de Bocas del Toro,Distrito de Chiriquí Grande,Corregimiento Chiriquí Grande (Cabecera),01,0103,010301,3891,414,473,3792,97,0,0,0,0,5.01,8.9332,-82.1163
+Provincia de Bocas del Toro,Distrito de Chiriquí Grande,Corregimiento Miramar,01,0103,010302,729,0,173,691,5,0,0,0,0,4.68,8.9854,-82.2203
+Provincia de Bocas del Toro,Distrito de Chiriquí Grande,Corregimiento Punta Peña,01,0103,010303,3060,0,779,3060,0,0,0,0,0,5.14,8.8906,-82.1752
+Provincia de Bocas del Toro,Distrito de Chiriquí Grande,Corregimiento Punta Róbalo,01,0103,010304,1597,0,327,1356,228,0,0,0,0,5.1,9.0424,-82.2784
+Provincia de Bocas del Toro,Distrito de Chiriquí Grande,Corregimiento Rambala,01,0103,010305,1365,0,402,1176,189,0,0,0,0,5.2,8.9486,-82.1786
+Provincia de Bocas del Toro,Distrito de Changuinola,Corregimiento Finca 30,01,0102,010216,8801,0,1815,8801,0,0,0,0,0,5.28,9.4318,-82.558
+Provincia de Bocas del Toro,Distrito de Changuinola,Corregimiento El Teribe,01,0102,010204,3251,0,656,1481,0,0,0,0,0,4.49,9.2763,-82.7505
+Provincia de Darién,Distrito de Santa Fe,Corregimiento Zapallal,05,0503,050317,4115,0,1180,3743,0,0,0,0,0,4.78,8.627,-78.1054
+Provincia de Bocas del Toro,Distrito de Bocas del Toro,Corregimiento Bastimentos,01,0101,010102,2589,0,651,2589,0,0,0,0,0,4.98,9.3075,-82.1502
+Provincia de Bocas del Toro,Distrito de Almirante,Corregimiento Barriada Guaymí,01,0104,010403,4754,516,495,4739,0,0,0,0,0,5.11,9.2971,-82.4201
+Provincia de Bocas del Toro,Distrito de Almirante,Corregimiento Cauchero,01,0104,010408,2934,0,479,2515,0,0,0,0,0,4.67,9.1288,-82.3604
+Provincia de Bocas del Toro,Distrito de Almirante,Corregimiento Ceiba,01,0104,010409,1361,0,260,674,0,0,0,0,0,4.51,8.9567,-82.4787
+Provincia de Bocas del Toro,Distrito de Almirante,Corregimiento Miraflores,01,0104,010410,1303,0,318,897,0,0,0,0,0,4.64,9.3192,-82.4557
+Provincia de Bocas del Toro,Distrito de Almirante,Corregimiento Nance de Riscó,01,0104,010404,1650,0,267,625,0,0,0,0,0,4.46,9.1884,-82.5214
+Provincia de Bocas del Toro,Distrito de Almirante,Corregimiento Valle de Agua Arriba,01,0104,010405,3939,0,720,2352,0,0,0,0,0,4.54,9.2192,-82.3741
+Provincia de Bocas del Toro,Distrito de Almirante,Corregimiento Valle de Riscó,01,0104,010406,4386,0,791,3169,0,0,0,0,0,4.56,9.0651,-82.4224
+Provincia de Bocas del Toro,Distrito de Bocas del Toro,Corregimiento Punta Laurel,01,0101,010104,1979,0,376,1979,0,0,0,0,0,5.09,9.1765,-82.1065
+Provincia de Bocas del Toro,Distrito de Changuinola,Corregimiento El Silencio,01,0102,010214,3839,0,1020,3790,0,0,0,0,0,4.96,9.3953,-82.5791
+Provincia de Bocas del Toro,Distrito de Bocas del Toro,Corregimiento San Cristóbal,01,0101,010107,1709,0,361,1709,0,0,0,0,0,5.04,9.256,-82.2693
+Provincia de Bocas del Toro,Distrito de Bocas del Toro,Corregimiento Tierra Oscura,01,0101,010105,1771,0,350,1771,0,0,0,0,0,4.96,9.1839,-82.2187
+Provincia de Bocas del Toro,Distrito de Changuinola,Corregimiento Barranco Adentro,01,0102,010218,4871,0,771,2224,0,0,0,0,0,4.53,9.5288,-82.7188
+Provincia de Bocas del Toro,Distrito de Changuinola,Corregimiento Barriada 4 de Abril,01,0102,010213,10557,2031,211,10557,0,0,0,0,0,5.28,9.47,-82.5328
+Provincia de Bocas del Toro,Distrito de Changuinola,Corregimiento Changuinola ,01,0102,010201,6136,1738,0,6136,0,0,0,0,0,5.38,9.4544,-82.5231
+Provincia de Bocas del Toro,Distrito de Changuinola,Corregimiento Cochigro,01,0102,010208,2085,0,413,1322,0,0,0,0,0,4.58,9.2638,-82.56
+Provincia de Bocas del Toro,Distrito de Changuinola,Corregimiento El Empalme,01,0102,010206,11462,2761,18,11462,0,0,0,0,0,5.27,9.416,-82.5278
+Provincia de Chiriquí,Distrito de Alanje,Corregimiento Alanje (Cabecera),04,0401,040101,3186,0,905,0,3186,0,0,0,0,5.71,8.4028,-82.5591
+Provincia de Chiriquí,Distrito de Alanje,Corregimiento Canta Gallo,04,0401,040108,683,0,221,4,679,0,0,0,0,5.75,8.3841,-82.6222
+Provincia de Chiriquí,Distrito de Alanje,Corregimiento Divalá,04,0401,040102,3496,674,311,2829,667,0,0,0,0,5.45,8.4028,-82.6873
+Provincia de Chiriquí,Distrito de Bugaba,Corregimiento Aserrío de Gariché,04,0405,040502,6015,0,1895,5863,152,0,0,0,0,5.18,8.4997,-82.779
+Provincia de Chiriquí,Distrito de Boquerón,Corregimiento Tijeras,04,0403,040308,3466,0,1112,2753,713,0,0,0,0,5.43,8.471,-82.5676
+Provincia de Chiriquí,Distrito de Boquete,Corregimiento Alto Boquete,04,0404,040404,8111,2527,211,8109,0,0,0,0,0,4.91,8.6751,-82.4226
+Provincia de Chiriquí,Distrito de Boquete,Corregimiento Bajo Boquete o Boquete (Cabecera),04,0404,040401,4203,714,754,3582,0,0,0,0,0,4.68,8.7789,-82.4575
+Provincia de Chiriquí,Distrito de Boquete,Corregimiento Caldera,04,0404,040402,1637,0,585,1571,0,0,0,0,0,5.07,8.7143,-82.3399
+Provincia de Chiriquí,Distrito de Boquete,Corregimiento Jaramillo,04,0404,040405,2942,0,984,1399,0,0,0,0,0,4.45,8.771,-82.3809
+Provincia de Chiriquí,Distrito de Boquete,Corregimiento Los Naranjos,04,0404,040406,4229,0,1292,352,0,0,0,0,0,4.38,8.8269,-82.4718
+Provincia de Chiriquí,Distrito de Boquete,Corregimiento Palmira,04,0404,040403,2440,0,677,2213,0,0,0,0,0,4.65,8.7618,-82.49
+Provincia de Chiriquí,Distrito de Bugaba,Corregimiento Bugaba,04,0405,040503,4845,1338,178,4832,13,0,0,0,0,5.31,8.4818,-82.6209
+Provincia de Chiriquí,Distrito de Alanje,Corregimiento El Tejar,04,0401,040103,2113,0,625,7,2106,0,0,0,0,5.61,8.4361,-82.5666
+Provincia de Chiriquí,Distrito de Bugaba,Corregimiento El Bongo,04,0405,040513,1706,0,570,1706,0,0,0,0,0,5.04,8.6065,-82.6125
+Provincia de Chiriquí,Distrito de Bugaba,Corregimiento Gómez,04,0405,040505,2746,0,911,2746,0,0,0,0,0,5.01,8.5683,-82.7498
+Provincia de Chiriquí,Distrito de Bugaba,Corregimiento La Concepción (Cabecera),04,0405,040501,21280,5788,1168,21280,0,0,0,0,0,5.22,8.5625,-82.6348
+Provincia de Chiriquí,Distrito de Bugaba,Corregimiento La Estrella,04,0405,040506,6032,0,1982,6020,12,0,0,0,0,5.28,8.499,-82.668
+Provincia de Chiriquí,Distrito de Bugaba,Corregimiento San Andrés,04,0405,040507,2527,0,844,2527,0,0,0,0,0,4.97,8.6434,-82.7181
+Provincia de Chiriquí,Distrito de Bugaba,Corregimiento San Isidro,04,0405,040515,6629,0,2108,6488,141,0,0,0,0,5.12,8.5229,-82.8089
+Provincia de Chiriquí,Distrito de Bugaba,Corregimiento Santa Marta,04,0405,040508,4106,880,456,4106,0,0,0,0,0,5.2,8.5153,-82.7009
+Provincia de Chiriquí,Distrito de Boquerón,Corregimiento Pedregal,04,0403,040307,2627,0,828,2544,83,0,0,0,0,5.35,8.4874,-82.5973
+Provincia de Chiriquí,Distrito de Boquerón,Corregimiento Paraíso,04,0403,040306,683,0,203,645,0,0,0,0,0,4.85,8.7117,-82.5835
+Provincia de Chiriquí,Distrito de Boquerón,Corregimiento Guayabal,04,0403,040305,2420,0,810,2411,0,0,0,0,0,5.02,8.6617,-82.5687
+Provincia de Chiriquí,Distrito de Boquerón,Corregimiento Guabal,04,0403,040304,1126,0,349,1126,0,0,0,0,0,5.05,8.6118,-82.5463
+Provincia de Chiriquí,Distrito de Alanje,Corregimiento Guarumal,04,0401,040104,2743,0,870,122,2621,0,0,0,0,5.89,8.3267,-82.5358
+Provincia de Chiriquí,Distrito de Alanje,Corregimiento Nuevo México,04,0401,040109,2497,0,662,1005,1492,0,0,0,0,5.6,8.414,-82.7423
+Provincia de Chiriquí,Distrito de Alanje,Corregimiento Palo Grande,04,0401,040105,642,0,209,45,597,0,0,0,0,5.76,8.3481,-82.6028
+Provincia de Chiriquí,Distrito de Alanje,Corregimiento Querévalo,04,0401,040106,2006,0,625,0,2006,0,0,0,0,5.89,8.3468,-82.5025
+Provincia de Chiriquí,Distrito de Alanje,Corregimiento Santo Tomás,04,0401,040107,1511,0,513,382,1129,0,0,0,0,5.6,8.3908,-82.6542
+Provincia de Chiriquí,Distrito de Barú,Corregimiento Baco,04,0402,040204,8008,0,2365,25,7983,0,0,0,0,5.76,8.3663,-82.7715
+Provincia de Chiriquí,Distrito de Barú,Corregimiento El Palmar,04,0402,040206,6147,1507,487,2722,3424,0,0,0,0,5.45,8.3213,-82.9357
+Provincia de Chiriquí,Distrito de Barú,Corregimiento Limones,04,0402,040202,1159,0,401,1143,16,0,0,0,0,5.16,8.1068,-82.8828
+Provincia de Chiriquí,Distrito de Barú,Corregimiento Manaca,04,0402,040207,8203,0,2445,485,7718,0,0,0,0,5.65,8.3482,-82.8451
+Provincia de Chiriquí,Distrito de Barú,Corregimiento Progreso,04,0402,040203,11690,1074,2487,5920,5765,0,0,0,0,5.36,8.4591,-82.8326
+Provincia de Chiriquí,Distrito de Barú,Corregimiento Puerto Armuelles (Cabecera),04,0402,040201,12249,3313,746,12239,10,0,0,0,0,5.16,8.2589,-82.9055
+Provincia de Chiriquí,Distrito de Barú,Corregimiento Rodolfo Aguilar Delgado,04,0402,040205,8851,0,2340,4489,4342,0,0,0,0,5.45,8.3863,-82.9304
+Provincia de Chiriquí,Distrito de Boquerón,Corregimiento Bágala,04,0403,040302,5113,0,1704,3340,1773,0,0,0,0,5.39,8.5185,-82.542
+Provincia de Chiriquí,Distrito de Boquerón,Corregimiento Boquerón (Cabecera),04,0403,040301,5083,752,870,5039,44,0,0,0,0,5.26,8.5417,-82.5801
+Provincia de Chiriquí,Distrito de Boquerón,Corregimiento Cordillera,04,0403,040303,483,0,168,453,0,0,0,0,0,4.7,8.7524,-82.5965
+Provincia de Bocas del Toro,Distrito de Almirante,Corregimiento Bajo Culubre,01,0104,010407,963,0,159,117,0,0,0,0,0,4.33,9.0577,-82.6799
+Provincia de Bocas del Toro,Distrito de Almirante,Corregimiento Almirante ,01,0104,010401,4886,1179,245,4886,0,0,0,0,0,5.2,9.3201,-82.4015
+Comarca Ngäbe Buglé,Distrito de Santa Catalina o Calovébora,Corregimiento Valle Bonito o Dogata,12,1209,120905,2034,0,364,1176,858,0,0,0,0,5.44,8.5743,-81.2552
+Comarca Ngäbe Buglé,Distrito de Kankintú,Corregimiento Tolote,12,1206,120611,2296,0,284,2296,0,0,0,0,0,5.27,8.5981,-81.8266
+Comarca Ngäbe Buglé,Distrito de Jirondai,Corregimiento Tu Gwai (Tuwai),12,1208,120805,5601,0,908,4545,0,0,0,0,0,4.71,9.0009,-82.3207
+Comarca Ngäbe Buglé,Distrito de Kankintú,Corregimiento Bisira (Cabecera),12,1206,120601,3409,0,572,761,2648,0,0,0,0,5.64,8.9176,-81.8457
+Comarca Ngäbe Buglé,Distrito de Kankintú,Corregimiento Calante,12,1206,120610,958,0,169,689,269,0,0,0,0,5.3,8.7807,-81.884
+Comarca Ngäbe Buglé,Distrito de Kankintú,Corregimiento Gworoni,12,1206,120604,3609,0,529,3591,18,0,0,0,0,5.16,8.6908,-81.7425
+Comarca Ngäbe Buglé,Distrito de Kankintú,Corregimiento Kankintú,12,1206,120605,4879,0,823,3025,1854,0,0,0,0,5.48,8.8327,-81.8277
+Comarca Ngäbe Buglé,Distrito de Kankintú,Corregimiento Mününi,12,1206,120606,1638,0,230,1638,0,0,0,0,0,5.12,8.5614,-81.7246
+Comarca Ngäbe Buglé,Distrito de Kankintú,Corregimiento Piedra Roja,12,1206,120607,2962,0,393,2962,0,0,0,0,0,5.11,8.5944,-81.7787
+Comarca Ngäbe Buglé,Distrito de Kusapín,Corregimiento Bahía Azul,12,1207,120702,4226,0,675,4170,56,0,0,0,0,5.13,9.0705,-81.8427
+Comarca Ngäbe Buglé,Distrito de Mironó,Corregimiento Hato Julí,12,1202,120206,2237,0,467,827,1410,0,0,0,0,5.52,8.3573,-81.8514
+Comarca Ngäbe Buglé,Distrito de Kusapín,Corregimiento Cañaveral,12,1207,120708,2181,0,329,1749,432,0,0,0,0,5.32,8.8312,-81.7177
+Comarca Ngäbe Buglé,Distrito de Kusapín,Corregimiento Kusapín (Cabecera),12,1207,120701,3638,0,633,3638,0,0,0,0,0,5.05,9.1592,-81.8789
+Comarca Ngäbe Buglé,Distrito de Kusapín,Corregimiento Río Chiriquí,12,1207,120705,3836,0,602,1772,2064,0,0,0,0,5.5,8.7723,-81.6149
+Comarca Ngäbe Buglé,Distrito de Kusapín,Corregimiento Tobobe,12,1207,120706,3166,0,531,2660,506,0,0,0,0,5.32,9.0223,-81.7712
+Comarca Ngäbe Buglé,Distrito de Mironó,Corregimiento Cascabel,12,1202,120202,1636,0,280,1581,55,0,0,0,0,5.27,8.5583,-81.8799
+Comarca Ngäbe Buglé,Distrito de Mironó,Corregimiento Hato Corotú,12,1202,120203,2543,0,553,1,2542,0,0,0,0,5.76,8.342,-81.9591
+Comarca Ngäbe Buglé,Distrito de Mironó,Corregimiento Hato Culantro,12,1202,120204,3406,0,489,3244,162,0,0,0,0,5.31,8.4567,-81.8659
+Comarca Ngäbe Buglé,Distrito de Jirondai,Corregimiento Samboa (Cabecera),12,1208,120801,3854,0,571,3040,814,0,0,0,0,5.13,8.7434,-82.0561
+Comarca Ngäbe Buglé,Distrito de Jirondai,Corregimiento Man Creek,12,1208,120804,6594,0,943,5705,889,0,0,0,0,5.14,8.8657,-82.0781
+Comarca Ngäbe Buglé,Distrito de Jirondai,Corregimiento Gwaribiara (Guariviara),12,1208,120803,4036,0,600,3112,924,0,0,0,0,5.27,8.7609,-81.9638
+Comarca Ngäbe Buglé,Distrito de Jirondai,Corregimiento Büri,12,1208,120802,5719,0,968,5411,0,0,0,0,0,4.83,8.8469,-82.2376
+Comarca Emberá Wounaán,Distrito de Cémaco (Área No. 1),Corregimiento Manuel Ortega,11,1101,110103,1866,0,405,467,0,0,0,0,0,4.47,8.3227,-77.4989
+Comarca Emberá Wounaán,Distrito de Sambú (Área No. 2),Corregimiento Jingurudó,11,1102,110202,585,0,118,302,0,0,0,0,0,4.58,7.7827,-78.0644
+Comarca Emberá Wounaán,Distrito de Sambú (Área No. 2),Corregimiento Río Sábalo (Cabecera),11,1102,110201,2226,0,453,2147,0,0,0,0,0,5.05,7.9123,-78.2143
+Comarca Guna Yala,No tiene distrito,Corregimiento Ailigandí,10,1000,100002,10911,0,1838,198,0,0,0,0,0,4.17,9.2219,-78.1579
+Comarca Guna Yala,No tiene distrito,Corregimiento Narganá (Cabecera),10,1000,100001,12954,0,2015,4619,0,0,0,0,0,4.31,9.3903,-78.8521
+Comarca Guna Yala,No tiene distrito,Corregimiento Puerto Obaldía,10,1000,100003,611,0,211,0,0,0,0,0,0,,8.6159,-77.4359
+Comarca Guna Yala,No tiene distrito,Corregimiento Tubualá,10,1000,100004,7540,0,1184,1,0,0,0,0,0,4.07,8.8618,-77.7156
+Comarca Ngäbe Buglé,Distrito de Besiko,Corregimiento Boca de Balsa,12,1201,120102,3096,0,666,2747,349,0,0,0,0,5.22,8.5893,-82.0313
+Comarca Ngäbe Buglé,Distrito de Besiko,Corregimiento Camarón Arriba,12,1201,120103,4341,0,882,1493,2848,0,0,0,0,5.54,8.3945,-81.9961
+Comarca Ngäbe Buglé,Distrito de Besiko,Corregimiento Cerro Banco,12,1201,120104,4869,0,917,1916,2953,0,0,0,0,5.51,8.4693,-82.0122
+Comarca Ngäbe Buglé,Distrito de Besiko,Corregimiento Cerro de Patena,12,1201,120105,2014,0,384,1821,193,0,0,0,0,5.33,8.4432,-81.9333
+Comarca Ngäbe Buglé,Distrito de Besiko,Corregimiento Emplanada de Chorcha,12,1201,120106,3223,0,674,2108,1115,0,0,0,0,5.38,8.6049,-82.1421
+Comarca Ngäbe Buglé,Distrito de Besiko,Corregimiento Nämnoni,12,1201,120107,3469,0,671,1330,2139,0,0,0,0,5.62,8.3691,-81.97
+Comarca Ngäbe Buglé,Distrito de Besiko,Corregimiento Niba,12,1201,120108,3841,0,720,3841,0,0,0,0,0,5.19,8.5634,-81.9535
+Comarca Ngäbe Buglé,Distrito de Besiko,Corregimiento Soloy,12,1201,120101,6569,0,1333,5295,1274,0,0,0,0,5.33,8.5436,-82.0948
+Comarca Ngäbe Buglé,Distrito de Mironó,Corregimiento Hato Jobo,12,1202,120205,2326,0,355,1064,1262,0,0,0,0,5.5,8.3994,-81.8993
+Comarca Ngäbe Buglé,Distrito de Mironó,Corregimiento Hato Pilón (Cabecera),12,1202,120201,3794,0,797,2271,1523,0,0,0,0,5.46,8.3939,-81.8361
+Comarca Ngäbe Buglé,Distrito de Santa Catalina o Calovébora,Corregimiento Santa Catalina o Calovébora o Bledeshia (Cabecera),12,1209,120901,3083,0,692,1104,1979,0,0,0,0,5.51,8.739,-81.302
+Comarca Ngäbe Buglé,Distrito de Ñürün,Corregimiento El Paredón,12,1205,120506,1208,0,294,316,892,0,0,0,0,5.68,8.488,-81.2317
+Comarca Ngäbe Buglé,Distrito de Nole Duima,Corregimiento Jädeberi,12,1204,120403,2313,0,366,2246,67,0,0,0,0,5.2,8.4942,-81.8048
+Comarca Ngäbe Buglé,Distrito de Nole Duima,Corregimiento Lajero,12,1204,120404,3759,0,738,0,3759,0,0,0,0,5.85,8.2817,-81.7694
+Comarca Ngäbe Buglé,Distrito de Nole Duima,Corregimiento Susama,12,1204,120405,3646,0,729,196,3450,0,0,0,0,5.74,8.3606,-81.8022
+Comarca Ngäbe Buglé,Distrito de Ñürün,Corregimiento Agua de Salud,12,1205,120502,2404,0,452,1865,539,0,0,0,0,5.36,8.5152,-81.4337
+Comarca Ngäbe Buglé,Distrito de Ñürün,Corregimiento Alto de Jesús,12,1205,120503,920,0,194,0,920,0,0,0,0,6.19,8.2639,-81.4738
+Comarca Ngäbe Buglé,Distrito de Ñürün,Corregimiento Buenos Aires (Cabecera),12,1205,120501,1177,0,270,163,1014,0,0,0,0,5.81,8.4525,-81.4861
+Comarca Ngäbe Buglé,Distrito de Ñürün,Corregimiento El Bale,12,1205,120505,1009,0,245,0,1009,0,0,0,0,6.2,8.3456,-81.3776
+Comarca Ngäbe Buglé,Distrito de Ñürün,Corregimiento El Peñón,12,1205,120510,1901,0,416,176,1725,0,0,0,0,5.78,8.4357,-81.4401
+Comarca Ngäbe Buglé,Distrito de Mironó,Corregimiento Quebrada de Loro,12,1202,120207,2376,0,465,102,2274,0,0,0,0,5.67,8.3496,-81.9248
+Comarca Ngäbe Buglé,Distrito de Ñürün,Corregimiento El Piro,12,1205,120507,802,0,184,0,802,0,0,0,0,6.3,8.2314,-81.5223
+Comarca Ngäbe Buglé,Distrito de Ñürün,Corregimiento El Piro N°2 (Muakwata Kubu),12,1205,120511,1278,0,217,378,900,0,0,0,0,5.63,8.4483,-81.5122
+Comarca Ngäbe Buglé,Distrito de Ñürün,Corregimiento Guayabito,12,1205,120508,2176,0,326,2157,19,0,0,0,0,5.3,8.5472,-81.479
+Comarca Ngäbe Buglé,Distrito de Ñürün,Corregimiento Güibale,12,1205,120509,1484,0,283,415,1069,0,0,0,0,5.61,8.5121,-81.3573
+Comarca Ngäbe Buglé,Distrito de Santa Catalina o Calovébora,Corregimiento Alto Bilingüe o Gdogüeshia,12,1209,120902,1352,0,257,562,790,0,0,0,0,5.47,8.6599,-81.2749
+Comarca Ngäbe Buglé,Distrito de Santa Catalina o Calovébora,Corregimiento Loma Yuca o Ijuicho,12,1209,120903,820,0,162,661,159,0,0,0,0,5.33,8.651,-81.4188
+Comarca Ngäbe Buglé,Distrito de Santa Catalina o Calovébora,Corregimiento San Pedrito o Jiküi,12,1209,120904,3425,0,528,2766,659,0,0,0,0,5.39,8.7644,-81.4768
+Comarca Ngäbe Buglé,Distrito de Nole Duima,Corregimiento Hato Chamí,12,1204,120402,5218,0,986,3980,1238,0,0,0,0,5.43,8.4246,-81.773
+Comarca Ngäbe Buglé,Distrito de Nole Duima,Corregimiento Cerro Iglesias (Cabecera),12,1204,120401,5773,0,1129,0,5773,0,0,0,0,5.71,8.3108,-81.8033
+Comarca Ngäbe Buglé,Distrito de Müna,Corregimiento Ümani,12,1203,120312,2497,0,449,15,2482,0,0,0,0,5.9,8.3134,-81.7246
+Comarca Ngäbe Buglé,Distrito de Müna,Corregimiento Sitio Prado,12,1203,120311,2767,0,490,114,2653,0,0,0,0,5.76,8.4102,-81.5952
+Comarca Ngäbe Buglé,Distrito de Mironó,Corregimiento Salto Dupí,12,1202,120208,3482,0,692,1292,2190,0,0,0,0,5.6,8.3572,-81.888
+Comarca Ngäbe Buglé,Distrito de Müna,Corregimiento Alto Caballero,12,1203,120302,3247,0,729,0,3247,0,0,0,0,5.91,8.2995,-81.6753
+Comarca Ngäbe Buglé,Distrito de Müna,Corregimiento Bakama,12,1203,120303,1458,0,302,0,1458,0,0,0,0,5.94,8.2471,-81.5934
+Comarca Ngäbe Buglé,Distrito de Müna,Corregimiento Cerro Caña,12,1203,120304,3109,0,568,0,3109,0,0,0,0,5.94,8.3301,-81.6317
+Comarca Ngäbe Buglé,Distrito de Müna,Corregimiento Cerro Puerco,12,1203,120305,5310,0,908,245,5065,0,0,0,0,5.81,8.338,-81.7612
+Comarca Ngäbe Buglé,Distrito de Müna,Corregimiento Chichica (Cabecera),12,1203,120301,3470,0,824,152,3318,0,0,0,0,5.78,8.3791,-81.6773
+Comarca Ngäbe Buglé,Distrito de Müna,Corregimiento Dikeri,12,1203,120313,2521,0,584,367,2154,0,0,0,0,5.66,8.4018,-81.6444
+Comarca Ngäbe Buglé,Distrito de Müna,Corregimiento Diko,12,1203,120314,2596,0,508,2233,363,0,0,0,0,5.36,8.4642,-81.7316
+Comarca Ngäbe Buglé,Distrito de Müna,Corregimiento Kikari,12,1203,120315,1995,0,385,0,1995,0,0,0,0,5.86,8.3387,-81.6904
+Comarca Ngäbe Buglé,Distrito de Müna,Corregimiento Krüa,12,1203,120306,2901,0,409,2689,212,0,0,0,0,5.28,8.5417,-81.5503
+Comarca Ngäbe Buglé,Distrito de Müna,Corregimiento Maraca,12,1203,120307,3795,0,758,333,3462,0,0,0,0,5.67,8.3743,-81.7266
+Comarca Ngäbe Buglé,Distrito de Müna,Corregimiento Mreeni,12,1203,120316,2238,0,416,14,2224,0,0,0,0,5.92,8.3949,-81.5509
+Comarca Ngäbe Buglé,Distrito de Müna,Corregimiento Nibra,12,1203,120308,2530,0,473,0,2530,0,0,0,0,6.07,8.2957,-81.5549
+Comarca Ngäbe Buglé,Distrito de Müna,Corregimiento Peña Blanca,12,1203,120309,3562,0,647,2746,816,0,0,0,0,5.34,8.4894,-81.6737
+Comarca Ngäbe Buglé,Distrito de Müna,Corregimiento Roka o Rokari,12,1203,120310,3204,0,561,1743,1461,0,0,0,0,5.48,8.4995,-81.6149
+Provincia de Chiriquí,Distrito de Bugaba,Corregimiento Santa Rosa,04,0405,040509,1677,0,567,1677,0,0,0,0,0,5.0,8.6152,-82.6776
+Provincia de Chiriquí,Distrito de Bugaba,Corregimiento Santo Domingo,04,0405,040510,3814,0,1199,3814,0,0,0,0,0,5.17,8.4882,-82.7376
+Provincia de Chiriquí,Distrito de Bugaba,Corregimiento Solano,04,0405,040514,4643,1469,0,4643,0,0,0,0,0,5.29,8.521,-82.6104
+Provincia de Colón,Distrito de Colón,Corregimiento San Juan,03,0301,030113,22499,5636,1171,22499,0,0,0,0,0,4.85,9.2414,-79.6367
+Provincia de Colón,Distrito de Colón,Corregimiento Cristóbal Este,03,0301,030115,64816,19398,32,64816,0,0,0,0,0,5.06,9.3703,-79.8662
+Provincia de Colón,Distrito de Colón,Corregimiento Escobal,03,0301,030107,2293,0,703,2088,205,0,0,0,0,5.23,9.0959,-80.0032
+Provincia de Colón,Distrito de Colón,Corregimiento Limón,03,0301,030108,5546,0,1698,5546,0,0,0,0,0,4.88,9.2625,-79.7527
+Provincia de Colón,Distrito de Colón,Corregimiento Nueva Providencia,03,0301,030109,8734,0,2534,8734,0,0,0,0,0,4.88,9.2957,-79.8031
+Provincia de Colón,Distrito de Colón,Corregimiento Puerto Pilón,03,0301,030110,18285,5258,296,18096,0,0,0,0,0,4.81,9.3569,-79.7519
+Provincia de Colón,Distrito de Colón,Corregimiento Sabanitas,03,0301,030111,23630,5657,1433,23630,0,0,0,0,0,4.84,9.3358,-79.8002
+Provincia de Colón,Distrito de Colón,Corregimiento Salamanca,03,0301,030112,5043,0,1589,4341,0,0,0,0,0,4.64,9.3793,-79.6024
+Provincia de Colón,Distrito de Colón,Corregimiento Santa Rosa,03,0301,030114,1232,0,387,1232,0,0,0,0,0,5.06,9.2053,-79.6795
+Provincia de Colón,Distrito de Portobelo,Corregimiento Cacique,03,0304,030402,308,0,101,10,0,0,0,0,0,4.25,9.5963,-79.6294
+Provincia de Colón,Distrito de Donoso,Corregimiento Coclé del Norte,03,0303,030302,4301,0,922,2754,1547,0,0,0,0,5.44,8.911,-80.6384
+Provincia de Colón,Distrito de Donoso,Corregimiento El Guásimo,03,0303,030303,3494,0,781,2584,910,0,0,0,0,5.39,9.0007,-80.3334
+Provincia de Colón,Distrito de Donoso,Corregimiento Gobea,03,0303,030304,927,0,251,927,0,0,0,0,0,5.27,9.13,-80.2287
+Provincia de Colón,Distrito de Donoso,Corregimiento Miguel de La Borda (Cabecera),03,0303,030301,2408,0,670,2391,17,0,0,0,0,5.13,9.0933,-80.3749
+Provincia de Colón,Distrito de Donoso,Corregimiento Río Indio,03,0303,030305,1144,0,317,1144,0,0,0,0,0,5.32,9.089,-80.2076
+Provincia de Colón,Distrito de Omar Torrijos Herrera,Corregimiento Nueva Esperanza,03,0306,030602,889,0,129,556,333,0,0,0,0,5.52,8.8894,-80.6114
+Provincia de Colón,Distrito de Omar Torrijos Herrera,Corregimiento San José  del General (Cabecera),03,0306,030601,1865,0,479,93,1772,0,0,0,0,5.72,8.8729,-80.5669
+Provincia de Colón,Distrito de Colón,Corregimiento Cristóbal,03,0301,030106,10466,1543,1134,10402,60,0,0,0,0,5.05,9.2041,-79.8797
+Provincia de Colón,Distrito de Colón,Corregimiento Ciricito,03,0301,030105,3174,0,891,2601,573,0,0,0,0,5.44,9.0191,-80.0586
+Provincia de Colón,Distrito de Colón,Corregimiento Cativá,03,0301,030104,37000,10281,604,37000,0,0,0,0,0,5.03,9.361,-79.8302
+Provincia de Colón,Distrito de Colón,Corregimiento Buena Vista,03,0301,030103,19221,1873,3982,19049,0,0,0,0,0,4.96,9.2844,-79.6854
+Provincia de Coclé,Distrito de Penonomé,Corregimiento Coclé,02,0206,020603,5811,841,906,0,5811,0,0,0,0,6.32,8.4075,-80.422
+Provincia de Coclé,Distrito de Penonomé,Corregimiento El Coco,02,0206,020605,11064,1881,1459,0,11064,0,0,0,0,6.21,8.412,-80.3541
+Provincia de Coclé,Distrito de Penonomé,Corregimiento Penonomé (Cabecera),02,0206,020601,25836,6686,1029,0,25836,0,0,0,0,6.13,8.528,-80.3585
+Provincia de Coclé,Distrito de Penonomé,Corregimiento Río Grande,02,0206,020607,3505,0,1107,0,3505,0,0,0,0,6.23,8.4471,-80.4759
+Provincia de Coclé,Distrito de Penonomé,Corregimiento Río Indio,02,0206,020608,4026,0,963,2203,1823,0,0,0,0,5.48,8.9125,-80.203
+Provincia de Coclé,Distrito de Penonomé,Corregimiento Tulú,02,0206,020610,2241,0,508,1211,1030,0,0,0,0,5.48,8.7839,-80.394
+Provincia de Colón,Distrito de Chagres,Corregimiento Achiote,03,0302,030202,938,0,285,938,0,0,0,0,0,5.2,9.2042,-80.0301
+Provincia de Colón,Distrito de Chagres,Corregimiento El Guabo,03,0302,030203,1553,0,430,1467,86,0,0,0,0,5.3,9.1133,-80.0784
+Provincia de Colón,Distrito de Chagres,Corregimiento La Encantada,03,0302,030204,2333,0,656,2033,300,0,0,0,0,5.38,9.0422,-80.1524
+Provincia de Colón,Distrito de Chagres,Corregimiento Nuevo Chagres (Cabecera),03,0302,030201,567,0,178,567,0,0,0,0,0,5.04,9.2448,-80.072
+Provincia de Colón,Distrito de Chagres,Corregimiento Palmas Bellas,03,0302,030205,2151,0,635,2151,0,0,0,0,0,5.22,9.1817,-80.0838
+Provincia de Colón,Distrito de Chagres,Corregimiento Piña,03,0302,030206,888,0,291,888,0,0,0,0,0,5.04,9.2635,-80.0254
+Provincia de Colón,Distrito de Chagres,Corregimiento Salud,03,0302,030207,2538,0,691,2399,139,0,0,0,0,5.31,9.1462,-80.1419
+Provincia de Colón,Distrito de Colón,Corregimiento Barrio Norte,03,0301,030101,12320,4649,0,12320,0,0,0,0,0,4.98,9.3623,-79.9007
+Provincia de Colón,Distrito de Colón,Corregimiento Barrio Sur,03,0301,030102,6463,2444,0,6463,0,0,0,0,0,4.93,9.3536,-79.8957
+Provincia de Colón,Distrito de Omar Torrijos Herrera,Corregimiento San Juan de Turbe,03,0306,030603,807,0,209,340,467,0,0,0,0,5.55,8.8091,-80.6265
+Provincia de Colón,Distrito de Portobelo,Corregimiento Isla Grande,03,0304,030404,988,0,333,19,0,0,0,0,0,4.28,9.5976,-79.5491
+Provincia de Coclé,Distrito de Penonomé,Corregimiento Cañaveral,02,0206,020602,9324,928,1756,75,9249,0,0,0,0,6.03,8.5224,-80.4171
+Provincia de Darién,Distrito de Pinogana,Corregimiento Púcuro,05,0502,050205,427,0,68,27,0,0,0,0,0,4.44,7.9904,-77.5176
+Provincia de Darién,Distrito de Chepigana,Corregimiento Tucutí,05,0501,050112,1124,0,254,426,0,0,0,0,0,4.48,7.7563,-77.85
+Provincia de Darién,Distrito de Pinogana,Corregimiento Boca de Cupe,05,0502,050202,1117,0,272,42,0,0,0,0,0,4.38,7.8227,-77.6241
+Provincia de Darién,Distrito de Pinogana,Corregimiento Comarca Kuna de Wargandí,05,0502,050209,2781,0,401,119,0,0,0,0,0,4.28,8.905,-77.9783
+Provincia de Darién,Distrito de Pinogana,Corregimiento El Real de Santa María (Cabecera),05,0502,050201,1078,0,298,1059,0,0,0,0,0,4.74,8.06,-77.734
+Provincia de Darién,Distrito de Pinogana,Corregimiento Metetí,05,0502,050208,9691,809,2284,8962,0,0,0,0,0,4.65,8.5844,-77.9213
+Provincia de Darién,Distrito de Pinogana,Corregimiento Paya,05,0502,050203,862,0,144,98,0,0,0,0,0,4.4,7.8243,-77.4369
+Provincia de Darién,Distrito de Pinogana,Corregimiento Pinogana,05,0502,050204,477,0,116,79,0,0,0,0,0,4.47,8.0927,-77.6627
+Provincia de Darién,Distrito de Pinogana,Corregimiento Yape,05,0502,050206,266,0,51,162,0,0,0,0,0,4.53,8.0621,-77.4119
+Provincia de Colón,Distrito de Portobelo,Corregimiento María Chiquita,03,0304,030405,3103,0,903,2928,0,0,0,0,0,4.67,9.4075,-79.7199
+Provincia de Darién,Distrito de Pinogana,Corregimiento Yaviza,05,0502,050207,4824,0,1358,2788,0,0,0,0,0,4.57,8.2111,-77.7612
+Provincia de Darién,Distrito de Santa Fe,Corregimiento Agua Fría,05,0503,050313,3160,0,956,2952,0,0,0,0,0,4.67,8.8351,-78.199
+Provincia de Darién,Distrito de Santa Fe,Corregimiento Cucunatí,05,0503,050314,1190,0,346,612,0,0,0,0,0,4.54,8.5576,-78.2465
+Provincia de Darién,Distrito de Santa Fe,Corregimiento Río Congo,05,0503,050307,1429,0,374,1185,0,0,0,0,0,4.74,8.5513,-78.3883
+Provincia de Darién,Distrito de Santa Fe,Corregimiento Río Congo Arriba,05,0503,050315,2102,0,665,259,0,0,0,0,0,4.31,8.7505,-78.3916
+Provincia de Darién,Distrito de Santa Fe,Corregimiento Río Iglesias,05,0503,050308,1986,0,635,1098,0,0,0,0,0,4.51,8.3625,-77.9851
+Provincia de Darién,Distrito de Santa Fe,Corregimiento Santa Fe (Cabecera),05,0503,050316,5747,0,1696,3818,0,0,0,0,0,4.6,8.7054,-78.1728
+Provincia de Darién,Distrito de Chepigana,Corregimiento Taimatí,05,0501,050111,618,0,139,601,0,0,0,0,0,4.68,8.1296,-78.2022
+Provincia de Darién,Distrito de Chepigana,Corregimiento Setegantí,05,0501,050110,589,0,177,444,0,0,0,0,0,4.62,8.2773,-78.0836
+Provincia de Darién,Distrito de Chepigana,Corregimiento Sambú,05,0501,050109,856,0,245,856,0,0,0,0,0,5.16,8.019,-78.225
+Provincia de Darién,Distrito de Chepigana,Corregimiento Puerto Piña,05,0501,050106,1139,0,268,145,0,0,0,0,0,4.37,7.7906,-78.2877
+Provincia de Colón,Distrito de Portobelo,Corregimiento Portobelo (Cabecera),03,0304,030401,4910,0,1448,1949,0,0,0,0,0,4.45,9.5014,-79.6311
+Provincia de Colón,Distrito de Portobelo,Corregimiento Puerto Lindo o Garrote,03,0304,030403,1011,0,337,357,0,0,0,0,0,4.44,9.5857,-79.5832
+Provincia de Colón,Distrito de Santa Isabel,Corregimiento Cuango,03,0305,030502,624,0,167,218,0,0,0,0,0,4.43,9.5182,-79.3215
+Provincia de Colón,Distrito de Santa Isabel,Corregimiento Miramar,03,0305,030503,389,0,133,54,0,0,0,0,0,4.36,9.5582,-79.3406
+Provincia de Colón,Distrito de Santa Isabel,Corregimiento Nombre de Dios,03,0305,030504,1127,0,397,812,0,0,0,0,0,4.57,9.5416,-79.4803
+Provincia de Colón,Distrito de Santa Isabel,Corregimiento Palenque (Cabecera),03,0305,030501,508,0,167,33,0,0,0,0,0,4.26,9.4923,-79.3744
+Provincia de Colón,Distrito de Santa Isabel,Corregimiento Palmira,03,0305,030505,404,0,128,155,0,0,0,0,0,4.44,9.4518,-79.2183
+Provincia de Colón,Distrito de Santa Isabel,Corregimiento Playa Chiquita,03,0305,030506,196,0,61,84,0,0,0,0,0,4.47,9.4756,-79.3012
+Provincia de Colón,Distrito de Santa Isabel,Corregimiento Santa Isabel,03,0305,030507,276,0,97,24,0,0,0,0,0,4.29,9.502,-79.138
+Provincia de Colón,Distrito de Santa Isabel,Corregimiento Viento Frío,03,0305,030508,587,0,196,302,0,0,0,0,0,4.48,9.5431,-79.4006
+Provincia de Darién,Distrito de Chepigana,Corregimiento Camogantí,05,0501,050102,377,0,96,341,0,0,0,0,0,4.74,8.0715,-77.8655
+Provincia de Darién,Distrito de Chepigana,Corregimiento Chepigana,05,0501,050103,796,0,192,105,0,0,0,0,0,4.34,8.1188,-78.0195
+Provincia de Darién,Distrito de Chepigana,Corregimiento Garachiné,05,0501,050104,1953,0,565,1925,0,0,0,0,0,4.93,8.0285,-78.3356
+Provincia de Darién,Distrito de Chepigana,Corregimiento Jaqué,05,0501,050105,1738,0,408,1459,0,0,0,0,0,4.69,7.4707,-77.9827
+Provincia de Darién,Distrito de Chepigana,Corregimiento La Palma (Cabecera),05,0501,050101,3793,437,656,2751,0,0,0,0,0,4.62,8.2802,-78.1539
+Provincia de Coclé,Distrito de Penonomé,Corregimiento Chiguirí Arriba,02,0206,020604,7185,0,1729,551,6634,0,0,0,0,5.79,8.6748,-80.172
+Provincia de Coclé,Distrito de Olá,Corregimiento Olá (Cabecera),02,0205,020501,1472,0,482,160,1312,0,0,0,0,5.85,8.4642,-80.6606
+Provincia de Chiriquí,Distrito de Bugaba,Corregimiento Sortová,04,0405,040511,2850,0,955,2850,0,0,0,0,0,5.05,8.5837,-82.6518
+Provincia de Chiriquí,Distrito de Remedios,Corregimiento El Porvenir,04,0409,040903,1568,0,408,0,1568,0,0,0,0,6.39,8.2763,-81.8374
+Provincia de Chiriquí,Distrito de Dolega,Corregimiento Tinajas,04,0407,040707,2053,0,647,2053,0,0,0,0,0,5.27,8.5692,-82.4716
+Provincia de Chiriquí,Distrito de Gualaca,Corregimiento Gualaca,04,0408,040801,5879,1065,715,1958,3921,0,0,0,0,5.47,8.5817,-82.2521
+Provincia de Chiriquí,Distrito de Gualaca,Corregimiento Hornito,04,0408,040802,1175,0,396,1172,0,0,0,0,0,4.72,8.7138,-82.2196
+Provincia de Chiriquí,Distrito de Gualaca,Corregimiento Los Ángeles,04,0408,040803,668,0,188,655,13,0,0,0,0,5.31,8.5309,-82.1926
+Provincia de Chiriquí,Distrito de Gualaca,Corregimiento Paja de Sombrero,04,0408,040804,633,0,242,633,0,0,0,0,0,5.02,8.6541,-82.3099
+Provincia de Chiriquí,Distrito de Gualaca,Corregimiento Rincón,04,0408,040805,1476,0,467,276,1200,0,0,0,0,5.73,8.4631,-82.2444
+Provincia de Chiriquí,Distrito de Remedios,Corregimiento El Nancito,04,0409,040902,593,0,172,0,593,0,0,0,0,6.07,8.2448,-81.7482
+Provincia de Chiriquí,Distrito de Renacimiento,Corregimiento Breñón,04,0410,041002,645,0,211,448,0,0,0,0,0,4.61,8.6227,-82.8163
+Provincia de Chiriquí,Distrito de San Félix,Corregimiento San Félix,04,0411,041104,3333,290,693,0,3333,0,0,0,0,6.15,8.3114,-81.8859
+Provincia de Chiriquí,Distrito de Renacimiento,Corregimiento Cañas Gordas,04,0410,041003,2508,0,768,2229,0,0,0,0,0,4.7,8.7205,-82.8685
+Provincia de Chiriquí,Distrito de Renacimiento,Corregimiento Dominical,04,0410,041007,822,0,263,806,0,0,0,0,0,4.74,8.7133,-82.7573
+Provincia de Chiriquí,Distrito de Renacimiento,Corregimiento Monte Lirio,04,0410,041004,3477,0,965,3477,0,0,0,0,0,4.82,8.7965,-82.8045
+Provincia de Chiriquí,Distrito de Renacimiento,Corregimiento Plaza Caisán,04,0410,041005,3518,0,1009,3440,0,0,0,0,0,4.75,8.7581,-82.7737
+Provincia de Chiriquí,Distrito de Renacimiento,Corregimiento Río Sereno (Cabecera),04,0410,041001,6109,0,1683,5576,0,0,0,0,0,4.75,8.8285,-82.8237
+Provincia de Chiriquí,Distrito de Renacimiento,Corregimiento Santa Clara,04,0410,041008,3470,0,875,3159,0,0,0,0,0,4.67,8.8449,-82.772
+Provincia de Chiriquí,Distrito de Renacimiento,Corregimiento Santa Cruz,04,0410,041006,1880,0,607,1880,0,0,0,0,0,4.88,8.6474,-82.7642
+Provincia de Chiriquí,Distrito de Dolega,Corregimiento Rovira,04,0407,040706,2285,0,731,2281,0,0,0,0,0,4.91,8.684,-82.5179
+Provincia de Chiriquí,Distrito de Dolega,Corregimiento Potrerillos Abajo,04,0407,040705,2153,0,685,2153,0,0,0,0,0,5.03,8.6372,-82.4669
+Provincia de Chiriquí,Distrito de Dolega,Corregimiento Potrerillos,04,0407,040704,1880,0,607,1810,0,0,0,0,0,4.78,8.7144,-82.4943
+Provincia de Chiriquí,Distrito de Dolega,Corregimiento Los Anastacios,04,0407,040703,4262,1061,354,2404,1858,0,0,0,0,5.48,8.533,-82.4151
+Provincia de Chiriquí,Distrito de David,Corregimiento Bijagual,04,0406,040602,878,0,297,16,862,0,0,0,0,5.68,8.5087,-82.3306
+Provincia de Chiriquí,Distrito de David,Corregimiento Chiriquí,04,0406,040604,6703,833,750,84,6619,0,0,0,0,5.92,8.3701,-82.2955
+Provincia de Chiriquí,Distrito de David,Corregimiento Cochea,04,0406,040603,3036,0,959,805,2231,0,0,0,0,5.61,8.5541,-82.3704
+Provincia de Chiriquí,Distrito de David,Corregimiento David (Cabecera),04,0406,040601,16051,5434,287,25,16026,0,0,0,0,5.73,8.4506,-82.4233
+Provincia de Chiriquí,Distrito de David,Corregimiento David Este,04,0406,040611,27145,8895,6,0,27145,0,0,0,0,5.8,8.3808,-82.4114
+Provincia de Chiriquí,Distrito de David,Corregimiento David Sur,04,0406,040612,33667,10995,5,0,33667,0,0,0,0,5.81,8.3999,-82.4473
+Provincia de Chiriquí,Distrito de David,Corregimiento Guacá,04,0406,040605,2565,0,831,2533,18,0,0,0,0,5.18,8.6007,-82.5044
+Provincia de Chiriquí,Distrito de David,Corregimiento Las Lomas,04,0406,040606,25297,7326,578,65,25232,0,0,0,0,5.69,8.4426,-82.3772
+Provincia de Chiriquí,Distrito de David,Corregimiento Pedregal,04,0406,040607,17078,5238,47,6,17072,0,0,0,0,6.01,8.2762,-82.3806
+Provincia de Chiriquí,Distrito de David,Corregimiento San Carlos,04,0406,040608,5306,681,1091,3108,2198,0,0,0,0,5.46,8.5215,-82.4887
+Provincia de Chiriquí,Distrito de David,Corregimiento San Pablo Nuevo,04,0406,040609,2731,0,859,0,2731,0,0,0,0,5.73,8.3904,-82.49
+Provincia de Chiriquí,Distrito de David,Corregimiento San Pablo Viejo,04,0406,040610,16041,2862,2293,1403,14638,0,0,0,0,5.66,8.4612,-82.4866
+Provincia de Chiriquí,Distrito de Dolega,Corregimiento Dolega (Cabecera),04,0407,040701,4838,827,679,4792,46,0,0,0,0,5.36,8.574,-82.4271
+Provincia de Chiriquí,Distrito de Dolega,Corregimiento Dos Ríos,04,0407,040702,1857,0,616,825,1032,0,0,0,0,5.5,8.535,-82.3898
+Provincia de Chiriquí,Distrito de Dolega,Corregimiento Los Algarrobos,04,0407,040708,18350,5256,681,4069,14281,0,0,0,0,5.5,8.5331,-82.4362
+Provincia de Chiriquí,Distrito de San Félix,Corregimiento Juay o Las Mareas,04,0411,041102,633,0,182,0,633,0,0,0,0,6.21,8.2962,-81.96
+Provincia de Chiriquí,Distrito de San Lorenzo,Corregimiento Boca Chica,04,0412,041202,553,0,224,0,553,0,0,0,0,6.08,8.2209,-82.1989
+Provincia de Coclé,Distrito de Olá,Corregimiento La Pava,02,0205,020505,1683,0,558,183,1500,0,0,0,0,5.85,8.4689,-80.6099
+Provincia de Coclé,Distrito de La Pintada,Corregimiento Piedras Gordas,02,0203,020305,4713,0,1304,4223,490,0,0,0,0,5.36,8.6909,-80.5324
+Provincia de Coclé,Distrito de Antón,Corregimiento Santa Rita,02,0202,020209,2830,0,906,0,2830,0,0,0,0,6.1,8.4933,-80.1937
+Provincia de Coclé,Distrito de La Pintada,Corregimiento El Harino,02,0203,020302,5752,0,1637,4585,1167,0,0,0,0,5.32,8.6912,-80.6207
+Provincia de Coclé,Distrito de La Pintada,Corregimiento El Potrero,02,0203,020303,3450,0,1091,334,3116,0,0,0,0,5.81,8.5455,-80.5148
+Provincia de Coclé,Distrito de La Pintada,Corregimiento La Pintada (Cabecera),02,0203,020301,4497,613,698,510,3987,0,0,0,0,5.86,8.5803,-80.4553
+Provincia de Coclé,Distrito de La Pintada,Corregimiento Las Lomas,02,0203,020306,2350,0,693,2275,75,0,0,0,0,5.21,8.6139,-80.6514
+Provincia de Coclé,Distrito de La Pintada,Corregimiento Llano Grande,02,0203,020304,4114,0,1140,932,3182,0,0,0,0,5.61,8.6642,-80.4397
+Provincia de Coclé,Distrito de La Pintada,Corregimiento Llano Norte,02,0203,020307,4822,0,1240,1883,2939,0,0,0,0,5.55,8.8168,-80.4838
+Provincia de Coclé,Distrito de Natá,Corregimiento El Caño,02,0204,020403,3440,0,1147,10,3430,0,0,0,0,6.23,8.4405,-80.5411
+Provincia de Chiriquí,Distrito de San Lorenzo,Corregimiento Boca del Monte,04,0412,041203,2071,0,633,316,1755,0,0,0,0,5.81,8.3998,-82.1303
+Provincia de Coclé,Distrito de Natá,Corregimiento Guzmán,02,0204,020404,978,0,321,365,613,0,0,0,0,5.54,8.5419,-80.5885
+Provincia de Coclé,Distrito de Natá,Corregimiento Las Huacas,02,0204,020405,1581,0,417,432,1149,0,0,0,0,5.67,8.4919,-80.7634
+Provincia de Coclé,Distrito de Natá,Corregimiento Toza,02,0204,020406,2437,0,778,0,2437,0,0,0,0,6.2,8.3653,-80.6316
+Provincia de Coclé,Distrito de Natá,Corregimiento Villarreal,02,0204,020407,2021,0,662,0,2021,0,0,0,0,6.28,8.3236,-80.6365
+Provincia de Coclé,Distrito de Olá,Corregimiento El Copé,02,0205,020502,1503,0,422,51,1452,0,0,0,0,5.75,8.4703,-80.7081
+Provincia de Coclé,Distrito de Olá,Corregimiento El Palmar,02,0205,020503,1296,0,418,1277,19,0,0,0,0,5.25,8.5695,-80.7125
+Provincia de Coclé,Distrito de Olá,Corregimiento El Picacho,02,0205,020504,346,0,136,0,346,0,0,0,0,5.86,8.3898,-80.6403
+Provincia de Coclé,Distrito de Antón,Corregimiento San Juan de Dios,02,0202,020208,5538,0,1393,0,5538,0,0,0,0,6.02,8.5437,-80.2354
+Provincia de Coclé,Distrito de Antón,Corregimiento Río Hato,02,0202,020207,15950,2173,2885,0,15950,0,0,0,0,6.18,8.4234,-80.1175
+Provincia de Coclé,Distrito de Antón,Corregimiento El Valle,02,0202,020205,7595,1976,187,0,7595,0,0,0,0,6.1,8.6173,-80.1293
+Provincia de Coclé,Distrito de Antón,Corregimiento El Retiro,02,0202,020204,2937,0,944,0,2937,0,0,0,0,6.2,8.4471,-80.1756
+Provincia de Chiriquí,Distrito de San Lorenzo,Corregimiento Horconcitos (Cabecera),04,0412,041201,1052,0,357,0,1052,0,0,0,0,6.07,8.2995,-82.1602
+Provincia de Chiriquí,Distrito de San Lorenzo,Corregimiento San Lorenzo,04,0412,041205,2683,0,844,0,2683,0,0,0,0,6.24,8.278,-82.0701
+Provincia de Chiriquí,Distrito de Tierras Altas,Corregimiento Cerro Punta,04,0414,041402,4828,326,1078,1929,0,0,0,0,0,4.48,8.8723,-82.5854
+Provincia de Chiriquí,Distrito de Tierras Altas,Corregimiento Cuesta de Piedra,04,0414,041403,955,0,282,955,0,0,0,0,0,4.93,8.6999,-82.6284
+Provincia de Chiriquí,Distrito de Tierras Altas,Corregimiento Nueva California,04,0414,041404,5995,1611,234,5530,0,0,0,0,0,4.9,8.8424,-82.6771
+Provincia de Chiriquí,Distrito de Tierras Altas,Corregimiento Paso Ancho,04,0414,041405,4670,0,1451,3469,0,0,0,0,0,4.56,8.826,-82.5992
+Provincia de Chiriquí,Distrito de Tierras Altas,Corregimiento Volcán (Cabecera),04,0414,041401,7077,2036,154,7060,0,0,0,0,0,4.99,8.7321,-82.6636
+Provincia de Chiriquí,Distrito de Tolé,Corregimiento Cerro Viejo,04,0413,041303,2057,0,518,0,2057,0,0,0,0,6.17,8.2536,-81.5733
+Provincia de Chiriquí,Distrito de Tolé,Corregimiento El Cristo,04,0413,041304,2043,0,401,0,2043,0,0,0,0,5.95,8.3226,-81.6009
+Provincia de Chiriquí,Distrito de Tolé,Corregimiento Justo Fidel Palacios,04,0413,041305,808,0,185,0,808,0,0,0,0,6.03,8.327,-81.5355
+Provincia de Chiriquí,Distrito de Tolé,Corregimiento Potrero de Caña,04,0413,041307,502,0,122,0,502,0,0,0,0,5.93,8.2854,-81.6964
+Provincia de Chiriquí,Distrito de Tolé,Corregimiento Veladero,04,0413,041309,1886,0,539,0,1886,0,0,0,0,6.26,8.2383,-81.6429
+Provincia de Coclé,Distrito de Aguadulce,Corregimiento Pocrí,02,0201,020104,8194,2642,0,0,8194,0,0,0,0,6.43,8.2616,-80.5413
+Provincia de Coclé,Distrito de Antón,Corregimiento Caballero,02,0202,020210,4136,0,1198,0,4136,0,0,0,0,6.07,8.5333,-80.2034
+Provincia de Coclé,Distrito de Antón,Corregimiento Cabuya,02,0202,020202,2092,1,650,0,2092,0,0,0,0,6.06,8.5438,-80.1375
+Provincia de Panamá Oeste,Distrito de Arraiján,Corregimiento Vista Alegre,0,0,130106,21417,6573,170,18158,3259,0,0,0,0,5.34,8.9154,-79.6867

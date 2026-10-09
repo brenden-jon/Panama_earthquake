@@ -1,0 +1,243 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Panama Earthquake Monitor</title>
+<meta name="description" content="Preliminary, unofficial situational overview of the M7.7 Azuero (Panama) earthquake of 9 October 2026, compiled from public internet sources.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/MarkerCluster.min.css">
+<link rel="stylesheet" href="assets/style.css">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Cpath d='M2 17h6l3-8 5 15 4-11 3 4h7' fill='none' stroke='%23d03b3b' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E">
+</head>
+<body>
+<div class="disclaimer-bar" role="note">
+  <strong>PRELIMINARY &amp; UNOFFICIAL.</strong> Compiled from public internet sources (news, social media, USGS). Not a formal damage or risk assessment and not official figures. Verify before use.
+  <a href="#sources">Method &amp; sources</a>
+</div>
+
+<header class="top">
+  <div class="wrap top-inner">
+    <div>
+      <div class="eyebrow">Situational overview · living page</div>
+      <h1>M7.7 Azuero Earthquake, Panama</h1>
+      <div class="sub" id="event-sub">9 October 2026 · 12:56 local (17:56 UTC)</div>
+    </div>
+    <div class="top-meta">
+      <div class="live-dot" id="live-status"><span></span>Live</div>
+      <div class="muted small" id="updated">Loading…</div>
+      <button class="theme-btn" id="theme-btn" aria-label="Toggle colour theme">◐</button>
+    </div>
+  </div>
+  <nav class="tabs wrap" role="tablist">
+    <a href="#overview" data-tab="overview">Overview</a>
+    <a href="#map" data-tab="map">Map</a>
+    <a href="#impacts" data-tab="impacts">Impact reports <span class="count" id="n-reports"></span></a>
+    <a href="#news" data-tab="news">Live news stream <span class="count" id="n-news"></span></a>
+    <a href="#risk" data-tab="risk">Rapid risk assessment</a>
+    <a href="#sources" data-tab="sources">Method &amp; sources</a>
+  </nav>
+</header>
+
+<main class="wrap">
+
+<!-- ================= OVERVIEW ================= -->
+<section id="tab-overview" class="tab">
+  <p class="lede" id="headline"></p>
+  <div class="upcoming" id="upcoming"></div>
+
+  <h2 class="sec">Officially reported figures <span class="tag tag-official">Official</span></h2>
+  <div class="tiles" id="official-tiles"></div>
+  <p class="note" id="official-note"></p>
+
+  <div class="grid-2">
+    <div class="card">
+      <h3>The earthquake</h3>
+      <dl class="facts" id="event-facts"></dl>
+      <div class="conflict" id="conflict-box"></div>
+    </div>
+    <div class="card card-map">
+      <div id="mini-map" class="mini-map" aria-label="Overview map of shaking intensity and reported impacts"></div>
+      <div class="map-caption">Shaking intensity (USGS ShakeMap), epicentre ★, aftershocks ○, reported impacts ●. <a href="#map">Open full map →</a></div>
+    </div>
+  </div>
+
+  <h2 class="sec">Modelled estimates <span class="tag tag-model">Model, not observed</span></h2>
+  <div class="tiles tiles-model" id="model-tiles"></div>
+  <div class="grid-2">
+    <div class="card">
+      <h3>USGS PAGER: estimated fatalities</h3>
+      <p class="muted small">Probability of each range. Automated model from shaking and population; not a count.</p>
+      <div class="pager-bars" id="pager-fat"></div>
+    </div>
+    <div class="card">
+      <h3>USGS PAGER: estimated economic losses (US$)</h3>
+      <p class="muted small">Probability of each range. Red alert: national or international response historically required.</p>
+      <div class="pager-bars" id="pager-econ"></div>
+    </div>
+  </div>
+
+  <h2 class="sec">Reported impacts by area <span class="tag tag-reported">Media &amp; social media</span></h2>
+  <ul class="key-points" id="key-points"></ul>
+  <div class="areas" id="areas"></div>
+
+  <h2 class="sec">Services &amp; infrastructure</h2>
+  <div class="services" id="services"></div>
+
+  <div class="grid-2">
+    <div class="card">
+      <h3>Latest damage photos</h3>
+      <div class="thumbs" id="thumbs"></div>
+      <a class="more" href="#impacts">All impact reports →</a>
+    </div>
+    <div class="card">
+      <h3>Latest headlines <span class="muted small">(auto-refreshed every 15 min)</span></h3>
+      <ul class="headlines" id="headlines"></ul>
+      <a class="more" href="#news">Full news stream →</a>
+    </div>
+  </div>
+</section>
+
+<!-- ================= MAP ================= -->
+<section id="tab-map" class="tab">
+  <div class="map-wrap">
+    <div id="big-map" aria-label="Interactive map"></div>
+    <aside class="map-panel" id="map-panel">
+      <h3>Layers</h3>
+      <label><input type="checkbox" data-layer="mmi" checked> Shaking intensity (MMI)</label>
+      <label><input type="checkbox" data-layer="quakes" checked> Earthquakes &amp; aftershocks <span class="muted">(live)</span></label>
+      <label><input type="checkbox" data-layer="reports" checked> Reported impacts</label>
+      <label><input type="checkbox" data-layer="photos" checked> Damage photos</label>
+      <label><input type="checkbox" data-layer="damage"> Indicative damage by district</label>
+      <h3>Shaking (MMI)</h3>
+      <div class="mmi-legend" id="mmi-legend"></div>
+      <h3>Reports</h3>
+      <div class="legend-items">
+        <div><span class="dot dot-damage"></span> Damage, casualties</div>
+        <div><span class="dot dot-infra"></span> Infrastructure, services</div>
+        <div><span class="dot dot-other"></span> Response, other</div>
+      </div>
+      <h3>Aftershocks</h3>
+      <div class="muted small" id="quake-count">Loading…</div>
+    </aside>
+  </div>
+</section>
+
+<!-- ================= IMPACTS ================= -->
+<section id="tab-impacts" class="tab">
+  <div class="intro-row">
+    <p class="muted">Curated reports of impacts from news outlets, official statements and social media, each linked to its source. Confidence is our judgement of corroboration, not verification on the ground.</p>
+  </div>
+  <div class="filters">
+    <input type="search" id="f-q" placeholder="Search place or text…" aria-label="Search reports">
+    <select id="f-cat" aria-label="Category"><option value="">All categories</option></select>
+    <select id="f-prov" aria-label="Province"><option value="">All provinces</option></select>
+    <select id="f-conf" aria-label="Confidence"><option value="">Any confidence</option></select>
+    <label class="chk"><input type="checkbox" id="f-img"> With photo</label>
+  </div>
+  <div class="feed" id="feed"></div>
+</section>
+
+<!-- ================= NEWS ================= -->
+<section id="tab-news" class="tab">
+  <p class="muted">Automated stream of news headlines (Google News, Spanish &amp; English) and humanitarian reports mentioning the earthquake. Refreshed every 15 minutes; <strong>not curated</strong> — headlines may be inaccurate or duplicate.</p>
+  <div class="filters">
+    <input type="search" id="n-q" placeholder="Filter headlines…" aria-label="Filter headlines">
+    <select id="n-lang" aria-label="Language"><option value="">All languages</option><option value="es">Spanish</option><option value="en">English</option></select>
+  </div>
+  <ul class="news" id="news-list"></ul>
+</section>
+
+<!-- ================= RISK ================= -->
+<section id="tab-risk" class="tab">
+  <div class="callout">
+    <strong>What this is:</strong> a rapid, desk-based exposure analysis combining the USGS ShakeMap with population (WorldPop 2025, scaled to Census 2023) and building footprints (Microsoft ML footprints), aggregated to districts. Damage figures are <strong>indicative ranges</strong> from rule-of-thumb damage ratios by intensity — not a calibrated loss model, and not a substitute for field assessment (e.g. PDNA / GRADE).
+  </div>
+  <div class="tiles" id="risk-tiles"></div>
+
+  <div class="grid-2">
+    <div class="card">
+      <h3>People and buildings by shaking intensity</h3>
+      <p class="muted small">Panama only. MMI class VII = 6.5–7.5.</p>
+      <div id="mmi-chart" class="bar-chart"></div>
+    </div>
+    <div class="card card-map">
+      <div id="risk-map" class="mini-map"></div>
+      <div class="map-caption"><span id="risk-map-caption">Indicative buildings with moderate or worse damage (mid-point), by district.</span>
+        <select id="risk-metric" aria-label="Map metric">
+          <option value="dmg">Indicative damaged buildings</option>
+          <option value="pop7">Population at MMI VII+</option>
+          <option value="maxmmi">Maximum MMI</option>
+        </select></div>
+    </div>
+  </div>
+
+  <h2 class="sec">Districts ranked by indicative damage</h2>
+  <div class="table-wrap"><table class="data" id="dist-table"></table></div>
+
+  <div class="grid-2">
+    <div class="card">
+      <h3>Damage ratios used</h3>
+      <table class="data compact" id="rates-table"></table>
+      <p class="muted small">Share of buildings reaching each damage state, by MMI class. Broad ranges for a mixed Central American stock (confined masonry and RC frames with a minority of adobe, quincha and unreinforced block). PAGER notes that the predominant vulnerable types in the region are unreinforced brick masonry and adobe.</p>
+    </div>
+    <div class="card">
+      <h3>Secondary hazards</h3>
+      <ul class="plain" id="secondary"></ul>
+    </div>
+  </div>
+
+  <div class="card">
+    <h3>Observed vs modelled — early signal</h3>
+    <p>The best-documented damage is in <strong>Penonomé</strong> (Coclé), where the ShakeMap estimates only MMI ~VI. That points either to stronger local shaking than modelled (site amplification, rupture directivity toward the north-east) or to the particular vulnerability of older heritage and commercial structures. Conversely, there are very few reports yet from southern Azuero (Tonosí, Macaracas, Las Minas, Los Pozos) where modelled shaking is strongest (MMI VIII–IX) — likely an <strong>information gap</strong> (power and telecom outages, rural areas) rather than an absence of damage.</p>
+  </div>
+
+  <div class="card" id="vuln-card">
+    <h3>National risk context</h3>
+    <div id="vuln-notes"><p class="muted">Building-vulnerability layer (census housing materials, GEM exposure model) in preparation.</p></div>
+  </div>
+</section>
+
+<!-- ================= SOURCES ================= -->
+<section id="tab-sources" class="tab">
+  <div class="card prose">
+    <h3>About this page</h3>
+    <p>This page is a <strong>preliminary, unofficial</strong> compilation to support early situational awareness after the 9 October 2026 earthquake in Panama. It brings together publicly available information from the internet: the USGS earthquake products, news reports, official statements as relayed by the media, and social media posts. <strong>No formal damage, loss or risk assessment has been carried out.</strong> Figures labelled "official" are those reported by Panamanian authorities as quoted in public sources; all other numbers are either media reports or model estimates and will change.</p>
+    <p>This is <strong>not</strong> a product of the Government of Panama, the World Bank or any other institution, and it does not represent their views.</p>
+    <p>Compiled by <strong>Brenden Jongman</strong>, with AI-assisted search and data processing. Corrections and additional sources are welcome.</p>
+    <h3>How it updates</h3>
+    <ul>
+      <li><strong>Earthquakes and aftershocks</strong> are loaded live from the USGS API in your browser every 2 minutes.</li>
+      <li><strong>News stream, USGS PAGER/ShakeMap status, GDACS</strong> are refreshed automatically every 15 minutes.</li>
+      <li><strong>Curated impact reports, official figures and the overview text</strong> are reviewed and updated regularly by searching news, official channels and social media; every item links to its source.</li>
+    </ul>
+    <h3>Data sources</h3>
+    <ul id="data-sources"></ul>
+    <h3>Known limitations</h3>
+    <ul>
+      <li>Media reports in the first hours are often incomplete, duplicated or wrong. Items are tagged by confidence; unconfirmed claims (e.g. trapped persons) are marked as such.</li>
+      <li>Locations are geocoded to town level and are approximate.</li>
+      <li>Areas with power and telecom outages are under-reported.</li>
+      <li>Exposure uses an automatic ShakeMap with a point-source rupture; it will change when USGS publishes a finite-fault model.</li>
+      <li>Building footprints from machine learning miss buildings under tree cover and in remote areas; counts are lower-to-mid estimates.</li>
+      <li>Images are hot-linked from their original publishers and remain their property.</li>
+    </ul>
+  </div>
+</section>
+</main>
+
+<footer class="wrap foot">
+  Preliminary and unofficial · compiled by Brenden Jongman from public sources · not an official assessment ·
+  <span id="foot-updated"></span>
+</footer>
+
+<div class="lightbox" id="lightbox" hidden><button aria-label="Close">×</button><img alt=""><div class="lb-cap"></div></div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/leaflet.markercluster.min.js"></script>
+<script src="assets/app.js"></script>
+</body>
+</html>

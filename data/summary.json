@@ -1,0 +1,224 @@
+{
+ "generated_utc": "2026-10-09T20:19:18Z",
+ "official_latest": {
+  "as_of_utc": "2026-10-09T20:00:00Z",
+  "deaths": null,
+  "injured": null,
+  "missing": null,
+  "displaced": null,
+  "homes_damaged": null,
+  "homes_destroyed": null,
+  "source_name": "Sinaproc (via Telemetro/La Nación)",
+  "url": "https://www.lanacion.com.ar/el-mundo/las-impactantes-imagenes-y-videos-del-terremoto-que-sacudio-a-panama-nid09102026/",
+  "note": "No consolidated official balance yet. Sinaproc director Omar Smith reported 'several injured' (no figure) and damage concentrated in Veraguas, Herrera and Los Santos (Chitré, Venao). No deaths confirmed by any authority. At least 1 injured in Penonomé market (El Siglo/Infobae). Claims of trapped people at El Sitio hostel, Playa Venao, unconfirmed."
+ },
+ "official_snapshots": [
+  {
+   "as_of_utc": "2026-10-09T19:30:00Z",
+   "deaths": 0,
+   "injured": null,
+   "missing": null,
+   "displaced": null,
+   "homes_damaged": null,
+   "homes_destroyed": null,
+   "source_name": "Sinaproc (via El Salvador Times / Infobae)",
+   "url": "https://www.elsalvadortimes.com/internacional/registran-terremoto-magnitud-72-panama-que-activo-evacuaciones-preventivas-victimas/20261009123352105028.html",
+   "note": "Early Sinaproc line: event passed 'sin personas afectadas al momento'; no official count of deaths. Superseded by later reports of injuries."
+  },
+  {
+   "as_of_utc": "2026-10-09T20:00:00Z",
+   "deaths": null,
+   "injured": null,
+   "missing": null,
+   "displaced": null,
+   "homes_damaged": null,
+   "homes_destroyed": null,
+   "source_name": "Sinaproc (via Telemetro/La Nación)",
+   "url": "https://www.lanacion.com.ar/el-mundo/las-impactantes-imagenes-y-videos-del-terremoto-que-sacudio-a-panama-nid09102026/",
+   "note": "No consolidated official balance yet. Sinaproc director Omar Smith reported 'several injured' (no figure) and damage concentrated in Veraguas, Herrera and Los Santos (Chitré, Venao). No deaths confirmed by any authority. At least 1 injured in Penonomé market (El Siglo/Infobae). Claims of trapped people at El Sitio hostel, Playa Venao, unconfirmed."
+  }
+ ],
+ "conflicts": [
+  "Magnitude: USGS M7.7 (initially 8.0, then 7.6), depth 12.6 km; IGC-UP M7.2 (initially 7.0), depth 4–10 km, located 39 km W/NW of Tonosí; SGC Colombia 7.3 then 8.0.",
+  "Epicentre province: USGS names Pitaloza Arriba (AP/Reuters say Herrera); local media cite Tonosí, Los Santos.",
+  "Collapsed hotel location: Panamanian media place it in Penonomé (Hotel Dos Continentes); BioBioChile wrongly reported a four-storey hotel in downtown Panama City; es.wikipedia/Infobae also mention a separate partial hotel collapse near Tonosí.",
+  "Some outlets (Vanguardia) wrongly call Penonomé the epicentre zone.",
+  "Strongest aftershock: IGC M6.4 (13:37 local, 21 km N of Tonosí); es.wikipedia M6.2; foreign media 6.1/6.0; USGS lists M5.8 (El Cacao) and M5.5 (Bajo Corral).",
+  "PorEsto claims damage to Puente Centenario; El Tiempo video shows only shaking, no damage reported.",
+  "Several outlets recycled Sinaproc text from the 10 Aug 2026 Colombia quake ('9:31 a.m. no persons affected') — not applicable to this event."
+ ],
+ "pager": {
+  "fatality_alert": "yellow",
+  "economic_alert": "red",
+  "fatality_bins": [
+   {
+    "color": "green",
+    "min": "0",
+    "max": "1",
+    "probability": 0.035736779793653826
+   },
+   {
+    "color": "yellow",
+    "min": "1",
+    "max": "10",
+    "probability": 0.20243896460931288
+   },
+   {
+    "color": "yellow",
+    "min": "10",
+    "max": "100",
+    "probability": 0.40914415456903763
+   },
+   {
+    "color": "orange",
+    "min": "100",
+    "max": "1000",
+    "probability": 0.2816786159684609
+   },
+   {
+    "color": "red",
+    "min": "1000",
+    "max": "10000",
+    "probability": 0.06574752629586611
+   },
+   {
+    "color": "red",
+    "min": "10000",
+    "max": "100000",
+    "probability": 0.005122290901638404
+   },
+   {
+    "color": "red",
+    "min": "100000",
+    "max": "10000000",
+    "probability": 0.00013166786182772228
+   }
+  ],
+  "economic_bins": [
+   {
+    "color": "green",
+    "min": "0",
+    "max": "1",
+    "probability": 0.001466169892034916
+   },
+   {
+    "color": "yellow",
+    "min": "1",
+    "max": "10",
+    "probability": 0.01853558371812789
+   },
+   {
+    "color": "yellow",
+    "min": "10",
+    "max": "100",
+    "probability": 0.10867278266921453
+   },
+   {
+    "color": "orange",
+    "min": "100",
+    "max": "1000",
+    "probability": 0.28751745744473634
+   },
+   {
+    "color": "red",
+    "min": "1000",
+    "max": "10000",
+    "probability": 0.3447664558673521
+   },
+   {
+    "color": "red",
+    "min": "10000",
+    "max": "100000",
+    "probability": 0.1875354927609555
+   },
+   {
+    "color": "red",
+    "min": "100000",
+    "max": "10000000",
+    "probability": 0.05150605764756111
+   }
+  ],
+  "fatalities_empirical": 45,
+  "fatalities_semi_empirical": 489,
+  "losses_usd_empirical": 1697425248,
+  "pop_exposure_pa_by_mmi": [
+   0,
+   0,
+   0,
+   183097,
+   2971134,
+   1022899,
+   445901,
+   38585,
+   3715,
+   0
+  ]
+ },
+ "exposure": {
+  "pop_mmi6": 902898,
+  "pop_mmi7": 389205,
+  "pop_mmi8": 33101,
+  "pop_mmi9": 3545,
+  "pop_mmi7plus": 425851,
+  "bldg_mmi6": 297441,
+  "bldg_mmi7": 147322,
+  "bldg_mmi8": 17470,
+  "bldg_mmi9": 1909,
+  "bldg_mmi7plus": 166701,
+  "dmg_mod_lo": 13535,
+  "dmg_mod_hi": 41160,
+  "dmg_heavy_lo": 905,
+  "dmg_heavy_hi": 4610,
+  "rates": {
+   "6": [
+    0.01,
+    0.04,
+    0.0,
+    0.003
+   ],
+   "7": [
+    0.05,
+    0.15,
+    0.003,
+    0.015
+   ],
+   "8": [
+    0.15,
+    0.35,
+    0.02,
+    0.07
+   ],
+   "9": [
+    0.3,
+    0.55,
+    0.06,
+    0.15
+   ]
+  }
+ },
+ "reports_count": 76,
+ "reports_with_images": 50,
+ "places_with_damage": [
+  "Agua Clara locks",
+  "Atalaya",
+  "Calle 50 / Paitilla, Panama City",
+  "Cambutal",
+  "Chiriquí",
+  "Chitré",
+  "La Villa de Los Santos",
+  "Las Minas",
+  "Marbella, Panama City",
+  "Mariato (Santiago–Arenas road)",
+  "Panama City",
+  "Pedasí",
+  "Penonomé",
+  "Penonomé (Hospital Aquilino Tejeira)",
+  "Playa Venao",
+  "Santiago",
+  "Santiago de Veraguas",
+  "Soná",
+  "Tocumen International Airport",
+  "Tonosí",
+  "Torio"
+ ]
+}

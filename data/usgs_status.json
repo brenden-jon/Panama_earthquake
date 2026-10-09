@@ -1,0 +1,24 @@
+{
+ "checked_utc": "2026-10-09T20:13:50Z",
+ "mag": 7.7,
+ "alert": "red",
+ "mmi": 8.714,
+ "felt": 538,
+ "updated_utc": "2026-10-09T20:11:45Z",
+ "versions": {
+  "shakemap": "6",
+  "losspager": 1791576705395,
+  "dyfi": 1791576310786
+ },
+ "pager_refreshed_utc": "2026-10-09T20:13:50Z",
+ "shakemap_refreshed_utc": "2026-10-09T20:13:50Z",
+ "exposure_stale": true,
+ "gdacs": [
+  {
+   "alert": "Orange",
+   "name": "Earthquake in Panama",
+   "url": "https://www.gdacs.org/report.aspx?eventid=1570339&episodeid=1738684&eventtype=EQ",
+   "severity": "Magnitude 7.7M, Depth:12.647km"
+  }
+ ]
+}

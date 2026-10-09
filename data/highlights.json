@@ -1,0 +1,34 @@
+{
+ "updated_utc": "2026-10-09T20:30:00Z",
+ "headline": "Shallow M7.7 earthquake under the Azuero Peninsula. Damage reported across Coclé, Veraguas, Los Santos and Herrera; no official casualty figures yet.",
+ "key_points": [
+  "No authority has confirmed any deaths as of 20:30 UTC (15:30 local). SINAPROC director Omar Smith reported \"several injured\" without a figure; at least 1 injured at Penonomé market.",
+  "Heaviest documented building damage is in Penonomé (Coclé), ~110 km from the epicentre: partial collapse of Hotel Dos Continentes, cathedral tower fell, Gobernación wall collapsed, hospital patients evacuated.",
+  "Near the epicentre (southern Azuero): hostel collapse at Playa Venao with unconfirmed reports of people trapped; Cambutal/Tonosí described by Telemetro as the most affected area; houses collapsed near Tonosí.",
+  "Veraguas: damage to Santiago cathedral, municipal building and bus terminal; Atalaya basilica tower partly collapsed; road to Torio (Mariato) ruptured.",
+  "Strong aftershock sequence: Instituto de Geociencias (IGC-UP) reports 30+ aftershocks up to M6.4 (USGS largest: M5.8).",
+  "Modelled estimate (USGS PAGER): red alert for economic losses (median ~US$1.7 bn; 0–9% of GDP), yellow for fatalities (most likely 10–100). ~425,000–490,000 people experienced very strong shaking (MMI VII+)."
+ ],
+ "areas": [
+  {"area": "Penonomé, Coclé", "status": "severe", "text": "Partial collapse of Hotel Dos Continentes; San Juan Bautista cathedral tower fell onto a car; Gobernación wall collapsed; market damaged (1 injured); Hospital Aquilino Tejeira cracked and evacuated; Iguana Mall damaged."},
+  {"area": "Tonosí / Cambutal, Los Santos", "status": "severe", "text": "Described as the most affected area by Telemetro; partial collapse of a hotel and adjoining houses; road damage. Closest towns to the epicentre; strongest modelled shaking (MMI VIII–IX)."},
+  {"area": "Pedasí / Playa Venao, Los Santos", "status": "severe", "text": "El Sitio hostel collapsed; locals report people trapped (unconfirmed). Other damaged tourist buildings reported empty."},
+  {"area": "Santiago, Veraguas", "status": "significant", "text": "Cathedral and municipal building damaged (partial roof collapse); bus terminal and Policlínica Horacio Díaz Gómez damaged."},
+  {"area": "Soná & Mariato, Veraguas", "status": "significant", "text": "Fire station and Policlínica in Soná damaged; road to Torio split with vertical offsets; Santiago–Arenas road cut."},
+  {"area": "Atalaya, Veraguas", "status": "significant", "text": "Part of the Basílica Menor tower collapsed."},
+  {"area": "Chitré, Las Minas & La Villa, Herrera/Los Santos", "status": "reported", "text": "SINAPROC reports damage in Chitré (no details); cracked homes in Las Minas; San Atanasio church bell tower cracked in La Villa de Los Santos. Few images yet — information gap."},
+  {"area": "Panama City", "status": "moderate", "text": "Broken windows on Calle 50 and Paitilla; hospitals evacuated as a precaution; Metro lines 1 and 2 suspended; Tocumen airport closed."}
+ ],
+ "services": [
+  {"sector": "Electricity", "status": "disrupted", "text": "Outages in six provinces (Chiriquí, Herrera, Los Santos, Veraguas, Coclé, part of Panamá Oeste); 17 circuits restored in Colón.", "source": "Naturgy / Ensa via media"},
+  {"sector": "Water", "status": "disrupted", "text": "Chilibre treatment plant (serves most of Panama City & San Miguelito) at 20% capacity.", "source": "IDAAN via media"},
+  {"sector": "Telecoms", "status": "disrupted", "text": "Widespread mobile and internet failures across several operators.", "source": "Media reports"},
+  {"sector": "Airports", "status": "closed", "text": "Tocumen International closed and evacuated; flights diverted to Barranquilla and San José.", "source": "Tocumen S.A. via media"},
+  {"sector": "Metro", "status": "closed", "text": "Lines 1 and 2 suspended, stations evacuated.", "source": "Metro de Panamá via media"},
+  {"sector": "Roads", "status": "disrupted", "text": "Road to Torio (Mariato) ruptured; Santiago–Arenas road cut; damage around Cambutal.", "source": "Media / social media"},
+  {"sector": "Panama Canal", "status": "operating", "text": "Operating normally; ACP denied rumours of damage to Agua Clara locks.", "source": "ACP"},
+  {"sector": "Education & public offices", "status": "closed", "text": "Classes suspended nationwide; University of Panama closed; public offices closed by presidential order.", "source": "MEDUCA / Presidencia"},
+  {"sector": "Tsunami", "status": "operating", "text": "PTWC initially warned of 1–3 m waves on Panama's coasts; later no Pacific-wide threat. No tsunami damage reported.", "source": "PTWC"}
+ ],
+ "upcoming": "Government press conference expected — figures on this page will be updated as soon as official numbers are published."
+}
