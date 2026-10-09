@@ -12,7 +12,7 @@
 <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/MarkerCluster.min.css">
-<link rel="stylesheet" href="assets/style.css?v=202610092115">
+<link rel="stylesheet" href="assets/style.css?v=202610092130">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Cpath d='M2 17h6l3-8 5 15 4-11 3 4h7' fill='none' stroke='%23d03b3b' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E">
 </head>
 <body>
@@ -58,7 +58,7 @@
     <a href="#map" data-tab="map">Map</a>
     <a href="#impacts" data-tab="impacts">Impact reports <span class="count" id="n-reports"></span></a>
     <a href="#news" data-tab="news">Live news stream <span class="count" id="n-news"></span></a>
-    <a href="#risk" data-tab="risk">Rapid risk assessment</a>
+    <a href="#risk" data-tab="risk">Rapid exposure assessment</a>
     <a href="#sources" data-tab="sources">Method &amp; sources</a>
   </nav>
 </header>
@@ -73,6 +73,18 @@
   <h2 class="sec sec-first">Key numbers</h2>
   <div class="numbers" id="numbers"></div>
   <p class="numbers-key"><span class="kind kind-official">Official</span> reported by Panamanian authorities &nbsp; <span class="kind kind-reported">Reported</span> compiled from media and social media &nbsp; <span class="kind kind-model">Estimate</span> automated models, not counts</p>
+
+  <h2 class="sec">Impact map</h2>
+  <div class="map-intro">
+    <p><strong>Where the shaking was strongest and where impacts have been reported.</strong> Click a photo pin to see the damage, a summary and the source. <a href="#map">Full-screen map →</a></p>
+    <details class="howto"><summary>How to read this map</summary>
+      <p>Coloured bands show modelled shaking from the USGS ShakeMap (VI strong, VII very strong, VIII severe, IX violent). Photo pins are damage photos from news and social media, each checked by eye and placed at town level. Dots are other reported impacts. Circles are aftershocks, updated live from USGS (red = last hour). Switch on <em>Potential building damage by district</em> for the rapid exposure assessment. Locations are approximate. Few reports from an area can mean an information gap (power and telecom outages) rather than no damage.</p>
+    </details>
+  </div>
+  <div class="map-wrap map-home">
+    <div id="ov-map" aria-label="Impact map: shaking intensity, aftershocks, damage photos and reported impacts"></div>
+    <aside class="map-panel" data-panel="ov"></aside>
+  </div>
 
   <h2 class="sec">At a glance</h2>
   <div class="glance">
@@ -90,18 +102,6 @@
       <ul class="g-list" id="g-unknown"></ul>
       <div class="g-next" id="upcoming"></div>
     </div>
-  </div>
-
-  <h2 class="sec">Impact map</h2>
-  <div class="map-intro">
-    <p><strong>Where the shaking was strongest and where impacts have been reported.</strong> Click a photo pin to see the damage, a summary and the source. <a href="#map">Full-screen map →</a></p>
-    <details class="howto"><summary>How to read this map</summary>
-      <p>Coloured bands show modelled shaking from the USGS ShakeMap (VI strong, VII very strong, VIII severe, IX violent). Photo pins are damage photos from news and social media, each checked by eye and placed at town level. Dots are other reported impacts. Circles are aftershocks, updated live from USGS (red = last hour). Switch on <em>Indicative damage by district</em> for the rapid risk estimate. Locations are approximate. Few reports from an area can mean an information gap (power and telecom outages) rather than no damage.</p>
-    </details>
-  </div>
-  <div class="map-wrap map-home">
-    <div id="ov-map" aria-label="Impact map: shaking intensity, aftershocks, damage photos and reported impacts"></div>
-    <aside class="map-panel" data-panel="ov"></aside>
   </div>
 
   <h2 class="sec">Reported impacts by area</h2>
@@ -184,7 +184,11 @@
 <!-- ================= RISK ================= -->
 <section id="tab-risk" class="tab">
   <div class="callout">
-    <strong>What this is:</strong> a rapid, desk-based exposure analysis combining the USGS ShakeMap with population (WorldPop 2025, scaled to Census 2023) and building footprints (Microsoft ML footprints), aggregated to districts. Damage figures are <strong>indicative ranges</strong> from rule-of-thumb damage ratios by intensity — not a calibrated loss model, and not a substitute for field assessment (e.g. PDNA / GRADE).
+    <strong>Rapid exposure assessment.</strong> How many people and buildings were exposed to each level of shaking: the USGS ShakeMap combined with population (WorldPop 2025, scaled to Census 2023) and building footprints (Microsoft ML footprints), by district. The <strong>potential damage</strong> figures apply generic damage rates per shaking level. They do <em>not</em> use building-type-specific vulnerability, so they are indicative only, not a loss model and not a substitute for field assessment (e.g. PDNA / GRADE).
+    <ul class="callout-list">
+      <li><strong>Likely an underestimate in places.</strong> Public "Did You Feel It?" reports put shaking about one level higher than modelled near Penonomé (+1.5) and Santiago (+0.8), where damage is well documented. The "one level stronger" column shows that case.</li>
+      <li><strong>Building coverage checked:</strong> Microsoft footprint counts are within ±9% of the GEM census-based building inventory in every affected province, so missing buildings are not the main source of error.</li>
+    </ul>
   </div>
   <div class="tiles" id="risk-tiles"></div>
 
@@ -196,16 +200,16 @@
     </div>
     <div class="card card-map">
       <div id="risk-map" class="mini-map"></div>
-      <div class="map-caption"><span id="risk-map-caption">Indicative buildings with moderate or worse damage (mid-point), by district.</span>
+      <div class="map-caption"><span id="risk-map-caption">Potential buildings with moderate or worse damage (mid-point), by district.</span>
         <select id="risk-metric" aria-label="Map metric">
-          <option value="dmg">Indicative damaged buildings</option>
+          <option value="dmg">Potential damaged buildings</option>
           <option value="pop7">Population at MMI VII+</option>
           <option value="maxmmi">Maximum MMI</option>
         </select></div>
     </div>
   </div>
 
-  <h2 class="sec">Districts ranked by indicative damage</h2>
+  <h2 class="sec">Districts ranked by potential building damage</h2>
   <div class="table-wrap"><table class="data" id="dist-table"></table></div>
 
   <div class="grid-2">
@@ -269,6 +273,6 @@
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/leaflet.markercluster.min.js"></script>
-<script src="assets/app.js?v=202610092115"></script>
+<script src="assets/app.js?v=202610092130"></script>
 </body>
 </html>

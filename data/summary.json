@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-09T21:14:44Z",
+ "generated_utc": "2026-10-09T21:30:04Z",
  "official_latest": {
   "as_of_utc": "2026-10-09T20:00:00Z",
   "deaths": null,
@@ -159,6 +159,8 @@
   "dmg_mod_hi": 41160,
   "dmg_heavy_lo": 905,
   "dmg_heavy_hi": 4610,
+  "dmg_mod_hi_p1": 132533,
+  "dmg_heavy_hi_p1": 19773,
   "rates": {
    "6": [
     0.01,

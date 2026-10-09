@@ -363,3 +363,5 @@ html:not(.gate-ok) body > :not(.gate):not(script) { visibility: hidden; }
   .g-card { padding: 14px; }
 }
 .sec-first { margin-top: 6px; }
+
+.callout-list { margin: 8px 0 0; padding-left: 18px; font-size: 13.5px; display: grid; gap: 4px; }

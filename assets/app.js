@@ -146,6 +146,7 @@ function renderOverview() {
     const fatTop = topBin(p.fatality_bins), econTop = topBin(p.economic_bins);
     const photos = state.reports.filter(r => r.image_url && r.image_verdict === "damage").length;
     const places = new Set(state.reports.map(r => r.place)).size;
+    const dmgPlaces = new Set(state.reports.filter(r => ["building_damage", "fatalities", "injuries", "landslide"].includes(r.category) && r.province !== "Multiple / national").map(r => r.place.replace(/\s*\(.*\)$/, "")));
     const official = known.length
       ? `<div class="num num-official num-wide"><span class="kind kind-official">Official</span>
            <div class="off-grid">${known.map(([k, l]) => `<div><div class="nv">${fmt(o[k])}</div><div class="nl">${l}</div></div>`).join("")}</div>
@@ -158,7 +159,7 @@ function renderOverview() {
       { k: "reported", v: fmt(state.reports.length), l: "impact reports compiled", f: `from ${places} places · ${photos} damage photos` },
       { k: "model", v: binLabel(fatTop, false), l: "deaths most likely (estimate)", f: `USGS PAGER · ${Math.round(fatTop.probability * 100)}% probability` },
       { k: "model", v: "US$" + binLabel(econTop, true), l: "economic losses most likely", f: `USGS PAGER red alert · up to 9% of GDP` },
-      { k: "model", v: `${fmtK(roundTo(e.dmg_mod_lo, 1000))}–${fmtK(roundTo(e.dmg_mod_hi, 1000))}`, l: "buildings likely damaged", f: `incl. ${fmtK(roundTo(e.dmg_heavy_lo, 100))}–${fmtK(roundTo(e.dmg_heavy_hi, 100))} heavily / collapsed · rapid estimate` },
+      { k: "reported", v: fmt(dmgPlaces.size), l: "towns with reported building damage", f: `${[...dmgPlaces].slice(0, 4).join(", ")}…` },
     ].map(t => `<div class="num num-${t.k}"><span class="kind kind-${t.k}">${t.k === "model" ? "Estimate" : "Reported"}</span><div class="nv">${t.v}</div><div class="nl">${t.l}</div><div class="nf">${t.f}</div></div>`).join("");
 
     $("#official-note").innerHTML = o.note ? `<p>${esc(o.note)}</p><p class="muted small">Source: <a href="${esc(o.url)}" target="_blank" rel="noopener">${esc(o.source_name)}</a> · ${localTime(o.as_of_utc)}</p>` : `<p class="muted">No official statement recorded yet.</p>`;
@@ -302,7 +303,7 @@ function damageLayer(metric = "dmg") {
     onEachFeature: (f, l) => {
       const d = by[f.properties.adm2_pcode];
       if (!d) return;
-      l.bindTooltip(`<b>${esc(d.district)}</b>, ${esc(d.province)}<br>Pop. at MMI VII+: ${fmt(d.pop_mmi7plus)}<br>Buildings, moderate+ damage: ${fmt(d.dmg_mod_lo)}–${fmt(d.dmg_mod_hi)}<br>Heavy damage/collapse: ${fmt(d.dmg_heavy_lo)}–${fmt(d.dmg_heavy_hi)}<br>Max MMI ${d.max_mmi.toFixed(1)}${d.nonblock_share != null ? `<br>Non-block walls: ${(d.nonblock_share * 100).toFixed(0)}%` : ""}`, { sticky: true });
+      l.bindTooltip(`<b>${esc(d.district)}</b>, ${esc(d.province)}<br>Pop. at MMI VII+: ${fmt(d.pop_mmi7plus)}<br>Potential moderate+ damage: ${fmt(d.dmg_mod_lo)}–${fmt(d.dmg_mod_hi)}<br>Potential heavy damage/collapse: ${fmt(d.dmg_heavy_lo)}–${fmt(d.dmg_heavy_hi)}<br>Max MMI ${d.max_mmi.toFixed(1)}${d.nonblock_share != null ? `<br>Non-block walls: ${(d.nonblock_share * 100).toFixed(0)}%` : ""}`, { sticky: true });
     },
   });
 }
@@ -312,7 +313,7 @@ const PANEL_HTML = `
   <label><input type="checkbox" data-layer="quakes" checked> Earthquakes &amp; aftershocks <span class="muted">(live)</span></label>
   <label><input type="checkbox" data-layer="photos" checked> Damage photos <span class="muted">(click to open)</span></label>
   <label><input type="checkbox" data-layer="reports" checked> Other reported impacts</label>
-  <label><input type="checkbox" data-layer="damage"> Indicative damage by district <span class="muted">(model)</span></label>
+  <label><input type="checkbox" data-layer="damage"> Potential building damage by district <span class="muted">(exposure model)</span></label>
   <h3>Shaking (MMI)</h3>
   <div class="mmi-legend"></div>
   <h3>Reports</h3>
@@ -368,7 +369,7 @@ function initRiskMap() {
   const draw = () => {
     if (m._dmg) m.removeLayer(m._dmg);
     m._dmg = damageLayer($("#risk-metric").value).addTo(m);
-    const cap = { dmg: "Indicative buildings with moderate or worse damage (mid-point), by district.", pop7: "Population exposed to MMI VII+ (very strong shaking), by district.", maxmmi: "Maximum modelled shaking intensity (MMI) in each district." };
+    const cap = { dmg: "Potential buildings with moderate or worse damage (mid-point), by district.", pop7: "Population exposed to MMI VII+ (very strong shaking), by district.", maxmmi: "Maximum modelled shaking intensity (MMI) in each district." };
     $("#risk-map-caption").textContent = cap[$("#risk-metric").value];
   };
   m._redraw = draw;
@@ -426,11 +427,11 @@ function renderRisk() {
   if (!s) return;
   const e = s.exposure;
   $("#risk-tiles").innerHTML = [
-    ["People at MMI VI+ (strong)", fmt(roundTo(e.pop_mmi6 + e.pop_mmi7plus, 1000)), "Census 2023-scaled WorldPop"],
-    ["People at MMI VII+ (very strong)", fmt(roundTo(e.pop_mmi7plus, 1000)), `of which ${fmt(roundTo(e.pop_mmi8 + e.pop_mmi9, 100))} at VIII+`],
-    ["Buildings at MMI VII+", fmt(roundTo(e.bldg_mmi7plus, 1000)), "Microsoft ML building footprints"],
-    ["Buildings, moderate+ damage", `${fmtK(roundTo(e.dmg_mod_lo, 1000))}–${fmtK(roundTo(e.dmg_mod_hi, 1000))}`, "indicative range"],
-    ["Buildings, heavy damage / collapse", `${fmtK(roundTo(e.dmg_heavy_lo, 100))}–${fmtK(roundTo(e.dmg_heavy_hi, 100))}`, "indicative range"],
+    ["People in strong shaking (MMI VI+)", fmt(roundTo(e.pop_mmi6 + e.pop_mmi7plus, 1000)), "Census 2023-scaled WorldPop"],
+    ["People in very strong shaking (VII+)", fmt(roundTo(e.pop_mmi7plus, 1000)), `of which ${fmt(roundTo(e.pop_mmi8 + e.pop_mmi9, 100))} in severe (VIII+)`],
+    ["Buildings in very strong shaking (VII+)", fmt(roundTo(e.bldg_mmi7plus, 1000)), "Microsoft ML building footprints"],
+    ["Potential moderate+ damage", `${fmtK(roundTo(e.dmg_mod_lo, 1000))}–${fmtK(roundTo(e.dmg_mod_hi, 1000))}`, `buildings, as modelled · up to ~${fmtK(roundTo(e.dmg_mod_hi_p1, 1000))} if shaking was one level stronger`],
+    ["Potential heavy damage / collapse", `${fmtK(roundTo(e.dmg_heavy_lo, 100))}–${fmtK(roundTo(e.dmg_heavy_hi, 100))}`, `buildings, as modelled · up to ~${fmtK(roundTo(e.dmg_heavy_hi_p1, 100))} if shaking was one level stronger`],
   ].map(([l, v, f]) => `<div class="tile"><div class="label">${l}</div><div class="value">${v}</div><div class="foot">${f}</div></div>`).join("");
 
   // grouped bars: population and buildings per MMI class (two series, one axis each -> two bars normalised separately? no: separate scales are labelled)
@@ -449,8 +450,9 @@ function renderRisk() {
     ["pop_total", "Population", d => fmt(d.pop_total)], ["pop_mmi7plus", "Pop. MMI VII+", d => fmt(d.pop_mmi7plus)],
     ["bldg_mmi7plus", "Bldgs MMI VII+", d => fmt(d.bldg_mmi7plus)],
     ["nonblock_share", "Non-block walls", d => d.nonblock_share == null ? "–" : (d.nonblock_share * 100).toFixed(0) + "%"],
-    ["dmg_mod", "Moderate+ damage", d => `${fmt(d.dmg_mod_lo)}–${fmt(d.dmg_mod_hi)}`],
-    ["dmg_heavy", "Heavy / collapse", d => `${fmt(d.dmg_heavy_lo)}–${fmt(d.dmg_heavy_hi)}`],
+    ["dmg_mod", "Potential moderate+ damage", d => `${fmt(d.dmg_mod_lo)}–${fmt(d.dmg_mod_hi)}`],
+    ["dmg_heavy", "Potential heavy / collapse", d => `${fmt(d.dmg_heavy_lo)}–${fmt(d.dmg_heavy_hi)}`],
+    ["dmg_mod_hi_p1", "Moderate+ if shaking 1 level stronger", d => `up to ${fmt(d.dmg_mod_hi_p1)}`],
     ["reports", "Reports", d => fmt(d.reports)],
   ];
   const sortKey = state.sortKey || "dmg_mod";

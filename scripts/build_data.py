@@ -29,12 +29,16 @@ RATES = {  # mmi_class: (moderate+ low, high, heavy/collapse low, high)
     8: (0.15, 0.35, 0.02, 0.07),
     9: (0.30, 0.55, 0.06, 0.15),
 }
+# Used only for the "+1 intensity level" sensitivity case (class IX shifted up).
+RATE_X = (0.45, 0.70, 0.12, 0.25)
 
 
 def load_reports():
     seen, out = set(), []
     rev_path = D("raw", "image_review.json")
     review = json.load(open(rev_path)) if os.path.exists(rev_path) else {}
+    for f in glob.glob(D("raw", "reports_*.json")):  # batches may carry their own image_review
+        review.update(json.load(open(f)).get("image_review", {}))
     for f in sorted(glob.glob(D("raw", "reports_*.json"))):
         for r in json.load(open(f))["reports"]:
             if r["id"] in seen:
@@ -71,12 +75,17 @@ def districts():
     wall = walls()
     for r in csv.DictReader(open(D("data", "risk", "exposure_adm2.csv"))):
         num = {k: float(v) for k, v in r.items() if k.startswith(("pop", "bldg", "mean", "max", "centroid"))}
-        if num["pop_mmi6plus"] < 1:
+        if num["pop_mmi6plus"] < 1 and num["bldg_mmi5"] < 1:
             continue
         lo = hi = clo = chi = 0.0
         for m, (a, b, c, d) in RATES.items():
             n = num[f"bldg_mmi{m}"]
             lo += n * a; hi += n * b; clo += n * c; chi += n * d
+        # Sensitivity: every building one intensity class higher (observations near
+        # Penonomé and Santiago suggest the ShakeMap underestimates shaking there).
+        shifted = {6: num["bldg_mmi5"], 7: num["bldg_mmi6"], 8: num["bldg_mmi7"], 9: num["bldg_mmi8"]}
+        p1hi = sum(shifted[m] * RATES[m][1] for m in shifted) + num["bldg_mmi9"] * RATE_X[1]
+        p1chi = sum(shifted[m] * RATES[m][3] for m in shifted) + num["bldg_mmi9"] * RATE_X[3]
         rows.append({
             "pcode": r["adm2_pcode"], "district": r["adm2_name"], "province": r["adm1_name"],
             "lat": num["centroid_lat"], "lon": num["centroid_lon"],
@@ -90,6 +99,7 @@ def districts():
             "nonblock_share": wall.get(r["adm2_pcode"]),
             "dmg_mod_lo": round(lo), "dmg_mod_hi": round(hi),
             "dmg_heavy_lo": round(clo), "dmg_heavy_hi": round(chi),
+            "dmg_mod_hi_p1": round(p1hi), "dmg_heavy_hi_p1": round(p1chi),
         })
     rows.sort(key=lambda r: -(r["dmg_mod_lo"] + r["dmg_mod_hi"]))
     return rows
@@ -129,6 +139,7 @@ def main():
             "bldg_mmi7plus": tot("bldg_mmi7plus"),
             "dmg_mod_lo": tot("dmg_mod_lo"), "dmg_mod_hi": tot("dmg_mod_hi"),
             "dmg_heavy_lo": tot("dmg_heavy_lo"), "dmg_heavy_hi": tot("dmg_heavy_hi"),
+            "dmg_mod_hi_p1": tot("dmg_mod_hi_p1"), "dmg_heavy_hi_p1": tot("dmg_heavy_hi_p1"),
             "rates": {str(k): v for k, v in RATES.items()},
         },
         "reports_count": len(reports),

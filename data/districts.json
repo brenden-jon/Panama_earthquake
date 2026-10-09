@@ -24,7 +24,9 @@
   "dmg_mod_lo": 1783,
   "dmg_mod_hi": 5292,
   "dmg_heavy_lo": 113,
-  "dmg_heavy_hi": 549
+  "dmg_heavy_hi": 549,
+  "dmg_mod_hi_p1": 12204,
+  "dmg_heavy_hi_p1": 2461
  },
  {
   "pcode": "PA0701",
@@ -51,7 +53,9 @@
   "dmg_mod_lo": 971,
   "dmg_mod_hi": 2913,
   "dmg_heavy_lo": 58,
-  "dmg_heavy_hi": 291
+  "dmg_heavy_hi": 291,
+  "dmg_mod_hi_p1": 6797,
+  "dmg_heavy_hi_p1": 1359
  },
  {
   "pcode": "PA1312",
@@ -78,7 +82,9 @@
   "dmg_mod_lo": 915,
   "dmg_mod_hi": 2389,
   "dmg_heavy_lo": 94,
-  "dmg_heavy_hi": 363
+  "dmg_heavy_hi": 363,
+  "dmg_mod_hi_p1": 4629,
+  "dmg_heavy_hi_p1": 1067
  },
  {
   "pcode": "PA0907",
@@ -105,7 +111,9 @@
   "dmg_mod_lo": 929,
   "dmg_mod_hi": 2022,
   "dmg_heavy_lo": 144,
-  "dmg_heavy_hi": 440
+  "dmg_heavy_hi": 440,
+  "dmg_mod_hi_p1": 3059,
+  "dmg_heavy_hi_p1": 885
  },
  {
   "pcode": "PA0902",
@@ -132,7 +140,9 @@
   "dmg_mod_lo": 744,
   "dmg_mod_hi": 2169,
   "dmg_heavy_lo": 52,
-  "dmg_heavy_hi": 240
+  "dmg_heavy_hi": 240,
+  "dmg_mod_hi_p1": 4887,
+  "dmg_heavy_hi_p1": 1003
  },
  {
   "pcode": "PA0903",
@@ -159,7 +169,9 @@
   "dmg_mod_lo": 690,
   "dmg_mod_hi": 2071,
   "dmg_heavy_lo": 41,
-  "dmg_heavy_hi": 207
+  "dmg_heavy_hi": 207,
+  "dmg_mod_hi_p1": 4838,
+  "dmg_heavy_hi_p1": 966
  },
  {
   "pcode": "PA0206",
@@ -186,7 +198,9 @@
   "dmg_mod_lo": 481,
   "dmg_mod_hi": 1925,
   "dmg_heavy_lo": 0,
-  "dmg_heavy_hi": 144
+  "dmg_heavy_hi": 144,
+  "dmg_mod_hi_p1": 7344,
+  "dmg_heavy_hi_p1": 731
  },
  {
   "pcode": "PA1104",
@@ -213,7 +227,9 @@
   "dmg_mod_lo": 477,
   "dmg_mod_hi": 1907,
   "dmg_heavy_lo": 0,
-  "dmg_heavy_hi": 143
+  "dmg_heavy_hi": 143,
+  "dmg_mod_hi_p1": 8499,
+  "dmg_heavy_hi_p1": 816
  },
  {
   "pcode": "PA0904",
@@ -240,7 +256,9 @@
   "dmg_mod_lo": 545,
   "dmg_mod_hi": 1297,
   "dmg_heavy_lo": 70,
-  "dmg_heavy_hi": 245
+  "dmg_heavy_hi": 245,
+  "dmg_mod_hi_p1": 2168,
+  "dmg_heavy_hi_p1": 565
  },
  {
   "pcode": "PA0704",
@@ -267,7 +285,9 @@
   "dmg_mod_lo": 376,
   "dmg_mod_hi": 1117,
   "dmg_heavy_lo": 24,
-  "dmg_heavy_hi": 115
+  "dmg_heavy_hi": 115,
+  "dmg_mod_hi_p1": 2579,
+  "dmg_heavy_hi_p1": 520
  },
  {
   "pcode": "PA0301",
@@ -294,7 +314,9 @@
   "dmg_mod_lo": 336,
   "dmg_mod_hi": 1144,
   "dmg_heavy_lo": 12,
-  "dmg_heavy_hi": 101
+  "dmg_heavy_hi": 101,
+  "dmg_mod_hi_p1": 3440,
+  "dmg_heavy_hi_p1": 484
  },
  {
   "pcode": "PA0306",
@@ -321,7 +343,9 @@
   "dmg_mod_lo": 296,
   "dmg_mod_hi": 1182,
   "dmg_heavy_lo": 0,
-  "dmg_heavy_hi": 89
+  "dmg_heavy_hi": 89,
+  "dmg_mod_hi_p1": 4527,
+  "dmg_heavy_hi_p1": 450
  },
  {
   "pcode": "PA0706",
@@ -348,7 +372,9 @@
   "dmg_mod_lo": 329,
   "dmg_mod_hi": 986,
   "dmg_heavy_lo": 20,
-  "dmg_heavy_hi": 99
+  "dmg_heavy_hi": 99,
+  "dmg_mod_hi_p1": 2300,
+  "dmg_heavy_hi_p1": 460
  },
  {
   "pcode": "PA1306",
@@ -375,7 +401,9 @@
   "dmg_mod_lo": 417,
   "dmg_mod_hi": 884,
   "dmg_heavy_lo": 68,
-  "dmg_heavy_hi": 198
+  "dmg_heavy_hi": 198,
+  "dmg_mod_hi_p1": 1319,
+  "dmg_heavy_hi_p1": 391
  },
  {
   "pcode": "PA0703",
@@ -402,7 +430,9 @@
   "dmg_mod_lo": 370,
   "dmg_mod_hi": 923,
   "dmg_heavy_lo": 43,
-  "dmg_heavy_hi": 157
+  "dmg_heavy_hi": 157,
+  "dmg_mod_hi_p1": 1661,
+  "dmg_heavy_hi_p1": 406
  },
  {
   "pcode": "PA0302",
@@ -429,7 +459,9 @@
   "dmg_mod_lo": 256,
   "dmg_mod_hi": 1022,
   "dmg_heavy_lo": 0,
-  "dmg_heavy_hi": 77
+  "dmg_heavy_hi": 77,
+  "dmg_mod_hi_p1": 3824,
+  "dmg_heavy_hi_p1": 384
  },
  {
   "pcode": "PA0702",
@@ -456,7 +488,9 @@
   "dmg_mod_lo": 343,
   "dmg_mod_hi": 833,
   "dmg_heavy_lo": 42,
-  "dmg_heavy_hi": 152
+  "dmg_heavy_hi": 152,
+  "dmg_mod_hi_p1": 1421,
+  "dmg_heavy_hi_p1": 363
  },
  {
   "pcode": "PA0901",
@@ -483,7 +517,9 @@
   "dmg_mod_lo": 274,
   "dmg_mod_hi": 821,
   "dmg_heavy_lo": 16,
-  "dmg_heavy_hi": 82
+  "dmg_heavy_hi": 82,
+  "dmg_mod_hi_p1": 1915,
+  "dmg_heavy_hi_p1": 383
  },
  {
   "pcode": "PA1301",
@@ -510,7 +546,9 @@
   "dmg_mod_lo": 267,
   "dmg_mod_hi": 802,
   "dmg_heavy_lo": 16,
-  "dmg_heavy_hi": 80
+  "dmg_heavy_hi": 80,
+  "dmg_mod_hi_p1": 1871,
+  "dmg_heavy_hi_p1": 374
  },
  {
   "pcode": "PA1304",
@@ -537,7 +575,9 @@
   "dmg_mod_lo": 263,
   "dmg_mod_hi": 803,
   "dmg_heavy_lo": 15,
-  "dmg_heavy_hi": 79
+  "dmg_heavy_hi": 79,
+  "dmg_mod_hi_p1": 1951,
+  "dmg_heavy_hi_p1": 369
  },
  {
   "pcode": "PA0705",
@@ -564,7 +604,9 @@
   "dmg_mod_lo": 248,
   "dmg_mod_hi": 743,
   "dmg_heavy_lo": 15,
-  "dmg_heavy_hi": 74
+  "dmg_heavy_hi": 74,
+  "dmg_mod_hi_p1": 1735,
+  "dmg_heavy_hi_p1": 347
  },
  {
   "pcode": "PA1308",
@@ -591,7 +633,9 @@
   "dmg_mod_lo": 203,
   "dmg_mod_hi": 587,
   "dmg_heavy_lo": 15,
-  "dmg_heavy_hi": 67
+  "dmg_heavy_hi": 67,
+  "dmg_mod_hi_p1": 1309,
+  "dmg_heavy_hi_p1": 271
  },
  {
   "pcode": "PA1305",
@@ -618,7 +662,9 @@
   "dmg_mod_lo": 184,
   "dmg_mod_hi": 589,
   "dmg_heavy_lo": 9,
-  "dmg_heavy_hi": 55
+  "dmg_heavy_hi": 55,
+  "dmg_mod_hi_p1": 1587,
+  "dmg_heavy_hi_p1": 261
  },
  {
   "pcode": "PA1105",
@@ -645,7 +691,9 @@
   "dmg_mod_lo": 149,
   "dmg_mod_hi": 597,
   "dmg_heavy_lo": 0,
-  "dmg_heavy_hi": 45
+  "dmg_heavy_hi": 45,
+  "dmg_mod_hi_p1": 2251,
+  "dmg_heavy_hi_p1": 225
  },
  {
   "pcode": "PA1307",
@@ -672,7 +720,9 @@
   "dmg_mod_lo": 185,
   "dmg_mod_hi": 542,
   "dmg_heavy_lo": 12,
-  "dmg_heavy_hi": 58
+  "dmg_heavy_hi": 58,
+  "dmg_mod_hi_p1": 1236,
+  "dmg_heavy_hi_p1": 251
  },
  {
   "pcode": "PA1103",
@@ -699,7 +749,9 @@
   "dmg_mod_lo": 131,
   "dmg_mod_hi": 525,
   "dmg_heavy_lo": 0,
-  "dmg_heavy_hi": 39
+  "dmg_heavy_hi": 39,
+  "dmg_mod_hi_p1": 2152,
+  "dmg_heavy_hi_p1": 211
  },
  {
   "pcode": "PA1101",
@@ -726,7 +778,9 @@
   "dmg_mod_lo": 116,
   "dmg_mod_hi": 464,
   "dmg_heavy_lo": 0,
-  "dmg_heavy_hi": 35
+  "dmg_heavy_hi": 35,
+  "dmg_mod_hi_p1": 4668,
+  "dmg_heavy_hi_p1": 394
  },
  {
   "pcode": "PA1302",
@@ -753,7 +807,9 @@
   "dmg_mod_lo": 121,
   "dmg_mod_hi": 408,
   "dmg_heavy_lo": 5,
-  "dmg_heavy_hi": 36
+  "dmg_heavy_hi": 36,
+  "dmg_mod_hi_p1": 1235,
+  "dmg_heavy_hi_p1": 177
  },
  {
   "pcode": "PA0202",
@@ -780,7 +836,9 @@
   "dmg_mod_lo": 104,
   "dmg_mod_hi": 417,
   "dmg_heavy_lo": 0,
-  "dmg_heavy_hi": 31
+  "dmg_heavy_hi": 31,
+  "dmg_mod_hi_p1": 1935,
+  "dmg_heavy_hi_p1": 184
  },
  {
   "pcode": "PA0707",
@@ -807,7 +865,9 @@
   "dmg_mod_lo": 124,
   "dmg_mod_hi": 371,
   "dmg_heavy_lo": 7,
-  "dmg_heavy_hi": 37
+  "dmg_heavy_hi": 37,
+  "dmg_mod_hi_p1": 866,
+  "dmg_heavy_hi_p1": 173
  },
  {
   "pcode": "PA1102",
@@ -834,7 +894,9 @@
   "dmg_mod_lo": 79,
   "dmg_mod_hi": 316,
   "dmg_heavy_lo": 0,
-  "dmg_heavy_hi": 24
+  "dmg_heavy_hi": 24,
+  "dmg_mod_hi_p1": 1490,
+  "dmg_heavy_hi_p1": 141
  },
  {
   "pcode": "PA0304",
@@ -861,7 +923,9 @@
   "dmg_mod_lo": 76,
   "dmg_mod_hi": 303,
   "dmg_heavy_lo": 0,
-  "dmg_heavy_hi": 23
+  "dmg_heavy_hi": 23,
+  "dmg_mod_hi_p1": 1154,
+  "dmg_heavy_hi_p1": 115
  },
  {
   "pcode": "PA1309",
@@ -888,7 +952,9 @@
   "dmg_mod_lo": 74,
   "dmg_mod_hi": 258,
   "dmg_heavy_lo": 2,
-  "dmg_heavy_hi": 22
+  "dmg_heavy_hi": 22,
+  "dmg_mod_hi_p1": 801,
+  "dmg_heavy_hi_p1": 107
  },
  {
   "pcode": "PA1303",
@@ -915,7 +981,9 @@
   "dmg_mod_lo": 61,
   "dmg_mod_hi": 243,
   "dmg_heavy_lo": 0,
-  "dmg_heavy_hi": 18
+  "dmg_heavy_hi": 18,
+  "dmg_mod_hi_p1": 908,
+  "dmg_heavy_hi_p1": 92
  },
  {
   "pcode": "PA0303",
@@ -942,7 +1010,9 @@
   "dmg_mod_lo": 59,
   "dmg_mod_hi": 235,
   "dmg_heavy_lo": 0,
-  "dmg_heavy_hi": 18
+  "dmg_heavy_hi": 18,
+  "dmg_mod_hi_p1": 1085,
+  "dmg_heavy_hi_p1": 103
  },
  {
   "pcode": "PA0207",
@@ -969,7 +1039,9 @@
   "dmg_mod_lo": 57,
   "dmg_mod_hi": 227,
   "dmg_heavy_lo": 0,
-  "dmg_heavy_hi": 17
+  "dmg_heavy_hi": 17,
+  "dmg_mod_hi_p1": 1148,
+  "dmg_heavy_hi_p1": 107
  },
  {
   "pcode": "PA0906",
@@ -996,7 +1068,9 @@
   "dmg_mod_lo": 71,
   "dmg_mod_hi": 204,
   "dmg_heavy_lo": 5,
-  "dmg_heavy_hi": 23
+  "dmg_heavy_hi": 23,
+  "dmg_mod_hi_p1": 451,
+  "dmg_heavy_hi_p1": 94
  },
  {
   "pcode": "PA0213",
@@ -1023,7 +1097,9 @@
   "dmg_mod_lo": 55,
   "dmg_mod_hi": 213,
   "dmg_heavy_lo": 0,
-  "dmg_heavy_hi": 16
+  "dmg_heavy_hi": 16,
+  "dmg_mod_hi_p1": 775,
+  "dmg_heavy_hi_p1": 81
  },
  {
   "pcode": "PA1003",
@@ -1050,7 +1126,9 @@
   "dmg_mod_lo": 51,
   "dmg_mod_hi": 203,
   "dmg_heavy_lo": 0,
-  "dmg_heavy_hi": 15
+  "dmg_heavy_hi": 15,
+  "dmg_mod_hi_p1": 775,
+  "dmg_heavy_hi_p1": 77
  },
  {
   "pcode": "PA0211",
@@ -1077,7 +1155,9 @@
   "dmg_mod_lo": 40,
   "dmg_mod_hi": 158,
   "dmg_heavy_lo": 0,
-  "dmg_heavy_hi": 12
+  "dmg_heavy_hi": 12,
+  "dmg_mod_hi_p1": 591,
+  "dmg_heavy_hi_p1": 60
  },
  {
   "pcode": "PA0212",
@@ -1104,7 +1184,9 @@
   "dmg_mod_lo": 30,
   "dmg_mod_hi": 122,
   "dmg_heavy_lo": 0,
-  "dmg_heavy_hi": 9
+  "dmg_heavy_hi": 9,
+  "dmg_mod_hi_p1": 458,
+  "dmg_heavy_hi_p1": 46
  },
  {
   "pcode": "PA0905",
@@ -1131,7 +1213,9 @@
   "dmg_mod_lo": 44,
   "dmg_mod_hi": 102,
   "dmg_heavy_lo": 6,
-  "dmg_heavy_hi": 20
+  "dmg_heavy_hi": 20,
+  "dmg_mod_hi_p1": 162,
+  "dmg_heavy_hi_p1": 44
  },
  {
   "pcode": "PA1310",
@@ -1158,7 +1242,9 @@
   "dmg_mod_lo": 26,
   "dmg_mod_hi": 105,
   "dmg_heavy_lo": 0,
-  "dmg_heavy_hi": 8
+  "dmg_heavy_hi": 8,
+  "dmg_mod_hi_p1": 486,
+  "dmg_heavy_hi_p1": 46
  },
  {
   "pcode": "PA0201",
@@ -1185,7 +1271,9 @@
   "dmg_mod_lo": 23,
   "dmg_mod_hi": 94,
   "dmg_heavy_lo": 0,
-  "dmg_heavy_hi": 7
+  "dmg_heavy_hi": 7,
+  "dmg_mod_hi_p1": 402,
+  "dmg_heavy_hi_p1": 39
  },
  {
   "pcode": "PA0208",
@@ -1212,7 +1300,9 @@
   "dmg_mod_lo": 22,
   "dmg_mod_hi": 89,
   "dmg_heavy_lo": 0,
-  "dmg_heavy_hi": 7
+  "dmg_heavy_hi": 7,
+  "dmg_mod_hi_p1": 396,
+  "dmg_heavy_hi_p1": 38
  },
  {
   "pcode": "PA0305",
@@ -1239,7 +1329,9 @@
   "dmg_mod_lo": 22,
   "dmg_mod_hi": 89,
   "dmg_heavy_lo": 0,
-  "dmg_heavy_hi": 7
+  "dmg_heavy_hi": 7,
+  "dmg_mod_hi_p1": 381,
+  "dmg_heavy_hi_p1": 37
  },
  {
   "pcode": "PA1005",
@@ -1266,7 +1358,9 @@
   "dmg_mod_lo": 22,
   "dmg_mod_hi": 87,
   "dmg_heavy_lo": 0,
-  "dmg_heavy_hi": 7
+  "dmg_heavy_hi": 7,
+  "dmg_mod_hi_p1": 339,
+  "dmg_heavy_hi_p1": 34
  },
  {
   "pcode": "PA1004",
@@ -1293,7 +1387,9 @@
   "dmg_mod_lo": 20,
   "dmg_mod_hi": 80,
   "dmg_heavy_lo": 0,
-  "dmg_heavy_hi": 6
+  "dmg_heavy_hi": 6,
+  "dmg_mod_hi_p1": 335,
+  "dmg_heavy_hi_p1": 33
  },
  {
   "pcode": "PA0209",
@@ -1320,7 +1416,9 @@
   "dmg_mod_lo": 23,
   "dmg_mod_hi": 76,
   "dmg_heavy_lo": 1,
-  "dmg_heavy_hi": 7
+  "dmg_heavy_hi": 7,
+  "dmg_mod_hi_p1": 221,
+  "dmg_heavy_hi_p1": 32
  },
  {
   "pcode": "PA1002",
@@ -1347,7 +1445,9 @@
   "dmg_mod_lo": 15,
   "dmg_mod_hi": 61,
   "dmg_heavy_lo": 0,
-  "dmg_heavy_hi": 5
+  "dmg_heavy_hi": 5,
+  "dmg_mod_hi_p1": 249,
+  "dmg_heavy_hi_p1": 24
  },
  {
   "pcode": "PA1001",
@@ -1374,7 +1474,9 @@
   "dmg_mod_lo": 11,
   "dmg_mod_hi": 45,
   "dmg_heavy_lo": 0,
-  "dmg_heavy_hi": 3
+  "dmg_heavy_hi": 3,
+  "dmg_mod_hi_p1": 200,
+  "dmg_heavy_hi_p1": 19
  },
  {
   "pcode": "PA1006",
@@ -1401,7 +1503,9 @@
   "dmg_mod_lo": 9,
   "dmg_mod_hi": 34,
   "dmg_heavy_lo": 0,
-  "dmg_heavy_hi": 3
+  "dmg_heavy_hi": 3,
+  "dmg_mod_hi_p1": 200,
+  "dmg_heavy_hi_p1": 18
  },
  {
   "pcode": "PA0203",
@@ -1428,7 +1532,9 @@
   "dmg_mod_lo": 7,
   "dmg_mod_hi": 29,
   "dmg_heavy_lo": 0,
-  "dmg_heavy_hi": 2
+  "dmg_heavy_hi": 2,
+  "dmg_mod_hi_p1": 383,
+  "dmg_heavy_hi_p1": 31
  },
  {
   "pcode": "PA0402",
@@ -1455,7 +1561,9 @@
   "dmg_mod_lo": 3,
   "dmg_mod_hi": 11,
   "dmg_heavy_lo": 0,
-  "dmg_heavy_hi": 1
+  "dmg_heavy_hi": 1,
+  "dmg_mod_hi_p1": 2301,
+  "dmg_heavy_hi_p1": 174
  },
  {
   "pcode": "PA0403",
@@ -1482,7 +1590,9 @@
   "dmg_mod_lo": 3,
   "dmg_mod_hi": 11,
   "dmg_heavy_lo": 0,
-  "dmg_heavy_hi": 1
+  "dmg_heavy_hi": 1,
+  "dmg_mod_hi_p1": 103,
+  "dmg_heavy_hi_p1": 9
  },
  {
   "pcode": "PA0401",
@@ -1509,7 +1619,9 @@
   "dmg_mod_lo": 2,
   "dmg_mod_hi": 9,
   "dmg_heavy_lo": 0,
-  "dmg_heavy_hi": 1
+  "dmg_heavy_hi": 1,
+  "dmg_mod_hi_p1": 207,
+  "dmg_heavy_hi_p1": 16
  },
  {
   "pcode": "PA0205",
@@ -1536,7 +1648,9 @@
   "dmg_mod_lo": 2,
   "dmg_mod_hi": 6,
   "dmg_heavy_lo": 0,
-  "dmg_heavy_hi": 0
+  "dmg_heavy_hi": 0,
+  "dmg_mod_hi_p1": 1293,
+  "dmg_heavy_hi_p1": 98
  },
  {
   "pcode": "PA0103",
@@ -1563,7 +1677,9 @@
   "dmg_mod_lo": 1,
   "dmg_mod_hi": 5,
   "dmg_heavy_lo": 0,
-  "dmg_heavy_hi": 0
+  "dmg_heavy_hi": 0,
+  "dmg_mod_hi_p1": 148,
+  "dmg_heavy_hi_p1": 12
  },
  {
   "pcode": "PA1007",
@@ -1590,6 +1706,501 @@
   "dmg_mod_lo": 0,
   "dmg_mod_hi": 0,
   "dmg_heavy_lo": 0,
-  "dmg_heavy_hi": 0
+  "dmg_heavy_hi": 0,
+  "dmg_mod_hi_p1": 2,
+  "dmg_heavy_hi_p1": 0
+ },
+ {
+  "pcode": "PA1203",
+  "district": "Chimán",
+  "province": "Panamá",
+  "lat": 8.7733,
+  "lon": -78.6423,
+  "pop_total": 3067,
+  "pop_mmi6": 0,
+  "pop_mmi7": 0,
+  "pop_mmi8": 0,
+  "pop_mmi9": 0,
+  "pop_mmi7plus": 0,
+  "bldg_total": 1142,
+  "bldg_mmi6": 0,
+  "bldg_mmi7": 0,
+  "bldg_mmi8": 0,
+  "bldg_mmi9": 0,
+  "bldg_mmi7plus": 0,
+  "mean_mmi": 4.66,
+  "max_mmi": 5.2,
+  "max_pga": 2.92,
+  "nonblock_share": 0.7768,
+  "dmg_mod_lo": 0,
+  "dmg_mod_hi": 0,
+  "dmg_heavy_lo": 0,
+  "dmg_heavy_hi": 0,
+  "dmg_mod_hi_p1": 28,
+  "dmg_heavy_hi_p1": 2
+ },
+ {
+  "pcode": "PA1201",
+  "district": "Balboa",
+  "province": "Panamá",
+  "lat": 8.3707,
+  "lon": -78.9513,
+  "pop_total": 1989,
+  "pop_mmi6": 0,
+  "pop_mmi7": 0,
+  "pop_mmi8": 0,
+  "pop_mmi9": 0,
+  "pop_mmi7plus": 0,
+  "bldg_total": 1339,
+  "bldg_mmi6": 0,
+  "bldg_mmi7": 0,
+  "bldg_mmi8": 0,
+  "bldg_mmi9": 0,
+  "bldg_mmi7plus": 0,
+  "mean_mmi": 5.0,
+  "max_mmi": 5.5,
+  "max_pga": 5.15,
+  "nonblock_share": 0.0661,
+  "dmg_mod_lo": 0,
+  "dmg_mod_hi": 0,
+  "dmg_heavy_lo": 0,
+  "dmg_heavy_hi": 0,
+  "dmg_mod_hi_p1": 54,
+  "dmg_heavy_hi_p1": 4
+ },
+ {
+  "pcode": "PA1202",
+  "district": "Chepo",
+  "province": "Panamá",
+  "lat": 9.1055,
+  "lon": -78.6475,
+  "pop_total": 67743,
+  "pop_mmi6": 0,
+  "pop_mmi7": 0,
+  "pop_mmi8": 0,
+  "pop_mmi9": 0,
+  "pop_mmi7plus": 0,
+  "bldg_total": 19868,
+  "bldg_mmi6": 0,
+  "bldg_mmi7": 0,
+  "bldg_mmi8": 0,
+  "bldg_mmi9": 0,
+  "bldg_mmi7plus": 0,
+  "mean_mmi": 4.81,
+  "max_mmi": 5.3,
+  "max_pga": 3.22,
+  "nonblock_share": 0.3016,
+  "dmg_mod_lo": 0,
+  "dmg_mod_hi": 0,
+  "dmg_heavy_lo": 0,
+  "dmg_heavy_hi": 0,
+  "dmg_mod_hi_p1": 678,
+  "dmg_heavy_hi_p1": 51
+ },
+ {
+  "pcode": "PA1204",
+  "district": "Panamá",
+  "province": "Panamá",
+  "lat": 9.2135,
+  "lon": -79.4222,
+  "pop_total": 1059617,
+  "pop_mmi6": 0,
+  "pop_mmi7": 0,
+  "pop_mmi8": 0,
+  "pop_mmi9": 0,
+  "pop_mmi7plus": 0,
+  "bldg_total": 227605,
+  "bldg_mmi6": 0,
+  "bldg_mmi7": 0,
+  "bldg_mmi8": 0,
+  "bldg_mmi9": 0,
+  "bldg_mmi7plus": 0,
+  "mean_mmi": 4.86,
+  "max_mmi": 5.4,
+  "max_pga": 5.33,
+  "nonblock_share": 0.026,
+  "dmg_mod_lo": 0,
+  "dmg_mod_hi": 0,
+  "dmg_heavy_lo": 0,
+  "dmg_heavy_hi": 0,
+  "dmg_mod_hi_p1": 8773,
+  "dmg_heavy_hi_p1": 658
+ },
+ {
+  "pcode": "PA1205",
+  "district": "San Miguelito",
+  "province": "Panamá",
+  "lat": 9.0592,
+  "lon": -79.4841,
+  "pop_total": 305928,
+  "pop_mmi6": 0,
+  "pop_mmi7": 0,
+  "pop_mmi8": 0,
+  "pop_mmi9": 0,
+  "pop_mmi7plus": 0,
+  "bldg_total": 76388,
+  "bldg_mmi6": 0,
+  "bldg_mmi7": 0,
+  "bldg_mmi8": 0,
+  "bldg_mmi9": 0,
+  "bldg_mmi7plus": 0,
+  "mean_mmi": 4.76,
+  "max_mmi": 5.2,
+  "max_pga": 4.44,
+  "nonblock_share": 0.0071,
+  "dmg_mod_lo": 0,
+  "dmg_mod_hi": 0,
+  "dmg_heavy_lo": 0,
+  "dmg_heavy_hi": 0,
+  "dmg_mod_hi_p1": 3056,
+  "dmg_heavy_hi_p1": 229
+ },
+ {
+  "pcode": "PA1206",
+  "district": "Taboga",
+  "province": "Panamá",
+  "lat": 8.729,
+  "lon": -79.565,
+  "pop_total": 1089,
+  "pop_mmi6": 0,
+  "pop_mmi7": 0,
+  "pop_mmi8": 0,
+  "pop_mmi9": 0,
+  "pop_mmi7plus": 0,
+  "bldg_total": 540,
+  "bldg_mmi6": 0,
+  "bldg_mmi7": 0,
+  "bldg_mmi8": 0,
+  "bldg_mmi9": 0,
+  "bldg_mmi7plus": 0,
+  "mean_mmi": 4.95,
+  "max_mmi": 4.9,
+  "max_pga": 5.49,
+  "nonblock_share": 0.0388,
+  "dmg_mod_lo": 0,
+  "dmg_mod_hi": 0,
+  "dmg_heavy_lo": 0,
+  "dmg_heavy_hi": 0,
+  "dmg_mod_hi_p1": 22,
+  "dmg_heavy_hi_p1": 2
+ },
+ {
+  "pcode": "PA0101",
+  "district": "Bocas del Toro",
+  "province": "Bocas del Toro",
+  "lat": 9.2161,
+  "lon": -82.2502,
+  "pop_total": 21224,
+  "pop_mmi6": 0,
+  "pop_mmi7": 0,
+  "pop_mmi8": 0,
+  "pop_mmi9": 0,
+  "pop_mmi7plus": 0,
+  "bldg_total": 3424,
+  "bldg_mmi6": 0,
+  "bldg_mmi7": 0,
+  "bldg_mmi8": 0,
+  "bldg_mmi9": 0,
+  "bldg_mmi7plus": 0,
+  "mean_mmi": 4.93,
+  "max_mmi": 5.4,
+  "max_pga": 4.53,
+  "nonblock_share": 0.7714,
+  "dmg_mod_lo": 0,
+  "dmg_mod_hi": 0,
+  "dmg_heavy_lo": 0,
+  "dmg_heavy_hi": 0,
+  "dmg_mod_hi_p1": 136,
+  "dmg_heavy_hi_p1": 10
+ },
+ {
+  "pcode": "PA0204",
+  "district": "Boquete",
+  "province": "Chiriquí",
+  "lat": 8.7515,
+  "lon": -82.3997,
+  "pop_total": 23986,
+  "pop_mmi6": 0,
+  "pop_mmi7": 0,
+  "pop_mmi8": 0,
+  "pop_mmi9": 0,
+  "pop_mmi7plus": 0,
+  "bldg_total": 9509,
+  "bldg_mmi6": 0,
+  "bldg_mmi7": 0,
+  "bldg_mmi8": 0,
+  "bldg_mmi9": 0,
+  "bldg_mmi7plus": 0,
+  "mean_mmi": 4.7,
+  "max_mmi": 5.5,
+  "max_pga": 5.73,
+  "nonblock_share": 0.0852,
+  "dmg_mod_lo": 0,
+  "dmg_mod_hi": 0,
+  "dmg_heavy_lo": 0,
+  "dmg_heavy_hi": 0,
+  "dmg_mod_hi_p1": 283,
+  "dmg_heavy_hi_p1": 21
+ },
+ {
+  "pcode": "PA0210",
+  "district": "Renacimiento",
+  "province": "Chiriquí",
+  "lat": 8.741,
+  "lon": -82.7947,
+  "pop_total": 23310,
+  "pop_mmi6": 0,
+  "pop_mmi7": 0,
+  "pop_mmi8": 0,
+  "pop_mmi9": 0,
+  "pop_mmi7plus": 0,
+  "bldg_total": 8662,
+  "bldg_mmi6": 0,
+  "bldg_mmi7": 0,
+  "bldg_mmi8": 0,
+  "bldg_mmi9": 0,
+  "bldg_mmi7plus": 0,
+  "mean_mmi": 4.76,
+  "max_mmi": 5.2,
+  "max_pga": 4.11,
+  "nonblock_share": 0.2528,
+  "dmg_mod_lo": 0,
+  "dmg_mod_hi": 0,
+  "dmg_heavy_lo": 0,
+  "dmg_heavy_hi": 0,
+  "dmg_mod_hi_p1": 326,
+  "dmg_heavy_hi_p1": 24
+ },
+ {
+  "pcode": "PA0404",
+  "district": "Portobelo",
+  "province": "Colón",
+  "lat": 9.4951,
+  "lon": -79.6441,
+  "pop_total": 10225,
+  "pop_mmi6": 0,
+  "pop_mmi7": 0,
+  "pop_mmi8": 0,
+  "pop_mmi9": 0,
+  "pop_mmi7plus": 0,
+  "bldg_total": 4365,
+  "bldg_mmi6": 0,
+  "bldg_mmi7": 0,
+  "bldg_mmi8": 0,
+  "bldg_mmi9": 0,
+  "bldg_mmi7plus": 0,
+  "mean_mmi": 4.5,
+  "max_mmi": 5.1,
+  "max_pga": 2.99,
+  "nonblock_share": 0.0542,
+  "dmg_mod_lo": 0,
+  "dmg_mod_hi": 0,
+  "dmg_heavy_lo": 0,
+  "dmg_heavy_hi": 0,
+  "dmg_mod_hi_p1": 76,
+  "dmg_heavy_hi_p1": 6
+ },
+ {
+  "pcode": "PA0405",
+  "district": "Santa Isabel",
+  "province": "Colón",
+  "lat": 9.5021,
+  "lon": -79.2987,
+  "pop_total": 4351,
+  "pop_mmi6": 0,
+  "pop_mmi7": 0,
+  "pop_mmi8": 0,
+  "pop_mmi9": 0,
+  "pop_mmi7plus": 0,
+  "bldg_total": 2428,
+  "bldg_mmi6": 0,
+  "bldg_mmi7": 0,
+  "bldg_mmi8": 0,
+  "bldg_mmi9": 0,
+  "bldg_mmi7plus": 0,
+  "mean_mmi": 4.44,
+  "max_mmi": 5.0,
+  "max_pga": 2.31,
+  "nonblock_share": 0.1163,
+  "dmg_mod_lo": 0,
+  "dmg_mod_hi": 0,
+  "dmg_heavy_lo": 0,
+  "dmg_heavy_hi": 0,
+  "dmg_mod_hi_p1": 29,
+  "dmg_heavy_hi_p1": 2
+ },
+ {
+  "pcode": "PA0501",
+  "district": "Chepigana",
+  "province": "Darién",
+  "lat": 8.1184,
+  "lon": -78.0714,
+  "pop_total": 32336,
+  "pop_mmi6": 0,
+  "pop_mmi7": 0,
+  "pop_mmi8": 0,
+  "pop_mmi9": 0,
+  "pop_mmi7plus": 0,
+  "bldg_total": 11047,
+  "bldg_mmi6": 0,
+  "bldg_mmi7": 0,
+  "bldg_mmi8": 0,
+  "bldg_mmi9": 0,
+  "bldg_mmi7plus": 0,
+  "mean_mmi": 4.63,
+  "max_mmi": 5.3,
+  "max_pga": 3.11,
+  "nonblock_share": 0.5928,
+  "dmg_mod_lo": 0,
+  "dmg_mod_hi": 0,
+  "dmg_heavy_lo": 0,
+  "dmg_heavy_hi": 0,
+  "dmg_mod_hi_p1": 281,
+  "dmg_heavy_hi_p1": 21
+ },
+ {
+  "pcode": "PA0502",
+  "district": "Pinogana",
+  "province": "Darién",
+  "lat": 8.2451,
+  "lon": -77.6853,
+  "pop_total": 23685,
+  "pop_mmi6": 0,
+  "pop_mmi7": 0,
+  "pop_mmi8": 0,
+  "pop_mmi9": 0,
+  "pop_mmi7plus": 0,
+  "bldg_total": 10361,
+  "bldg_mmi6": 0,
+  "bldg_mmi7": 0,
+  "bldg_mmi8": 0,
+  "bldg_mmi9": 0,
+  "bldg_mmi7plus": 0,
+  "mean_mmi": 4.57,
+  "max_mmi": 5.0,
+  "max_pga": 2.01,
+  "nonblock_share": 0.521,
+  "dmg_mod_lo": 0,
+  "dmg_mod_hi": 0,
+  "dmg_heavy_lo": 0,
+  "dmg_heavy_hi": 0,
+  "dmg_mod_hi_p1": 277,
+  "dmg_heavy_hi_p1": 21
+ },
+ {
+  "pcode": "PA0601",
+  "district": "Cémaco",
+  "province": "Emberá",
+  "lat": 8.4198,
+  "lon": -77.5978,
+  "pop_total": 6993,
+  "pop_mmi6": 0,
+  "pop_mmi7": 0,
+  "pop_mmi8": 0,
+  "pop_mmi9": 0,
+  "pop_mmi7plus": 0,
+  "bldg_total": 2508,
+  "bldg_mmi6": 0,
+  "bldg_mmi7": 0,
+  "bldg_mmi8": 0,
+  "bldg_mmi9": 0,
+  "bldg_mmi7plus": 0,
+  "mean_mmi": 4.6,
+  "max_mmi": 4.8,
+  "max_pga": 1.74,
+  "nonblock_share": 0.8422,
+  "dmg_mod_lo": 0,
+  "dmg_mod_hi": 0,
+  "dmg_heavy_lo": 0,
+  "dmg_heavy_hi": 0,
+  "dmg_mod_hi_p1": 67,
+  "dmg_heavy_hi_p1": 5
+ },
+ {
+  "pcode": "PA0602",
+  "district": "Sambú",
+  "province": "Emberá",
+  "lat": 7.8247,
+  "lon": -78.1296,
+  "pop_total": 3250,
+  "pop_mmi6": 0,
+  "pop_mmi7": 0,
+  "pop_mmi8": 0,
+  "pop_mmi9": 0,
+  "pop_mmi7plus": 0,
+  "bldg_total": 1249,
+  "bldg_mmi6": 0,
+  "bldg_mmi7": 0,
+  "bldg_mmi8": 0,
+  "bldg_mmi9": 0,
+  "bldg_mmi7plus": 0,
+  "mean_mmi": 4.99,
+  "max_mmi": 5.2,
+  "max_pga": 3.03,
+  "nonblock_share": 0.9263,
+  "dmg_mod_lo": 0,
+  "dmg_mod_hi": 0,
+  "dmg_heavy_lo": 0,
+  "dmg_heavy_hi": 0,
+  "dmg_mod_hi_p1": 45,
+  "dmg_heavy_hi_p1": 3
+ },
+ {
+  "pcode": "PA0102",
+  "district": "Changuinola",
+  "province": "Bocas del Toro",
+  "lat": 9.2295,
+  "lon": -82.6402,
+  "pop_total": 126511,
+  "pop_mmi6": 0,
+  "pop_mmi7": 0,
+  "pop_mmi8": 0,
+  "pop_mmi9": 0,
+  "pop_mmi7plus": 0,
+  "bldg_total": 20405,
+  "bldg_mmi6": 0,
+  "bldg_mmi7": 0,
+  "bldg_mmi8": 0,
+  "bldg_mmi9": 0,
+  "bldg_mmi7plus": 0,
+  "mean_mmi": 5.04,
+  "max_mmi": 5.5,
+  "max_pga": 3.72,
+  "nonblock_share": 0.4592,
+  "dmg_mod_lo": 0,
+  "dmg_mod_hi": 0,
+  "dmg_heavy_lo": 0,
+  "dmg_heavy_hi": 0,
+  "dmg_mod_hi_p1": 747,
+  "dmg_heavy_hi_p1": 56
+ },
+ {
+  "pcode": "PA0801",
+  "district": "Kuna Yala",
+  "province": "Kuna Yala",
+  "lat": 9.1747,
+  "lon": -78.3142,
+  "pop_total": 32049,
+  "pop_mmi6": 0,
+  "pop_mmi7": 0,
+  "pop_mmi8": 0,
+  "pop_mmi9": 0,
+  "pop_mmi7plus": 0,
+  "bldg_total": 2488,
+  "bldg_mmi6": 0,
+  "bldg_mmi7": 0,
+  "bldg_mmi8": 0,
+  "bldg_mmi9": 0,
+  "bldg_mmi7plus": 0,
+  "mean_mmi": 4.21,
+  "max_mmi": 5.0,
+  "max_pga": 2.18,
+  "nonblock_share": 0.799,
+  "dmg_mod_lo": 0,
+  "dmg_mod_hi": 0,
+  "dmg_heavy_lo": 0,
+  "dmg_heavy_hi": 0,
+  "dmg_mod_hi_p1": 4,
+  "dmg_heavy_hi_p1": 0
  }
 ]
