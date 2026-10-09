@@ -276,3 +276,9 @@ ul.plain { padding-left: 18px; margin: 0; font-size: 14px; display: grid; gap: 6
   h2.sec { margin-top: 22px; }
 }
 table.data.compact th, table.data.compact td { white-space: normal; padding: 6px 8px; }
+#official-tiles { grid-template-columns: repeat(6, 1fr); }
+@media (max-width: 1000px) { #official-tiles { grid-template-columns: repeat(3, 1fr); } }
+@media (max-width: 640px) { #official-tiles { grid-template-columns: 1fr 1fr; } }
+.leaflet-control-attribution { background: color-mix(in srgb, var(--surface) 85%, transparent) !important; color: var(--text-2); }
+.leaflet-control-attribution a { color: var(--accent); }
+.leaflet-bar a { background: var(--surface); color: var(--text); border-color: var(--border); }
