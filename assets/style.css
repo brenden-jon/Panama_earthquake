@@ -52,7 +52,7 @@ h3 { font-size: 15px; font-weight: 600; margin-bottom: 10px; }
 .disclaimer-bar { background: var(--banner-bg); color: var(--banner-fg); font-size: 13px; padding: 8px 16px; text-align: center; border-bottom: 1px solid var(--border); }
 .disclaimer-bar a { color: inherit; text-decoration: underline; margin-left: 6px; }
 
-header.top { background: var(--surface); border-bottom: 1px solid var(--border); position: sticky; top: 0; z-index: 1000; }
+header.top { background: var(--surface); border-bottom: 1px solid var(--border); position: sticky; top: 0; z-index: 1100; }
 .top-inner { display: flex; justify-content: space-between; align-items: flex-end; gap: 16px; padding-top: 16px; padding-bottom: 8px; flex-wrap: wrap; }
 .eyebrow { font-size: 12px; text-transform: uppercase; letter-spacing: .08em; color: var(--muted); font-weight: 600; }
 h1 { font-size: 26px; font-weight: 700; letter-spacing: -.01em; margin: 2px 0; }
@@ -246,3 +246,33 @@ ul.plain { padding-left: 18px; margin: 0; font-size: 14px; display: grid; gap: 6
 .tt { position: fixed; pointer-events: none; background: var(--surface); color: var(--text); border: 1px solid var(--border); box-shadow: 0 4px 14px rgba(0,0,0,.18); border-radius: 6px; padding: 6px 9px; font-size: 12.5px; z-index: 6000; max-width: 260px; }
 .marker-cluster { border-radius: 50%; }
 .marker-cluster div { width: 30px; height: 30px; margin: 5px; border-radius: 50%; text-align: center; font-size: 12px; line-height: 30px; }
+
+/* ---------- phone layout ---------- */
+@media (max-width: 640px) {
+  .disclaimer-bar { font-size: 12px; padding: 6px 12px; text-align: left; }
+  .top-inner { padding-top: 8px; padding-bottom: 0; align-items: center; flex-wrap: nowrap; gap: 8px; }
+  .eyebrow, .sub, #updated { display: none; }
+  h1 { font-size: 17px; margin: 0; }
+  .top-meta { gap: 8px; flex-shrink: 0; }
+  .tabs a { padding: 9px 9px; font-size: 13.5px; }
+  .lede { font-size: 16.5px; }
+  .tiles { grid-template-columns: 1fr 1fr; gap: 8px; }
+  .tile { padding: 10px 12px; }
+  .tile .value { font-size: 22px; }
+  .tile .value.na { font-size: 14px; padding: 4px 0 2px; }
+  .tile .label { font-size: 12px; }
+  .tile .foot { font-size: 11px; }
+  .card { padding: 12px; }
+  .facts { grid-template-columns: 1fr; gap: 0; }
+  .facts dt { font-size: 12px; margin-top: 8px; }
+  .pbar { grid-template-columns: 92px 1fr 36px; font-size: 12px; }
+  .mini-map { height: 300px; min-height: 280px; }
+  .feed { grid-template-columns: 1fr; }
+  .filters select { flex: 1 1 45%; }
+  .map-wrap { grid-template-rows: 70vh auto; border-radius: 0; margin: 0 -16px; border-left: 0; border-right: 0; }
+  .leaflet-popup-content { width: 250px !important; }
+  .pop img { max-height: 150px; }
+  .pop .multi { max-height: 45vh; }
+  h2.sec { margin-top: 22px; }
+}
+table.data.compact th, table.data.compact td { white-space: normal; padding: 6px 8px; }

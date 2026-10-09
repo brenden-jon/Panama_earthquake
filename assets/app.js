@@ -256,22 +256,23 @@ function groupByPlace(reports) {
 }
 function reportLayers() {
   const dots = L.markerClusterGroup({ maxClusterRadius: 30, showCoverageOnHover: false, spiderfyOnMaxZoom: true });
-  const photos = L.markerClusterGroup({ maxClusterRadius: 40, showCoverageOnHover: false,
+  const photos = L.markerClusterGroup({ maxClusterRadius: 40, showCoverageOnHover: false, clusterPane: "photoPane",
     iconCreateFunction: c => {
       const ms = c.getAllChildMarkers(); const img = ms.find(m => m.options._img)?.options._img;
       return L.divIcon({ className: "", html: `<div class="photo-pin dmg" style="background-image:url('${esc(img)}');position:relative"><span class="n">${ms.length}</span></div>`, iconSize: [46, 46], iconAnchor: [23, 23] });
     } });
+  const isPhotoPin = r => r.image_url && (!r.image_verdict || r.image_verdict === "damage");
   state.reports.forEach(r => {
-    if (!isFinite(r.lat)) return;
+    if (!isFinite(r.lat) || isPhotoPin(r)) return;
     const g = CAT_GROUP[r.category] || "other";
     const jitter = () => (Math.random() - 0.5) * 0.004;
     L.circleMarker([r.lat + jitter(), r.lon + jitter()], { radius: 7, color: "#fff", weight: 2, fillColor: groupColor(g), fillOpacity: 0.95 })
       .bindPopup(reportPopup([r]), { maxWidth: 340 }).bindTooltip(esc(r.place) + ": " + esc(r.title)).addTo(dots);
   });
   const photoRank = r => r.image_verdict === "damage" ? 0 : r.image_verdict === "event" ? 2 : 1;
-  groupByPlace(state.reports.filter(r => r.image_url).sort((a, b) => photoRank(a) - photoRank(b))).forEach(list => {
+  groupByPlace(state.reports.filter(isPhotoPin).sort((a, b) => photoRank(a) - photoRank(b))).forEach(list => {
     const r = list[0];
-    L.marker([r.lat, r.lon], { _img: r.image_url, icon: L.divIcon({ className: "", html: `<div class="photo-pin dmg" style="background-image:url('${esc(r.image_url)}');position:relative">${list.length > 1 ? `<span class="n">${list.length}</span>` : ""}</div>`, iconSize: [46, 46], iconAnchor: [23, 23] }) })
+    L.marker([r.lat, r.lon], { _img: r.image_url, pane: "photoPane", icon: L.divIcon({ className: "", html: `<div class="photo-pin dmg" style="background-image:url('${esc(r.image_url)}');position:relative">${list.length > 1 ? `<span class="n">${list.length}</span>` : ""}</div>`, iconSize: [46, 46], iconAnchor: [23, 23] }) })
       .bindPopup(reportPopup(list), { maxWidth: 340 }).bindTooltip(`${esc(r.place)} · ${list.length} photo${list.length > 1 ? "s" : ""}`).addTo(photos);
   });
   return { dots, photos };
@@ -300,14 +301,14 @@ function damageLayer(metric = "dmg") {
 }
 function initMiniMap() {
   if (maps.mini || !window.L) return;
-  const m = maps.mini = L.map("mini-map", { scrollWheelZoom: false, zoomControl: true }).setView([8.0, -80.6], 8);
+  const m = maps.mini = L.map("mini-map", { zoomSnap: 0.25, scrollWheelZoom: false, zoomControl: true, dragging: !L.Browser.mobile, tap: false }).fitBounds([[7.15, -81.4], [9.1, -79.4]]);
   baseLayer(m);
   m._layers_ = {};
   refreshMapLayers(m, { mmi: true, quakes: true, reports: true, photos: false });
 }
 function initBigMap() {
   if (maps.big || !window.L) return;
-  const m = maps.big = L.map("big-map", { zoomControl: true }).setView([8.2, -80.4], 8);
+  const m = maps.big = L.map("big-map", { zoomControl: true, zoomSnap: 0.25 }).fitBounds([[7.15, -81.6], [9.15, -79.3]]);
   baseLayer(m);
   m._layers_ = {};
   refreshMapLayers(m, layerToggles());
@@ -317,6 +318,7 @@ function initBigMap() {
 }
 const layerToggles = () => Object.fromEntries([...document.querySelectorAll("#map-panel input[data-layer]")].map(i => [i.dataset.layer, i.checked]));
 function refreshMapLayers(m, on) {
+  if (!m.getPane("photoPane")) m.createPane("photoPane").style.zIndex = 640;
   Object.values(m._layers_).forEach(l => m.removeLayer(l));
   m._layers_ = {};
   if (on.mmi) { m._layers_.mmi = mmiLayer().addTo(m); m._layers_.cont = contourLayer().addTo(m); }
@@ -333,7 +335,7 @@ function refreshMapLayers(m, on) {
 }
 function initRiskMap() {
   if (maps.risk || !window.L) return;
-  const m = maps.risk = L.map("risk-map", { scrollWheelZoom: false }).setView([8.0, -80.6], 8);
+  const m = maps.risk = L.map("risk-map", { zoomSnap: 0.25, scrollWheelZoom: false, dragging: !L.Browser.mobile, tap: false }).fitBounds([[7.15, -81.6], [9.0, -79.6]]);
   baseLayer(m);
   const draw = () => {
     if (m._dmg) m.removeLayer(m._dmg);

@@ -43,6 +43,9 @@ def load_reports():
             r.setdefault("figures", {})
             r.setdefault("image_url", None)
             r.setdefault("added_utc", NOW)
+            prov = (r.get("province") or "").strip()
+            if not prov or prov.lower() in ("all", "nationwide", "national") or "," in prov or "/" in prov:
+                r["province"] = "Multiple / national"
             v = review.get(r["id"])
             if v and r.get("image_url"):
                 r["image_verdict"] = v["verdict"]
