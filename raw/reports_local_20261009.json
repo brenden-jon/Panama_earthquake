@@ -1,0 +1,447 @@
+{
+ "generated_utc": "2026-10-09T21:40:00Z",
+ "official_figures": [
+  {
+   "as_of_utc": "2026-10-09T21:08:02Z",
+   "deaths": 0,
+   "injured": null,
+   "missing": null,
+   "displaced": null,
+   "homes_damaged": null,
+   "homes_destroyed": null,
+   "source_name": "SINAPROC (deputy director Malitzie Rivera / director Omar Smith), as reported by media",
+   "url": "https://www.panamaamerica.com.pa/sociedad/sinaproc-descarta-victimas-fatales-tras-sismo-de-72-y-monitorea-el-nivel-del-mar-en-las",
+   "note": "Sinaproc says no deaths recorded. 'Several' injured were taken to hospitals in the central provinces, but no number was given. As of ~21:30Z no consolidated figures for injured, displaced or damaged homes had been published. Also cited at 16:24 local in El Tiempo's live blog: https://www.eltiempo.com/mundo/latinoamerica/fuerte-terremoto-en-panama-reportan-sismo-de-magnitud-8-0-durante-la-tarde-de-este-viernes-9-de-octubre-hay-alerta-de-tsunami-3592581 . CSS (Social Security) separately reported no injured patients, users or staff in its facilities (La Estrella, existing report u202610092103_4)."
+  }
+ ],
+ "town_status": [
+  {
+   "town": "Tonosí",
+   "province": "Los Santos",
+   "summary": "Epicentral district; 6 of the first 12 aftershocks were here. Partial collapse of a hotel structure and adjoining homes under inspection; road cracks. Isla Cañas (Tonosí) told to evacuate the coast. No figures.",
+   "sources": [
+    "https://www.infobae.com/panama/2026/10/09/potente-terremoto-de-magnitud-76-sacude-panama-caidas-de-escombros-colapsos-y-alerta-de-tsunami-en-la-region/",
+    "https://www.telemetro.com/nacionales/en-vivo-sismo-panama-suspenden-clases-y-funciones-entidades-publicas-n6094639"
+   ]
+  },
+  {
+   "town": "Cambutal",
+   "province": "Los Santos",
+   "summary": "Damage reported in existing telemetro/social reports. No new figures found.",
+   "sources": [
+    "https://www.telemetro.com/nacionales/sismo-panama-reportan-derrumbes-azuero-y-autoridades-inspeccionan-danos-replicas-n6094636"
+   ]
+  },
+  {
+   "town": "Playa Venao",
+   "province": "Los Santos",
+   "summary": "Hostal El Sitio collapsed or heavily damaged. Locals feared people were trapped; not officially confirmed and no rescue outcome reported.",
+   "sources": [
+    "https://crhoy.com/mundo/video-sismo-en-panama-provoca-colapso-de-hostal-temen-que-haya-atrapados/"
+   ]
+  },
+  {
+   "town": "Pedasí",
+   "province": "Los Santos",
+   "summary": "Mayor Miguel Batista: no human losses; 1 building totally collapsed, several vehicles badly damaged. Affected tourist buildings were unoccupied.",
+   "sources": [
+    "https://www.infobae.com/america/agencias/2026/10/09/un-terremoto-de-magnitud-77-sacude-panama-y-activa-amenza-de-tsunami/"
+   ]
+  },
+  {
+   "town": "La Villa de Los Santos",
+   "province": "Los Santos",
+   "summary": "San Atanasio church (1569) damaged, with tower cracks; AP calls it collapsed. The Museo de la Nacionalidad roof and steps were damaged. No figures.",
+   "sources": [
+    "https://www.infobae.com/panama/2026/10/09/terremoto-en-panama-afecto-casas-iglesias-y-edificios-historicos-en-diversos-puntos-del-pais/",
+    "https://www.hawaiinewsnow.com/2026/10/09/second-powerful-66-magnitude-earthquake-strikes-panama-following-series-aftershocks-usgs-says/"
+   ]
+  },
+  {
+   "town": "Las Tablas",
+   "province": "Los Santos",
+   "summary": "No town-specific damage report found. Fire stations in Los Santos province are reported damaged (locations unspecified).",
+   "sources": [
+    "https://www.panamaamerica.com.pa/sociedad/sinaproc-descarta-victimas-fatales-tras-sismo-de-72-y-monitorea-el-nivel-del-mar-en-las"
+   ]
+  },
+  {
+   "town": "Macaracas",
+   "province": "Los Santos",
+   "summary": "No specific reports found.",
+   "sources": []
+  },
+  {
+   "town": "Guararé",
+   "province": "Los Santos",
+   "summary": "No specific reports found.",
+   "sources": []
+  },
+  {
+   "town": "Pocrí",
+   "province": "Los Santos",
+   "summary": "No specific reports found.",
+   "sources": []
+  },
+  {
+   "town": "Chitré",
+   "province": "Herrera",
+   "summary": "Sinaproc mentions impacts in Chitré; no details or figures.",
+   "sources": [
+    "https://www.thenationalnews.com/news/us/2026/10/09/panama-earthquake-damage/"
+   ]
+  },
+  {
+   "town": "Las Minas",
+   "province": "Herrera",
+   "summary": "A resident reports several damaged homes; no official figures.",
+   "sources": [
+    "https://www.lanacion.com.ar/el-mundo/un-potente-terremoto-de-8-grados-sacudio-panama-alertan-que-puede-haber-olas-peligrosas-de-tsunami-nid09102026/"
+   ]
+  },
+  {
+   "town": "Los Pozos",
+   "province": "Herrera",
+   "summary": "Church damaged; USGS epicentre near Pitaloza Arriba (Los Pozos). No figures.",
+   "sources": [
+    "https://www.eltiempo.com/mundo/latinoamerica/videos-del-terremoto-de-magnitud-7-7-en-panama-imagenes-de-los-danos-estructurales-y-de-los-momentos-de-angustia-por-el-sismo-3592579"
+   ]
+  },
+  {
+   "town": "Ocú / Pesé / Parita / Santa María",
+   "province": "Herrera",
+   "summary": "No specific reports found. A Crítica/Panamá América 'Herrera evacuations, 2 anxiety cases' story is from the 10 Aug 2026 event, not this quake.",
+   "sources": []
+  },
+  {
+   "town": "Santiago",
+   "province": "Veraguas",
+   "summary": "Cathedral and municipal building damaged. No figures.",
+   "sources": [
+    "https://www.tvn-2.com/nacionales/temblor-panama-fuerte-movimiento-causo_1_2265255.html"
+   ]
+  },
+  {
+   "town": "Soná",
+   "province": "Veraguas",
+   "summary": "Mayor Alberto Martinelli fire station partly collapsed (photo). Headlines about a 'Martinelli house' collapsing may refer to this station; unverified. The M6.6 aftershock was 14 km from Río Grande (Soná).",
+   "sources": [
+    "https://www.infobae.com/panama/2026/10/09/terremoto-en-panama-afecto-casas-iglesias-y-edificios-historicos-en-diversos-puntos-del-pais/",
+    "https://www.minuto60.com/mundo/nuevo-temblor-panama-hoy-66-epicentro-veraguas/16887"
+   ]
+  },
+  {
+   "town": "Mariato",
+   "province": "Veraguas",
+   "summary": "Road to Torio split by large cracks and offsets. No figures.",
+   "sources": [
+    "https://www.publimetro.co/noticias/2026/10/09/la-tierra-se-abrio-gigantesca-grieta-aparecio-en-panama-tras-el-terremoto-de-80/"
+   ]
+  },
+  {
+   "town": "Atalaya",
+   "province": "Veraguas",
+   "summary": "Church tower damaged.",
+   "sources": [
+    "https://www.prensa.com/sociedad/fuerte-temblor-de-70-sacude-a-panama/"
+   ]
+  },
+  {
+   "town": "Montijo / Río de Jesús / Las Palmas",
+   "province": "Veraguas",
+   "summary": "No reports for this quake. The Montijo health-centre evacuation story is from an earlier 2026 event.",
+   "sources": []
+  },
+  {
+   "town": "Penonomé",
+   "province": "Coclé",
+   "summary": "Most-documented damage: Hotel Dos Continentes partial collapse, San Juan Bautista cathedral tower, Gobernación wall, San Antonio chapel cracks, Iguana Mall, and the public market (1 injured). Hospital Aquilino Tejeira had cracks, so neonates and patients were moved.",
+   "sources": [
+    "https://dsn.pe/terremoto-en-panama-hoy-9-de-octubre-cuantos-fallecidos-y-heridos-se-reportan/",
+    "https://primeraedicioncol.com/terremoto-de-magnitud-77-en-panama-saldo-preliminar-sin-victimas-mortales-y-con-graves-danos-estructurales/"
+   ]
+  },
+  {
+   "town": "Aguadulce",
+   "province": "Coclé",
+   "summary": "Video of a school with fallen ceiling panels and debris.",
+   "sources": [
+    "https://www.telemundo62.com/video/noticias/mundo/terremoto-en-panama-causa-danos-en-una-escuela-de-aguadulce/2613676/"
+   ]
+  },
+  {
+   "town": "Natá / Antón / Coclé del Norte",
+   "province": "Coclé",
+   "summary": "No specific reports found. A claim of Valle de Antón landslides seen in one search summary could not be traced to a source.",
+   "sources": []
+  },
+  {
+   "town": "La Chorrera / Arraiján",
+   "province": "Panamá Oeste",
+   "summary": "M4.6 aftershock near La Chorrera; Naturgy outages in parts of Panamá Oeste. No damage reports.",
+   "sources": [
+    "https://www.laestrella.com.pa/panama/nacional/panama-bajo-alerta-por-terremoto-de-72-y-12-replicas-en-azuero-BC26353266"
+   ]
+  },
+  {
+   "town": "Panama City",
+   "province": "Panamá",
+   "summary": "Evacuations; Metro lines 1-2 and Tocumen suspended; Centennial Bridge inspected; Chilibre water plant at 20%. AP says no damage in the capital district.",
+   "sources": [
+    "https://www.telemetro.com/nacionales/en-vivo-sismo-panama-suspenden-clases-y-funciones-entidades-publicas-n6094639"
+   ]
+  },
+  {
+   "town": "David / Chiriquí",
+   "province": "Chiriquí",
+   "summary": "Only Naturgy outages in parts of Chiriquí, plus sea retreat reported on Chiriquí/Veraguas coasts (TVN). No damage reports.",
+   "sources": [
+    "https://www.tvn-2.com/nacionales/temblor-panama-victimas-personas-lesionadas_1_2265279.html"
+   ]
+  }
+ ],
+ "reports": [
+  {
+   "id": "l1",
+   "reported_utc": "2026-10-09T21:17:24Z",
+   "place": "Pedasí",
+   "district": "Pedasí",
+   "province": "Los Santos",
+   "lat": 7.5315,
+   "lon": -80.0701,
+   "category": "building_damage",
+   "title": "Pedasí mayor: one building totally collapsed, vehicles crushed, no deaths",
+   "summary": "Pedasí mayor Miguel Batista told Telemetro Reporta that no human losses were reported, but one building in the municipality collapsed entirely and several vehicles were badly damaged. Earlier reports said the affected tourist buildings were unoccupied.",
+   "figures": {
+    "deaths": 0,
+    "buildings_collapsed": 1
+   },
+   "source_name": "EFE via Infobae",
+   "source_type": "news",
+   "url": "https://www.infobae.com/america/agencias/2026/10/09/un-terremoto-de-magnitud-77-sacude-panama-y-activa-amenza-de-tsunami/",
+   "image_url": null,
+   "confidence": "medium"
+  },
+  {
+   "id": "l2",
+   "reported_utc": "2026-10-09T20:57:38Z",
+   "place": "Soná (Estación de Bomberos Mayor Alberto Martinelli)",
+   "district": "Soná",
+   "province": "Veraguas",
+   "lat": 8.009,
+   "lon": -81.315,
+   "category": "building_damage",
+   "title": "Soná fire station 'Mayor Alberto Martinelli' partially collapsed",
+   "summary": "Images show heavy damage to the Mayor Alberto Martinelli fire station in Soná district, with a collapsed front canopy and wall sections. No casualty figures given. This station's name may explain earlier headlines about a 'Martinelli house' collapsing in Soná.",
+   "figures": {},
+   "source_name": "Infobae",
+   "source_type": "news",
+   "url": "https://www.infobae.com/panama/2026/10/09/terremoto-en-panama-afecto-casas-iglesias-y-edificios-historicos-en-diversos-puntos-del-pais/",
+   "image_url": "https://www.infobae.com/resizer/v2/EOHOYLQGMVCYBLRE3H5CXKC5FE.jpg?auth=6b1c58cd233133fc87229743028b6e972161e5028cf26363c9d34525bbdc08f6&smart=true&width=768&height=576&quality=85",
+   "confidence": "medium"
+  },
+  {
+   "id": "l3",
+   "reported_utc": "2026-10-09T20:57:38Z",
+   "place": "La Villa de Los Santos (Museo de la Nacionalidad)",
+   "district": "Los Santos",
+   "province": "Los Santos",
+   "lat": 7.9378,
+   "lon": -80.415,
+   "category": "building_damage",
+   "title": "Museo de la Nacionalidad (Casa del Cabildo) roof and steps damaged",
+   "summary": "The Museo de la Nacionalidad (Casa del Cabildo), the historic building linked to the 1821 independence cry, had damage to its roof and steps; roof tiles fell into the street. No figures given.",
+   "figures": {},
+   "source_name": "Infobae (Telemetro Reporta footage)",
+   "source_type": "news",
+   "url": "https://www.infobae.com/panama/2026/10/09/terremoto-en-panama-afecto-casas-iglesias-y-edificios-historicos-en-diversos-puntos-del-pais/",
+   "image_url": "https://www.infobae.com/resizer/v2/6R3G7EKXHRHV7FPPVWCX2HWFMY.png?auth=5d845e63249ef5ae2413c55f0d3ba33defa2c8b6a3c4f9a4ae759ca6ae93b9ce&smart=true&width=1024&height=512&quality=85",
+   "confidence": "high"
+  },
+  {
+   "id": "l4",
+   "reported_utc": "2026-10-09T21:12:12Z",
+   "place": "La Villa de Los Santos (Iglesia de San Atanasio)",
+   "district": "Los Santos",
+   "province": "Los Santos",
+   "lat": 7.9378,
+   "lon": -80.415,
+   "category": "building_damage",
+   "title": "AP: colonial San Atanasio church reported collapsed (photos show tower cracked)",
+   "summary": "An AP wire report says the colonial-era San Atanasio church, a national historic monument, collapsed. Photos published by Infobae show the bell tower still standing but cracked at the top, so 'collapsed' may be overstated.",
+   "figures": {},
+   "source_name": "AP via Hawaii News Now",
+   "source_type": "news",
+   "url": "https://www.hawaiinewsnow.com/2026/10/09/second-powerful-66-magnitude-earthquake-strikes-panama-following-series-aftershocks-usgs-says/",
+   "image_url": "https://www.infobae.com/resizer/v2/YAUQPF2YSJC23HTJ4R5YF7T72E.png?auth=a23307b44af454557e63b0c2d369239a42d397f0ae6b04e222e569d89b586a39&smart=true&width=768&height=1252&quality=85",
+   "confidence": "low"
+  },
+  {
+   "id": "l5",
+   "reported_utc": "2026-10-09T20:00:00Z",
+   "place": "Los Santos province (fire stations)",
+   "district": null,
+   "province": "Los Santos",
+   "lat": 7.6516,
+   "lon": -80.3149,
+   "category": "building_damage",
+   "title": "Sinaproc: fire stations in Los Santos damaged; injured hospitalised in central provinces",
+   "summary": "Sinaproc deputy director Malitzie Rivera said no deaths had been recorded but injured people in the central provinces were taken to hospitals. Damage was concentrated in Los Santos, Veraguas and Coclé, including church domes, shops, government buildings, roads and fire stations in Los Santos. Coordinates are Las Tablas (provincial capital) as a proxy.",
+   "figures": {
+    "deaths": 0
+   },
+   "source_name": "Panamá América",
+   "source_type": "news",
+   "url": "https://www.panamaamerica.com.pa/sociedad/sinaproc-descarta-victimas-fatales-tras-sismo-de-72-y-monitorea-el-nivel-del-mar-en-las",
+   "image_url": null,
+   "confidence": "medium"
+  },
+  {
+   "id": "l6",
+   "reported_utc": "2026-10-09T21:08:00Z",
+   "place": "Isla Cañas",
+   "district": "Tonosí",
+   "province": "Los Santos",
+   "lat": 7.404,
+   "lon": -80.3264,
+   "category": "tsunami",
+   "title": "Geociencias urges coastal evacuation of Isla Cañas and southern Los Santos/Veraguas",
+   "summary": "At 16:08 local the Instituto de Geociencias urged residents of Isla Cañas and the southern coasts of Los Santos and Veraguas to evacuate homes near the shore because waves of 1-3 m were forecast. Sinaproc separately listed Isla Cañas and Tocué among sites with possible damage to homes that needed evaluation.",
+   "figures": {},
+   "source_name": "Telemetro (live blog)",
+   "source_type": "news",
+   "url": "https://www.telemetro.com/nacionales/en-vivo-sismo-panama-suspenden-clases-y-funciones-entidades-publicas-n6094639",
+   "image_url": null,
+   "confidence": "medium"
+  },
+  {
+   "id": "l7",
+   "reported_utc": "2026-10-09T20:00:00Z",
+   "place": "Isla Otoque",
+   "district": "Taboga",
+   "province": "Panamá",
+   "lat": 8.602,
+   "lon": -79.6027,
+   "category": "tsunami",
+   "title": "Abnormal sea retreat observed at Otoque and Isla Cañas",
+   "summary": "Sinaproc said abnormal sea retreat was observed near Otoque and Isla Cañas after the quake, and the Pacific Tsunami Warning Center forecast sea-level variations of 30-100 cm. Residents were asked to report changes in the tide to 911.",
+   "figures": {},
+   "source_name": "Panamá América",
+   "source_type": "news",
+   "url": "https://www.panamaamerica.com.pa/sociedad/sinaproc-descarta-victimas-fatales-tras-sismo-de-72-y-monitorea-el-nivel-del-mar-en-las",
+   "image_url": null,
+   "confidence": "medium"
+  },
+  {
+   "id": "l8",
+   "reported_utc": "2026-10-09T20:31:26Z",
+   "place": "Penonomé (Mercado Público)",
+   "district": "Penonomé",
+   "province": "Coclé",
+   "lat": 8.5205,
+   "lon": -80.3596,
+   "category": "injuries",
+   "title": "Sinaproc director: several injured, one hit by debris at Penonomé market",
+   "summary": "Sinaproc director Omar Smith said several people were injured, including one person hit by debris from a partially collapsed structure at Penonomé's public market. No consolidated national injury figure had been released.",
+   "figures": {
+    "injured": 1
+   },
+   "source_name": "DSN.pe",
+   "source_type": "news",
+   "url": "https://dsn.pe/terremoto-en-panama-hoy-9-de-octubre-cuantos-fallecidos-y-heridos-se-reportan/",
+   "image_url": null,
+   "confidence": "medium"
+  },
+  {
+   "id": "l9",
+   "reported_utc": "2026-10-09T18:15:52Z",
+   "place": "Atalaya",
+   "district": "Atalaya",
+   "province": "Veraguas",
+   "lat": 8.0192,
+   "lon": -80.9088,
+   "category": "building_damage",
+   "title": "Atalaya church tower damaged",
+   "summary": "La Prensa reported damage to the tower of the church in Atalaya, Veraguas (home of the Jesús Nazareno basilica). It also reported structural damage to Santiago cathedral. No figures given.",
+   "figures": {},
+   "source_name": "La Prensa",
+   "source_type": "news",
+   "url": "https://www.prensa.com/sociedad/fuerte-temblor-de-70-sacude-a-panama/",
+   "image_url": null,
+   "confidence": "medium"
+  },
+  {
+   "id": "l10",
+   "reported_utc": "2026-10-09T19:24:23Z",
+   "place": "La Chorrera",
+   "district": "La Chorrera",
+   "province": "Panamá Oeste",
+   "lat": 8.8836,
+   "lon": -79.7799,
+   "category": "aftershock",
+   "title": "M4.6 aftershock near La Chorrera; 46 aftershocks by 15:00",
+   "summary": "By 3 p.m. local, 46 aftershocks had been recorded, including M6.1 at 13:22 and M6.4 at 13:37 in Los Santos, plus an M4.6 near La Chorrera, Panamá Oeste. No damage is reported in La Chorrera.",
+   "figures": {},
+   "source_name": "La Estrella de Panamá",
+   "source_type": "news",
+   "url": "https://www.laestrella.com.pa/panama/nacional/panama-bajo-alerta-por-terremoto-de-72-y-12-replicas-en-azuero-BC26353266",
+   "image_url": null,
+   "confidence": "medium"
+  },
+  {
+   "id": "l11",
+   "reported_utc": "2026-10-09T21:14:09Z",
+   "place": "Central provinces (Naturgy service area)",
+   "district": null,
+   "province": "Herrera",
+   "lat": 7.9608,
+   "lon": -80.4296,
+   "category": "utilities",
+   "title": "Naturgy: outages in Chiriquí, Herrera, Los Santos, Veraguas, Coclé, Panamá Oeste",
+   "summary": "Naturgy reported power cuts across parts of Chiriquí, Herrera, Los Santos, Veraguas, Coclé and Panamá Oeste, but gave no customer counts. IDAAN said the Chilibre plant was at 20% capacity, and ETESA said the transmission grid stayed stable. Coordinates are Chitré as a proxy.",
+   "figures": {},
+   "source_name": "Infobae",
+   "source_type": "news",
+   "url": "https://www.infobae.com/panama/2026/10/09/terremoto-que-sacudio-panama-dejo-plantas-de-agua-operando-al-minimo-de-su-capacidad-y-varios-poblados-sin-electricidad/",
+   "image_url": null,
+   "confidence": "medium"
+  }
+ ],
+ "image_review": {
+  "l2": {
+   "local": "imgs_local/l_ib_EOHOYLQG.jpg",
+   "image_url": "https://www.infobae.com/resizer/v2/EOHOYLQGMVCYBLRE3H5CXKC5FE.jpg?auth=6b1c58cd233133fc87229743028b6e972161e5028cf26363c9d34525bbdc08f6&smart=true&width=768&height=576&quality=85",
+   "verdict": "damage",
+   "caption": "Soná fire station: collapsed entrance canopy, rubble, cracked walls",
+   "place_match": true
+  },
+  "l3": {
+   "local": "imgs_local/l_ib_6R3G7.jpg",
+   "image_url": "https://www.infobae.com/resizer/v2/6R3G7EKXHRHV7FPPVWCX2HWFMY.png?auth=5d845e63249ef5ae2413c55f0d3ba33defa2c8b6a3c4f9a4ae759ca6ae93b9ce&smart=true&width=1024&height=512&quality=85",
+   "verdict": "damage",
+   "caption": "Museo de la Nacionalidad: fallen roof tiles along street and steps",
+   "place_match": true
+  },
+  "l4": {
+   "local": "imgs_local/l_ib_YAUQPF2.jpg",
+   "image_url": "https://www.infobae.com/resizer/v2/YAUQPF2YSJC23HTJ4R5YF7T72E.png?auth=a23307b44af454557e63b0c2d369239a42d397f0ae6b04e222e569d89b586a39&smart=true&width=768&height=1252&quality=85",
+   "verdict": "damage",
+   "caption": "San Atanasio bell tower standing, cracks and damage near top",
+   "place_match": true,
+   "note": "Photo is from Infobae article, not AP; shows tower intact (not collapsed)"
+  },
+  "extra_penonome_hotel": {
+   "local": "imgs_local/l_ib_22NFIJ.jpg",
+   "image_url": "https://www.infobae.com/resizer/v2/22NFIJJ3MRBZBFQ4CY5W4XAAII.jpg?auth=a51f3e1d570bb0e3d02260e5838aeb0897fc0cf5fde4467b95bde8cb5d32ea0c&smart=true&width=768&height=1024&quality=85",
+   "source_url": "https://www.infobae.com/panama/2026/10/09/terremoto-en-panama-afecto-casas-iglesias-y-edificios-historicos-en-diversos-puntos-del-pais/",
+   "verdict": "damage",
+   "caption": "Penonomé: multi-storey hotel with collapsed lower floors, crowd watching",
+   "place_match": true,
+   "note": "Usable for existing Penonomé hotel reports (Hotel Dos Continentes)"
+  }
+ },
+ "notes": [
+  "Excluded as not this quake: sinaproc.gob.pa 'balance' (Jul 2024 Chiriquí), sinaproc Veraguas/Herrera pages (2021/2022 floods), mingob '40 instalaciones' / MEDUCA Penonomé fractures / Policlínica Nuevo San Juan (Aug 2026 7:34 a.m. event), Crítica/Panamá América Herrera articles (10 Aug 2026).",
+  "Existing reports n13/s19 ('Martinelli house collapsed in Soná') may conflate the 'Mayor Alberto Martinelli' fire station; verify."
+ ]
+}
