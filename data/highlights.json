@@ -1,12 +1,13 @@
 {
- "updated_utc": "2026-10-09T20:30:00Z",
- "headline": "Shallow M7.7 earthquake under the Azuero Peninsula. Damage reported across Coclé, Veraguas, Los Santos and Herrera; no official casualty figures yet.",
+ "updated_utc": "2026-10-09T21:10:00Z",
+ "headline": "Shallow M7.7 earthquake under the Azuero Peninsula, followed by an M6.6 aftershock off Soná. Damage reported across Coclé, Veraguas, Los Santos and Herrera; no official casualty figures yet.",
  "key_points": [
-  "No authority has confirmed any deaths as of 20:30 UTC (15:30 local). SINAPROC director Omar Smith reported \"several injured\" without a figure; at least 1 injured at Penonomé market.",
+  "No authority has published casualty figures as of 21:10 UTC (16:10 local); the announced press conference by Minister Montalvo and SINAPROC has not yet been reported. SINAPROC director Omar Smith reported \"several injured\" without a figure (at least 1 at Penonomé market); CSS says no patients, users or staff were hurt in its facilities. No deaths confirmed.",
   "Heaviest documented building damage is in Penonomé (Coclé), ~110 km from the epicentre: partial collapse of Hotel Dos Continentes, cathedral tower fell, Gobernación wall collapsed, hospital patients evacuated.",
   "Near the epicentre (southern Azuero): El Sitio hostel at Playa Venao collapsed — locals told La Prensa people were trapped, but local authorities say the damaged tourist buildings in Pedasí were unoccupied; no official confirmation of anyone trapped. Telemetro describes Cambutal/Tonosí as the most affected area; houses collapsed near Tonosí.",
   "Veraguas: damage to Santiago cathedral, municipal building, bus terminal and Policlínica Horacio Díaz Gómez; Atalaya basilica tower partly collapsed; Soná fire station damaged; road to Torio (Mariato) ruptured.",
-  "Strong aftershock sequence: IGC-UP reports 46 aftershocks so far, the largest about M6.4–6.5 (IGC figures vary); largest in the USGS catalogue is M5.8.",
+  "New damage reports: church of Los Pozos (Herrera) damaged (El Tiempo footage); ceiling collapse in a school/university in Aguadulce (Coclé), with unconfirmed reports of six damaged buildings there.",
+  "Strong aftershock sequence: M6.6 aftershock at 15:25 local (20:25 UTC) 14 km W of Río Grande, Soná (USGS; first reported as M6.9). IGC-UP counted 46 aftershocks by mid-afternoon.",
   "Modelled estimates: USGS PAGER red alert for economic losses (median ~US$1.7 bn; 0–9% of GDP) and yellow for fatalities (most likely 10–100). ~490,000 people in very strong shaking (MMI VII+) per USGS PAGER; this dashboard's own estimate is ~426,000."
  ],
  "areas": [
@@ -33,7 +34,7 @@
   {
    "area": "Soná & Mariato, Veraguas",
    "status": "significant",
-   "text": "Soná fire station damaged; road to Torio (Mariato) split with vertical offsets; Santiago–Arenas road cut."
+   "text": "Soná fire station damaged; road to Torio (Mariato) split with vertical offsets; Santiago–Arenas road cut. M6.6 aftershock at 20:25 UTC centred 14 km W of Río Grande (Soná)."
   },
   {
    "area": "Atalaya, Veraguas",
@@ -41,9 +42,14 @@
    "text": "Part of the Basílica Menor tower collapsed."
   },
   {
-   "area": "Chitré, Las Minas & La Villa, Herrera/Los Santos",
+   "area": "Chitré, Los Pozos, Las Minas & La Villa, Herrera/Los Santos",
    "status": "reported",
-   "text": "SINAPROC reports damage in Chitré (no details); cracked homes in Las Minas; San Atanasio church bell tower cracked in La Villa de Los Santos. Few images yet — information gap."
+   "text": "SINAPROC reports damage in Chitré (no details); church of Los Pozos damaged (El Tiempo footage); cracked homes in Las Minas; San Atanasio church bell tower cracked in La Villa de Los Santos. Few images yet — information gap (also Macaracas, Las Tablas)."
+  },
+  {
+   "area": "Aguadulce, Coclé",
+   "status": "moderate",
+   "text": "Ceiling collapse in a school/university building (Telemundo video). Sunday Guardian, citing Telemetro, reports significant damage to at least six buildings — unconfirmed."
   },
   {
    "area": "Panama City",
@@ -107,5 +113,5 @@
    "source": "PTWC (via media)"
   }
  ],
- "upcoming": "Press conference by Minister Montalvo and SINAPROC announced by President Mulino — figures on this page will be updated as soon as official numbers are published."
+ "upcoming": "Press conference by Minister Dinoska Montalvo and SINAPROC announced by President Mulino (~15:30 local); no figures reported from it yet as of 21:10 UTC. Figures will be added as soon as official numbers are published."
 }

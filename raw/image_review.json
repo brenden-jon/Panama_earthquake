@@ -248,5 +248,10 @@
   "verdict": "damage",
   "caption": "Colonial building with collapsed front walls, dust",
   "place_match": true
+ },
+ "u202610092103_3": {
+  "verdict": "damage",
+  "caption": "Collapsed ceiling panels in Aguadulce school/university corridor",
+  "place_match": null
  }
 }
