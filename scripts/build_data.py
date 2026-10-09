@@ -33,8 +33,34 @@ RATES = {  # mmi_class: (moderate+ low, high, heavy/collapse low, high)
 RATE_X = (0.45, 0.70, 0.12, 0.25)
 
 
+# Spanish for English place descriptions (place names themselves stay as they are).
+PLACE_ES = [
+    ("Pacific coast of Panama", "Costa pacífica de Panamá"), ("Central & western provinces", "Provincias centrales y occidentales"),
+    ("Central provinces (Naturgy service area)", "Provincias centrales (área de servicio de Naturgy)"),
+    ("Nationwide (CSS health facilities)", "Nivel nacional (instalaciones de salud de la CSS)"), ("Nationwide", "Nivel nacional"),
+    ("Los Santos province (fire stations)", "Provincia de Los Santos (estaciones de bomberos)"), ("Herrera province", "Provincia de Herrera"),
+    ("Chilibre water plant", "Potabilizadora de Chilibre"), ("Tocumen International Airport", "Aeropuerto Internacional de Tocumen"),
+    ("Agua Clara locks", "Esclusas de Agua Clara"), ("Tonosí area", "Zona de Tonosí"), ("Gulf of Montijo", "Golfo de Montijo"),
+    ("near Coiba Island", "cerca de isla Coiba"), ("Panama City", "Ciudad de Panamá"), ("(corridors)", "(pasillos)"),
+    ("(Bay View building)", "(edificio Bay View)"), ("province", "provincia"), ("area", "zona"),
+]
+
+
+def place_es(place):
+    out = place
+    for en, es in PLACE_ES:
+        out = out.replace(en, es)
+    return out if out != place else None
+
+
+def load_translations():
+    f = D("raw", "translations_es.json")
+    return json.load(open(f)) if os.path.exists(f) else {}
+
+
 def load_reports():
     seen, out = set(), []
+    tr = load_translations().get("reports", {})
     rev_path = D("raw", "image_review.json")
     review = json.load(open(rev_path)) if os.path.exists(rev_path) else {}
     for f in glob.glob(D("raw", "reports_*.json")):  # batches may carry their own image_review
@@ -53,6 +79,12 @@ def load_reports():
             if not prov or prov.lower() in ("all", "nationwide", "national") or "," in prov or "/" in prov:
                 r["province"] = "Multiple / national"
             v = review.get(r["id"])
+            for k, val in tr.get(r["id"], {}).items():  # Spanish title / summary / image_caption
+                if val:
+                    r[k + "_es"] = val
+            pe = place_es(r.get("place") or "")
+            if pe:
+                r["place_es"] = pe
             if v and r.get("image_url"):
                 r["image_verdict"] = v["verdict"]
                 r["image_caption"] = v.get("caption")
@@ -114,12 +146,18 @@ def main():
     expo = json.load(open(D("data", "usgs", "pager_exposures.json")))
     pa = next(c for c in expo["population_exposure"]["country_exposures"] if c["country_code"] == "PA")["exposure"]
 
+    tr = load_translations()
+    for snap in official["snapshots"]:
+        es = tr.get("official_notes", {}).get(snap["as_of_utc"])
+        if es:
+            snap["note_es"] = es
     tot = lambda k: sum(r[k] for r in dist)
     summary = {
         "generated_utc": NOW,
         "official_latest": official["snapshots"][-1] if official["snapshots"] else None,
         "official_snapshots": official["snapshots"],
         "conflicts": official.get("conflicts", []),
+        "conflicts_es": tr.get("conflicts", []),
         "pager": {
             "fatality_alert": alerts["fatality"]["level"],
             "economic_alert": alerts["economic"]["level"],

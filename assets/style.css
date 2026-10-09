@@ -365,3 +365,9 @@ html:not(.gate-ok) body > :not(.gate):not(script) { visibility: hidden; }
 .sec-first { margin-top: 6px; }
 
 .callout-list { margin: 8px 0 0; padding-left: 18px; font-size: 13.5px; display: grid; gap: 4px; }
+
+/* ---------- language switch ---------- */
+.lang-btn { background: none; border: 1px solid var(--border); color: var(--text-2); border-radius: 6px; height: 30px; padding: 0 9px; cursor: pointer; font: inherit; font-size: 12.5px; font-weight: 600; letter-spacing: .04em; }
+.lang-btn:hover, .theme-btn:hover { border-color: var(--accent); color: var(--accent); }
+.gate-card { position: relative; }
+.gate-lang { position: absolute; top: 14px; right: 14px; }

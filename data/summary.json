@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-09T22:24:32Z",
+ "generated_utc": "2026-10-09T22:45:06Z",
  "official_latest": {
   "as_of_utc": "2026-10-09T21:08:02Z",
   "deaths": 0,
@@ -10,7 +10,8 @@
   "homes_destroyed": null,
   "source_name": "SINAPROC (deputy director Malitzie Rivera / director Omar Smith), as reported by media",
   "url": "https://www.panamaamerica.com.pa/sociedad/sinaproc-descarta-victimas-fatales-tras-sismo-de-72-y-monitorea-el-nivel-del-mar-en-las",
-  "note": "Sinaproc says no deaths recorded. 'Several' injured were taken to hospitals in the central provinces, but no number was given. As of ~21:30Z no consolidated figures for injured, displaced or damaged homes had been published. Also cited at 16:24 local in El Tiempo's live blog: https://www.eltiempo.com/mundo/latinoamerica/fuerte-terremoto-en-panama-reportan-sismo-de-magnitud-8-0-durante-la-tarde-de-este-viernes-9-de-octubre-hay-alerta-de-tsunami-3592581 . CSS (Social Security) separately reported no injured patients, users or staff in its facilities (La Estrella, existing report u202610092103_4)."
+  "note": "Sinaproc says no deaths recorded. 'Several' injured were taken to hospitals in the central provinces, but no number was given. As of ~21:30Z no consolidated figures for injured, displaced or damaged homes had been published. Also cited at 16:24 local in El Tiempo's live blog: https://www.eltiempo.com/mundo/latinoamerica/fuerte-terremoto-en-panama-reportan-sismo-de-magnitud-8-0-durante-la-tarde-de-este-viernes-9-de-octubre-hay-alerta-de-tsunami-3592581 . CSS (Social Security) separately reported no injured patients, users or staff in its facilities (La Estrella, existing report u202610092103_4).",
+  "note_es": "El Sinaproc indica que no se han registrado fallecidos. «Varios» heridos fueron trasladados a hospitales de las provincias centrales, pero no se dio una cifra. Hasta ~21:30Z no se habían publicado cifras consolidadas de heridos, desplazados ni viviendas dañadas. También citado a las 16:24 hora local en la cobertura en vivo de El Tiempo: https://www.eltiempo.com/mundo/latinoamerica/fuerte-terremoto-en-panama-reportan-sismo-de-magnitud-8-0-durante-la-tarde-de-este-viernes-9-de-octubre-hay-alerta-de-tsunami-3592581 . Por separado, la CSS (Caja de Seguro Social) informó que no hubo pacientes, usuarios ni funcionarios heridos en sus instalaciones (La Estrella, reporte existente u202610092103_4)."
  },
  "official_snapshots": [
   {
@@ -23,7 +24,8 @@
    "homes_destroyed": null,
    "source_name": "Sinaproc (via Telemetro/La Nación)",
    "url": "https://www.lanacion.com.ar/el-mundo/las-impactantes-imagenes-y-videos-del-terremoto-que-sacudio-a-panama-nid09102026/",
-   "note": "No consolidated official balance yet. Sinaproc director Omar Smith reported 'several injured' (no figure) and damage concentrated in Veraguas, Herrera and Los Santos (Chitré, Venao). No deaths confirmed by any authority. At least 1 injured in Penonomé market (El Siglo/Infobae). Claims of trapped people at El Sitio hostel, Playa Venao, unconfirmed."
+   "note": "No consolidated official balance yet. Sinaproc director Omar Smith reported 'several injured' (no figure) and damage concentrated in Veraguas, Herrera and Los Santos (Chitré, Venao). No deaths confirmed by any authority. At least 1 injured in Penonomé market (El Siglo/Infobae). Claims of trapped people at El Sitio hostel, Playa Venao, unconfirmed.",
+   "note_es": "Aún no hay un balance oficial consolidado. El director del Sinaproc, Omar Smith, informó de «varios heridos» (sin cifra) y de daños concentrados en Veraguas, Herrera y Los Santos (Chitré, Venao). Ninguna autoridad ha confirmado fallecidos. Al menos 1 herido en el mercado de Penonomé (El Siglo/Infobae). Sin confirmar los reportes de personas atrapadas en el hostal El Sitio, Playa Venao."
   },
   {
    "as_of_utc": "2026-10-09T21:08:02Z",
@@ -35,7 +37,8 @@
    "homes_destroyed": null,
    "source_name": "SINAPROC (deputy director Malitzie Rivera / director Omar Smith), as reported by media",
    "url": "https://www.panamaamerica.com.pa/sociedad/sinaproc-descarta-victimas-fatales-tras-sismo-de-72-y-monitorea-el-nivel-del-mar-en-las",
-   "note": "Sinaproc says no deaths recorded. 'Several' injured were taken to hospitals in the central provinces, but no number was given. As of ~21:30Z no consolidated figures for injured, displaced or damaged homes had been published. Also cited at 16:24 local in El Tiempo's live blog: https://www.eltiempo.com/mundo/latinoamerica/fuerte-terremoto-en-panama-reportan-sismo-de-magnitud-8-0-durante-la-tarde-de-este-viernes-9-de-octubre-hay-alerta-de-tsunami-3592581 . CSS (Social Security) separately reported no injured patients, users or staff in its facilities (La Estrella, existing report u202610092103_4)."
+   "note": "Sinaproc says no deaths recorded. 'Several' injured were taken to hospitals in the central provinces, but no number was given. As of ~21:30Z no consolidated figures for injured, displaced or damaged homes had been published. Also cited at 16:24 local in El Tiempo's live blog: https://www.eltiempo.com/mundo/latinoamerica/fuerte-terremoto-en-panama-reportan-sismo-de-magnitud-8-0-durante-la-tarde-de-este-viernes-9-de-octubre-hay-alerta-de-tsunami-3592581 . CSS (Social Security) separately reported no injured patients, users or staff in its facilities (La Estrella, existing report u202610092103_4).",
+   "note_es": "El Sinaproc indica que no se han registrado fallecidos. «Varios» heridos fueron trasladados a hospitales de las provincias centrales, pero no se dio una cifra. Hasta ~21:30Z no se habían publicado cifras consolidadas de heridos, desplazados ni viviendas dañadas. También citado a las 16:24 hora local en la cobertura en vivo de El Tiempo: https://www.eltiempo.com/mundo/latinoamerica/fuerte-terremoto-en-panama-reportan-sismo-de-magnitud-8-0-durante-la-tarde-de-este-viernes-9-de-octubre-hay-alerta-de-tsunami-3592581 . Por separado, la CSS (Caja de Seguro Social) informó que no hubo pacientes, usuarios ni funcionarios heridos en sus instalaciones (La Estrella, reporte existente u202610092103_4)."
   }
  ],
  "conflicts": [
@@ -48,6 +51,17 @@
   "Several outlets recycled Sinaproc text from the 10 Aug 2026 Colombia quake ('9:31 a.m. no persons affected') — not applicable to this event.",
   "Injuries: Sinaproc director Omar Smith reported 'several injured' (no figure); the Caja de Seguro Social (15:27 local) said no patients, users or staff were affected in its own facilities. Neither is a national total.",
   "Largest aftershock (20:25 UTC): USGS M6.6, 14 km W of Río Grande (Veraguas); IGC-UP M6.9, 32 km from Coiba; El Tiempo also cites M6.6 8 km NW of Río Grande."
+ ],
+ "conflicts_es": [
+  "Magnitud: USGS M7,7 (inicialmente 8,0, luego 7,6), profundidad de 12,6 km; IGC-UP M7,2 (inicialmente 7,0), profundidad de 4–10 km, ubicado a 39 km al O/NO de Tonosí; SGC de Colombia, 7,3 y luego 8,0.",
+  "Provincia del epicentro: el USGS menciona Pitaloza Arriba (AP/Reuters dicen Herrera); medios locales citan Tonosí, Los Santos.",
+  "Ubicación del hotel colapsado: los medios panameños lo sitúan en Penonomé (Hotel Dos Continentes); BioBioChile informó erróneamente de un hotel de cuatro pisos en el centro de la Ciudad de Panamá; es.wikipedia/Infobae mencionan además un colapso parcial distinto de un hotel cerca de Tonosí.",
+  "Algunos medios (Vanguardia) llaman erróneamente a Penonomé la zona del epicentro.",
+  "Réplicas: el director del IGC-UP, Néstor Luque, informó de 46 réplicas a media tarde (La Estrella); Telemetro dice «más de 40»/«más de 47». La mayor: M6,6 del USGS a las 20:25 UTC cerca de Río Grande (Soná), reportada primero como M6,9 por el SGC de Colombia y por el IGC (Telemetro, «32 km al NE de Coiba»). Los valores anteriores del IGC de M6,0–6,5 para las primeras réplicas no coinciden con el catálogo del USGS (mayor réplica temprana: M5,8, El Cacao).",
+  "PorEsto afirma que hubo daños en el Puente Centenario; el video de El Tiempo solo muestra el movimiento, sin daños reportados.",
+  "Varios medios reciclaron un texto del Sinaproc sobre el sismo del 10 de agosto de 2026 en Colombia («9:31 a. m., sin personas afectadas»), que no corresponde a este evento.",
+  "Heridos: el director del Sinaproc, Omar Smith, informó de «varios heridos» (sin cifra); la Caja de Seguro Social (15:27 hora local) dijo que no hubo pacientes, usuarios ni funcionarios afectados en sus propias instalaciones. Ninguna de las dos es una cifra nacional.",
+  "Réplica más fuerte (20:25 UTC): USGS M6,6, 14 km al O de Río Grande (Veraguas); IGC-UP M6,9, a 32 km de Coiba; El Tiempo también cita M6,6 a 8 km al NO de Río Grande."
  ],
  "pager": {
   "fatality_alert": "yellow",

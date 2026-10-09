@@ -12,12 +12,13 @@
 <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/MarkerCluster.min.css">
-<link rel="stylesheet" href="assets/style.css?v=202610092130">
+<link rel="stylesheet" href="assets/style.css?v=20261009224506">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Cpath d='M2 17h6l3-8 5 15 4-11 3 4h7' fill='none' stroke='%23d03b3b' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E">
 </head>
 <body>
 <div class="gate" id="gate" role="dialog" aria-modal="true" aria-labelledby="gate-title">
   <div class="gate-card">
+    <button class="lang-btn gate-lang" type="button" aria-label="Switch language">ES</button>
     <div class="eyebrow">Preliminary analytical platform</div>
     <h1 id="gate-title">Panama Earthquake Monitor</h1>
     <p class="gate-sub">M7.7 Azuero earthquake · 9 October 2026</p>
@@ -31,7 +32,7 @@
         <input id="gate-pw" type="password" autocomplete="off" spellcheck="false" required>
         <button type="submit">Enter</button>
       </div>
-      <div class="gate-err" id="gate-err" aria-live="polite"></div>
+      <div class="gate-err" id="gate-err" data-dyn aria-live="polite"></div>
     </form>
   </div>
 </div>
@@ -49,15 +50,16 @@
     </div>
     <div class="top-meta">
       <div class="live-dot" id="live-status"><span></span>Live</div>
-      <div class="muted small" id="updated">Loading…</div>
+      <div class="muted small" id="updated" data-dyn>Loading…</div>
+      <button class="lang-btn" type="button" aria-label="Switch language">ES</button>
       <button class="theme-btn" id="theme-btn" aria-label="Toggle colour theme">◐</button>
     </div>
   </div>
   <nav class="tabs wrap" role="tablist">
     <a href="#overview" data-tab="overview">Overview</a>
     <a href="#map" data-tab="map">Map</a>
-    <a href="#impacts" data-tab="impacts">Impact reports <span class="count" id="n-reports"></span></a>
-    <a href="#news" data-tab="news">Live news stream <span class="count" id="n-news"></span></a>
+    <a href="#impacts" data-tab="impacts">Impact reports <span class="count" id="n-reports" data-dyn></span></a>
+    <a href="#news" data-tab="news">Live news stream <span class="count" id="n-news" data-dyn></span></a>
     <a href="#risk" data-tab="risk">Rapid exposure assessment</a>
     <a href="#sources" data-tab="sources">Method &amp; sources</a>
   </nav>
@@ -67,11 +69,11 @@
 
 <!-- ================= OVERVIEW ================= -->
 <section id="tab-overview" class="tab">
-  <p class="lede" id="headline"></p>
-  <p class="asof" id="asof"></p>
+  <p class="lede" id="headline" data-dyn></p>
+  <p class="asof" id="asof" data-dyn></p>
 
   <h2 class="sec sec-first">Key numbers</h2>
-  <div class="numbers" id="numbers"></div>
+  <div class="numbers" id="numbers" data-dyn></div>
   <p class="numbers-key"><span class="kind kind-official">Official</span> reported by Panamanian authorities &nbsp; <span class="kind kind-reported">Reported</span> compiled from media and social media &nbsp; <span class="kind kind-model">Estimate</span> automated models, not counts</p>
 
   <h2 class="sec">Impact map</h2>
@@ -90,35 +92,35 @@
   <div class="glance">
     <div class="g-card g-what">
       <h3><span class="g-num">1</span> What happened</h3>
-      <ul class="g-list" id="g-what"></ul>
+      <ul class="g-list" id="g-what" data-dyn></ul>
     </div>
     <div class="g-card g-know">
       <h3><span class="g-num">2</span> What we know so far</h3>
-      <ul class="g-list" id="key-points"></ul>
+      <ul class="g-list" id="key-points" data-dyn></ul>
       <div class="g-src">Preliminary, from news, social media and official statements. <a href="#impacts">See all reports →</a></div>
     </div>
     <div class="g-card g-unknown">
       <h3><span class="g-num">3</span> What we don't know yet</h3>
-      <ul class="g-list" id="g-unknown"></ul>
-      <div class="g-next" id="upcoming"></div>
+      <ul class="g-list" id="g-unknown" data-dyn></ul>
+      <div class="g-next" id="upcoming" data-dyn></div>
     </div>
   </div>
 
   <h2 class="sec">Reported impacts by area</h2>
-  <div class="areas" id="areas"></div>
+  <div class="areas" id="areas" data-dyn></div>
 
   <h2 class="sec">Services &amp; infrastructure</h2>
-  <div class="services" id="services"></div>
+  <div class="services" id="services" data-dyn></div>
 
   <div class="grid-2">
     <div class="card">
       <h3>Latest damage photos</h3>
-      <div class="thumbs" id="thumbs"></div>
+      <div class="thumbs" id="thumbs" data-dyn></div>
       <a class="more" href="#impacts">All impact reports →</a>
     </div>
     <div class="card">
       <h3>Latest headlines <span class="muted small">(auto-refreshed)</span></h3>
-      <ul class="headlines" id="headlines"></ul>
+      <ul class="headlines" id="headlines" data-dyn></ul>
       <a class="more" href="#news">Full news stream →</a>
     </div>
   </div>
@@ -128,22 +130,22 @@
     <div class="card">
       <h3>Estimated deaths: probability by range</h3>
       <p class="muted small">USGS PAGER automated model from shaking and population. Not a count.</p>
-      <div class="pager-bars" id="pager-fat"></div>
+      <div class="pager-bars" id="pager-fat" data-dyn></div>
     </div>
     <div class="card">
       <h3>Estimated economic losses (US$): probability by range</h3>
       <p class="muted small">USGS PAGER. Red alert: past events at this level needed a national or international response.</p>
-      <div class="pager-bars" id="pager-econ"></div>
+      <div class="pager-bars" id="pager-econ" data-dyn></div>
     </div>
   </div>
   <div class="grid-2">
     <div class="card">
       <h3>Latest official statement</h3>
-      <div id="official-note" class="small-prose"></div>
+      <div id="official-note" data-dyn class="small-prose"></div>
     </div>
     <div class="card">
       <h3>Conflicting information</h3>
-      <div class="conflict" id="conflict-box"></div>
+      <div class="conflict" id="conflict-box" data-dyn></div>
     </div>
   </div>
 </section>
@@ -163,12 +165,12 @@
   </div>
   <div class="filters">
     <input type="search" id="f-q" placeholder="Search place or text…" aria-label="Search reports">
-    <select id="f-cat" aria-label="Category"><option value="">All categories</option></select>
-    <select id="f-prov" aria-label="Province"><option value="">All provinces</option></select>
-    <select id="f-conf" aria-label="Confidence"><option value="">Any confidence</option></select>
+    <select id="f-cat" data-dyn aria-label="Category"><option value="">All categories</option></select>
+    <select id="f-prov" data-dyn aria-label="Province"><option value="">All provinces</option></select>
+    <select id="f-conf" data-dyn aria-label="Confidence"><option value="">Any confidence</option></select>
     <label class="chk"><input type="checkbox" id="f-img"> With photo</label>
   </div>
-  <div class="feed" id="feed"></div>
+  <div class="feed" id="feed" data-dyn></div>
 </section>
 
 <!-- ================= NEWS ================= -->
@@ -178,7 +180,7 @@
     <input type="search" id="n-q" placeholder="Filter headlines…" aria-label="Filter headlines">
     <select id="n-lang" aria-label="Language"><option value="">All languages</option><option value="es">Spanish</option><option value="en">English</option></select>
   </div>
-  <ul class="news" id="news-list"></ul>
+  <ul class="news" id="news-list" data-dyn></ul>
 </section>
 
 <!-- ================= RISK ================= -->
@@ -190,17 +192,17 @@
       <li><strong>Building coverage checked:</strong> Microsoft footprint counts are within ±9% of the GEM census-based building inventory in every affected province, so missing buildings are not the main source of error.</li>
     </ul>
   </div>
-  <div class="tiles" id="risk-tiles"></div>
+  <div class="tiles" id="risk-tiles" data-dyn></div>
 
   <div class="grid-2">
     <div class="card">
       <h3>People and buildings by shaking intensity</h3>
       <p class="muted small">Panama only. MMI class VII = 6.5–7.5.</p>
-      <div id="mmi-chart" class="bar-chart"></div>
+      <div id="mmi-chart" data-dyn class="bar-chart"></div>
     </div>
     <div class="card card-map">
       <div id="risk-map" class="mini-map"></div>
-      <div class="map-caption"><span id="risk-map-caption">Potential buildings with moderate or worse damage (mid-point), by district.</span>
+      <div class="map-caption"><span id="risk-map-caption" data-dyn>Potential buildings with moderate or worse damage (mid-point), by district.</span>
         <select id="risk-metric" aria-label="Map metric">
           <option value="dmg">Potential damaged buildings</option>
           <option value="pop7">Population at MMI VII+</option>
@@ -210,17 +212,17 @@
   </div>
 
   <h2 class="sec">Districts ranked by potential building damage</h2>
-  <div class="table-wrap"><table class="data" id="dist-table"></table></div>
+  <div class="table-wrap"><table class="data" id="dist-table" data-dyn></table></div>
 
   <div class="grid-2">
     <div class="card">
       <h3>Damage ratios used</h3>
-      <table class="data compact" id="rates-table"></table>
+      <table class="data compact" id="rates-table" data-dyn></table>
       <p class="muted small">Share of buildings reaching each damage state, by MMI class. Broad ranges for a mixed Central American stock (confined masonry and RC frames with a minority of adobe, quincha and unreinforced block). PAGER notes that the predominant vulnerable types in the region are unreinforced brick masonry and adobe.</p>
     </div>
     <div class="card">
       <h3>Secondary hazards</h3>
-      <ul class="plain" id="secondary"></ul>
+      <ul class="plain" id="secondary" data-dyn></ul>
     </div>
   </div>
 
@@ -231,7 +233,7 @@
 
   <div class="card" id="vuln-card">
     <h3>National risk context</h3>
-    <div id="vuln-notes"><p class="muted">Building-vulnerability layer (census housing materials, GEM exposure model) in preparation.</p></div>
+    <div id="vuln-notes" data-dyn><p class="muted">Building-vulnerability layer (census housing materials, GEM exposure model) in preparation.</p></div>
   </div>
 </section>
 
@@ -250,7 +252,7 @@
       <li><strong>Curated impact reports, official figures and the overview text</strong> are reviewed and updated regularly by searching news, official channels and social media; every item links to its source.</li>
     </ul>
     <h3>Data sources</h3>
-    <ul id="data-sources"></ul>
+    <ul id="data-sources" data-dyn></ul>
     <h3>Known limitations</h3>
     <ul>
       <li>Media reports in the first hours are often incomplete, duplicated or wrong. Items are tagged by confidence; unconfirmed claims (e.g. trapped persons) are marked as such.</li>
@@ -266,13 +268,14 @@
 
 <footer class="wrap foot">
   Preliminary analytical use only · not for public distribution · developed independently by Brenden Jongman · not an official World Bank product ·
-  <span id="foot-updated"></span>
+  <span id="foot-updated" data-dyn></span>
 </footer>
 
-<div class="lightbox" id="lightbox" hidden><button aria-label="Close">×</button><img alt=""><div class="lb-cap"></div></div>
+<div class="lightbox" id="lightbox" hidden><button aria-label="Close">×</button><img alt=""><div class="lb-cap" data-dyn></div></div>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/leaflet.markercluster.min.js"></script>
-<script src="assets/app.js?v=202610092130"></script>
+<script src="assets/i18n.js?v=20261009224506"></script>
+<script src="assets/app.js?v=20261009224506"></script>
 </body>
 </html>

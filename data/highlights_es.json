@@ -1,0 +1,129 @@
+{
+ "updated_utc": "2026-10-09T21:10:00Z",
+ "headline": "Un sismo superficial de magnitud 7,7 sacudió la península de Azuero a las 12:56 hora local. Hay edificaciones dañadas en cuatro provincias; las autoridades aún no han publicado cifras de víctimas.",
+ "key_points": [
+  "Daños más graves documentados: Penonomé (Coclé) — colapso parcial de un hotel, caída de la torre de la catedral, hospital evacuado.",
+  "Cerca del epicentro (Tonosí, Cambutal, Playa Venao): colapsaron viviendas y un hostal; vías dañadas.",
+  "Veraguas: iglesias y edificios públicos dañados en Santiago, Atalaya y Soná; fracturada la vía a Torio.",
+  "«Varios heridos» (SINAPROC), al menos 1 confirmado en Penonomé. Hasta ahora no se han confirmado fallecidos.",
+  "Cortes de luz y telefonía en seis provincias; cerrados el aeropuerto de Tocumen y el Metro de Panamá. El Canal opera con normalidad.",
+  "Continúan fuertes réplicas: la mayor, de M6,6, a las 15:25 hora local cerca de Coiba; más de 50 registradas."
+ ],
+ "areas": [
+  {
+   "area": "Penonomé, Coclé",
+   "status": "severe",
+   "text": "Colapso parcial del Hotel Dos Continentes; la torre de la catedral San Juan Bautista cayó sobre un auto; colapsó una pared de la Gobernación; mercado dañado (1 herido); Hospital Aquilino Tejeira agrietado y evacuado; daños en el Iguana Mall."
+  },
+  {
+   "area": "Tonosí / Cambutal, Los Santos",
+   "status": "severe",
+   "text": "Telemetro la describe como la zona más afectada; colapso parcial de un hotel y viviendas contiguas; daños en vías. Son los poblados más cercanos al epicentro, con el movimiento modelado más fuerte (MMI VIII–IX)."
+  },
+  {
+   "area": "Pedasí / Playa Venao, Los Santos",
+   "status": "severe",
+   "text": "Colapsó el hostal El Sitio. Lugareños dijeron a La Prensa que había personas atrapadas, pero las autoridades locales afirman que los edificios turísticos dañados en Pedasí estaban desocupados. No hay confirmación oficial de personas atrapadas."
+  },
+  {
+   "area": "Santiago, Veraguas",
+   "status": "significant",
+   "text": "Daños en la catedral y el edificio municipal (colapso parcial del techo); daños en la terminal de buses y en la Policlínica Horacio Díaz Gómez."
+  },
+  {
+   "area": "Soná y Mariato, Veraguas",
+   "status": "significant",
+   "text": "Daños en la estación de bomberos de Soná; la vía a Torio (Mariato) se partió con desniveles verticales; cortada la vía Santiago–Arenas. Réplica de M6,6 a las 20:25 UTC con epicentro 14 km al O de Río Grande (Soná)."
+  },
+  {
+   "area": "Atalaya, Veraguas",
+   "status": "significant",
+   "text": "Colapsó parte de la torre de la Basílica Menor."
+  },
+  {
+   "area": "Chitré, Los Pozos, Las Minas y La Villa, Herrera/Los Santos",
+   "status": "reported",
+   "text": "El SINAPROC reporta daños en Chitré (sin detalles); viviendas agrietadas en Las Minas; en La Villa de Los Santos se agrietó el campanario de la iglesia San Atanasio y sufrieron daños el techo y la escalinata del Museo de la Nacionalidad. Aún hay pocas imágenes: vacío de información."
+  },
+  {
+   "area": "Aguadulce, Coclé",
+   "status": "moderate",
+   "text": "Colapso del cielo raso en un edificio escolar/universitario (video de Telemundo). The Sunday Guardian, citando a Telemetro, informa de daños importantes en al menos seis edificios; sin confirmar."
+  },
+  {
+   "area": "Ciudad de Panamá",
+   "status": "moderate",
+   "text": "Ventanas rotas en Calle 50 y Paitilla; hospitales evacuados por precaución; suspendidas las Líneas 1 y 2 del Metro; cerrado el aeropuerto de Tocumen."
+  }
+ ],
+ "services": [
+  {
+   "sector": "Electricidad",
+   "status": "disrupted",
+   "text": "Cortes en la distribución en seis provincias (Chiriquí, Herrera, Los Santos, Veraguas, Coclé y parte de Panamá Oeste); restablecidos 17 circuitos en Colón. ETESA indica que la red nacional de transmisión está estable.",
+   "source": "Naturgy / Ensa / ETESA vía medios"
+  },
+  {
+   "sector": "Agua",
+   "status": "disrupted",
+   "text": "La potabilizadora de Chilibre (abastece a la mayor parte de la Ciudad de Panamá y San Miguelito) opera al 20 % de su capacidad.",
+   "source": "IDAAN vía medios"
+  },
+  {
+   "sector": "Telecomunicaciones",
+   "status": "disrupted",
+   "text": "Fallas generalizadas de telefonía móvil e internet en varios operadores.",
+   "source": "Reportes de prensa"
+  },
+  {
+   "sector": "Aeropuertos",
+   "status": "closed",
+   "text": "Tocumen Internacional cerrado y evacuado; vuelos desviados a Barranquilla, Cartagena, Bogotá, San José, Managua y Panamá Pacífico.",
+   "source": "Tocumen S.A.; El Heraldo, Aviacionline"
+  },
+  {
+   "sector": "Metro",
+   "status": "closed",
+   "text": "Líneas 1 y 2 suspendidas, estaciones evacuadas.",
+   "source": "Metro de Panamá vía medios"
+  },
+  {
+   "sector": "Vías",
+   "status": "disrupted",
+   "text": "Fracturada la vía a Torio (Mariato); cortada la vía Santiago–Arenas; daños en los alrededores de Cambutal.",
+   "source": "Medios / redes sociales"
+  },
+  {
+   "sector": "Canal de Panamá",
+   "status": "operating",
+   "text": "Opera con normalidad; la ACP desmintió rumores de daños en las esclusas de Agua Clara.",
+   "source": "ACP"
+  },
+  {
+   "sector": "Educación y oficinas públicas",
+   "status": "closed",
+   "text": "Clases suspendidas en todo el país; cerrada la Universidad de Panamá; oficinas públicas cerradas por orden presidencial.",
+   "source": "MEDUCA / Presidencia"
+  },
+  {
+   "sector": "Tsunami",
+   "status": "operating",
+   "text": "El PTWC advirtió inicialmente de olas de 1–3 m en las costas de Panamá; luego descartó una amenaza para todo el Pacífico. No se reportan daños por tsunami.",
+   "source": "PTWC (vía medios)"
+  },
+  {
+   "sector": "Servicios municipales (Ciudad de Panamá)",
+   "status": "closed",
+   "text": "El Municipio de Panamá suspendió todos los servicios municipales, incluidos los mercados, hasta nuevo aviso.",
+   "source": "Telemetro en vivo"
+  }
+ ],
+ "upcoming": "El presidente Mulino anunció una conferencia de prensa de la ministra Dinoska Montalvo y el SINAPROC (~15:30 hora local); hasta las 21:10 UTC aún no se habían reportado cifras de esa conferencia. Las cifras se añadirán en cuanto se publiquen los datos oficiales.",
+ "unknowns": [
+  "Cifras oficiales de fallecidos, heridos, desaparecidos y desplazados: está pendiente la conferencia de prensa de la ministra Montalvo y el SINAPROC.",
+  "Si alguien quedó atrapado en el colapso del hostal de Playa Venao (los lugareños dicen que sí; las autoridades, que los edificios estaban vacíos).",
+  "Daños en las zonas rurales con el movimiento más fuerte (Tonosí, Macaracas, Las Minas, Los Pozos): hay pocos reportes, probablemente por los cortes de comunicación.",
+  "Cuántas viviendas resultaron dañadas o destruidas; aún no hay evaluación de campo.",
+  "Deslizamientos en las zonas montañosas del sur de Azuero y Veraguas (el riesgo modelado es alto)."
+ ]
+}

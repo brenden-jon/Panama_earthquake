@@ -1,0 +1,585 @@
+{
+ "reports": {
+  "n3": {
+   "title": "Grietas en el hospital Aquilino Tejeira; pacientes evacuados",
+   "summary": "El Siglo informa de grietas en el Hospital Aquilino Tejeira de Penonomé y de la evacuación de pacientes."
+  },
+  "n5": {
+   "title": "La Gobernación de Coclé sufre daños estructurales importantes; personal evacuado",
+   "summary": "NBC News, citando al gobierno local, informa que el edificio de la Gobernación de Coclé sufrió daños estructurales importantes; el personal fue evacuado sin incidentes."
+  },
+  "n6": {
+   "title": "Daños en el Iguana Mall de Penonomé",
+   "summary": "La Prensa incluye el Iguana Mall de Penonomé entre las estructuras dañadas, junto con la catedral, la Gobernación y el Hotel Dos Continentes."
+  },
+  "n7": {
+   "title": "Colapsan balcones en Penonomé; cae torre histórica (Reuters)",
+   "summary": "Reuters: videos difundidos por La Prensa mostraron el colapso de la torre de un edificio histórico y de varios balcones de un edificio residencial en Penonomé.",
+   "image_caption": "Vista aérea del horizonte de la Ciudad de Panamá y torre con piscina en la azotea"
+  },
+  "n9": {
+   "title": "Daños estructurales en la terminal de transporte de Santiago",
+   "summary": "Panamá América informa de daños estructurales en la terminal de transporte de Santiago.",
+   "image_caption": "Multitud de oficinistas evacuados de pie en una calle de la ciudad"
+  },
+  "n10": {
+   "title": "Colapsa parte de la torre de la Basílica Menor de Atalaya",
+   "summary": "Colapsó parte de la torre de la Basílica Menor (Jesús Nazareno) en Atalaya (Panamá América); La Prensa también informa de daños en la torre de la iglesia de Atalaya.",
+   "image_caption": "Multitud de oficinistas evacuados de pie en una calle de la ciudad"
+  },
+  "n11": {
+   "title": "Grietas en el campanario de la iglesia San Atanasio (patrimonio nacional)",
+   "summary": "La Iglesia San Atanasio, en La Villa de Los Santos, sufrió grietas en su campanario."
+  },
+  "n12": {
+   "title": "Daños en la estación de bomberos de Soná",
+   "summary": "La estación de bomberos de Soná resultó dañada por el sismo. (La Policlínica Dr. Horacio Díaz Gómez, también reportada con daños, está en Santiago.)"
+  },
+  "n13": {
+   "title": "Daños en la casa del expresidente Martinelli en Soná",
+   "summary": "El expresidente Ricardo Martinelli publicó fotos de los daños en su casa de Soná y dijo esperar que las pérdidas fueran solo materiales.",
+   "image_caption": "Captura de video de Martinelli junto a una casa con paredes colapsadas"
+  },
+  "n14": {
+   "title": "Vía en Torio (Mariato) partida con grandes desniveles verticales",
+   "summary": "La vía en Torio, distrito de Mariato, está cortada por grandes grietas, con secciones levantadas y desplazamiento vertical a lo ancho de la calzada; Panamá América informa que la vía Santiago–Arenas se fracturó, lo que afecta gravemente el tránsito.",
+   "image_caption": "Vía partida por la ruptura; hotel de varios pisos colapsado sobre autos"
+  },
+  "n15": {
+   "title": "Ruptura de la vía Santiago–Arenas cerca de Mariato",
+   "summary": "Panamá América: ruptura de la vía entre Santiago y Arenas en el área de Mariato (límite entre Veraguas y Los Santos); el tránsito está gravemente afectado."
+  },
+  "n16": {
+   "title": "Colapsa el hostal El Sitio en Playa Venao; lugareños reportan personas atrapadas",
+   "summary": "La Prensa informa de daños estructurales en el Hostal El Sitio y de reportes de personas atrapadas; La Nación indica que el hostal colapsó y que residentes reportan personas atrapadas. El director del Sinaproc, Omar Smith, mencionó daños en el sector de Venao. No hay confirmación oficial de que hubiera personas atrapadas.",
+   "image_caption": "Escombros de ladrillo sobre autos estacionados frente a Panda House, calle urbana"
+  },
+  "n17": {
+   "title": "Colapso del hostal El Sitio (resumen de La Nación)",
+   "summary": "La Nación: el hostal El Sitio, en Playa Venao, colapsó y residentes reportan personas atrapadas; Omar Smith (Sinaproc) informó de «varios heridos» sin dar cifras.",
+   "image_caption": "Vía partida por la ruptura; hotel de varios pisos colapsado sobre autos"
+  },
+  "n20": {
+   "title": "Colapso parcial de un hotel y viviendas contiguas cerca de Tonosí",
+   "summary": "Las autoridades inspeccionan el colapso parcial de la estructura de un hotel y de viviendas contiguas cerca de Tonosí (Infobae, es.wikipedia). Un periodista de Radio TropiQ dijo a Cooperativa que colapsaron casas en el área de Tonosí."
+  },
+  "n21": {
+   "title": "Casas colapsadas en el área de Tonosí, según periodista de radio local",
+   "summary": "Ariel Borbua (Radio TropiQ) dijo a Cooperativa que en el área de Tonosí hubo muchos daños y colapsaron casas, y que el Hotel Dos Continentes se vino abajo en Penonomé."
+  },
+  "n22": {
+   "title": "Director del Sinaproc reporta daños en Chitré y la costa de Los Santos",
+   "summary": "Omar Smith, director del Sinaproc, dijo que se reportaron afectaciones en Chitré, capital de Herrera, y a lo largo de la costa de Los Santos; los daños se concentran en Veraguas, Herrera y Los Santos."
+  },
+  "n23": {
+   "title": "Viviendas agrietadas en Las Minas, Herrera",
+   "summary": "Reuters: el sismo dañó varias viviendas en el área de Las Minas; el residente Ricardo Brown (74 años) dijo que su casa se agrietó y que temían que se cayera."
+  },
+  "n24": {
+   "title": "Residente de Herrera: objetos caídos, todos afuera",
+   "summary": "AP cita a Rosendo Domínguez (60 años), de Herrera: el movimiento tiró objetos en la cocina y la gente salió a la calle asustada."
+  },
+  "n25": {
+   "title": "Ventanas rotas en la Ciudad de Panamá; evacuaciones masivas",
+   "summary": "La Prensa: se rompieron vidrios de ventanas en Calle 50, Paitilla y zonas comerciales; hubo evacuaciones en Don Bosco, Costa del Este, Pueblo Nuevo, San Miguelito y San Francisco."
+  },
+  "n26": {
+   "title": "Potabilizadora de Chilibre al 20 % de su capacidad",
+   "summary": "El IDAAN informó que la planta de Chilibre (Federico Guardia Conte), que abastece a la mayor parte de la Ciudad de Panamá y San Miguelito, opera al 20 % de su capacidad, lo que provoca irregularidades en el suministro (La Prensa, Telemetro)."
+  },
+  "n31": {
+   "title": "Suspendidas las Líneas 1 y 2 del Metro; estaciones evacuadas",
+   "summary": "El Metro de Panamá suspendió las Líneas 1 y 2 y evacuó todas las estaciones; al cierre de esta información no se había anunciado la hora de reanudación."
+  },
+  "n32": {
+   "title": "El Canal de Panamá opera con normalidad; la ACP niega daños en las esclusas de Agua Clara",
+   "summary": "La ACP confirmó que las operaciones son normales, activó protocolos de emergencia e inspecciones, y desmintió rumores de daños en las compuertas de las esclusas neopanamax de Agua Clara.",
+   "image_caption": "Foto aérea de archivo de las esclusas del Canal con buques y el puente Centenario"
+  },
+  "n34": {
+   "title": "Hospitales de la capital evacuados por precaución",
+   "summary": "Fotos de Infobae muestran la evacuación del Hospital del Niño y personal fuera de la maternidad del Santo Tomás; no se reportan daños.",
+   "image_caption": "Pisos de hotel colapsados aplastando autos estacionados, curiosos alrededor"
+  },
+  "n36": {
+   "title": "Mulino pide calma e instruye al ministerio a informar",
+   "summary": "Panamá América: Mulino pidió calma, instruyó a la ministra Dinoska Montalvo y a las instituciones a emitir informes oficiales, y remitió a @Sinaproc_Panama para las actualizaciones."
+  },
+  "n37": {
+   "title": "Meduca suspende clases en todo el país; cierra la Universidad de Panamá",
+   "summary": "Meduca suspendió las clases de la tarde y la noche en todas las escuelas y cerró las oficinas administrativas; la Universidad de Panamá suspendió clases y labores administrativas.",
+   "image_caption": "Multitud evacuada al aire libre bajo los árboles"
+  },
+  "n38": {
+   "title": "PTWC emite amenaza de tsunami (1–3 m) para las costas de Panamá; luego la reduce",
+   "summary": "El Centro de Alerta de Tsunamis del Pacífico emitió inicialmente un mensaje de amenaza de tsunami (posibles olas de 1–3 m en las costas de Panamá, según el PTWC), que luego redujo; Ecuador y Colombia cancelaron sus alertas. No se reportan daños por tsunami en Panamá.",
+   "image_caption": "Imagen de cámara web de playa del ECU 911, mar en calma (Ecuador)"
+  },
+  "n39": {
+   "title": "IGC: 12 réplicas significativas en 2 horas, de hasta M6,4",
+   "summary": "El IGC-UP registró 12 réplicas en dos horas, seis de ellas en el distrito de Tonosí: M3,4 (13:15), M6,1 (13:22, 20 km al NE), M5,2 (13:33), M6,4 (13:37, 21 km al N), M5,5 (13:50) y M4,9 (13:58); otras en Veraguas (M3,9–5,5), Herrera (M5,2, 44 km al SO de Chitré) y Panamá Oeste (M4,6, 8 km al S de La Chorrera). La Prensa citó luego más de 30 réplicas.",
+   "image_caption": "Edificio colapsado y fachada de iglesia con escombros"
+  },
+  "n40": {
+   "title": "PAGER del USGS: alerta roja (económica), amarilla (víctimas mortales); naranja por fallas del terreno",
+   "summary": "USGS: M7,7, profundidad de 12,6 km. PAGER: alerta roja por pérdidas económicas (0–9 % del PIB) y amarilla por víctimas mortales (lo más probable, 10–100; ~28 % de probabilidad de 100–1.000). Intensidad máxima MMI ~IX. Alertas naranja por deslizamientos y licuefacción. GDACS: alerta naranja."
+  },
+  "n41": {
+   "title": "Daños menores en las paredes de un edificio comercial en Chiriquí",
+   "summary": "Panamá América informa de daños menores en las paredes de un edificio comercial en Chiriquí, sin heridos de gravedad."
+  },
+  "n42": {
+   "title": "Evacuan a huéspedes de hoteles en Playa Blanca",
+   "summary": "La República: huéspedes de hoteles en Playa Blanca fueron evacuados a los estacionamientos; los ascensores de los hoteles se detuvieron por los cortes de luz.",
+   "image_caption": "Mapa de intensidad del movimiento del USGS centrado en Panamá"
+  },
+  "x15": {
+   "title": "Se habría desplomado el cielo raso del salón de eventos del Hotel Mykonos, Santiago",
+   "summary": "Un usuario publica un video y una foto del propio hotel previa al sismo que indican que el cielo raso del salón de eventos del Hotel Mykonos, en Santiago, se desplomó sobre las mesas; el mismo usuario puso en duda la autenticidad de un clip que circulaba.",
+   "image_caption": "Paneles del cielo raso caídos sobre mesas de banquete"
+  },
+  "x19": {
+   "title": "El aeropuerto de Tocumen reanuda operaciones tras inspección",
+   "summary": "Aviso del aeropuerto de Tocumen: se reanudaron los vuelos tras inspeccionar pistas, calles de rodaje, terminales y torre sin hallar daños que impidan operar; el Sinaproc hará una inspección adicional.",
+   "image_caption": "Aviso del aeropuerto anunciando la reanudación de operaciones"
+  },
+  "x23": {
+   "title": "Corredores de peaje gratuitos hasta la medianoche",
+   "summary": "ENA habilita los Corredores sin costo hasta la medianoche por la emergencia nacional, para agilizar el tránsito de evacuación.",
+   "image_caption": "Aviso de ENA: corredores de peaje gratuitos hasta la medianoche"
+  },
+  "x18": {
+   "title": "Personas caminan entre el tranque cerca de El Ingenio",
+   "summary": "Un video de La Prensa muestra tránsito pesado y personas caminando por la Transístmica, cerca de El Ingenio, para llegar a sus destinos tras la interrupción del transporte.",
+   "image_caption": "Peatones caminando junto al tránsito detenido"
+  },
+  "x21": {
+   "title": "Unas 86 réplicas registradas (IGC)",
+   "summary": "Telemetro: el director del IGC, Néstor Luque, dice que unas 86 réplicas han seguido al sismo principal de M7,2 (IGC), todas de menor magnitud.",
+   "image_caption": "Imagen de transmisión de TV: vista al mar con cintillo sobre el sismo"
+  },
+  "x1": {
+   "title": "Agrietada la fachada de la iglesia de Natá de los Caballeros",
+   "summary": "Una foto de Panamá América muestra repello y mampostería desprendidos a lo largo de una grieta horizontal en la fachada de la iglesia colonial de Natá; los sacerdotes dicen que el templo resistió en gran medida el sismo.",
+   "image_caption": "Mampostería agrietada y desprendida en la fachada de la iglesia colonial, Natá"
+  },
+  "x6": {
+   "title": "Residentes de Tonosí–Cambutal incomunicados, caminan largas distancias",
+   "summary": "Un video enviado a Crítica desde Tonosí muestra a escolares caminando por la carretera junto a un bus Cambutal–Tonosí; los residentes dicen estar incomunicados y tener que caminar largas distancias hasta sus casas.",
+   "image_caption": "Estudiantes caminando junto a un bus Cambutal–Tonosí en una vía rural"
+  },
+  "l1": {
+   "title": "Alcalde de Pedasí: un edificio colapsó por completo y hay vehículos aplastados, sin fallecidos",
+   "summary": "El alcalde de Pedasí, Miguel Batista, dijo a Telemetro Reporta que no se reportan pérdidas humanas, pero que un edificio del municipio colapsó por completo y varios vehículos resultaron muy dañados. Informes anteriores indicaban que los edificios turísticos afectados estaban desocupados."
+  },
+  "x25": {
+   "title": "La CSS refuerza con personal los cuartos de urgencias",
+   "summary": "La Caja de Seguro Social (CSS) informa que está reforzando los servicios de urgencias con personal adicional.",
+   "image_caption": "Gráfico de comunicado de la CSS sobre refuerzo de personal de urgencias"
+  },
+  "l11": {
+   "title": "Naturgy: cortes en Chiriquí, Herrera, Los Santos, Veraguas, Coclé y Panamá Oeste",
+   "summary": "Naturgy informó de cortes de luz en partes de Chiriquí, Herrera, Los Santos, Veraguas, Coclé y Panamá Oeste, pero no dio cifras de clientes afectados. El IDAAN dijo que la planta de Chilibre estaba al 20 % de su capacidad, y ETESA indicó que la red de transmisión se mantuvo estable. Las coordenadas corresponden a Chitré como referencia aproximada."
+  },
+  "l4": {
+   "title": "AP: reportan colapso de la iglesia colonial de San Atanasio (las fotos muestran la torre agrietada)",
+   "summary": "Un cable de AP afirma que colapsó la iglesia colonial de San Atanasio, monumento histórico nacional. Fotos publicadas por Infobae muestran el campanario aún en pie pero agrietado en la parte superior, por lo que «colapsó» podría ser una exageración.",
+   "image_caption": "Campanario de San Atanasio en pie, con grietas y daños cerca de la parte superior"
+  },
+  "x22": {
+   "title": "TVN: sin fallecidos, algunas personas heridas",
+   "summary": "TVN informa que hasta ahora no hay víctimas mortales, pero sí algunos heridos, y que se esperan réplicas durante varias horas."
+  },
+  "l6": {
+   "title": "Geociencias pide evacuar la costa de Isla Cañas y del sur de Los Santos y Veraguas",
+   "summary": "A las 16:08 hora local, el Instituto de Geociencias pidió a los residentes de Isla Cañas y de las costas del sur de Los Santos y Veraguas evacuar las viviendas cercanas a la orilla por el pronóstico de olas de 1–3 m. Por separado, el Sinaproc incluyó Isla Cañas y Tocué entre los sitios con posibles daños en viviendas que requieren evaluación."
+  },
+  "u202610092110_6": {
+   "title": "La Ciudad de Panamá suspende servicios municipales; inspeccionan el puente Centenario",
+   "summary": "El Municipio de Panamá suspendió todos los servicios municipales, incluidos los mercados, hasta nuevo aviso. La ministra Dinoska Montalvo dijo que se están inspeccionando el Puente Centenario y advirtió contra la desinformación."
+  },
+  "l2": {
+   "title": "Colapso parcial de la estación de bomberos «Mayor Alberto Martinelli» de Soná",
+   "summary": "Imágenes muestran daños graves en la estación de bomberos Mayor Alberto Martinelli, en el distrito de Soná, con el alero frontal y secciones de pared colapsadas. No se dieron cifras de víctimas. El nombre de esta estación podría explicar titulares anteriores sobre el colapso de una «casa de Martinelli» en Soná.",
+   "image_caption": "Estación de bomberos de Soná: alero de entrada colapsado, escombros, paredes agrietadas"
+  },
+  "l3": {
+   "title": "Daños en el techo y la escalinata del Museo de la Nacionalidad (Casa del Cabildo)",
+   "summary": "El Museo de la Nacionalidad (Casa del Cabildo), edificio histórico vinculado al grito de independencia de 1821, sufrió daños en el techo y la escalinata; cayeron tejas a la calle. No se dieron cifras.",
+   "image_caption": "Museo de la Nacionalidad: tejas caídas a lo largo de la calle y la escalinata"
+  },
+  "u202610092110_5": {
+   "title": "ETESA: la red de transmisión se mantiene estable",
+   "summary": "ETESA dijo que la red nacional de transmisión eléctrica se mantiene estable; los cortes de distribución reportados antes en seis provincias son un asunto aparte."
+  },
+  "x20": {
+   "title": "La potabilizadora de Chilibre recupera el 50 % de su producción",
+   "summary": "Un funcionario (@Tercero78) indica que la potabilizadora de Chilibre ha recuperado el 50 % de su producción y está restableciendo progresivamente el suministro."
+  },
+  "x3": {
+   "title": "Graves daños en la casa de Martinelli en Soná",
+   "summary": "El Tiempo informa que colapsó la residencia del expresidente Ricardo Martinelli; la imagen muestra un edificio de tres pisos con columnas agrietadas y escombros en la calle. Martinelli: «solo pérdidas materiales».",
+   "image_caption": "Casa de tres pisos con columnas cizalladas y escombros en la calle"
+  },
+  "u202610092110_2": {
+   "title": "Más de 50 réplicas registradas",
+   "summary": "Infobae informa de más de 50 réplicas tras el sismo principal, entre ellas la de M6,9 (IGC) cerca de Coiba."
+  },
+  "u202610092110_4": {
+   "title": "La CSS no reporta heridos ni fallecidos en sus instalaciones",
+   "summary": "La Caja de Seguro Social (CSS) no reportó heridos ni víctimas por el sismo, según la cobertura en vivo de Telemetro (15:45 hora local). No se trata de un balance nacional."
+  },
+  "x2": {
+   "title": "Colapso parcial de la iglesia de Los Pozos (video de El Tiempo)",
+   "summary": "Una captura de video de El Tiempo muestra la iglesia de Los Pozos, Herrera, con la parte superior de la fachada/frontón desprendida y una gran pila de escombros al frente.",
+   "image_caption": "Frontón de iglesia colapsado, pila de escombros al frente, Los Pozos"
+  },
+  "l8": {
+   "title": "Director del Sinaproc: varios heridos, uno alcanzado por escombros en el mercado de Penonomé",
+   "summary": "El director del Sinaproc, Omar Smith, dijo que varias personas resultaron heridas, entre ellas una alcanzada por escombros de una estructura parcialmente colapsada en el mercado público de Penonomé. No se había publicado una cifra nacional consolidada de heridos."
+  },
+  "u202610092103_3": {
+   "title": "Colapso del cielo raso en una escuela/universidad de Aguadulce",
+   "summary": "Un video muestra paneles del cielo raso desprendidos y escombros en el piso de un edificio educativo en Aguadulce (Telemundo lo describe como escuela; el pie del video, como universidad). The Sunday Guardian, citando a Telemetro y a personal de emergencias, informa de daños estructurales importantes en al menos seis edificios de Aguadulce; no confirmado por las autoridades.",
+   "image_caption": "Paneles del cielo raso colapsados en un pasillo de escuela/universidad en Aguadulce"
+  },
+  "u202610092110_3": {
+   "title": "Daños en el Museo de la Nacionalidad (Casa del Cabildo)",
+   "summary": "El Museo de la Nacionalidad, patrimonio nacional en La Villa de Los Santos, sufrió daños en el techo y las escaleras, al igual que la iglesia de San Atanasio."
+  },
+  "u202610092103_4": {
+   "title": "CSS: ningún paciente, usuario ni funcionario afectado en sus instalaciones; estructuras en inspección",
+   "summary": "La Caja de Seguro Social informó que ningún paciente, usuario ni funcionario resultó afectado en sus instalaciones de salud; los posibles daños en algunas de sus estructuras están pendientes de verificación técnica (no se precisaron las instalaciones)."
+  },
+  "u202610092103_1": {
+   "title": "Réplica de M6,6 cerca de Río Grande, Soná (USGS us6000u19w)",
+   "summary": "Una réplica de M6,6 se registró a las 15:25 hora local (20:25 UTC), 14 km al O de Río Grande, distrito de Soná, a unos 78 km al oeste del sismo principal y a ~10 km de profundidad (USGS; el SGC de Colombia reportó inicialmente M6,9). Es la réplica más fuerte hasta ahora en el catálogo del USGS; la alerta PAGER del USGS para este evento es amarilla. Aún no se le atribuyen daños ni heridos específicos."
+  },
+  "u202610092110_1": {
+   "title": "Fuerte réplica de M6,6 al oeste de Azuero (IGC: M6,9)",
+   "summary": "El USGS registró una réplica de M6,6 a las 20:25 UTC (15:25 hora local), a 10 km de profundidad, entre la isla Coiba y el golfo de Montijo; alerta PAGER del USGS amarilla, MMI máxima ~8. El IGC-UP la reportó como M6,9, a 32 km de Coiba. Aún no hay reportes de daños ni heridos vinculados a ella."
+  },
+  "u202610092103_2": {
+   "title": "Daños en la iglesia de Los Pozos, Herrera",
+   "summary": "El Tiempo (Colombia) publicó imágenes del estado de la iglesia de Los Pozos, Herrera, tras el terremoto. No se describe el alcance de los daños; sin confirmación oficial. Los Pozos está a ~12 km del epicentro del USGS."
+  },
+  "x4": {
+   "title": "Video de la residencia de Martinelli en Soná tras el sismo",
+   "summary": "El periodista J.R. Bermúdez publica un video en el que afirma que la residencia de Martinelli en Soná colapsó; es el mismo edificio de la imagen de El Tiempo, con columnas gravemente agrietadas.",
+   "image_caption": "La misma casa de tres pisos, columnas agrietadas y escombros caídos"
+  },
+  "l5": {
+   "title": "Sinaproc: daños en estaciones de bomberos de Los Santos; heridos hospitalizados en las provincias centrales",
+   "summary": "La subdirectora del Sinaproc, Malitzie Rivera, dijo que no se habían registrado fallecidos, pero que personas heridas en las provincias centrales fueron trasladadas a hospitales. Los daños se concentraron en Los Santos, Veraguas y Coclé, e incluyen cúpulas de iglesias, comercios, edificios públicos, vías y estaciones de bomberos en Los Santos. Las coordenadas corresponden a Las Tablas (capital provincial) como referencia aproximada."
+  },
+  "l7": {
+   "title": "Retiro anormal del mar observado en Otoque e Isla Cañas",
+   "summary": "El Sinaproc informó que se observó un retiro anormal del mar cerca de Otoque e Isla Cañas tras el sismo, y el Centro de Alerta de Tsunamis del Pacífico pronosticó variaciones del nivel del mar de 30–100 cm. Se pidió a los residentes reportar cambios en la marea al 911."
+  },
+  "s6": {
+   "title": "Video del edificio dañado de la Gobernación en Penonomé",
+   "summary": "Un video muestra el edificio de la Gobernación de Coclé, en Penonomé, después del sismo. Medios locales informan que colapsó una pared.",
+   "image_caption": "Edificio público colonial con una sección de pared colapsada"
+  },
+  "x5": {
+   "title": "Colapso del cielo raso en un pasillo universitario de Macaracas",
+   "summary": "El Colombiano comparte un video de un usuario, supuestamente de una institución de educación superior en Macaracas, con paneles del cielo raso caídos en un pasillo. El mismo clip circula en otros sitios atribuido a la Ciudad de Panamá, por lo que la ubicación es incierta.",
+   "image_caption": "Pasillo con paneles del cielo raso caídos y escombros"
+  },
+  "n18": {
+   "title": "El área de Cambutal muestra el mayor impacto; colapsos y daños viales en Azuero",
+   "summary": "Telemetro: las imágenes de Cambutal muestran el mayor impacto, con daños estructurales y en vías; se reportan colapsos de edificaciones y daños a vehículos en Azuero. Los edificios turísticos afectados en Pedasí estaban desocupados. Sin confirmación oficial de víctimas.",
+   "image_caption": "Imagen de TV: pisos de hotel colapsados sobre una camioneta azul"
+  },
+  "n19": {
+   "title": "Daños en edificios turísticos de Pedasí (desocupados)",
+   "summary": "Las autoridades locales dijeron que los edificios turísticos afectados en Pedasí no estaban ocupados en el momento del terremoto."
+  },
+  "n2": {
+   "title": "Penonomé: herido en el mercado, grietas en el hospital y múltiples estructuras dañadas",
+   "summary": "El Siglo enumera el colapso parcial del Hotel Dos Continentes (Av. Juan Demóstenes Arosemena), daños en la torre de la catedral San Juan Bautista, el colapso de una pared de la Gobernación, grietas en la capilla San Antonio, daños estructurales en el Mercado Público, donde resultó herida 1 persona, y grietas en el Hospital Aquilino Tejeira, con pacientes evacuados. Casos de desmayos en el centro.",
+   "image_caption": "Multitud alrededor de una persona herida tendida en el suelo al aire libre"
+  },
+  "s9": {
+   "title": "Un herido en el mercado público de Penonomé; hospital evacuado",
+   "summary": "El Siglo informa de una persona herida en el Mercado Público de Penonomé, que también sufrió daños. También reporta grietas en la capilla San Antonio y en el Hospital Aquilino Tejeira, donde se evacuó a pacientes y recién nacidos.",
+   "image_caption": "Multitud alrededor de una persona herida tendida en el suelo al aire libre"
+  },
+  "x12": {
+   "title": "Torre de la catedral San Juan Bautista agrietada, escombros en la calle",
+   "summary": "Una imagen de Panamá En Directo muestra profundas grietas en el campanario de la catedral y mampostería de un edificio contiguo apilada sobre una camioneta.",
+   "image_caption": "Torre de la catedral agrietada, escombros aplastando una camioneta"
+  },
+  "n35": {
+   "title": "Mulino ordena cerrar todas las oficinas públicas; pide calma",
+   "summary": "El presidente Mulino ordenó el cierre de todas las oficinas públicas del país, pidió a la ministra Dinoska Montalvo informes oficiales detallados e instó a la población a no generar alarma.",
+   "image_caption": "Tejas caídas frente al edificio del Banco Nacional"
+  },
+  "n27": {
+   "title": "Cortes de luz en seis provincias; restablecidos 17 circuitos en Colón",
+   "summary": "Naturgy reportó cortes en sectores de Chiriquí, Herrera, Los Santos, Veraguas, Coclé y parte de Panamá Oeste; Ensa restableció 17 circuitos inicialmente afectados en Colón, y queda pendiente Costa Abajo de Colón.",
+   "image_caption": "Foto de archivo de una torre eléctrica contra el cielo"
+  },
+  "n28": {
+   "title": "Sigue sin luz Costa Abajo de Colón",
+   "summary": "Ensa: restablecidos 17 circuitos en Colón; sigue pendiente la normalización en Costa Abajo de Colón."
+  },
+  "x24": {
+   "title": "MiBus activa protocolo de transporte de emergencia",
+   "summary": "Comunicado de MiBus: se activó un protocolo de emergencia para atender el aumento de la demanda tras las evacuaciones en la Ciudad de Panamá.",
+   "image_caption": "Comunicado de MiBus sobre el protocolo de transporte de emergencia"
+  },
+  "x8": {
+   "title": "Colapsó el Hostal El Sitio en Playa Venao",
+   "summary": "Un video de Decisiones Panamá muestra la estructura de varios niveles del Hostal El Sitio colapsada; residentes reportaron inicialmente personas atrapadas (respuestas posteriores indican que nadie quedó atrapado).",
+   "image_caption": "Estructura del hostal colapsada, escaleras y losas retorcidas"
+  },
+  "s29": {
+   "title": "El Aeropuerto Internacional de Tocumen suspende operaciones",
+   "summary": "El aeropuerto de Tocumen suspendió los vuelos y evacuó a los pasajeros como medida preventiva para inspeccionar pistas e instalaciones.",
+   "image_caption": "Aviso oficial del aeropuerto de Tocumen sobre la suspensión de operaciones"
+  },
+  "s17": {
+   "title": "Hotel colapsado en Playa Venao (video de usuario)",
+   "summary": "Un video de un usuario muestra un hotel colapsado en Playa Venao. El director del Sinaproc, Omar Smith, también mencionó Venao entre las zonas con daños preliminares.",
+   "image_caption": "Edificio colapsado con barandas retorcidas y escombros"
+  },
+  "s20": {
+   "title": "Daños en la catedral y el edificio municipal de Santiago; techo parcialmente colapsado",
+   "summary": "TVN informa que cayeron fragmentos de la entrada de la catedral de Santiago y que el edificio municipal sufrió un colapso parcial del techo y la fachada; cayó un busto. La Avenida Central se cerró para inspecciones.",
+   "image_caption": "Edificio municipal de Santiago con escombros caídos en la plaza"
+  },
+  "n8": {
+   "title": "Daños en la catedral y el edificio municipal de Santiago; colapso parcial del techo",
+   "summary": "Cayeron fragmentos de la Catedral de Santiago y su entrada está dañada; el edificio municipal (que también alberga oficinas del Banco Nacional) sufrió el colapso parcial de la parte superior de su fachada/techo; la Avenida Central se cerró al tránsito para inspecciones de los bomberos de Veraguas.",
+   "image_caption": "Edificio municipal de Santiago con escombros caídos en la plaza"
+  },
+  "n30": {
+   "title": "Cierra el aeropuerto de Tocumen, evacuan pasajeros; vuelos desviados",
+   "summary": "Tocumen suspendió operaciones y evacuó a pasajeros y personal mientras se revisaban la terminal y la torre de control; no se reportan daños ni heridos. Vuelos desviados a Barranquilla y San José. No se dio hora de reapertura.",
+   "image_caption": "Foto de archivo de la fachada de la terminal del Aeropuerto Internacional de Tocumen"
+  },
+  "x7": {
+   "title": "Vía a Torio (Mariato) fracturada con desnivel vertical",
+   "summary": "Una foto compartida por Global News muestra la vía asfaltada a Torio partida de lado a lado, con un escalón de decenas de centímetros y el hombro hundido.",
+   "image_caption": "Vía pavimentada fracturada de lado a lado con gran desnivel vertical"
+  },
+  "s27": {
+   "title": "Reportan daños en el sector de Marbella, Ciudad de Panamá",
+   "summary": "El medio salvadoreño CronioSV publicó un video que, según afirma, muestra daños en el sector de Marbella de la Ciudad de Panamá. No confirmado por autoridades panameñas.",
+   "image_caption": "Escombros en un estacionamiento junto a rascacielos, trabajador limpiando"
+  },
+  "n33": {
+   "title": "Incendio en depósitos de la Zona Libre de Colón; vínculo con el sismo sin confirmar",
+   "summary": "Incendio con explosiones en depósitos de France Field; ~5 carros de bomberos; el tránsito posterior al sismo dificultó el acceso. El comandante de bomberos no pudo confirmar un vínculo con el terremoto. No hay personas desaparecidas.",
+   "image_caption": "Densa columna de humo negro sobre un complejo de depósitos"
+  },
+  "s19": {
+   "title": "El expresidente Martinelli publica los daños en su casa de Soná",
+   "summary": "El expresidente Ricardo Martinelli publicó fotos de su casa en Soná, gravemente dañada, y dijo que las pérdidas eran solo materiales. Lo informaron Mi Diario y La Nación. Martinelli dijo esperar que las pérdidas fueran solo materiales.",
+   "image_caption": "Captura de video de Martinelli junto a una casa con paredes colapsadas"
+  },
+  "s21": {
+   "title": "Daños en la terminal de transporte de Santiago y en la Policlínica Horacio Díaz Gómez",
+   "summary": "Panamá América informa de daños estructurales en la terminal de buses de Santiago y en la policlínica Horacio Díaz Gómez. No hay foto disponible."
+  },
+  "s23": {
+   "title": "Cae parte de la torre de la Basílica de Atalaya",
+   "summary": "Panamá América y La Prensa informan que cayó parte de la torre de la Basílica Menor (Jesús Nazareno) en Atalaya, Veraguas."
+  },
+  "s24": {
+   "title": "Grietas en el campanario de la histórica iglesia San Atanasio, La Villa de Los Santos",
+   "summary": "Panamá América informa de grietas en el campanario de la iglesia colonial de San Atanasio, sitio de patrimonio nacional."
+  },
+  "s28": {
+   "title": "Potabilizadora de Chilibre al 20 % de su capacidad",
+   "summary": "El IDAAN indica que la potabilizadora de Chilibre funciona al 20 % de su capacidad tras el sismo, lo que provoca un suministro irregular de agua en la capital. Sin imagen."
+  },
+  "x9": {
+   "title": "Colapsa una esquina de la Gobernación de Penonomé; torre de la catedral agrietada",
+   "summary": "Fotos de Mundo en Conflicto muestran la esquina del edificio de la Gobernación de Coclé colapsada y el campanario de la catedral agrietado, con escombros en la calle.",
+   "image_caption": "Esquina de la Gobernación colapsada, habitaciones expuestas, escombros"
+  },
+  "s12": {
+   "title": "Cambutal (Tonosí): daños estructurales y viales cerca del epicentro",
+   "summary": "Foto de Telemetro del área de Cambutal, en la costa de Azuero. Telemetro la describe como la zona más afectada, con daños en estructuras y vías.",
+   "image_caption": "Imagen de TV de una vía partida por una gran ruptura"
+  },
+  "l10": {
+   "title": "Réplica de M4,6 cerca de La Chorrera; 46 réplicas hasta las 15:00",
+   "summary": "Hasta las 3 p. m. hora local se habían registrado 46 réplicas, entre ellas una de M6,1 a las 13:22 y otra de M6,4 a las 13:37 en Los Santos, además de una de M4,6 cerca de La Chorrera, Panamá Oeste. No se reportan daños en La Chorrera."
+  },
+  "s16": {
+   "title": "Colapsa el Hostal El Sitio en Playa Venao; habría personas atrapadas",
+   "summary": "Video del hostal El Sitio dañado en Playa Venao (Pedasí). Lugareños dijeron a La Prensa que había personas atrapadas. Aún no está confirmado; Telemetro informa que los edificios turísticos afectados en Pedasí estaban desocupados.",
+   "image_caption": "Edificio colapsado con barandas retorcidas y escombros"
+  },
+  "s10": {
+   "title": "La Estrella: daños en la torre de la iglesia y en un hotel de Penonomé",
+   "summary": "La Estrella de Panamá informa que cayó la torre derecha de la iglesia católica y que se reportó el colapso del hotel Dos Continentes. La foto principal es una imagen de WhatsApp de los daños.",
+   "image_caption": "Escombros de un edificio colapsado junto a la iglesia, con presencia policial"
+  },
+  "x14": {
+   "title": "Grabado el sismo en la estación de servicio Va & Ven, Penonomé",
+   "summary": "AlertaNews24 comparte un video de personas que huyen de sus autos en una estación de servicio Va & Ven en Penonomé durante el sismo.",
+   "image_caption": "Personas corriendo desde sus vehículos en una estación de servicio"
+  },
+  "s34": {
+   "title": "Instagram: superficie de una vía abierta por grietas en Coclé (Pulzo)",
+   "summary": "Un reel de Instagram de Pulzo muestra el asfalto partido por el sismo. Pulzo lo ubica en la provincia de Coclé, pero podría tratarse de la vía a Torio (Veraguas). La ubicación no está verificada."
+  },
+  "s8": {
+   "title": "Hotel 2 Continentes: se desploma una sección del edificio, autos entre los escombros",
+   "summary": "Un video muestra parte del Hotel Dos Continentes colapsada, con autos entre los escombros.",
+   "image_caption": "Sección de edificio colapsada con escombros y paredes agrietadas"
+  },
+  "s18": {
+   "title": "Daños en la estación de bomberos de Soná",
+   "summary": "Fotos de Telemetro muestran daños en la estación de bomberos Mayor Alberto Martinelli, en Soná, Veraguas. Panamá América también informa de los daños.",
+   "image_caption": "Estación de bomberos roja y blanca con la sección frontal colapsada"
+  },
+  "n4": {
+   "title": "Torre de la iglesia de Penonomé cae sobre un auto; despacho de la Gobernación al descubierto",
+   "summary": "Infobae: colapsó la torre de la iglesia San Juan Bautista, con escombros sobre un vehículo; la Gobernación sufrió daños graves y el despacho del gobernador quedó al descubierto; el Hotel Dos Continentes presenta daños críticos; una persona herida por el colapso de una estructura del mercado. También menciona el colapso parcial de un hotel y viviendas contiguas cerca de Tonosí, en inspección.",
+   "image_caption": "La descarga devolvió HTML, no una imagen"
+  },
+  "n29": {
+   "title": "Fallas generalizadas en redes móviles e internet",
+   "summary": "Fallas masivas en las redes de comunicación de varios operadores (Infobae); La República informa de la interrupción de los servicios de telefonía móvil, con equipos técnicos restableciendo la señal."
+  },
+  "s14": {
+   "title": "Imagen de La Prensa de la vía dañada a Torio, Mariato",
+   "summary": "Foto de La Prensa de la vía agrietada que conduce a Torio, distrito de Mariato, Veraguas.",
+   "image_caption": "Vía partida por la ruptura con grandes desniveles verticales"
+  },
+  "s15": {
+   "title": "ADN: graves daños viales tras el sismo (fotos de Tráfico CPanamá)",
+   "summary": "ADN Noticias compartió tres fotos atribuidas a @traficocpanama que muestran asfalto muy agrietado y desnivelado. Parecen corresponder a la vía Torio/Mariato.",
+   "image_caption": "Superficie de la vía agrietada y desnivelada junto a una baranda de protección"
+  },
+  "s26": {
+   "title": "Evacuaciones en Calle 50; caída de vidrios en la Ciudad de Panamá",
+   "summary": "Video de la evacuación masiva en Calle 50. La Prensa informa de caída de vidrios de ventanas de edificios en Calle 50, Paitilla y otras zonas comerciales.",
+   "image_caption": "Oficinistas evacuados sobre el césped cerca de un rascacielos"
+  },
+  "s11": {
+   "title": "TVN: colapsan el hotel, la iglesia y la Gobernación en Penonomé",
+   "summary": "TVN informa de colapsos estructurales en un hotel, la iglesia y la Gobernación de Penonomé.",
+   "image_caption": "Fachada de hotel colapsada con pisos aplastados"
+  },
+  "s25": {
+   "title": "Sinaproc: daños preliminares reportados en Chitré",
+   "summary": "El director del Sinaproc, Omar Smith, dijo que hubo daños preliminares en Chitré y Venao, y que otros puntos aún se están verificando. Todavía sin detalles ni imágenes."
+  },
+  "x11": {
+   "title": "Casa con planta baja colapsada en Penonomé",
+   "summary": "Noticiero Hechos (El Salvador) comparte un video identificado como de Penonomé que muestra una casa cuyo piso/muro de soporte colapsó, dejando inclinada la habitación superior.",
+   "image_caption": "Piso de casa colapsado, paredes agrietadas, escombros debajo"
+  },
+  "x10": {
+   "title": "Escombros atravesados en una calle del centro de Penonomé",
+   "summary": "Un video de Tráfico Panamá muestra ladrillos y mampostería esparcidos por una calle junto a un edificio dañado, con policías en el lugar.",
+   "image_caption": "Escombros de mampostería esparcidos por la calle junto a un edificio dañado"
+  },
+  "s31": {
+   "title": "Grabado el Puente Centenario balanceándose durante el sismo",
+   "summary": "Un video muestra el Puente Centenario sobre el Canal de Panamá durante el movimiento. No se reportan daños.",
+   "image_caption": "Rieles de las esclusas del Canal y locomotora, puente Centenario al fondo"
+  },
+  "n1": {
+   "title": "Colapso parcial del Hotel Dos Continentes en Penonomé",
+   "summary": "TVN informa que colapsó la estructura del Hotel Dos Continentes en Penonomé, y que una iglesia y el edificio de la Gobernación también sufrieron daños. Al cierre no había fallecidos, heridos ni personas atrapadas confirmados; el Sinaproc evalúa la situación.",
+   "image_caption": "Fachada de hotel colapsada con pisos aplastados"
+  },
+  "s13": {
+   "title": "Vía a Torio (Mariato) partida por grietas profundas",
+   "summary": "Fotos muestran la vía a Torio, en Mariato, Veraguas, agrietada en todo su ancho con grandes desniveles verticales. Panamá América dice que la vía Santiago–Arenas está «partida en dos».",
+   "image_caption": "Vía partida por la ruptura con grandes desniveles verticales"
+  },
+  "s5": {
+   "title": "Daños en el Iguana Mall, Penonomé",
+   "summary": "Una foto muestra daños en el interior del centro comercial Iguana Mall en Penonomé. Wikipedia los describe como daños menores.",
+   "image_caption": "Trozos de concreto caídos junto a una columna del mall, cerca de McDonald's"
+  },
+  "x17": {
+   "title": "El agua de la piscina de la azotea cae en cascada desde la torre Bay View",
+   "summary": "Un video muestra el agua de la piscina de la azotea de la torre Bay View, en la Ciudad de Panamá, cayendo a la calle durante el sismo.",
+   "image_caption": "Agua cayendo por la fachada de la torre Bay View"
+  },
+  "s4": {
+   "title": "Fotos de Crítica: catedral y Gobernación de Penonomé",
+   "summary": "Crítica publicó fotos y videos de la catedral y la Gobernación de Penonomé con daños.",
+   "image_caption": "Edificio colonial con muros frontales colapsados, polvo"
+  },
+  "s2": {
+   "title": "Daños en la torre de la catedral San Juan Bautista en Penonomé",
+   "summary": "Una foto muestra daños en la Parroquia/Catedral San Juan Bautista. Medios locales informan que su campanario derecho cayó parcialmente.",
+   "image_caption": "Iglesia blanca dañada con pila de escombros, agente de policía"
+  },
+  "s30": {
+   "title": "Reportan caídas de la red móvil tras el sismo",
+   "summary": "Una cuenta informa que varias operadoras móviles de Panamá sufrieron caídas tras el sismo. El Sinaproc también mencionó interrupciones en las comunicaciones.",
+   "image_caption": "Personas reunidas en la calle frente a edificios de oficinas"
+  },
+  "x13": {
+   "title": "Video: fachada de un edificio se desploma sobre un vehículo en Penonomé",
+   "summary": "Videos de La Prensa de daños estructurales en Penonomé; uno muestra una fachada/alero desplomándose sobre un vehículo entre una nube de polvo.",
+   "image_caption": "Fachada desplomándose sobre un vehículo entre el polvo"
+  },
+  "s22": {
+   "title": "Sismo interrumpe transmisión deportiva en vivo en Santiago",
+   "summary": "Un programa deportivo de RPC que transmitía en vivo desde Santiago (a unos 60 km del epicentro) muestra el estudio sacudiéndose violentamente.",
+   "image_caption": "Panel de pódcast radial de cinco hombres frente a micrófonos"
+  },
+  "s7": {
+   "title": "Video de usuario: graves daños en el centro de Penonomé",
+   "summary": "Un usuario publicó un video y una foto de lo que describe como graves daños en estructuras de Penonomé.",
+   "image_caption": "Video de celular: edificio colapsado sobre autos estacionados, Penonomé"
+  },
+  "s1": {
+   "title": "Colapso parcial del Hotel Dos Continentes en Penonomé",
+   "summary": "Un video publicado por La Prensa muestra parte del Hotel Dos Continentes, en la carretera Interamericana, colapsada tras el sismo. El colapso también lo informan Crítica, La Estrella, TVN y El Siglo.",
+   "image_caption": "Captura de video de una calle con gasolinera y autos"
+  },
+  "s33": {
+   "title": "Terminal de Albrook durante el sismo",
+   "summary": "Un video desde el interior de la Terminal de Albrook, en la Ciudad de Panamá, muestra un movimiento violento y personas corriendo.",
+   "image_caption": "Personas afuera del edificio de la terminal de buses tras el sismo"
+  },
+  "s32": {
+   "title": "Personal y pacientes del Hospital Santo Tomás afuera tras el sismo",
+   "summary": "Una foto de AFP, usada por El Espectador, muestra a una enfermera afuera de la maternidad del hospital Santo Tomás, en la Ciudad de Panamá, después del sismo.",
+   "image_caption": "Personal y pacientes del hospital reunidos afuera del edificio"
+  },
+  "x16": {
+   "title": "Escombros caídos en Marbella, Ciudad de Panamá",
+   "summary": "Un video de Decisiones Panamá muestra escombros de fachada cubriendo un estacionamiento en Marbella, con un trabajador limpiando junto a rascacielos.",
+   "image_caption": "Escombros caídos en un estacionamiento entre torres de Marbella"
+  },
+  "s3": {
+   "title": "Graves daños en la Gobernación y la catedral de Penonomé",
+   "summary": "Fotos y video de un periodista en Penonomé muestran el edificio de la Gobernación provincial y la catedral muy dañados, con escombros en la calle.",
+   "image_caption": "Edificio colonial con muros frontales colapsados, polvo"
+  },
+  "l9": {
+   "title": "Daños en la torre de la iglesia de Atalaya",
+   "summary": "La Prensa informó de daños en la torre de la iglesia de Atalaya, Veraguas (sede de la basílica de Jesús Nazareno). También informó de daños estructurales en la catedral de Santiago. No se dieron cifras."
+  }
+ },
+ "official_notes": {
+  "2026-10-09T20:00:00Z": "Aún no hay un balance oficial consolidado. El director del Sinaproc, Omar Smith, informó de «varios heridos» (sin cifra) y de daños concentrados en Veraguas, Herrera y Los Santos (Chitré, Venao). Ninguna autoridad ha confirmado fallecidos. Al menos 1 herido en el mercado de Penonomé (El Siglo/Infobae). Sin confirmar los reportes de personas atrapadas en el hostal El Sitio, Playa Venao.",
+  "2026-10-09T21:08:02Z": "El Sinaproc indica que no se han registrado fallecidos. «Varios» heridos fueron trasladados a hospitales de las provincias centrales, pero no se dio una cifra. Hasta ~21:30Z no se habían publicado cifras consolidadas de heridos, desplazados ni viviendas dañadas. También citado a las 16:24 hora local en la cobertura en vivo de El Tiempo: https://www.eltiempo.com/mundo/latinoamerica/fuerte-terremoto-en-panama-reportan-sismo-de-magnitud-8-0-durante-la-tarde-de-este-viernes-9-de-octubre-hay-alerta-de-tsunami-3592581 . Por separado, la CSS (Caja de Seguro Social) informó que no hubo pacientes, usuarios ni funcionarios heridos en sus instalaciones (La Estrella, reporte existente u202610092103_4)."
+ },
+ "conflicts": [
+  "Magnitud: USGS M7,7 (inicialmente 8,0, luego 7,6), profundidad de 12,6 km; IGC-UP M7,2 (inicialmente 7,0), profundidad de 4–10 km, ubicado a 39 km al O/NO de Tonosí; SGC de Colombia, 7,3 y luego 8,0.",
+  "Provincia del epicentro: el USGS menciona Pitaloza Arriba (AP/Reuters dicen Herrera); medios locales citan Tonosí, Los Santos.",
+  "Ubicación del hotel colapsado: los medios panameños lo sitúan en Penonomé (Hotel Dos Continentes); BioBioChile informó erróneamente de un hotel de cuatro pisos en el centro de la Ciudad de Panamá; es.wikipedia/Infobae mencionan además un colapso parcial distinto de un hotel cerca de Tonosí.",
+  "Algunos medios (Vanguardia) llaman erróneamente a Penonomé la zona del epicentro.",
+  "Réplicas: el director del IGC-UP, Néstor Luque, informó de 46 réplicas a media tarde (La Estrella); Telemetro dice «más de 40»/«más de 47». La mayor: M6,6 del USGS a las 20:25 UTC cerca de Río Grande (Soná), reportada primero como M6,9 por el SGC de Colombia y por el IGC (Telemetro, «32 km al NE de Coiba»). Los valores anteriores del IGC de M6,0–6,5 para las primeras réplicas no coinciden con el catálogo del USGS (mayor réplica temprana: M5,8, El Cacao).",
+  "PorEsto afirma que hubo daños en el Puente Centenario; el video de El Tiempo solo muestra el movimiento, sin daños reportados.",
+  "Varios medios reciclaron un texto del Sinaproc sobre el sismo del 10 de agosto de 2026 en Colombia («9:31 a. m., sin personas afectadas»), que no corresponde a este evento.",
+  "Heridos: el director del Sinaproc, Omar Smith, informó de «varios heridos» (sin cifra); la Caja de Seguro Social (15:27 hora local) dijo que no hubo pacientes, usuarios ni funcionarios afectados en sus propias instalaciones. Ninguna de las dos es una cifra nacional.",
+  "Réplica más fuerte (20:25 UTC): USGS M6,6, 14 km al O de Río Grande (Veraguas); IGC-UP M6,9, a 32 km de Coiba; El Tiempo también cita M6,6 a 8 km al NO de Río Grande."
+ ],
+ "source_hashes": {}
+}
