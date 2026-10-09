@@ -282,3 +282,22 @@ table.data.compact th, table.data.compact td { white-space: normal; padding: 6px
 .leaflet-control-attribution { background: color-mix(in srgb, var(--surface) 85%, transparent) !important; color: var(--text-2); }
 .leaflet-control-attribution a { color: var(--accent); }
 .leaflet-bar a { background: var(--surface); color: var(--text); border-color: var(--border); }
+
+/* ---------- landing gate ---------- */
+.gate { position: fixed; inset: 0; z-index: 9000; background: var(--bg); display: flex; align-items: center; justify-content: center; padding: 24px 16px; overflow-y: auto; }
+.gate-ok .gate { display: none; }
+html:not(.gate-ok) body > :not(.gate):not(script) { visibility: hidden; }
+.gate-card { max-width: 620px; width: 100%; background: var(--surface); border: 1px solid var(--border); border-top: 4px solid var(--critical); border-radius: 10px; padding: 28px 30px; box-shadow: 0 8px 30px rgba(0,0,0,.08); margin: auto; }
+.gate-card h1 { font-size: 26px; margin: 4px 0 2px; }
+.gate-sub { color: var(--text-2); margin: 0 0 18px; }
+.gate-card h2 { font-size: 13px; text-transform: uppercase; letter-spacing: .07em; color: var(--text-2); margin: 0 0 8px; }
+.gate-card p { font-size: 14.5px; line-height: 1.55; margin: 0 0 10px; }
+.gate-strong { font-weight: 600; }
+#gate-form { margin-top: 18px; border-top: 1px solid var(--border); padding-top: 16px; }
+#gate-form label { font-size: 13px; font-weight: 600; color: var(--text-2); display: block; margin-bottom: 6px; }
+.gate-row { display: flex; gap: 8px; }
+.gate-row input { flex: 1; min-width: 0; padding: 10px 12px; font: inherit; font-size: 15px; border: 1px solid var(--border); border-radius: 6px; background: var(--bg); color: var(--text); }
+.gate-row input:focus { outline: 2px solid var(--accent); outline-offset: 1px; }
+.gate-row button { padding: 10px 18px; font: inherit; font-weight: 600; border: 0; border-radius: 6px; background: var(--accent); color: #fff; cursor: pointer; }
+.gate-err { color: var(--critical); font-size: 13px; min-height: 18px; margin-top: 6px; }
+@media (max-width: 640px) { .gate-card { padding: 20px 18px; } .gate-card h1 { font-size: 22px; } }

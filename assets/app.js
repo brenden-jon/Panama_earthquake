@@ -521,6 +521,30 @@ document.addEventListener("mousemove", ev => {
   tt.style.left = Math.min(ev.clientX + 14, innerWidth - 270) + "px"; tt.style.top = ev.clientY + 14 + "px";
 });
 
+// ---------- landing gate (convenience only, not security) ----------
+const GATE_HASH = "c4cf640f62b7372447f0fb49c172135a78fc3a1265d8fd06a7dcdd6e8008f660";
+async function sha256(t) {
+  const b = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(t));
+  return [...new Uint8Array(b)].map(x => x.toString(16).padStart(2, "0")).join("");
+}
+function initGate() {
+  if (document.documentElement.classList.contains("gate-ok")) return;
+  setTimeout(() => $("#gate-pw").focus(), 50);
+  $("#gate-form").addEventListener("submit", async ev => {
+    ev.preventDefault();
+    if (await sha256($("#gate-pw").value.trim()) === GATE_HASH) {
+      try { localStorage.setItem("gate", "ok"); } catch (e) {}
+      document.documentElement.classList.add("gate-ok");
+      showTab();
+      Object.values(maps).forEach(m => m.invalidateSize());
+    } else {
+      $("#gate-err").textContent = "Incorrect access code.";
+      $("#gate-pw").select();
+    }
+  });
+}
+initGate();
+
 // ---------- boot ----------
 async function boot() {
   try { state.lastVisit = localStorage.getItem("lastVisit"); localStorage.setItem("lastVisit", new Date().toISOString()); } catch (e) {}

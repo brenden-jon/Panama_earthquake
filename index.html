@@ -3,6 +3,8 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<script>try{if(localStorage.getItem("gate")==="ok")document.documentElement.classList.add("gate-ok")}catch(e){}</script>
 <title>Panama Earthquake Monitor</title>
 <meta name="description" content="Preliminary, unofficial situational overview of the M7.7 Azuero (Panama) earthquake of 9 October 2026, compiled from public internet sources.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -10,10 +12,29 @@
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@500&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/MarkerCluster.min.css">
-<link rel="stylesheet" href="assets/style.css">
+<link rel="stylesheet" href="assets/style.css?v=202610092038">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Cpath d='M2 17h6l3-8 5 15 4-11 3 4h7' fill='none' stroke='%23d03b3b' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E">
 </head>
 <body>
+<div class="gate" id="gate" role="dialog" aria-modal="true" aria-labelledby="gate-title">
+  <div class="gate-card">
+    <div class="eyebrow">Preliminary analytical platform</div>
+    <h1 id="gate-title">Panama Earthquake Monitor</h1>
+    <p class="gate-sub">M7.7 Azuero earthquake · 9 October 2026</p>
+    <h2>About this platform</h2>
+    <p>This platform was developed independently by Brenden Jongman to support rapid analysis of the October 2026 Panama earthquake and its potential impacts. It uses publicly available data and AI-assisted analytical and development tools.</p>
+    <p>The information and estimates are preliminary, may contain errors, and should not be interpreted as validated damage or loss assessments. This is not an official World Bank product, and its contents do not necessarily reflect the views of the World Bank or its member governments.</p>
+    <p class="gate-strong">For preliminary analytical use only. Not for public distribution.</p>
+    <form id="gate-form" autocomplete="off">
+      <label for="gate-pw">Access code</label>
+      <div class="gate-row">
+        <input id="gate-pw" type="password" autocomplete="off" spellcheck="false" required>
+        <button type="submit">Enter</button>
+      </div>
+      <div class="gate-err" id="gate-err" aria-live="polite"></div>
+    </form>
+  </div>
+</div>
 <div class="disclaimer-bar" role="note">
   <strong>PRELIMINARY &amp; UNOFFICIAL.</strong> Compiled from public internet sources (news, social media, USGS). Not a formal damage or risk assessment and not official figures. Verify before use.
   <a href="#sources">Method &amp; sources</a>
@@ -204,10 +225,11 @@
 <!-- ================= SOURCES ================= -->
 <section id="tab-sources" class="tab">
   <div class="card prose">
-    <h3>About this page</h3>
-    <p>This page is a <strong>preliminary, unofficial</strong> compilation to support early situational awareness after the 9 October 2026 earthquake in Panama. It brings together publicly available information from the internet: the USGS earthquake products, news reports, official statements as relayed by the media, and social media posts. <strong>No formal damage, loss or risk assessment has been carried out.</strong> Figures labelled "official" are those reported by Panamanian authorities as quoted in public sources; all other numbers are either media reports or model estimates and will change.</p>
-    <p>This is <strong>not</strong> a product of the Government of Panama, the World Bank or any other institution, and it does not represent their views.</p>
-    <p>Compiled by <strong>Brenden Jongman</strong>, with AI-assisted search and data processing. Corrections and additional sources are welcome.</p>
+    <h3>About this platform</h3>
+    <p>This platform was developed independently by <strong>Brenden Jongman</strong> to support rapid analysis of the October 2026 Panama earthquake and its potential impacts. It uses publicly available data and AI-assisted analytical and development tools.</p>
+    <p>The information and estimates are <strong>preliminary, may contain errors</strong>, and should not be interpreted as validated damage or loss assessments. This is not an official World Bank product, and its contents do not necessarily reflect the views of the World Bank or its member governments.</p>
+    <p><strong>For preliminary analytical use only. Not for public distribution.</strong></p>
+    <p>Figures labelled "official" are those reported by Panamanian authorities as quoted in public sources; all other numbers are media reports or model estimates and will change.</p>
     <h3>How it updates</h3>
     <ul>
       <li><strong>Earthquakes and aftershocks</strong> are loaded live from the USGS API in your browser every 2 minutes.</li>
@@ -230,7 +252,7 @@
 </main>
 
 <footer class="wrap foot">
-  Preliminary and unofficial · compiled by Brenden Jongman from public sources · not an official assessment ·
+  Preliminary analytical use only · not for public distribution · developed independently by Brenden Jongman · not an official World Bank product ·
   <span id="foot-updated"></span>
 </footer>
 
@@ -238,6 +260,6 @@
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/leaflet.markercluster.min.js"></script>
-<script src="assets/app.js"></script>
+<script src="assets/app.js?v=202610092038"></script>
 </body>
 </html>

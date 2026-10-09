@@ -131,7 +131,7 @@ def main():
         },
         "reports_count": len(reports),
         "reports_with_images": sum(1 for r in reports if r.get("image_url")),
-        "places_with_damage": sorted({r["place"] for r in reports if r["category"] in ("building_damage", "infrastructure", "injuries", "fatalities", "landslide")}),
+        "places_with_damage": sorted({r["place"] for r in reports if r["category"] in ("building_damage", "injuries", "fatalities", "landslide")}),
     }
     json.dump({"generated_utc": NOW, "reports": reports}, open(D("data", "reports.json"), "w"), ensure_ascii=False, indent=1)
     json.dump(summary, open(D("data", "summary.json"), "w"), ensure_ascii=False, indent=1)
