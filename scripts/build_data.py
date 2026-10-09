@@ -43,6 +43,8 @@ def load_reports():
             r.setdefault("figures", {})
             r.setdefault("image_url", None)
             r.setdefault("added_utc", NOW)
+            if r.get("reported_utc") and r["reported_utc"] > NOW:  # drop future timestamps (mislabelled local times)
+                r["reported_utc"] = None
             prov = (r.get("province") or "").strip()
             if not prov or prov.lower() in ("all", "nationwide", "national") or "," in prov or "/" in prov:
                 r["province"] = "Multiple / national"
