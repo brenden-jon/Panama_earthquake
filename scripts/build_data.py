@@ -47,7 +47,7 @@ def load_reports():
             if v and r.get("image_url"):
                 r["image_verdict"] = v["verdict"]
                 r["image_caption"] = v.get("caption")
-                if v["verdict"] in ("generic", "broken"):
+                if v["verdict"] in ("generic", "broken") or v.get("place_match") is False:
                     r["image_url"] = None
             out.append(r)
     out.sort(key=lambda r: r.get("reported_utc") or r.get("added_utc") or "", reverse=True)

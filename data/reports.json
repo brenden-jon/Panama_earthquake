@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-09T20:19:18Z",
+ "generated_utc": "2026-10-09T20:22:51Z",
  "reports": [
   {
    "reported_utc": "2026-10-09T21:36:00Z",
@@ -18,7 +18,7 @@
    "figures": {},
    "image_url": null,
    "id": "n21",
-   "added_utc": "2026-10-09T20:19:18Z"
+   "added_utc": "2026-10-09T20:22:51Z"
   },
   {
    "reported_utc": null,
@@ -37,7 +37,7 @@
    "figures": {},
    "image_url": null,
    "id": "n3",
-   "added_utc": "2026-10-09T20:19:18Z"
+   "added_utc": "2026-10-09T20:22:51Z"
   },
   {
    "reported_utc": null,
@@ -56,7 +56,7 @@
    "figures": {},
    "image_url": null,
    "id": "n5",
-   "added_utc": "2026-10-09T20:19:18Z"
+   "added_utc": "2026-10-09T20:22:51Z"
   },
   {
    "reported_utc": null,
@@ -75,7 +75,7 @@
    "figures": {},
    "image_url": null,
    "id": "n6",
-   "added_utc": "2026-10-09T20:19:18Z"
+   "added_utc": "2026-10-09T20:22:51Z"
   },
   {
    "reported_utc": null,
@@ -90,11 +90,13 @@
    "source_name": "Reuters via The National",
    "source_type": "news",
    "url": "https://www.thenationalnews.com/news/us/2026/10/09/panama-earthquake-damage/",
-   "image_url": "https://www.thenationalnews.com/resizer/v2/73E5JXKRBHZQNXU4RGFW4BBA7I.jpg?auth=c71eda170006cbd80fb640eefd48300222ffa31afec694191ceb26b9cf805e19&smart=true&width=1200&height=630",
+   "image_url": null,
    "confidence": "multiple_sources",
    "figures": {},
    "id": "n7",
-   "added_utc": "2026-10-09T20:19:18Z"
+   "added_utc": "2026-10-09T20:22:51Z",
+   "image_verdict": "generic",
+   "image_caption": "Aerial of Panama City skyline and rooftop pool tower"
   },
   {
    "reported_utc": null,
@@ -109,11 +111,13 @@
    "source_name": "Panamá América",
    "source_type": "news",
    "url": "https://www.panamaamerica.com.pa/sociedad/sismo-de-magnitud-72-sacude-este-viernes-panama-se-localizo-el-oeste-de-tonosi-1267295",
-   "image_url": "https://www.panamaamerica.com.pa/sites/default/files/imagenes/2026/10/09/sismo-panama-terremoto_1.jpg",
+   "image_url": null,
    "confidence": "single_source",
    "figures": {},
    "id": "n9",
-   "added_utc": "2026-10-09T20:19:18Z"
+   "added_utc": "2026-10-09T20:22:51Z",
+   "image_verdict": "event",
+   "image_caption": "Crowd of evacuated office workers standing in city street"
   },
   {
    "reported_utc": null,
@@ -128,11 +132,13 @@
    "source_name": "Panamá América",
    "source_type": "news",
    "url": "https://www.panamaamerica.com.pa/sociedad/sismo-de-magnitud-72-sacude-este-viernes-panama-se-localizo-el-oeste-de-tonosi-1267295",
-   "image_url": "https://www.panamaamerica.com.pa/sites/default/files/imagenes/2026/10/09/sismo-panama-terremoto_1.jpg",
+   "image_url": null,
    "confidence": "multiple_sources",
    "figures": {},
    "id": "n10",
-   "added_utc": "2026-10-09T20:19:18Z"
+   "added_utc": "2026-10-09T20:22:51Z",
+   "image_verdict": "event",
+   "image_caption": "Crowd of evacuated office workers standing in city street"
   },
   {
    "reported_utc": null,
@@ -151,7 +157,7 @@
    "figures": {},
    "image_url": null,
    "id": "n11",
-   "added_utc": "2026-10-09T20:19:18Z"
+   "added_utc": "2026-10-09T20:22:51Z"
   },
   {
    "reported_utc": null,
@@ -170,7 +176,7 @@
    "figures": {},
    "image_url": null,
    "id": "n12",
-   "added_utc": "2026-10-09T20:19:18Z"
+   "added_utc": "2026-10-09T20:22:51Z"
   },
   {
    "reported_utc": null,
@@ -185,11 +191,13 @@
    "source_name": "Mi Diario",
    "source_type": "news",
    "url": "https://www.midiario.com/nacionales/tiembla-panama-y-la-casa-de-martinelli-en-sona-se-derrumba/",
-   "image_url": "https://www.midiario.com/resizer/v2/VKMNVA7QABGU3JKXYNOD45TAK4.jpg",
+   "image_url": "https://www.midiario.com/resizer/v2/VKMNVA7QABGU3JKXYNOD45TAK4.jpg?auth=d03d666baf14826cd0a6ee403b8e20dcd238020b347019e9c862f4ad7761c0e7&width=1200",
    "confidence": "multiple_sources",
    "figures": {},
    "id": "n13",
-   "added_utc": "2026-10-09T20:19:18Z"
+   "added_utc": "2026-10-09T20:22:51Z",
+   "image_verdict": "damage",
+   "image_caption": "Martinelli video still beside house with collapsed walls"
   },
   {
    "reported_utc": null,
@@ -208,7 +216,9 @@
    "confidence": "multiple_sources",
    "figures": {},
    "id": "n14",
-   "added_utc": "2026-10-09T20:19:18Z"
+   "added_utc": "2026-10-09T20:22:51Z",
+   "image_verdict": "damage",
+   "image_caption": "Road split by rupture; collapsed multi-storey hotel over cars"
   },
   {
    "reported_utc": null,
@@ -227,7 +237,7 @@
    "figures": {},
    "image_url": null,
    "id": "n15",
-   "added_utc": "2026-10-09T20:19:18Z"
+   "added_utc": "2026-10-09T20:22:51Z"
   },
   {
    "reported_utc": null,
@@ -242,11 +252,13 @@
    "source_name": "La Prensa",
    "source_type": "news",
    "url": "https://www.prensa.com/sociedad/fuerte-temblor-de-70-sacude-a-panama/",
-   "image_url": "https://www.prensa.com/resizer/v2/U4YJKMWYQ5BIHNXLMPX6575ADU.jpeg?auth=fd60a891eab8c5dd52d1e9a938514e3f53e68ec1ec53d4d218a3905d0d310f3f&width=1200",
+   "image_url": null,
    "confidence": "multiple_sources",
    "figures": {},
    "id": "n16",
-   "added_utc": "2026-10-09T20:19:18Z"
+   "added_utc": "2026-10-09T20:22:51Z",
+   "image_verdict": "damage",
+   "image_caption": "Brick debris on parked cars outside Panda House, urban street"
   },
   {
    "reported_utc": null,
@@ -261,11 +273,13 @@
    "source_name": "La Nación (Argentina)",
    "source_type": "news",
    "url": "https://www.lanacion.com.ar/el-mundo/las-impactantes-imagenes-y-videos-del-terremoto-que-sacudio-a-panama-nid09102026/",
-   "image_url": "https://www.lanacion.com.ar/resizer/v2/la-via-de-torio-en-mariato-provincia-de-veraguas-EBFHCQICBZHT3OVIKII5N7RKDE.png?auth=4c9077ce16f1b5ba4580ebd9cfe97b8309048d44eed139092895af3be33b92a5&width=1200&height=800&quality=70&smart=true",
+   "image_url": null,
    "confidence": "multiple_sources",
    "figures": {},
    "id": "n17",
-   "added_utc": "2026-10-09T20:19:18Z"
+   "added_utc": "2026-10-09T20:22:51Z",
+   "image_verdict": "damage",
+   "image_caption": "Road split by rupture; collapsed multi-storey hotel over cars"
   },
   {
    "reported_utc": null,
@@ -284,7 +298,7 @@
    "figures": {},
    "image_url": null,
    "id": "n20",
-   "added_utc": "2026-10-09T20:19:18Z"
+   "added_utc": "2026-10-09T20:22:51Z"
   },
   {
    "reported_utc": null,
@@ -303,7 +317,7 @@
    "figures": {},
    "image_url": null,
    "id": "n22",
-   "added_utc": "2026-10-09T20:19:18Z"
+   "added_utc": "2026-10-09T20:22:51Z"
   },
   {
    "reported_utc": null,
@@ -322,7 +336,7 @@
    "figures": {},
    "image_url": null,
    "id": "n23",
-   "added_utc": "2026-10-09T20:19:18Z"
+   "added_utc": "2026-10-09T20:22:51Z"
   },
   {
    "reported_utc": null,
@@ -341,7 +355,7 @@
    "figures": {},
    "image_url": null,
    "id": "n24",
-   "added_utc": "2026-10-09T20:19:18Z"
+   "added_utc": "2026-10-09T20:22:51Z"
   },
   {
    "reported_utc": null,
@@ -360,7 +374,7 @@
    "figures": {},
    "image_url": null,
    "id": "n25",
-   "added_utc": "2026-10-09T20:19:18Z"
+   "added_utc": "2026-10-09T20:22:51Z"
   },
   {
    "reported_utc": null,
@@ -379,7 +393,7 @@
    "figures": {},
    "image_url": null,
    "id": "n26",
-   "added_utc": "2026-10-09T20:19:18Z"
+   "added_utc": "2026-10-09T20:22:51Z"
   },
   {
    "reported_utc": null,
@@ -398,7 +412,7 @@
    "figures": {},
    "image_url": null,
    "id": "n31",
-   "added_utc": "2026-10-09T20:19:18Z"
+   "added_utc": "2026-10-09T20:22:51Z"
   },
   {
    "reported_utc": null,
@@ -413,11 +427,13 @@
    "source_name": "La Estrella de Panamá",
    "source_type": "official",
    "url": "https://www.laestrella.com.pa/panama/nacional/canal-de-panama-opera-con-normalidad-tras-sismo-de-72-MC26355009",
-   "image_url": "https://www.laestrella.com.pa/binrepository/1203x829/0c14/1203d802/none/199516884/ANQC/acp-thepanamacanal-gba-selxmaa1iqq_181-14692220_20261009124740.jpg",
+   "image_url": null,
    "confidence": "official",
    "figures": {},
    "id": "n32",
-   "added_utc": "2026-10-09T20:19:18Z"
+   "added_utc": "2026-10-09T20:22:51Z",
+   "image_verdict": "generic",
+   "image_caption": "Aerial file photo of canal locks with ships and Centenario bridge"
   },
   {
    "reported_utc": null,
@@ -432,11 +448,13 @@
    "source_name": "Infobae",
    "source_type": "news",
    "url": "https://www.infobae.com/panama/fotos/2026/10/09/las-primeras-imagenes-del-potente-terremoto-en-panama/",
-   "image_url": "https://www.infobae.com/resizer/v2/A4FIUIIU4ZH6BC5DUWKZ3YAGPU.jpg?auth=e70ea8dfcda42c7fcf49a22db34042e88b56fd4b8ef3eb4b34fc7762d1e49b2c&smart=true&width=1200&height=630&quality=85",
+   "image_url": null,
    "confidence": "single_source",
    "figures": {},
    "id": "n34",
-   "added_utc": "2026-10-09T20:19:18Z"
+   "added_utc": "2026-10-09T20:22:51Z",
+   "image_verdict": "damage",
+   "image_caption": "Collapsed hotel floors crushing parked cars, onlookers"
   },
   {
    "reported_utc": null,
@@ -455,7 +473,7 @@
    "figures": {},
    "image_url": null,
    "id": "n36",
-   "added_utc": "2026-10-09T20:19:18Z"
+   "added_utc": "2026-10-09T20:22:51Z"
   },
   {
    "reported_utc": null,
@@ -474,7 +492,9 @@
    "confidence": "official",
    "figures": {},
    "id": "n37",
-   "added_utc": "2026-10-09T20:19:18Z"
+   "added_utc": "2026-10-09T20:22:51Z",
+   "image_verdict": "event",
+   "image_caption": "Crowd evacuated outdoors under trees"
   },
   {
    "reported_utc": null,
@@ -489,11 +509,13 @@
    "source_name": "Expreso (Ecuador)",
    "source_type": "news",
    "url": "https://expreso.ec/ecuador/cancelan-alerta-tsunami-ecuador-terremoto-panama-298789.html",
-   "image_url": "https://imagenes.expreso.ec/files/og_thumbnail/uploads/2026/10/09/6ac9411bca3b4.jpeg",
+   "image_url": null,
    "confidence": "multiple_sources",
    "figures": {},
    "id": "n38",
-   "added_utc": "2026-10-09T20:19:18Z"
+   "added_utc": "2026-10-09T20:22:51Z",
+   "image_verdict": "event",
+   "image_caption": "ECU 911 beach webcam frame, calm sea (Ecuador)"
   },
   {
    "reported_utc": null,
@@ -512,7 +534,9 @@
    "confidence": "official",
    "figures": {},
    "id": "n39",
-   "added_utc": "2026-10-09T20:19:18Z"
+   "added_utc": "2026-10-09T20:22:51Z",
+   "image_verdict": "damage",
+   "image_caption": "Collapsed building and church facade with rubble"
   },
   {
    "reported_utc": null,
@@ -531,7 +555,7 @@
    "figures": {},
    "image_url": null,
    "id": "n40",
-   "added_utc": "2026-10-09T20:19:18Z"
+   "added_utc": "2026-10-09T20:22:51Z"
   },
   {
    "reported_utc": null,
@@ -550,7 +574,7 @@
    "figures": {},
    "image_url": null,
    "id": "n41",
-   "added_utc": "2026-10-09T20:19:18Z"
+   "added_utc": "2026-10-09T20:22:51Z"
   },
   {
    "reported_utc": null,
@@ -569,7 +593,9 @@
    "confidence": "single_source",
    "figures": {},
    "id": "n42",
-   "added_utc": "2026-10-09T20:19:18Z"
+   "added_utc": "2026-10-09T20:22:51Z",
+   "image_verdict": "event",
+   "image_caption": "USGS shaking intensity map centred on Panama"
   },
   {
    "id": "s6",
@@ -588,7 +614,9 @@
    "image_url": "https://pbs.twimg.com/amplify_video_thumb/2108647265720020992/img/yLY8XbFCuEQqrOWt.jpg",
    "confidence": "multiple_sources",
    "figures": {},
-   "added_utc": "2026-10-09T20:19:18Z"
+   "added_utc": "2026-10-09T20:22:51Z",
+   "image_verdict": "damage",
+   "image_caption": "Colonial government building with collapsed wall section"
   },
   {
    "reported_utc": "2026-10-09T19:52:00Z",
@@ -603,11 +631,13 @@
    "source_name": "Telemetro",
    "source_type": "news",
    "url": "https://www.telemetro.com/nacionales/sismo-panama-reportan-derrumbes-azuero-y-autoridades-inspeccionan-danos-replicas-n6094636",
-   "image_url": "https://media.telemetro.com/p/7c9eeeffdc6fcc7f83e1802db5b7176e/adjuntos/311/imagenes/019/137/0019137898/855x0/smart/sinaproc-sismo-panama.jpg",
+   "image_url": null,
    "confidence": "single_source",
    "figures": {},
    "id": "n18",
-   "added_utc": "2026-10-09T20:19:18Z"
+   "added_utc": "2026-10-09T20:22:51Z",
+   "image_verdict": "damage",
+   "image_caption": "TV frame: collapsed hotel floors on blue pickup"
   },
   {
    "reported_utc": "2026-10-09T19:52:00Z",
@@ -626,7 +656,7 @@
    "figures": {},
    "image_url": null,
    "id": "n19",
-   "added_utc": "2026-10-09T20:19:18Z"
+   "added_utc": "2026-10-09T20:22:51Z"
   },
   {
    "reported_utc": "2026-10-09T19:51:00Z",
@@ -647,7 +677,9 @@
    "image_url": "https://elsiglo.com.pa/binrepository/1216x882/0c99/1216d684/none/275766432/KJBQ/temblor_181-14691916_20261009121905.jpg",
    "confidence": "multiple_sources",
    "id": "n2",
-   "added_utc": "2026-10-09T20:19:18Z"
+   "added_utc": "2026-10-09T20:22:51Z",
+   "image_verdict": "event",
+   "image_caption": "Crowd around injured person lying on ground outdoors"
   },
   {
    "id": "s9",
@@ -666,7 +698,9 @@
    "image_url": "https://elsiglo.com.pa/binrepository/1216x882/0c99/1216d684/none/275766432/KJBQ/temblor_181-14691916_20261009121905.jpg",
    "confidence": "single_source",
    "figures": {},
-   "added_utc": "2026-10-09T20:19:18Z"
+   "added_utc": "2026-10-09T20:22:51Z",
+   "image_verdict": "event",
+   "image_caption": "Crowd around injured person lying on ground outdoors"
   },
   {
    "reported_utc": "2026-10-09T19:47:00Z",
@@ -685,7 +719,9 @@
    "confidence": "official",
    "figures": {},
    "id": "n35",
-   "added_utc": "2026-10-09T20:19:18Z"
+   "added_utc": "2026-10-09T20:22:51Z",
+   "image_verdict": "damage",
+   "image_caption": "Fallen roof tiles outside Banco Nacional building"
   },
   {
    "reported_utc": "2026-10-09T19:46:00Z",
@@ -700,11 +736,13 @@
    "source_name": "La Estrella de Panamá",
    "source_type": "news",
    "url": "https://www.laestrella.com.pa/panama/nacional/sismo-provoca-afectaciones-electricas-en-varias-provincias-ensa-restablece-17-circuitos-en-colon-BC26354849",
-   "image_url": "https://www.laestrella.com.pa/binrepository/699x466/0c0/0d0/none/199516884/ARAN/depositphotos-742738190-xl_181-14692190_20261009124638.jpg",
+   "image_url": null,
    "confidence": "multiple_sources",
    "figures": {},
    "id": "n27",
-   "added_utc": "2026-10-09T20:19:18Z"
+   "added_utc": "2026-10-09T20:22:51Z",
+   "image_verdict": "generic",
+   "image_caption": "Stock photo of electricity pylon against sky"
   },
   {
    "reported_utc": "2026-10-09T19:46:00Z",
@@ -723,7 +761,7 @@
    "figures": {},
    "image_url": null,
    "id": "n28",
-   "added_utc": "2026-10-09T20:19:18Z"
+   "added_utc": "2026-10-09T20:22:51Z"
   },
   {
    "id": "s29",
@@ -742,7 +780,9 @@
    "image_url": "https://pbs.twimg.com/media/HUNoUklWAAAQg9O.png",
    "confidence": "multiple_sources",
    "figures": {},
-   "added_utc": "2026-10-09T20:19:18Z"
+   "added_utc": "2026-10-09T20:22:51Z",
+   "image_verdict": "event",
+   "image_caption": "Tocumen airport official notice on suspended operations"
   },
   {
    "id": "s17",
@@ -761,7 +801,9 @@
    "image_url": "https://pbs.twimg.com/amplify_video_thumb/2108641331266437120/img/bw6XMlE4KTOJWbPe.jpg",
    "confidence": "multiple_sources",
    "figures": {},
-   "added_utc": "2026-10-09T20:19:18Z"
+   "added_utc": "2026-10-09T20:22:51Z",
+   "image_verdict": "damage",
+   "image_caption": "Collapsed building with twisted railings and debris"
   },
   {
    "id": "s20",
@@ -780,7 +822,9 @@
    "image_url": "https://static.tvn-2.com/clip/209930b4-3577-4f01-a2cf-75079e8c3587_16-9-aspect-ratio_default_0.jpg",
    "confidence": "multiple_sources",
    "figures": {},
-   "added_utc": "2026-10-09T20:19:18Z"
+   "added_utc": "2026-10-09T20:22:51Z",
+   "image_verdict": "damage",
+   "image_caption": "Santiago municipal building with fallen debris on plaza"
   },
   {
    "reported_utc": "2026-10-09T19:38:00Z",
@@ -799,7 +843,9 @@
    "confidence": "multiple_sources",
    "figures": {},
    "id": "n8",
-   "added_utc": "2026-10-09T20:19:18Z"
+   "added_utc": "2026-10-09T20:22:51Z",
+   "image_verdict": "damage",
+   "image_caption": "Santiago municipal building with fallen debris on plaza"
   },
   {
    "reported_utc": "2026-10-09T19:36:00Z",
@@ -814,11 +860,13 @@
    "source_name": "TVN Noticias",
    "source_type": "news",
    "url": "https://www.tvn-2.com/nacionales/temblor-panama-aeropuerto-internacional-tocumen_1_2265254.html",
-   "image_url": "https://static.tvn-2.com/clip/c76135df-d6b3-41a3-8764-bb1adf2717ae_16-9-aspect-ratio_default_0.jpg",
+   "image_url": null,
    "confidence": "official",
    "figures": {},
    "id": "n30",
-   "added_utc": "2026-10-09T20:19:18Z"
+   "added_utc": "2026-10-09T20:22:51Z",
+   "image_verdict": "generic",
+   "image_caption": "File photo of Tocumen International Airport terminal facade"
   },
   {
    "id": "s27",
@@ -837,7 +885,9 @@
    "image_url": "https://pbs.twimg.com/amplify_video_thumb/2108642161155538944/img/5LrLQUfwFM0x-9mZ.jpg",
    "confidence": "unverified",
    "figures": {},
-   "added_utc": "2026-10-09T20:19:18Z"
+   "added_utc": "2026-10-09T20:22:51Z",
+   "image_verdict": "damage",
+   "image_caption": "Debris on parking lot beside high-rises, worker clearing"
   },
   {
    "reported_utc": "2026-10-09T19:31:00Z",
@@ -856,7 +906,9 @@
    "confidence": "unverified",
    "figures": {},
    "id": "n33",
-   "added_utc": "2026-10-09T20:19:18Z"
+   "added_utc": "2026-10-09T20:22:51Z",
+   "image_verdict": "event",
+   "image_caption": "Thick black smoke rising over warehouse complex"
   },
   {
    "id": "s19",
@@ -875,7 +927,9 @@
    "image_url": "https://www.midiario.com/resizer/v2/VKMNVA7QABGU3JKXYNOD45TAK4.jpg?auth=d03d666baf14826cd0a6ee403b8e20dcd238020b347019e9c862f4ad7761c0e7&width=1200",
    "confidence": "multiple_sources",
    "figures": {},
-   "added_utc": "2026-10-09T20:19:18Z"
+   "added_utc": "2026-10-09T20:22:51Z",
+   "image_verdict": "damage",
+   "image_caption": "Martinelli video still beside house with collapsed walls"
   },
   {
    "id": "s21",
@@ -894,7 +948,7 @@
    "image_url": null,
    "confidence": "single_source",
    "figures": {},
-   "added_utc": "2026-10-09T20:19:18Z"
+   "added_utc": "2026-10-09T20:22:51Z"
   },
   {
    "id": "s23",
@@ -913,7 +967,7 @@
    "image_url": null,
    "confidence": "multiple_sources",
    "figures": {},
-   "added_utc": "2026-10-09T20:19:18Z"
+   "added_utc": "2026-10-09T20:22:51Z"
   },
   {
    "id": "s24",
@@ -932,7 +986,7 @@
    "image_url": null,
    "confidence": "single_source",
    "figures": {},
-   "added_utc": "2026-10-09T20:19:18Z"
+   "added_utc": "2026-10-09T20:22:51Z"
   },
   {
    "id": "s28",
@@ -951,7 +1005,7 @@
    "image_url": null,
    "confidence": "single_source",
    "figures": {},
-   "added_utc": "2026-10-09T20:19:18Z"
+   "added_utc": "2026-10-09T20:22:51Z"
   },
   {
    "id": "s12",
@@ -967,10 +1021,12 @@
    "source_name": "X @TReporta (Telemetro)",
    "source_type": "social",
    "url": "https://x.com/TReporta/status/2108640548047180239",
-   "image_url": "https://pbs.twimg.com/media/HUNs5vea0AA47DW.jpg",
+   "image_url": null,
    "confidence": "single_source",
    "figures": {},
-   "added_utc": "2026-10-09T20:19:18Z"
+   "added_utc": "2026-10-09T20:22:51Z",
+   "image_verdict": "damage",
+   "image_caption": "TV frame of road split by large rupture"
   },
   {
    "id": "s16",
@@ -989,7 +1045,9 @@
    "image_url": "https://pbs.twimg.com/amplify_video_thumb/2108638688070504448/img/qyZp26HDg1j_iJGg.jpg",
    "confidence": "multiple_sources",
    "figures": {},
-   "added_utc": "2026-10-09T20:19:18Z"
+   "added_utc": "2026-10-09T20:22:51Z",
+   "image_verdict": "damage",
+   "image_caption": "Collapsed building with twisted railings and debris"
   },
   {
    "id": "s10",
@@ -1008,7 +1066,9 @@
    "image_url": "https://www.laestrella.com.pa/binrepository/1200x800/0c0/1200d800/none/199516884/FLSA/whatsapp-image-2026-10-09-at-1-18-23_181-14691814_20261009120710.jpg",
    "confidence": "multiple_sources",
    "figures": {},
-   "added_utc": "2026-10-09T20:19:18Z"
+   "added_utc": "2026-10-09T20:22:51Z",
+   "image_verdict": "damage",
+   "image_caption": "Rubble from collapsed building beside church, police present"
   },
   {
    "id": "s34",
@@ -1027,7 +1087,7 @@
    "image_url": null,
    "confidence": "unverified",
    "figures": {},
-   "added_utc": "2026-10-09T20:19:18Z"
+   "added_utc": "2026-10-09T20:22:51Z"
   },
   {
    "id": "s8",
@@ -1046,7 +1106,9 @@
    "image_url": "https://pbs.twimg.com/amplify_video_thumb/2108638070740258816/img/MYN1ELUk26TSHadE.jpg",
    "confidence": "multiple_sources",
    "figures": {},
-   "added_utc": "2026-10-09T20:19:18Z"
+   "added_utc": "2026-10-09T20:22:51Z",
+   "image_verdict": "damage",
+   "image_caption": "Collapsed building section with debris and cracked walls"
   },
   {
    "id": "s18",
@@ -1065,7 +1127,9 @@
    "image_url": "https://pbs.twimg.com/media/HUNiJhFXUAAigqy.jpg",
    "confidence": "multiple_sources",
    "figures": {},
-   "added_utc": "2026-10-09T20:19:18Z"
+   "added_utc": "2026-10-09T20:22:51Z",
+   "image_verdict": "damage",
+   "image_caption": "Red-and-white fire station with collapsed front section"
   },
   {
    "reported_utc": "2026-10-09T19:17:00Z",
@@ -1083,10 +1147,12 @@
    "source_name": "Infobae",
    "source_type": "news",
    "url": "https://www.infobae.com/panama/2026/10/09/potente-terremoto-de-magnitud-76-sacude-panama-caidas-de-escombros-colapsos-y-alerta-de-tsunami-en-la-region/",
-   "image_url": "https://www.infobae.com/resizer/v2/XKR2HJ6YKBGADN6YESBMV3MMSY.jpg",
+   "image_url": null,
    "confidence": "multiple_sources",
    "id": "n4",
-   "added_utc": "2026-10-09T20:19:18Z"
+   "added_utc": "2026-10-09T20:22:51Z",
+   "image_verdict": "broken",
+   "image_caption": "Download returned HTML, not an image"
   },
   {
    "reported_utc": "2026-10-09T19:17:00Z",
@@ -1105,7 +1171,7 @@
    "figures": {},
    "image_url": null,
    "id": "n29",
-   "added_utc": "2026-10-09T20:19:18Z"
+   "added_utc": "2026-10-09T20:22:51Z"
   },
   {
    "id": "s14",
@@ -1124,7 +1190,9 @@
    "image_url": "https://pbs.twimg.com/media/HUNhGq7XEAAPbV3.jpg",
    "confidence": "multiple_sources",
    "figures": {},
-   "added_utc": "2026-10-09T20:19:18Z"
+   "added_utc": "2026-10-09T20:22:51Z",
+   "image_verdict": "damage",
+   "image_caption": "Road split by rupture with large vertical offsets"
   },
   {
    "id": "s15",
@@ -1143,7 +1211,9 @@
    "image_url": "https://pbs.twimg.com/media/HUNe6DiboAA_Q0l.jpg",
    "confidence": "multiple_sources",
    "figures": {},
-   "added_utc": "2026-10-09T20:19:18Z"
+   "added_utc": "2026-10-09T20:22:51Z",
+   "image_verdict": "damage",
+   "image_caption": "Road surface cracked with offset next to guardrail"
   },
   {
    "id": "s26",
@@ -1162,7 +1232,9 @@
    "image_url": "https://pbs.twimg.com/amplify_video_thumb/2108634023761186817/img/x6V7iISAxkEyhYEd.jpg",
    "confidence": "single_source",
    "figures": {},
-   "added_utc": "2026-10-09T20:19:18Z"
+   "added_utc": "2026-10-09T20:22:51Z",
+   "image_verdict": "event",
+   "image_caption": "Office workers evacuated onto grass near high-rise"
   },
   {
    "id": "s11",
@@ -1181,7 +1253,9 @@
    "image_url": "https://static.tvn-2.com/clip/4c71e7d9-f3d1-4e49-89fc-7692c6b6fafc_16-9-aspect-ratio_default_0.jpg",
    "confidence": "multiple_sources",
    "figures": {},
-   "added_utc": "2026-10-09T20:19:18Z"
+   "added_utc": "2026-10-09T20:22:51Z",
+   "image_verdict": "damage",
+   "image_caption": "Collapsed hotel facade with crushed floors"
   },
   {
    "id": "s25",
@@ -1200,7 +1274,7 @@
    "image_url": null,
    "confidence": "single_source",
    "figures": {},
-   "added_utc": "2026-10-09T20:19:18Z"
+   "added_utc": "2026-10-09T20:22:51Z"
   },
   {
    "id": "s31",
@@ -1219,7 +1293,9 @@
    "image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2108630733379993601/pu/img/w6hYtvMzh1cSQM5P.jpg",
    "confidence": "single_source",
    "figures": {},
-   "added_utc": "2026-10-09T20:19:18Z"
+   "added_utc": "2026-10-09T20:22:51Z",
+   "image_verdict": "event",
+   "image_caption": "Canal lock tracks and locomotive, Centenario bridge distant"
   },
   {
    "reported_utc": "2026-10-09T18:47:00Z",
@@ -1238,7 +1314,9 @@
    "confidence": "multiple_sources",
    "figures": {},
    "id": "n1",
-   "added_utc": "2026-10-09T20:19:18Z"
+   "added_utc": "2026-10-09T20:22:51Z",
+   "image_verdict": "damage",
+   "image_caption": "Collapsed hotel facade with crushed floors"
   },
   {
    "id": "s13",
@@ -1257,7 +1335,9 @@
    "image_url": "https://pbs.twimg.com/media/HUNb2oTX0AERqjq.jpg",
    "confidence": "multiple_sources",
    "figures": {},
-   "added_utc": "2026-10-09T20:19:18Z"
+   "added_utc": "2026-10-09T20:22:51Z",
+   "image_verdict": "damage",
+   "image_caption": "Road split by rupture with large vertical offsets"
   },
   {
    "id": "s5",
@@ -1276,7 +1356,9 @@
    "image_url": "https://pbs.twimg.com/media/HUNbjCNWIAAlUF2.jpg",
    "confidence": "single_source",
    "figures": {},
-   "added_utc": "2026-10-09T20:19:18Z"
+   "added_utc": "2026-10-09T20:22:51Z",
+   "image_verdict": "damage",
+   "image_caption": "Fallen concrete pieces at mall column near McDonald's"
   },
   {
    "id": "s4",
@@ -1295,7 +1377,9 @@
    "image_url": "https://pbs.twimg.com/media/HUNZvyPXUAA_kbs.jpg",
    "confidence": "multiple_sources",
    "figures": {},
-   "added_utc": "2026-10-09T20:19:18Z"
+   "added_utc": "2026-10-09T20:22:51Z",
+   "image_verdict": "damage",
+   "image_caption": "Colonial building with collapsed front walls, dust"
   },
   {
    "id": "s2",
@@ -1314,7 +1398,9 @@
    "image_url": "https://pbs.twimg.com/media/HUNZo_TWcAARcl8.jpg",
    "confidence": "multiple_sources",
    "figures": {},
-   "added_utc": "2026-10-09T20:19:18Z"
+   "added_utc": "2026-10-09T20:22:51Z",
+   "image_verdict": "damage",
+   "image_caption": "Damaged white church with rubble pile, police officer"
   },
   {
    "id": "s30",
@@ -1333,7 +1419,9 @@
    "image_url": "https://pbs.twimg.com/amplify_video_thumb/2108627129604685824/img/lgd8ijr1WxalOkux.jpg",
    "confidence": "unverified",
    "figures": {},
-   "added_utc": "2026-10-09T20:19:18Z"
+   "added_utc": "2026-10-09T20:22:51Z",
+   "image_verdict": "event",
+   "image_caption": "People gathered in street outside office buildings"
   },
   {
    "id": "s22",
@@ -1352,7 +1440,9 @@
    "image_url": "https://pbs.twimg.com/amplify_video_thumb/2108626885638799361/img/PgRhJiC4HZs9PzbK.jpg",
    "confidence": "single_source",
    "figures": {},
-   "added_utc": "2026-10-09T20:19:18Z"
+   "added_utc": "2026-10-09T20:22:51Z",
+   "image_verdict": "event",
+   "image_caption": "Radio podcast panel of five men at microphones"
   },
   {
    "id": "s7",
@@ -1371,7 +1461,9 @@
    "image_url": "https://pbs.twimg.com/media/HUNYo24WMAAyuwh.jpg",
    "confidence": "unverified",
    "figures": {},
-   "added_utc": "2026-10-09T20:19:18Z"
+   "added_utc": "2026-10-09T20:22:51Z",
+   "image_verdict": "damage",
+   "image_caption": "Phone video: collapsed building over parked cars, Penonomé"
   },
   {
    "id": "s1",
@@ -1390,7 +1482,9 @@
    "image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2108626461779226624/pu/img/dAXgtoQYhQibnQL-.jpg",
    "confidence": "multiple_sources",
    "figures": {},
-   "added_utc": "2026-10-09T20:19:18Z"
+   "added_utc": "2026-10-09T20:22:51Z",
+   "image_verdict": "event",
+   "image_caption": "Video still of street with gas station and cars"
   },
   {
    "id": "s33",
@@ -1409,7 +1503,9 @@
    "image_url": "https://pbs.twimg.com/amplify_video_thumb/2108623941392576513/img/cs4r8WxyPbdNqiId.jpg",
    "confidence": "single_source",
    "figures": {},
-   "added_utc": "2026-10-09T20:19:18Z"
+   "added_utc": "2026-10-09T20:22:51Z",
+   "image_verdict": "event",
+   "image_caption": "People outside bus terminal building after quake"
   },
   {
    "id": "s32",
@@ -1428,7 +1524,9 @@
    "image_url": "https://www.elespectador.com/wp-content/uploads/2026/10/Panama_terremoto_1791570623565_0.jpg",
    "confidence": "single_source",
    "figures": {},
-   "added_utc": "2026-10-09T20:19:18Z"
+   "added_utc": "2026-10-09T20:22:51Z",
+   "image_verdict": "event",
+   "image_caption": "Hospital staff and patients gathered outside building"
   },
   {
    "id": "s3",
@@ -1447,7 +1545,9 @@
    "image_url": "https://pbs.twimg.com/media/HUNXdOVWIAAQauQ.jpg",
    "confidence": "multiple_sources",
    "figures": {},
-   "added_utc": "2026-10-09T20:19:18Z"
+   "added_utc": "2026-10-09T20:22:51Z",
+   "image_verdict": "damage",
+   "image_caption": "Colonial building with collapsed front walls, dust"
   }
  ]
 }

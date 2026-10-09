@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-09T20:19:18Z",
+ "generated_utc": "2026-10-09T20:22:51Z",
  "official_latest": {
   "as_of_utc": "2026-10-09T20:00:00Z",
   "deaths": null,
@@ -197,7 +197,7 @@
   }
  },
  "reports_count": 76,
- "reports_with_images": 50,
+ "reports_with_images": 37,
  "places_with_damage": [
   "Agua Clara locks",
   "Atalaya",

@@ -1,0 +1,252 @@
+{
+ "n7": {
+  "verdict": "generic",
+  "caption": "Aerial of Panama City skyline and rooftop pool tower",
+  "place_match": false
+ },
+ "n9": {
+  "verdict": "event",
+  "caption": "Crowd of evacuated office workers standing in city street",
+  "place_match": false
+ },
+ "n10": {
+  "verdict": "event",
+  "caption": "Crowd of evacuated office workers standing in city street",
+  "place_match": false
+ },
+ "n13": {
+  "verdict": "damage",
+  "caption": "Martinelli video still beside house with collapsed walls",
+  "place_match": true
+ },
+ "n14": {
+  "verdict": "damage",
+  "caption": "Road split by rupture; collapsed multi-storey hotel over cars",
+  "place_match": true
+ },
+ "n16": {
+  "verdict": "damage",
+  "caption": "Brick debris on parked cars outside Panda House, urban street",
+  "place_match": false
+ },
+ "n17": {
+  "verdict": "damage",
+  "caption": "Road split by rupture; collapsed multi-storey hotel over cars",
+  "place_match": false
+ },
+ "n32": {
+  "verdict": "generic",
+  "caption": "Aerial file photo of canal locks with ships and Centenario bridge",
+  "place_match": false
+ },
+ "n34": {
+  "verdict": "damage",
+  "caption": "Collapsed hotel floors crushing parked cars, onlookers",
+  "place_match": false
+ },
+ "n37": {
+  "verdict": "event",
+  "caption": "Crowd evacuated outdoors under trees",
+  "place_match": null
+ },
+ "n38": {
+  "verdict": "event",
+  "caption": "ECU 911 beach webcam frame, calm sea (Ecuador)",
+  "place_match": false
+ },
+ "n39": {
+  "verdict": "damage",
+  "caption": "Collapsed building and church facade with rubble",
+  "place_match": null
+ },
+ "n42": {
+  "verdict": "event",
+  "caption": "USGS shaking intensity map centred on Panama",
+  "place_match": null
+ },
+ "s6": {
+  "verdict": "damage",
+  "caption": "Colonial government building with collapsed wall section",
+  "place_match": true
+ },
+ "n18": {
+  "verdict": "damage",
+  "caption": "TV frame: collapsed hotel floors on blue pickup",
+  "place_match": false
+ },
+ "n2": {
+  "verdict": "event",
+  "caption": "Crowd around injured person lying on ground outdoors",
+  "place_match": true
+ },
+ "s9": {
+  "verdict": "event",
+  "caption": "Crowd around injured person lying on ground outdoors",
+  "place_match": true
+ },
+ "n35": {
+  "verdict": "damage",
+  "caption": "Fallen roof tiles outside Banco Nacional building",
+  "place_match": null
+ },
+ "n27": {
+  "verdict": "generic",
+  "caption": "Stock photo of electricity pylon against sky",
+  "place_match": null
+ },
+ "s29": {
+  "verdict": "event",
+  "caption": "Tocumen airport official notice on suspended operations",
+  "place_match": true
+ },
+ "s17": {
+  "verdict": "damage",
+  "caption": "Collapsed building with twisted railings and debris",
+  "place_match": true
+ },
+ "s20": {
+  "verdict": "damage",
+  "caption": "Santiago municipal building with fallen debris on plaza",
+  "place_match": true
+ },
+ "n8": {
+  "verdict": "damage",
+  "caption": "Santiago municipal building with fallen debris on plaza",
+  "place_match": true
+ },
+ "n30": {
+  "verdict": "generic",
+  "caption": "File photo of Tocumen International Airport terminal facade",
+  "place_match": true
+ },
+ "s27": {
+  "verdict": "damage",
+  "caption": "Debris on parking lot beside high-rises, worker clearing",
+  "place_match": true
+ },
+ "n33": {
+  "verdict": "event",
+  "caption": "Thick black smoke rising over warehouse complex",
+  "place_match": true
+ },
+ "s19": {
+  "verdict": "damage",
+  "caption": "Martinelli video still beside house with collapsed walls",
+  "place_match": true
+ },
+ "s12": {
+  "verdict": "damage",
+  "caption": "TV frame of road split by large rupture",
+  "place_match": false
+ },
+ "s16": {
+  "verdict": "damage",
+  "caption": "Collapsed building with twisted railings and debris",
+  "place_match": true
+ },
+ "s10": {
+  "verdict": "damage",
+  "caption": "Rubble from collapsed building beside church, police present",
+  "place_match": true
+ },
+ "s8": {
+  "verdict": "damage",
+  "caption": "Collapsed building section with debris and cracked walls",
+  "place_match": true
+ },
+ "s18": {
+  "verdict": "damage",
+  "caption": "Red-and-white fire station with collapsed front section",
+  "place_match": true
+ },
+ "n4": {
+  "verdict": "broken",
+  "caption": "Download returned HTML, not an image",
+  "place_match": null
+ },
+ "s14": {
+  "verdict": "damage",
+  "caption": "Road split by rupture with large vertical offsets",
+  "place_match": true
+ },
+ "s15": {
+  "verdict": "damage",
+  "caption": "Road surface cracked with offset next to guardrail",
+  "place_match": true
+ },
+ "s26": {
+  "verdict": "event",
+  "caption": "Office workers evacuated onto grass near high-rise",
+  "place_match": true
+ },
+ "s11": {
+  "verdict": "damage",
+  "caption": "Collapsed hotel facade with crushed floors",
+  "place_match": true
+ },
+ "s31": {
+  "verdict": "event",
+  "caption": "Canal lock tracks and locomotive, Centenario bridge distant",
+  "place_match": true
+ },
+ "n1": {
+  "verdict": "damage",
+  "caption": "Collapsed hotel facade with crushed floors",
+  "place_match": true
+ },
+ "s13": {
+  "verdict": "damage",
+  "caption": "Road split by rupture with large vertical offsets",
+  "place_match": true
+ },
+ "s5": {
+  "verdict": "damage",
+  "caption": "Fallen concrete pieces at mall column near McDonald's",
+  "place_match": true
+ },
+ "s4": {
+  "verdict": "damage",
+  "caption": "Colonial building with collapsed front walls, dust",
+  "place_match": true
+ },
+ "s2": {
+  "verdict": "damage",
+  "caption": "Damaged white church with rubble pile, police officer",
+  "place_match": true
+ },
+ "s30": {
+  "verdict": "event",
+  "caption": "People gathered in street outside office buildings",
+  "place_match": true
+ },
+ "s22": {
+  "verdict": "event",
+  "caption": "Radio podcast panel of five men at microphones",
+  "place_match": null
+ },
+ "s7": {
+  "verdict": "damage",
+  "caption": "Phone video: collapsed building over parked cars, Penonomé",
+  "place_match": true
+ },
+ "s1": {
+  "verdict": "event",
+  "caption": "Video still of street with gas station and cars",
+  "place_match": null
+ },
+ "s33": {
+  "verdict": "event",
+  "caption": "People outside bus terminal building after quake",
+  "place_match": true
+ },
+ "s32": {
+  "verdict": "event",
+  "caption": "Hospital staff and patients gathered outside building",
+  "place_match": true
+ },
+ "s3": {
+  "verdict": "damage",
+  "caption": "Colonial building with collapsed front walls, dust",
+  "place_match": true
+ }
+}
