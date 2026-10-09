@@ -644,6 +644,10 @@
   "c1_20": {
    "title": "Oficial: potabilizadoras afectadas a nivel nacional; Chilibre al 20 %",
    "summary": "El IDAAN reporta daños en la infraestructura de casi todas las plantas potabilizadoras del país; la planta de Chilibre, en la capital, opera al 20 % de su capacidad."
+  },
+  "a1_95": {
+   "title": "Más de 95 sismos registrados, incluida una réplica de M6,9 (IGC)",
+   "summary": "Medios que citan al Instituto de Geociencias de Panamá reportan más de 95 sismos registrados desde el evento principal, incluida una réplica que el IGC midió en M6,9 cerca de Coiba (USGS: M6,6). El catálogo del USGS solo incluye los eventos mayores (18 de M2,5+, 9 de M5+)."
   }
  },
  "official_notes": {
@@ -656,7 +660,7 @@
   "Provincia del epicentro: el USGS menciona Pitaloza Arriba (AP/Reuters dicen Herrera); medios locales citan Tonosí, Los Santos.",
   "Ubicación del hotel colapsado: los medios panameños lo sitúan en Penonomé (Hotel Dos Continentes); BioBioChile informó erróneamente de un hotel de cuatro pisos en el centro de la Ciudad de Panamá; es.wikipedia/Infobae mencionan además un colapso parcial distinto de un hotel cerca de Tonosí.",
   "Algunos medios (Vanguardia) llaman erróneamente a Penonomé la zona del epicentro.",
-  "Réplicas: el director del IGC-UP, Néstor Luque, informó de 46 réplicas a media tarde (La Estrella); Telemetro dice «más de 40»/«más de 47». La mayor: M6,6 del USGS a las 20:25 UTC cerca de Río Grande (Soná), reportada primero como M6,9 por el SGC de Colombia y por el IGC (Telemetro, «32 km al NE de Coiba»). Los valores anteriores del IGC de M6,0–6,5 para las primeras réplicas no coinciden con el catálogo del USGS (mayor réplica temprana: M5,8, El Cacao).",
+  "Réplicas: más de 95 sismos registrados según medios que citan al Instituto de Geociencias (IGC) al anochecer del 9 de octubre (46 a media tarde; más de 80 a las 16:20 según La Prensa). El catálogo del USGS solo incluye eventos mayores (18 de M2,5+); la mayor M6,6 (USGS) / M6,9 (IGC).",
   "PorEsto afirma que hubo daños en el Puente Centenario; el video de El Tiempo solo muestra el movimiento, sin daños reportados.",
   "Varios medios reciclaron un texto del Sinaproc sobre el sismo del 10 de agosto de 2026 en Colombia («9:31 a. m., sin personas afectadas»), que no corresponde a este evento.",
   "Heridos: el director del Sinaproc, Omar Smith, informó de «varios heridos» (sin cifra); la Caja de Seguro Social (15:27 hora local) dijo que no hubo pacientes, usuarios ni funcionarios afectados en sus propias instalaciones. Ninguna de las dos es una cifra nacional.",

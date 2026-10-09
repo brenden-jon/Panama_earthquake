@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-09T23:00:25Z",
+ "generated_utc": "2026-10-09T23:32:09Z",
  "official_latest": {
   "as_of_utc": "2026-10-09T22:58:00Z",
   "deaths": 0,
@@ -59,7 +59,7 @@
   "Epicentre province: USGS names Pitaloza Arriba (AP/Reuters say Herrera); local media cite Tonosí, Los Santos.",
   "Collapsed hotel location: Panamanian media place it in Penonomé (Hotel Dos Continentes); BioBioChile wrongly reported a four-storey hotel in downtown Panama City; es.wikipedia/Infobae also mention a separate partial hotel collapse near Tonosí.",
   "Some outlets (Vanguardia) wrongly call Penonomé the epicentre zone.",
-  "Aftershocks: IGC-UP director Néstor Luque reported 46 aftershocks by mid-afternoon (La Estrella); Telemetro says 'more than 40'/'47+'. Largest: USGS M6.6 at 20:25 UTC near Río Grande (Soná), first reported as M6.9 by SGC Colombia and by IGC (Telemetro, '32 km NE of Coiba'). Earlier IGC values of M6.0–6.5 for early aftershocks do not match the USGS catalogue (largest early aftershock M5.8, El Cacao).",
+  "Aftershocks: more than 95 earthquakes recorded according to media citing the Instituto de Geociencias (IGC) by the evening of 9 Oct (46 by mid-afternoon, 80+ by 16:20 per La Prensa). The USGS catalogue lists only larger events (18 of M2.5+); largest M6.6 (USGS) / M6.9 (IGC).",
   "PorEsto claims damage to Puente Centenario; El Tiempo video shows only shaking, no damage reported.",
   "Several outlets recycled Sinaproc text from the 10 Aug 2026 Colombia quake ('9:31 a.m. no persons affected') — not applicable to this event.",
   "Injuries: Sinaproc director Omar Smith reported 'several injured' (no figure); the Caja de Seguro Social (15:27 local) said no patients, users or staff were affected in its own facilities. Neither is a national total.",
@@ -70,7 +70,7 @@
   "Provincia del epicentro: el USGS menciona Pitaloza Arriba (AP/Reuters dicen Herrera); medios locales citan Tonosí, Los Santos.",
   "Ubicación del hotel colapsado: los medios panameños lo sitúan en Penonomé (Hotel Dos Continentes); BioBioChile informó erróneamente de un hotel de cuatro pisos en el centro de la Ciudad de Panamá; es.wikipedia/Infobae mencionan además un colapso parcial distinto de un hotel cerca de Tonosí.",
   "Algunos medios (Vanguardia) llaman erróneamente a Penonomé la zona del epicentro.",
-  "Réplicas: el director del IGC-UP, Néstor Luque, informó de 46 réplicas a media tarde (La Estrella); Telemetro dice «más de 40»/«más de 47». La mayor: M6,6 del USGS a las 20:25 UTC cerca de Río Grande (Soná), reportada primero como M6,9 por el SGC de Colombia y por el IGC (Telemetro, «32 km al NE de Coiba»). Los valores anteriores del IGC de M6,0–6,5 para las primeras réplicas no coinciden con el catálogo del USGS (mayor réplica temprana: M5,8, El Cacao).",
+  "Réplicas: más de 95 sismos registrados según medios que citan al Instituto de Geociencias (IGC) al anochecer del 9 de octubre (46 a media tarde; más de 80 a las 16:20 según La Prensa). El catálogo del USGS solo incluye eventos mayores (18 de M2,5+); la mayor M6,6 (USGS) / M6,9 (IGC).",
   "PorEsto afirma que hubo daños en el Puente Centenario; el video de El Tiempo solo muestra el movimiento, sin daños reportados.",
   "Varios medios reciclaron un texto del Sinaproc sobre el sismo del 10 de agosto de 2026 en Colombia («9:31 a. m., sin personas afectadas»), que no corresponde a este evento.",
   "Heridos: el director del Sinaproc, Omar Smith, informó de «varios heridos» (sin cifra); la Caja de Seguro Social (15:27 hora local) dijo que no hubo pacientes, usuarios ni funcionarios afectados en sus propias instalaciones. Ninguna de las dos es una cifra nacional.",
@@ -227,7 +227,7 @@
    ]
   }
  },
- "reports_count": 142,
+ "reports_count": 143,
  "reports_with_images": 58,
  "places_with_damage": [
   "Aguadulce",

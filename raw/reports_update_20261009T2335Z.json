@@ -1,0 +1,26 @@
+{
+ "generated_utc": "2026-10-09T23:35:00Z",
+ "reports": [
+  {
+   "id": "a1_95",
+   "reported_utc": null,
+   "place": "Gulf of Montijo / near Coiba Island",
+   "district": "Soná",
+   "province": "Veraguas",
+   "lat": 7.72,
+   "lon": -81.47,
+   "category": "aftershock",
+   "title": "More than 95 earthquakes recorded, including an M6.9 aftershock (IGC)",
+   "summary": "Media citing Panama's Instituto de Geociencias report more than 95 earthquakes recorded since the mainshock, including an aftershock the IGC measured at M6.9 near Coiba (USGS: M6.6). The USGS catalogue lists only the larger events (18 of M2.5+, 9 of M5+).",
+   "figures": {
+    "aftershocks": 95
+   },
+   "source_name": "Noticias SIN (headline)",
+   "source_type": "news",
+   "url": "https://noticiassin.com/mundo/america/2026/10/09/panama-registra-replica-de-6-9-y-mas-de-95-sismos-2140173",
+   "image_url": null,
+   "confidence": "single_source",
+   "added_utc": "2026-10-09T23:35:00Z"
+  }
+ ]
+}

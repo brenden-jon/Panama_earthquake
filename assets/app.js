@@ -145,13 +145,13 @@ function renderOverview() {
     `<b>Sismo de magnitud 7.7</b>, superficial (13 km de profundidad), a las <b>12:56 hora local</b> del viernes 9 de octubre (17:56 UTC). <span class="muted">El Instituto de Geociencias de Panamá lo midió en M7.2.</span>`,
     `<b>Epicentro:</b> sur de la península de Azuero, entre Los Santos y Herrera.`,
     `<b>Mayor intensidad:</b> severa a violenta alrededor de Tonosí y Macaracas; muy fuerte en Herrera, Los Santos y el sur de Veraguas${s ? `, donde viven unas <b>${popRange} personas</b>` : ""}.`,
-    `<b>Réplicas:</b> ${q.length ? `${q.length} registradas por el USGS hasta ahora` : "en curso"}${big ? `, la mayor de <b>M${bigM}</b>` : ""}. Son posibles más réplicas fuertes.`,
+    `<b>Réplicas:</b> decenas registradas por el Instituto de Geociencias; el catálogo del USGS incluye ${q.length} de las mayores${big ? `, la mayor de <b>M${bigM}</b>` : ""}. Son posibles más réplicas fuertes.`,
     `<b>Tsunami:</b> alerta inicial levantada; no se reportan daños por tsunami.`,
   ] : [
     `<b>M7.7 earthquake</b>, shallow (13 km deep), at <b>12:56 local time</b> on Friday 9 October (17:56 UTC). <span class="muted">Panama's Instituto de Geociencias measured M7.2.</span>`,
     `<b>Epicentre:</b> southern Azuero Peninsula, between Los Santos and Herrera.`,
     `<b>Strongest shaking:</b> severe to violent around Tonosí and Macaracas; very strong across Herrera, Los Santos and southern Veraguas${s ? `, where about <b>${popRange} people</b> live` : ""}.`,
-    `<b>Aftershocks:</b> ${q.length ? `${q.length} recorded by USGS so far` : "ongoing"}${big ? `, largest <b>M${bigM}</b>` : ""}. More strong aftershocks are possible.`,
+    `<b>Aftershocks:</b> dozens recorded by Panama's Instituto de Geociencias; the USGS catalogue lists ${q.length} of the larger ones${big ? `, largest <b>M${bigM}</b>` : ""}. More strong aftershocks are possible.`,
     `<b>Tsunami:</b> initial warning lifted; no tsunami damage reported.`,
   ]).map(x => `<li>${x}</li>`).join("");
 
@@ -381,7 +381,7 @@ function refreshMapLayers(m, on) {
   m._layers_.epi = epicentre().addTo(m);
   if (m._panel) {
     const q = state.quakes ? state.quakes.features.filter(f => f.properties.time > T0 + 1000).length : 0;
-    m._panel.querySelector(".quake-count").innerHTML = tl(`${q} aftershocks M2.5+ (USGS). Red = last hour. ${state.quakesLive ? "Live from USGS, refreshed every 2 min." : "Cached copy."}`, `${q} réplicas M2.5+ (USGS). Rojo = última hora. ${state.quakesLive ? "En vivo desde el USGS, cada 2 min." : "Copia en caché."}`);
+    m._panel.querySelector(".quake-count").innerHTML = tl(`${q} larger aftershocks (M2.5+) in the USGS catalogue; Panama's IGC records many more. Red = last hour. ${state.quakesLive ? "Live from USGS, refreshed every 2 min." : "Cached copy."}`, `${q} réplicas mayores (M2.5+) en el catálogo del USGS; el IGC de Panamá registra muchas más. Rojo = última hora. ${state.quakesLive ? "En vivo desde el USGS, cada 2 min." : "Copia en caché."}`);
   }
 }
 function initRiskMap() {
