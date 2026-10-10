@@ -1,13 +1,13 @@
 {
- "updated_utc": "2026-10-10T01:40:00Z",
- "headline": "A shallow M7.7 earthquake struck the Azuero Peninsula at 12:56 local time on 9 October. Officially no deaths or missing persons; damage is reported across seven provinces, with hundreds of homes collapsed in Los Pozos according to its mayor.",
+ "updated_utc": "2026-10-10T08:40:00Z",
+ "headline": "A shallow M7.7 earthquake struck the Azuero Peninsula at 12:56 local time on 9 October. SINAPROC reports no deaths or missing persons, 27 injured and 142 homes affected; damage across seven provinces.",
  "key_points": [
-  "Official (SINAPROC): no deaths, no missing persons; some injured, incl. 15 students with minor injuries in Coclé.",
-  "Los Pozos (Herrera): mayor reports hundreds of homes collapsed in 5 of 9 corregimientos; parish church ~70% destroyed.",
+  "Official (SINAPROC, 20:00 local): 0 deaths, 0 missing, 27 injured; 142 homes affected (3+ destroyed), 188 schools, 20 health facilities, 9 bridges.",
+  "Los Pozos (Herrera): mayor reports hundreds of homes collapsed — far above SINAPROC's 32 homes affected in Herrera; counts still rising.",
   "Tonosí cut off by road; four people rescued from a hotel. Mariato communities cut off after road ruptures.",
   "Penonomé: hotel, cathedral, Gobernación, churches and colonial houses damaged; Bolívar statue toppled.",
   "Hospitals evacuated in San Félix (~209 people), Penonomé, Santiago and Las Tablas; 188 schools damaged nationwide (MEDUCA).",
-  "Water: plants damaged nationwide; Chilibre recovered to 70% (IDAAN). Hemodialysis suspended nationally. 95+ aftershocks, largest M6.6."
+  "Water: Chilibre back to full production, supply returning gradually. No emergency declaration yet; CAF offers US$50M credit line. 95+ aftershocks."
  ],
  "areas": [
   {
@@ -128,9 +128,9 @@
    "source": "Telemetro live"
   }
  ],
- "upcoming": "President Mulino is expected to visit Tonosí on 10 October; further SINAPROC communiqués expected.",
+ "upcoming": "President Mulino to fly to Tonosí today (Saturday); next SINAPROC update and MEDUCA decision on classes expected.",
  "unknowns": [
-  "Total injured and number of displaced people — no national figures yet.",
+  "Number of displaced people and people in shelters — only 8 families sheltered in Coclé reported so far.",
   "Confirmed count of damaged and destroyed homes; Los Pozos 'hundreds collapsed' is the mayor's estimate.",
   "Situation in cut-off communities (Tonosí, Mariato coast) and the hardest-shaken rural areas.",
   "When water supply in Panama City and power in southern Veraguas will be restored.",

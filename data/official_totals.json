@@ -36,6 +36,18 @@
    "source_name": "SINAPROC / Ministerio de Gobierno — Comunicado Oficial N° 1",
    "url": "https://sismopanama.org/data/official/sinaproc_comunicado1_p1.jpg",
    "note": "Comunicado Oficial N° 1 (9 Oct 2026; time not stated, recorded 17:58 local): no deaths; 'some people injured' without a total (incl. 15 students with minor injuries at Escuela Alberto Zúñiga, Coclé); no missing persons reported; 47+ aftershocks (IGC-UP). Damage to government buildings, roads, churches, hotels, shops and homes in Azuero, Coclé, Panamá, Darién and Chiriquí; water treatment plants damaged nationwide (Chilibre at 20%)."
+  },
+  {
+   "as_of_utc": "2026-10-10T01:00:00Z",
+   "deaths": 0,
+   "injured": 27,
+   "missing": 0,
+   "displaced": null,
+   "homes_damaged": 142,
+   "homes_destroyed": 3,
+   "source_name": "SINAPROC consolidated report (cut-off 20:00 local), reported by La Prensa / EFE",
+   "url": "https://prensa.com/sociedad/terremoto-188-escuelas-afectadas-y-danos-en-viviendas-y-hospitales",
+   "note": "SINAPROC consolidated report (cut-off 20:00 local, 9 Oct): 0 dead, 0 missing, 27 with minor injuries; 142 homes affected, at least 3 destroyed (Herrera 2, Chiriquí 1); 188 schools, 20 health facilities, 26 government buildings, 13 churches, 7 hotels, 9 bridges and 4 residential buildings affected; ~300 people evacuated from Isla Cañas as a precaution; 8 families sheltered in Coclé (EFE)."
   }
  ],
  "conflicts": [

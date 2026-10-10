@@ -1,17 +1,17 @@
 {
- "generated_utc": "2026-10-10T05:58:53Z",
+ "generated_utc": "2026-10-10T08:15:41Z",
  "official_latest": {
-  "as_of_utc": "2026-10-09T22:58:00Z",
+  "as_of_utc": "2026-10-10T01:00:00Z",
   "deaths": 0,
-  "injured": null,
+  "injured": 27,
   "missing": 0,
   "displaced": null,
-  "homes_damaged": null,
-  "homes_destroyed": null,
-  "source_name": "SINAPROC / Ministerio de Gobierno — Comunicado Oficial N° 1",
-  "url": "https://sismopanama.org/data/official/sinaproc_comunicado1_p1.jpg",
-  "note": "Comunicado Oficial N° 1 (9 Oct 2026; time not stated, recorded 17:58 local): no deaths; 'some people injured' without a total (incl. 15 students with minor injuries at Escuela Alberto Zúñiga, Coclé); no missing persons reported; 47+ aftershocks (IGC-UP). Damage to government buildings, roads, churches, hotels, shops and homes in Azuero, Coclé, Panamá, Darién and Chiriquí; water treatment plants damaged nationwide (Chilibre at 20%).",
-  "note_es": "Comunicado Oficial N° 1 (9 oct 2026; sin hora indicada, registrado 17:58 hora local): sin fallecidos; 'algunas personas lesionadas' sin cifra total (incluidos 15 estudiantes con lesiones menores en la Escuela Alberto Zúñiga, Coclé); no se registran personas desaparecidas; más de 47 réplicas (IGC-UP). Afectaciones en edificios gubernamentales, vías, iglesias, hoteles, comercios y viviendas en Azuero, Coclé, Panamá, Darién y Chiriquí; plantas potabilizadoras dañadas a nivel nacional (Chilibre al 20 %)."
+  "homes_damaged": 142,
+  "homes_destroyed": 3,
+  "source_name": "SINAPROC consolidated report (cut-off 20:00 local), reported by La Prensa / EFE",
+  "url": "https://prensa.com/sociedad/terremoto-188-escuelas-afectadas-y-danos-en-viviendas-y-hospitales",
+  "note": "SINAPROC consolidated report (cut-off 20:00 local, 9 Oct): 0 dead, 0 missing, 27 with minor injuries; 142 homes affected, at least 3 destroyed (Herrera 2, Chiriquí 1); 188 schools, 20 health facilities, 26 government buildings, 13 churches, 7 hotels, 9 bridges and 4 residential buildings affected; ~300 people evacuated from Isla Cañas as a precaution; 8 families sheltered in Coclé (EFE).",
+  "note_es": "Informe consolidado de SINAPROC (corte 20:00 hora local, 9 oct): 0 fallecidos, 0 desaparecidos, 27 lesionados leves; 142 viviendas afectadas, al menos 3 destruidas (Herrera 2, Chiriquí 1); 188 escuelas, 20 instalaciones de salud, 26 edificios gubernamentales, 13 iglesias, 7 hoteles, 9 puentes y 4 edificios residenciales afectados; ~300 personas evacuadas preventivamente de Isla Cañas; 8 familias albergadas en Coclé (EFE)."
  },
  "official_snapshots": [
   {
@@ -52,6 +52,19 @@
    "url": "https://sismopanama.org/data/official/sinaproc_comunicado1_p1.jpg",
    "note": "Comunicado Oficial N° 1 (9 Oct 2026; time not stated, recorded 17:58 local): no deaths; 'some people injured' without a total (incl. 15 students with minor injuries at Escuela Alberto Zúñiga, Coclé); no missing persons reported; 47+ aftershocks (IGC-UP). Damage to government buildings, roads, churches, hotels, shops and homes in Azuero, Coclé, Panamá, Darién and Chiriquí; water treatment plants damaged nationwide (Chilibre at 20%).",
    "note_es": "Comunicado Oficial N° 1 (9 oct 2026; sin hora indicada, registrado 17:58 hora local): sin fallecidos; 'algunas personas lesionadas' sin cifra total (incluidos 15 estudiantes con lesiones menores en la Escuela Alberto Zúñiga, Coclé); no se registran personas desaparecidas; más de 47 réplicas (IGC-UP). Afectaciones en edificios gubernamentales, vías, iglesias, hoteles, comercios y viviendas en Azuero, Coclé, Panamá, Darién y Chiriquí; plantas potabilizadoras dañadas a nivel nacional (Chilibre al 20 %)."
+  },
+  {
+   "as_of_utc": "2026-10-10T01:00:00Z",
+   "deaths": 0,
+   "injured": 27,
+   "missing": 0,
+   "displaced": null,
+   "homes_damaged": 142,
+   "homes_destroyed": 3,
+   "source_name": "SINAPROC consolidated report (cut-off 20:00 local), reported by La Prensa / EFE",
+   "url": "https://prensa.com/sociedad/terremoto-188-escuelas-afectadas-y-danos-en-viviendas-y-hospitales",
+   "note": "SINAPROC consolidated report (cut-off 20:00 local, 9 Oct): 0 dead, 0 missing, 27 with minor injuries; 142 homes affected, at least 3 destroyed (Herrera 2, Chiriquí 1); 188 schools, 20 health facilities, 26 government buildings, 13 churches, 7 hotels, 9 bridges and 4 residential buildings affected; ~300 people evacuated from Isla Cañas as a precaution; 8 families sheltered in Coclé (EFE).",
+   "note_es": "Informe consolidado de SINAPROC (corte 20:00 hora local, 9 oct): 0 fallecidos, 0 desaparecidos, 27 lesionados leves; 142 viviendas afectadas, al menos 3 destruidas (Herrera 2, Chiriquí 1); 188 escuelas, 20 instalaciones de salud, 26 edificios gubernamentales, 13 iglesias, 7 hoteles, 9 puentes y 4 edificios residenciales afectados; ~300 personas evacuadas preventivamente de Isla Cañas; 8 familias albergadas en Coclé (EFE)."
   }
  ],
  "conflicts": [
@@ -227,11 +240,12 @@
    ]
   }
  },
- "reports_count": 253,
- "reports_with_images": 124,
+ "reports_count": 313,
+ "reports_with_images": 146,
  "places_with_damage": [
   "Aguadulce",
   "Aguadulce (municipal market)",
+  "Alanje",
   "Archipiélago de las Perlas",
   "Atalaya",
   "Calle 50 / Paitilla, Panama City",
@@ -241,7 +255,11 @@
   "Chiriquí province (schools)",
   "Chitré",
   "Chitré (fire stations)",
+  "Coclé (Escuela Alejandro Tapia / Federico Zúñiga)",
+  "Coclé province",
   "Colón (city)",
+  "Colón province",
+  "Comarca Ngäbe-Buglé (Chichica, Cerro Puerco, Llano Macano schools)",
   "Comarca Ngäbe-Buglé (schools)",
   "Commercial building under construction (location not stated)",
   "David (Hotel Occidental, Parque Cervantes)",
@@ -249,7 +267,11 @@
   "Eastern Chiriquí",
   "El Valle de Antón",
   "Escuela Alberto Zúñiga (Coclé)",
+  "Herrera province",
   "Herrera province (Azuero; town not stated)",
+  "Hospital Regional Anita Moreno (La Villa de Los Santos)",
+  "Hospital Santo Tomás, Panama City",
+  "Hospital del Oriente Chiricano (San Félix)",
   "La Chorrera (fire stations)",
   "La Enea, Guararé (home of singer Lucho Pérez)",
   "La Pitaloza, Los Pozos",
@@ -257,9 +279,12 @@
   "La Villa de Los Santos (Iglesia de San Atanasio)",
   "La Villa de Los Santos (Museo de la Nacionalidad)",
   "La Villa de Los Santos (police station and colonial houses)",
+  "Las Lajas (San Félix)",
   "Las Minas",
   "Las Tablas",
+  "Llano Ñopo",
   "Los Pozos",
+  "Los Pozos (Iglesia San Pedro)",
   "Los Pozos (church)",
   "Los Pozos (church, probable)",
   "Los Santos",
@@ -275,7 +300,9 @@
   "Panama (national)",
   "Panama Canal Pacific sector offices (Balboa)",
   "Panama City",
+  "Panama City (banking district)",
   "Panama City (high-rise buildings)",
+  "Panamá Oeste province",
   "Pedasí",
   "Penonomé",
   "Penonomé (Alcaldía / City Hall)",
@@ -296,8 +323,10 @@
   "Playa Venao",
   "Playa Venao (Hostal El Sitio)",
   "Puerto Armuelles (Hospital Dionisio Arrocha)",
+  "Río Hato (Centro de Salud)",
   "San Félix (Hospital del Oriente Chiricano)",
   "Santiago",
+  "Santiago (Estación central de Bomberos)",
   "Santiago (Hotel Mykonos)",
   "Santiago (fire station 1)",
   "Santiago de Veraguas",
@@ -308,6 +337,8 @@
   "Soná (Extensión Universitaria de la Universidad de Panamá)",
   "Soná (Martinelli residence)",
   "Soná (fire station)",
-  "Tonosí"
+  "Tebario (school)",
+  "Tonosí",
+  "Veraguas (building near school zone)"
  ]
 }

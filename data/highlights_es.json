@@ -1,13 +1,13 @@
 {
- "updated_utc": "2026-10-10T01:40:00Z",
- "headline": "Un sismo superficial de magnitud 7,7 sacudió la península de Azuero a las 12:56 hora local del 9 de octubre. Oficialmente no hay fallecidos ni desaparecidos; se reportan daños en siete provincias, con cientos de viviendas colapsadas en Los Pozos según su alcalde.",
+ "updated_utc": "2026-10-10T08:40:00Z",
+ "headline": "Un sismo superficial de magnitud 7,7 sacudió la península de Azuero a las 12:56 hora local del 9 de octubre. SINAPROC reporta cero fallecidos y desaparecidos, 27 lesionados y 142 viviendas afectadas; daños en siete provincias.",
  "key_points": [
-  "Oficial (SINAPROC): sin fallecidos ni desaparecidos; algunos lesionados, incl. 15 estudiantes con lesiones menores en Coclé.",
-  "Los Pozos (Herrera): el alcalde reporta cientos de viviendas colapsadas en 5 de 9 corregimientos; iglesia parroquial ~70 % destruida.",
+  "Oficial (SINAPROC, 20:00 hora local): 0 fallecidos, 0 desaparecidos, 27 lesionados; 142 viviendas afectadas (3+ destruidas), 188 escuelas, 20 instalaciones de salud, 9 puentes.",
+  "Los Pozos (Herrera): el alcalde reporta cientos de viviendas colapsadas, muy por encima de las 32 afectadas que SINAPROC registra en Herrera; las cifras siguen aumentando.",
   "Tonosí incomunicado por carretera; cuatro personas rescatadas de un hotel. Comunidades de Mariato aisladas por rupturas viales.",
   "Penonomé: hotel, catedral, Gobernación, iglesias y casas coloniales dañadas; estatua de Bolívar derribada.",
   "Hospitales evacuados en San Félix (~209 personas), Penonomé, Santiago y Las Tablas; 188 escuelas dañadas en el país (MEDUCA).",
-  "Agua: potabilizadoras dañadas en todo el país; Chilibre recuperada al 70 % (IDAAN). Hemodiálisis suspendida a nivel nacional. Más de 95 réplicas, la mayor M6,6."
+  "Agua: Chilibre en producción plena; el suministro se restablece gradualmente. Aún sin declaratoria de emergencia; CAF ofrece una línea de crédito de US$50 millones. Más de 95 réplicas."
  ],
  "areas": [
   {
@@ -128,9 +128,9 @@
    "source": "Telemetro en vivo"
   }
  ],
- "upcoming": "Se espera que el presidente Mulino visite Tonosí el 10 de octubre; se esperan nuevos comunicados de SINAPROC.",
+ "upcoming": "El presidente Mulino viajará hoy (sábado) a Tonosí; se esperan una nueva actualización de SINAPROC y la decisión de MEDUCA sobre las clases.",
  "unknowns": [
-  "Total de lesionados y de personas desplazadas: aún no hay cifras nacionales.",
+  "Número de desplazados y personas en albergues: hasta ahora solo se reportan 8 familias albergadas en Coclé.",
   "Conteo confirmado de viviendas dañadas y destruidas; los 'cientos colapsadas' en Los Pozos son estimación del alcalde.",
   "Situación de las comunidades incomunicadas (Tonosí, costa de Mariato) y de las zonas rurales con mayor intensidad.",
   "Cuándo se restablecerá el agua en la Ciudad de Panamá y la electricidad en el sur de Veraguas.",
