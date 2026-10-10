@@ -80,6 +80,7 @@ function showTab() {
   const tab = valid.includes(id) ? id : "overview";
   document.querySelectorAll(".tab").forEach(s => s.classList.toggle("active", s.id === "tab-" + tab));
   document.querySelectorAll(".tabs a").forEach(a => a.classList.toggle("active", a.dataset.tab === tab));
+  if (document.documentElement.classList.contains("gate-ok")) STATS.page("/" + tab, tab);
   if (tab === "map") initFullMap("big", "big-map");
   if (tab === "risk") initRiskMap();
   if (tab === "overview") initFullMap("ov", "ov-map");
@@ -567,6 +568,7 @@ document.addEventListener("click", ev => {
   lb.querySelector("img").referrerPolicy = "no-referrer";
   lb.querySelector(".lb-cap").innerHTML = `${esc(t.dataset.cap)} · <a href="${esc(t.dataset.url)}" target="_blank" rel="noopener">source →</a>`;
   lb.hidden = false;
+  STATS.event("photo-open", "Photo opened");
 });
 $("#lightbox").addEventListener("click", ev => { if (ev.target.tagName !== "A") $("#lightbox").hidden = true; });
 document.addEventListener("keydown", ev => { if (ev.key === "Escape") $("#lightbox").hidden = true; });
@@ -615,16 +617,19 @@ function sha256js(bytes) {
 }
 function initGate() {
   if (document.documentElement.classList.contains("gate-ok")) return;
+  STATS.page("/landing", "Landing page");
   setTimeout(() => $("#gate-pw").focus(), 50);
   $("#gate-form").addEventListener("submit", async ev => {
     ev.preventDefault();
     if (await sha256($("#gate-pw").value.trim()) === GATE_HASH) {
       try { localStorage.setItem("gate", "ok"); } catch (e) {}
       document.documentElement.classList.add("gate-ok");
+      STATS.event("unlock", "Access code entered" + (isEs() ? " (ES)" : ""));
       showTab();
       Object.values(maps).forEach(m => m.invalidateSize());
     } else {
       $("#gate-err").textContent = t("Incorrect access code.");
+      STATS.event("wrong-code", "Wrong access code");
       $("#gate-pw").select();
     }
   });
@@ -641,6 +646,7 @@ function applyLanguage() {
 }
 document.querySelectorAll(".lang-btn").forEach(b => b.addEventListener("click", () => {
   I18N.setLang(isEs() ? "en" : "es");
+  STATS.event("lang-" + I18N.lang, "Language switched to " + I18N.lang.toUpperCase());
   applyLanguage();
 }));
 I18N.translateStatic();
