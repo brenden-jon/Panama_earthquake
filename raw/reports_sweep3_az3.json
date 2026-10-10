@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-10T08:13:50Z",
+ "generated_utc": "2026-10-10T08:17:43Z",
  "reports": [
   {
    "id": "az3_1",
@@ -224,6 +224,27 @@
    "url": "https://prensa.com/sociedad/terremoto-188-escuelas-afectadas-y-danos-en-viviendas-y-hospitales",
    "image_url": null,
    "confidence": "official"
+  },
+  {
+   "id": "az3_10",
+   "reported_utc": "2026-10-09T20:05:47Z",
+   "place": "Playa Venao (Hostal El Sitio)",
+   "district": "Pedasí",
+   "province": "Los Santos",
+   "lat": 7.4325,
+   "lon": -80.1947,
+   "category": "building_damage",
+   "title": "Collapsed floors of Hostal El Sitio crush cars at Playa Venao (CRHoy)",
+   "summary": "Video stills published by CRHoy show the collapsed upper storeys of Hostal El Sitio at Playa Venao resting on crushed vehicles; locals feared people were trapped (not officially confirmed).",
+   "title_es": "Pisos colapsados del Hostal El Sitio aplastan autos en Playa Venao (CRHoy)",
+   "summary_es": "Imágenes de video publicadas por CRHoy muestran los pisos superiores colapsados del Hostal El Sitio en Playa Venao sobre vehículos aplastados; lugareños temían que hubiera personas atrapadas (no confirmado oficialmente).",
+   "image_caption_es": "Pisos colapsados del hostal sobre autos aplastados en Playa Venao",
+   "figures": {},
+   "source_name": "CRHoy",
+   "source_type": "news",
+   "url": "https://crhoy.com/mundo/video-sismo-en-panama-provoca-colapso-de-hostal-temen-que-haya-atrapados/",
+   "image_url": "https://images.hoy.cr/wp-content/uploads/2026/10/Hostal.jpeg",
+   "confidence": "multiple_sources"
   }
  ],
  "image_review": {
@@ -240,6 +261,11 @@
   "az3_7": {
    "verdict": "event",
    "caption": "Families sleeping outdoors under a tarp after homes damaged",
+   "place_match": true
+  },
+  "az3_10": {
+   "verdict": "damage",
+   "caption": "Hostel's collapsed upper floors crushing cars, Playa Venao",
    "place_match": true
   }
  }

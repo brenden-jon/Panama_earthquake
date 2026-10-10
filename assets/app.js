@@ -57,21 +57,29 @@ const sinceEq = t => { const h = (t - T0) / 3.6e6; return h < 1 ? Math.round(h *
 const state = { reports: [], summary: null, highlights: null, districts: [], news: null, status: null, quakes: null, mmiGrid: null, adm2: null, contours: null };
 const maps = {};
 
-// ---------- theme ----------
+// ---------- theme (light by default; dark only when chosen) ----------
+const isDark = () => document.documentElement.dataset.theme === "dark";
+function themeLabel() {
+  const b = $("#theme-btn");
+  b.innerHTML = isDark() ? `<span class="ico">☀</span><span class="lbl-long">${tl("Light mode", "Modo claro")}</span>`
+                         : `<span class="ico">☾</span><span class="lbl-long">${tl("Dark mode", "Modo oscuro")}</span>`;
+  b.title = isDark() ? tl("Switch to light mode", "Cambiar a modo claro") : tl("Switch to dark mode", "Cambiar a modo oscuro");
+}
 (function theme() {
   let t = null;
   try { t = localStorage.getItem("theme"); } catch (e) {}
-  if (t) document.documentElement.dataset.theme = t;
+  document.documentElement.dataset.theme = t === "dark" ? "dark" : "light";
+  themeLabel();
   $("#theme-btn").addEventListener("click", () => {
-    const dark = document.documentElement.dataset.theme ? document.documentElement.dataset.theme === "dark" : matchMedia("(prefers-color-scheme: dark)").matches;
-    const next = dark ? "light" : "dark";
+    const next = isDark() ? "light" : "dark";
     document.documentElement.dataset.theme = next;
     try { localStorage.setItem("theme", next); } catch (e) {}
+    themeLabel();
     Object.values(maps).forEach(m => m._setBase && m._setBase());
     renderAll();
   });
 })();
-const isDark = () => document.documentElement.dataset.theme ? document.documentElement.dataset.theme === "dark" : matchMedia("(prefers-color-scheme: dark)").matches;
+window.onLangApplied = () => { if ($("#theme-btn")) themeLabel(); };
 
 // ---------- tabs ----------
 function showTab() {
@@ -538,11 +546,10 @@ async function renderVuln() {
 // ---------- header ----------
 function renderHeader() {
   const tt = [state.summary?.generated_utc, state.news?.updated_utc, state.highlights?.updated_utc].filter(Boolean).sort().pop();
-  $("#updated").textContent = tt ? tl("Data updated ", "Datos actualizados ") + ago(tt) : "";
+  $("#updated").innerHTML = tt ? `${tl("Last update:", "Última actualización:")} <b>${tzFmt().format(new Date(tt))}</b> ${tl("Panama time (UTC−5)", "hora de Panamá (UTC−5)")}` : "";
   $("#foot-updated").textContent = tt ? tl("Last data update ", "Última actualización ") + localTime(tt) : "";
   $("#n-reports").textContent = state.reports.length || "";
   $("#n-news").textContent = state.news ? state.news.items.length : "";
-  $("#live-status").classList.toggle("stale", !state.quakesLive);
 }
 
 function renderAll() {

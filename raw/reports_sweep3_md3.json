@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-10T08:15:20Z",
+ "generated_utc": "2026-10-10T08:20:33Z",
  "reports": [
   {
    "id": "md3_1",
@@ -320,6 +320,177 @@
    "url": "https://www.anews.com.tr/world/2026/10/10/panama-president-declares-major-disaster-after-earthquake",
    "image_url": null,
    "confidence": "multiple_sources"
+  },
+  {
+   "id": "md3_15",
+   "reported_utc": "2026-10-09T21:04:53Z",
+   "place": "Soná (Casa El Bramador)",
+   "district": "Soná",
+   "province": "Veraguas",
+   "lat": 8.009,
+   "lon": -81.315,
+   "category": "building_damage",
+   "title": "Casa El Bramador facade crashes onto parked cars (CBS frame)",
+   "summary": "Video frame (CBS, via Zenovia Miller) shared by @AlertaNews24 shows the facade of the Casa El Bramador store in Soná falling in a cloud of dust onto two parked SUVs during the quake.",
+   "title_es": "Fachada de Casa El Bramador cae sobre autos estacionados (captura de CBS)",
+   "summary_es": "Captura de video (CBS, vía Zenovia Miller) compartida por @AlertaNews24 muestra la fachada del almacén Casa El Bramador en Soná desplomándose entre polvo sobre dos camionetas estacionadas durante el terremoto.",
+   "image_caption_es": "Fachada de Casa El Bramador cae sobre camionetas, Soná",
+   "figures": {},
+   "source_name": "X @AlertaNews24 (CBS footage)",
+   "source_type": "social",
+   "url": "https://x.com/AlertaNews24/status/2108665025736949949",
+   "image_url": "https://pbs.twimg.com/media/HUN4SZ_WoAAg_-D.jpg",
+   "confidence": "multiple_sources"
+  },
+  {
+   "id": "md3_16",
+   "reported_utc": "2026-10-10T03:19:28Z",
+   "place": "Penonomé (Gobernación)",
+   "district": "Penonomé",
+   "province": "Coclé",
+   "lat": 8.5218,
+   "lon": -80.3593,
+   "category": "building_damage",
+   "title": "Night photo: residents walk past cordoned, gutted Gobernación",
+   "summary": "EFE night-time photo (via Primicias) shows people walking past the taped-off Gobernación de Coclé in Penonomé, its façade torn open with offices exposed and rubble at the base, a van parked in front.",
+   "title_es": "Foto nocturna: vecinos pasan frente a la Gobernación acordonada y destripada",
+   "summary_es": "Foto nocturna de EFE (vía Primicias) muestra a personas caminando frente a la Gobernación de Coclé en Penonomé, acordonada, con la fachada abierta, oficinas expuestas y escombros en la base, y una camioneta estacionada al frente.",
+   "image_caption_es": "De noche, vecinos frente a la Gobernación de Coclé destrozada",
+   "figures": {},
+   "source_name": "Primicias / EFE",
+   "source_type": "news",
+   "url": "https://www.primicias.ec/internacional/terremoto-panama-danos-edificios-penonome-tonosi-heridos-9octubre-134605/",
+   "image_url": "https://imagenes.primicias.ec/files/content_image_simple_583_325/uploads/2026/10/09/6ac9ada084c3a.jpeg",
+   "confidence": "multiple_sources"
+  },
+  {
+   "id": "md3_17",
+   "reported_utc": "2026-10-10T03:15:14Z",
+   "place": "Penonomé (Catedral & Gobernación)",
+   "district": "Penonomé",
+   "province": "Coclé",
+   "lat": 8.5218,
+   "lon": -80.3593,
+   "category": "aftershock",
+   "title": "CNN: at least 147 aftershocks; COE chief assesses damage",
+   "summary": "CNN en Español video (thumbnail: aerial of Penonomé's broken cathedral tower and rubble) reports at least 147 aftershocks, several people injured and no deaths, with Tocumen reopened and the Canal operating normally; emergency operations director René García interviewed.",
+   "title_es": "CNN: al menos 147 réplicas; director del COE evalúa daños",
+   "summary_es": "Video de CNN en Español (miniatura: vista aérea de la torre rota de la catedral de Penonomé y escombros) informa al menos 147 réplicas, varias personas lesionadas y ningún fallecido, con Tocumen reabierto y el Canal operando con normalidad; entrevista al director del COE, René García.",
+   "image_caption_es": "Vista aérea de la torre rota de la catedral de Penonomé (miniatura)",
+   "figures": {
+    "aftershocks": 147,
+    "deaths": 0
+   },
+   "source_name": "CNN en Español (YouTube)",
+   "source_type": "news",
+   "url": "https://www.youtube.com/watch?v=puXTMojjJSY",
+   "image_url": "https://i.ytimg.com/vi/puXTMojjJSY/hqdefault.jpg",
+   "confidence": "multiple_sources"
+  },
+  {
+   "id": "md3_18",
+   "reported_utc": "2026-10-10T00:16:18Z",
+   "place": "Penonomé (Hotel Dos Continentes)",
+   "district": "Penonomé",
+   "province": "Coclé",
+   "lat": 8.5151,
+   "lon": -80.3519,
+   "category": "building_damage",
+   "title": "Night view of collapsed hotel floors over crushed cars",
+   "summary": "Grupo Fórmula video thumbnail shows the collapsed wing of Hotel Dos Continentes in Penonomé at night, lit by emergency lights, with pancaked floors resting on a crushed blue pickup.",
+   "title_es": "Vista nocturna de los pisos colapsados del hotel sobre autos aplastados",
+   "summary_es": "Miniatura de video de Grupo Fórmula muestra de noche el ala colapsada del Hotel Dos Continentes en Penonomé, iluminada por luces de emergencia, con pisos desplomados sobre una camioneta azul aplastada.",
+   "image_caption_es": "De noche, pisos del hotel desplomados sobre camioneta, Penonomé",
+   "figures": {},
+   "source_name": "Grupo Fórmula (YouTube)",
+   "source_type": "news",
+   "url": "https://www.youtube.com/watch?v=IAaJzFv12Kk",
+   "image_url": "https://i.ytimg.com/vi/IAaJzFv12Kk/hqdefault.jpg",
+   "confidence": "multiple_sources"
+  },
+  {
+   "id": "md3_19",
+   "reported_utc": "2026-10-10T01:28:48Z",
+   "place": "Penonomé (Catedral San Juan Bautista)",
+   "district": "Penonomé",
+   "province": "Coclé",
+   "lat": 8.5218,
+   "lon": -80.3593,
+   "category": "building_damage",
+   "title": "EFE: deep cracks radiate from cathedral window",
+   "summary": "EFE photo (Bienvenido Velasco) via Infobae shows long diagonal cracks spreading from an arched window across the side wall of the 1581 San Juan Bautista cathedral, remodelled in 2013.",
+   "title_es": "EFE: grietas profundas salen de una ventana de la catedral",
+   "summary_es": "Foto de EFE (Bienvenido Velasco) vía Infobae muestra largas grietas diagonales que salen de una ventana en arco y atraviesan la pared lateral de la catedral San Juan Bautista, de 1581 y remodelada en 2013.",
+   "image_caption_es": "Grietas diagonales alrededor de una ventana de la catedral de Penonomé",
+   "figures": {},
+   "source_name": "Infobae / EFE",
+   "source_type": "news",
+   "url": "https://www.infobae.com/panama/2026/10/10/monumento-a-simon-bolivar-en-el-suelo-e-iglesias-antiguas-de-panama-danadas-gravemente-por-terremoto/",
+   "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/K2PETY6VZFDWFOMADS6AN3IJQU.jpg",
+   "confidence": "multiple_sources"
+  },
+  {
+   "id": "md3_20",
+   "reported_utc": "2026-10-10T01:28:48Z",
+   "place": "Penonomé (Gobernación)",
+   "district": "Penonomé",
+   "province": "Coclé",
+   "lat": 8.5218,
+   "lon": -80.3593,
+   "category": "building_damage",
+   "title": "EFE: cracked arches and spalled cornice on Gobernación facade",
+   "summary": "EFE close-up shows cracks running through the arched facade of the Gobernación de Coclé in Penonomé, with plaster and masonry spalled off the cornice above the balcony.",
+   "title_es": "EFE: arcos agrietados y cornisa desprendida en la fachada de la Gobernación",
+   "summary_es": "Primer plano de EFE muestra grietas que atraviesan la fachada de arcos de la Gobernación de Coclé en Penonomé, con repello y mampostería desprendidos de la cornisa sobre el balcón.",
+   "image_caption_es": "Arcos agrietados y cornisa desprendida en la Gobernación de Coclé",
+   "figures": {},
+   "source_name": "Infobae / EFE",
+   "source_type": "news",
+   "url": "https://www.infobae.com/panama/2026/10/10/monumento-a-simon-bolivar-en-el-suelo-e-iglesias-antiguas-de-panama-danadas-gravemente-por-terremoto/",
+   "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/EEYP3OTTYJCG7N76BELIGYWLEM.jpg",
+   "confidence": "multiple_sources"
+  },
+  {
+   "id": "md3_21",
+   "reported_utc": "2026-10-10T01:28:48Z",
+   "place": "Penonomé (Catedral San Juan Bautista)",
+   "district": "Penonomé",
+   "province": "Coclé",
+   "lat": 8.5218,
+   "lon": -80.3593,
+   "category": "building_damage",
+   "title": "EFE: rescuers and police look up at truncated bell tower",
+   "summary": "EFE photo shows rescuers in helmets and police looking up at the broken-off bell tower of Penonomé cathedral, with exposed rebar at its top; access to the site is prohibited.",
+   "title_es": "EFE: rescatistas y policías miran la torre truncada del campanario",
+   "summary_es": "Foto de EFE muestra a rescatistas con casco y policías mirando la torre del campanario de la catedral de Penonomé, quebrada y con varillas expuestas en la parte superior; el acceso al sitio está prohibido.",
+   "image_caption_es": "Rescatistas miran la torre quebrada de la catedral de Penonomé",
+   "figures": {},
+   "source_name": "Infobae / EFE",
+   "source_type": "news",
+   "url": "https://www.infobae.com/panama/2026/10/10/monumento-a-simon-bolivar-en-el-suelo-e-iglesias-antiguas-de-panama-danadas-gravemente-por-terremoto/",
+   "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/2KS4Z7KZ7VHPBHS6LDXVFRRGDA.jpg",
+   "confidence": "multiple_sources"
+  },
+  {
+   "id": "md3_22",
+   "reported_utc": "2026-10-10T01:28:48Z",
+   "place": "Penonomé (Simón Bolívar statue)",
+   "district": "Penonomé",
+   "province": "Coclé",
+   "lat": 8.5214,
+   "lon": -80.359,
+   "category": "building_damage",
+   "title": "EFE: Bolívar statue lies beside its plinth in Parque 8 de Diciembre",
+   "summary": "EFE photo shows the bronze Simón Bolívar statue lying on the paving beside its empty plinth in Parque 8 de Diciembre. Infobae's caption places it in Tonosí, but Parque 8 de Diciembre is Penonomé's central park and the photographer was in Penonomé.",
+   "title_es": "EFE: estatua de Bolívar tendida junto a su pedestal en el parque 8 de Diciembre",
+   "summary_es": "Foto de EFE muestra la estatua de bronce de Simón Bolívar tendida en el piso junto a su pedestal vacío en el parque 8 de Diciembre. El pie de foto de Infobae la ubica en Tonosí, pero el parque 8 de Diciembre es el parque central de Penonomé y el fotógrafo estaba en Penonomé.",
+   "image_caption_es": "Estatua de Bolívar derribada junto a su pedestal, parque 8 de Diciembre",
+   "figures": {},
+   "source_name": "Infobae / EFE",
+   "source_type": "news",
+   "url": "https://www.infobae.com/panama/2026/10/10/monumento-a-simon-bolivar-en-el-suelo-e-iglesias-antiguas-de-panama-danadas-gravemente-por-terremoto/",
+   "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/R4EPNRG67ZGHLJZJIBU5CPM7TE.jpg",
+   "confidence": "multiple_sources"
   }
  ],
  "image_review": {
@@ -377,6 +548,46 @@
    "verdict": "damage",
    "caption": "Workers beside tile-buried car outside bank, Panama City",
    "place_match": true
+  },
+  "md3_15": {
+   "verdict": "damage",
+   "caption": "Store facade collapsing onto parked SUVs, Soná",
+   "place_match": true
+  },
+  "md3_16": {
+   "verdict": "damage",
+   "caption": "Night: people pass cordoned, gutted Gobernación building",
+   "place_match": true
+  },
+  "md3_17": {
+   "verdict": "damage",
+   "caption": "Aerial thumbnail: broken cathedral tower and rubble, Penonomé",
+   "place_match": true
+  },
+  "md3_18": {
+   "verdict": "damage",
+   "caption": "Night: collapsed hotel wing over crushed pickup (thumbnail)",
+   "place_match": true
+  },
+  "md3_19": {
+   "verdict": "damage",
+   "caption": "Diagonal cracks around cathedral window, Penonomé",
+   "place_match": true
+  },
+  "md3_20": {
+   "verdict": "damage",
+   "caption": "Cracked arches and spalled cornice, Gobernación facade",
+   "place_match": true
+  },
+  "md3_21": {
+   "verdict": "damage",
+   "caption": "Rescuers look up at truncated cathedral bell tower",
+   "place_match": true
+  },
+  "md3_22": {
+   "verdict": "damage",
+   "caption": "Toppled Bolívar statue beside plinth in town park",
+   "place_match": null
   }
  }
 }

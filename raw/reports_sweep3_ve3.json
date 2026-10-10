@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-10T08:12:57Z",
+ "generated_utc": "2026-10-10T08:19:22Z",
  "reports": [
   {
    "id": "ve3_1",
@@ -205,8 +205,8 @@
    "place": "Tebario (school)",
    "district": "Mariato",
    "province": "Veraguas",
-   "lat": 7.47,
-   "lon": -80.83,
+   "lat": 7.7252,
+   "lon": -80.9734,
    "category": "building_damage",
    "title": "Meduca: walls and water tank collapse at Tebario school, Veraguas",
    "summary": "Meduca's preliminary list puts Veraguas top with 35 damaged schools; at Tebario walls collapsed and the water tank and ceiling fell. IPT César Clavel had roof damage; Agustín Pérez Colmenares and Carmen Cielo Herrera report structural damage.",
@@ -252,8 +252,8 @@
    "place": "Comarca Ngäbe-Buglé (Chichica, Cerro Puerco, Llano Macano schools)",
    "district": null,
    "province": "Ngäbe-Buglé",
-   "lat": 8.43,
-   "lon": -81.62,
+   "lat": 8.3723,
+   "lon": -81.6737,
    "category": "building_damage",
    "title": "Meduca: severe damage at Chichica, Boca de Balsa, Cerro Algodón schools; tank about to fall at Llano Macano",
    "summary": "Meduca reports 21 damaged schools in the Comarca Ngäbe-Buglé: heavy structural damage at Boca de Balsa, Cerro Algodón, Escuela Chichica and IPTA Chichica (ceiling fell), roof detachment at Cerro Puerco, severe wall cracks at Quebrada Carrizo, Cerro Caña and Llano Macano, where a water tank is about to fall.",
@@ -266,6 +266,71 @@
    "source_name": "TVN Noticias (Meduca)",
    "source_type": "official",
    "url": "https://www.tvn-2.com/nacionales/temblor-panama-188-centros-educativos_1_2265357.html",
+   "image_url": null,
+   "confidence": "official"
+  },
+  {
+   "id": "ve3_13",
+   "reported_utc": "2026-10-09T22:31:53Z",
+   "place": "El Valle de Antón (Cerro La India Dormida)",
+   "district": "Antón",
+   "province": "Coclé",
+   "lat": 8.6195,
+   "lon": -80.1335,
+   "category": "landslide",
+   "title": "Landslide scars slope of La India Dormida, El Valle de Antón",
+   "summary": "Video shared by Crítica shows a fresh landslide scar on a forested slope of Cerro La India Dormida above El Valle de Antón; residents report part of the hillside collapsed after the quake.",
+   "title_es": "Deslizamiento en una ladera de La India Dormida, El Valle de Antón",
+   "summary_es": "Video difundido por Crítica muestra una cicatriz de deslizamiento reciente en una ladera boscosa del cerro La India Dormida, sobre El Valle de Antón; residentes reportan que parte de la ladera colapsó tras el sismo.",
+   "image_caption_es": "Cicatriz de deslizamiento reciente en la ladera de La India Dormida",
+   "figures": {},
+   "source_name": "X @criticaenlinea",
+   "source_type": "news",
+   "url": "https://x.com/criticaenlinea/status/2108686917545975927",
+   "image_url": "https://pbs.twimg.com/amplify_video_thumb/2108686824382124032/img/q57RBAmvTi1US9ER.jpg",
+   "confidence": "multiple_sources"
+  },
+  {
+   "id": "ve3_14",
+   "reported_utc": "2026-10-09T23:42:00Z",
+   "place": "Veraguas province (churches)",
+   "district": null,
+   "province": "Veraguas",
+   "lat": 8.099,
+   "lon": -80.9804,
+   "category": "building_damage",
+   "title": "Seven churches affected in Veraguas",
+   "summary": "Telemetro's live coverage reported seven churches affected in Veraguas, including damage at Santiago cathedral and the Atalaya basilica tower.",
+   "title_es": "Siete iglesias afectadas en Veraguas",
+   "summary_es": "La cobertura en vivo de Telemetro reportó siete iglesias afectadas en Veraguas, entre ellas daños en la catedral de Santiago y en la torre de la basílica de Atalaya.",
+   "image_caption_es": null,
+   "figures": {
+    "churches_affected": 7
+   },
+   "source_name": "Telemetro (live blog)",
+   "source_type": "news",
+   "url": "https://www.telemetro.com/nacionales/en-vivo-sismo-panama-suspenden-clases-y-funciones-entidades-publicas-n6094639",
+   "image_url": null,
+   "confidence": "single_source"
+  },
+  {
+   "id": "ve3_15",
+   "reported_utc": "2026-10-10T03:04:27Z",
+   "place": "Dolega (Minsa-CAPSI)",
+   "district": "Dolega",
+   "province": "Chiriquí",
+   "lat": 8.6255,
+   "lon": -82.4749,
+   "category": "utilities",
+   "title": "Minsa: Dolega CAPSI health centre left without power",
+   "summary": "Minsa reports the Minsa-CAPSI polyclinic in Dolega, Chiriquí, lost electricity after the quake; in Darién no incidents were reported at health facilities.",
+   "title_es": "Minsa: el Minsa-CAPSI de Dolega quedó sin energía eléctrica",
+   "summary_es": "El Minsa informa que el Minsa-CAPSI de Dolega, en Chiriquí, quedó sin suministro eléctrico tras el sismo; en Darién no se reportaron novedades en las instalaciones de salud.",
+   "image_caption_es": null,
+   "figures": {},
+   "source_name": "Panamá América (Minsa)",
+   "source_type": "official",
+   "url": "https://www.panamaamerica.com.pa/sociedad/minsa-confirma-afectaciones-en-17-instalaciones-de-salud-nivel-nacional-tras-el-sismo",
    "image_url": null,
    "confidence": "official"
   }
@@ -299,6 +364,11 @@
   "ve3_9": {
    "verdict": "damage",
    "caption": "Buckled road and deep asphalt fissure at Torio hill",
+   "place_match": true
+  },
+  "ve3_13": {
+   "verdict": "damage",
+   "caption": "Fresh landslide scar on La India Dormida hillside",
    "place_match": true
   }
  }

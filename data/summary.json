@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-10T08:15:43Z",
+ "generated_utc": "2026-10-10T11:35:13Z",
  "official_latest": {
   "as_of_utc": "2026-10-10T01:00:00Z",
   "deaths": 0,
@@ -240,8 +240,8 @@
    ]
   }
  },
- "reports_count": 313,
- "reports_with_images": 146,
+ "reports_count": 325,
+ "reports_with_images": 156,
  "places_with_damage": [
   "Aguadulce",
   "Aguadulce (municipal market)",
@@ -266,6 +266,7 @@
   "David (fire station 1)",
   "Eastern Chiriquí",
   "El Valle de Antón",
+  "El Valle de Antón (Cerro La India Dormida)",
   "Escuela Alberto Zúñiga (Coclé)",
   "Herrera province",
   "Herrera province (Azuero; town not stated)",
@@ -339,6 +340,7 @@
   "Soná (fire station)",
   "Tebario (school)",
   "Tonosí",
-  "Veraguas (building near school zone)"
+  "Veraguas (building near school zone)",
+  "Veraguas province (churches)"
  ]
 }

@@ -231,7 +231,11 @@ window.I18N = (() => {
       });
     });
     document.documentElement.lang = lang;
-    document.querySelectorAll(".lang-btn").forEach(b => { b.textContent = lang === "es" ? "EN" : "ES"; b.title = lang === "es" ? "Switch to English" : "Cambiar a español"; });
+    document.querySelectorAll(".lang-btn").forEach(b => {
+      b.innerHTML = lang === "es" ? '<span class="ico">🌐</span>English' : '<span class="ico">🌐</span>Español';
+      b.title = lang === "es" ? "Switch to English" : "Cambiar a español";
+    });
+    if (window.onLangApplied) window.onLangApplied();
   }
 
   function setLang(l) {
