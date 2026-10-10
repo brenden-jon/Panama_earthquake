@@ -53,6 +53,15 @@ def place_es(place):
     return out if out != place else None
 
 
+def read_batch(f):
+    """A report batch may be mid-write by a running search agent; skip it rather than fail the build."""
+    try:
+        return json.load(open(f))
+    except (json.JSONDecodeError, OSError) as e:
+        print(f"warning: skipping unreadable {os.path.basename(f)} ({e})")
+        return {}
+
+
 def load_translations():
     f = D("raw", "translations_es.json")
     return json.load(open(f)) if os.path.exists(f) else {}
@@ -64,9 +73,9 @@ def load_reports():
     rev_path = D("raw", "image_review.json")
     review = json.load(open(rev_path)) if os.path.exists(rev_path) else {}
     for f in glob.glob(D("raw", "reports_*.json")):  # batches may carry their own image_review
-        review.update(json.load(open(f)).get("image_review", {}))
+        review.update(read_batch(f).get("image_review", {}))
     for f in sorted(glob.glob(D("raw", "reports_*.json"))):
-        for r in json.load(open(f))["reports"]:
+        for r in read_batch(f).get("reports", []):
             if r["id"] in seen:
                 continue
             seen.add(r["id"])
