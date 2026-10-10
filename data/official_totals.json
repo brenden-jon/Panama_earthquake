@@ -56,6 +56,23 @@
     "churches": 13,
     "hotels": 7
    }
+  },
+  {
+   "as_of_utc": "2026-10-10T19:34:00Z",
+   "deaths": 0,
+   "injured": 27,
+   "missing": null,
+   "displaced": null,
+   "affected_people": 2130,
+   "homes_damaged": 426,
+   "homes_destroyed": null,
+   "infrastructure": {
+    "schools": 419,
+    "health_facilities": 21
+   },
+   "source_name": "Government of Panama / SINAPROC (Cabinet press conference, 10 Oct)",
+   "url": "https://www.infobae.com/panama/2026/10/10/gobierno-de-panama-declara-estado-de-emergencia-tras-terremoto-y-destina-100-millones-para-atender-los-danos/",
+   "note": "Cabinet declared a national state of emergency (focus on Herrera, Los Santos and Veraguas) and allocated US$100 million. SINAPROC: 0 deaths, 27 injured; more than 426 homes assessed with damage (severe, moderate, minor) by MOP, MIVIOT and SINAPROC, about 2,130 people affected (damnificados); 419 schools (MEDUCA) and 21 health facilities affected; 300 people evacuated from Isla Cañas. MEDUCA to decide on Sunday whether classes resume Monday."
   }
  ],
  "conflicts": [

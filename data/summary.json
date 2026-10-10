@@ -1,25 +1,22 @@
 {
- "generated_utc": "2026-10-10T20:39:12Z",
+ "generated_utc": "2026-10-10T20:56:26Z",
  "official_latest": {
-  "as_of_utc": "2026-10-10T01:00:00Z",
+  "as_of_utc": "2026-10-10T19:34:00Z",
   "deaths": 0,
   "injured": 27,
-  "missing": 0,
+  "missing": null,
   "displaced": null,
-  "homes_damaged": 142,
-  "homes_destroyed": 3,
-  "source_name": "SINAPROC consolidated report (cut-off 20:00 local), reported by La Prensa / EFE",
-  "url": "https://prensa.com/sociedad/terremoto-188-escuelas-afectadas-y-danos-en-viviendas-y-hospitales",
-  "note": "SINAPROC consolidated report (cut-off 20:00 local, 9 Oct): 0 dead, 0 missing, 27 with minor injuries; 142 homes affected, at least 3 destroyed (Herrera 2, Chiriquí 1); 188 schools, 20 health facilities, 26 government buildings, 13 churches, 7 hotels, 9 bridges and 4 residential buildings affected; ~300 people evacuated from Isla Cañas as a precaution; 8 families sheltered in Coclé (EFE).",
+  "affected_people": 2130,
+  "homes_damaged": 426,
+  "homes_destroyed": null,
   "infrastructure": {
-   "schools": 188,
-   "health_facilities": 20,
-   "government_buildings": 26,
-   "bridges": 9,
-   "churches": 13,
-   "hotels": 7
+   "schools": 419,
+   "health_facilities": 21
   },
-  "note_es": "Informe consolidado de SINAPROC (corte 20:00 hora local, 9 oct): 0 fallecidos, 0 desaparecidos, 27 lesionados leves; 142 viviendas afectadas, al menos 3 destruidas (Herrera 2, Chiriquí 1); 188 escuelas, 20 instalaciones de salud, 26 edificios gubernamentales, 13 iglesias, 7 hoteles, 9 puentes y 4 edificios residenciales afectados; ~300 personas evacuadas preventivamente de Isla Cañas; 8 familias albergadas en Coclé (EFE)."
+  "source_name": "Government of Panama / SINAPROC (Cabinet press conference, 10 Oct)",
+  "url": "https://www.infobae.com/panama/2026/10/10/gobierno-de-panama-declara-estado-de-emergencia-tras-terremoto-y-destina-100-millones-para-atender-los-danos/",
+  "note": "Cabinet declared a national state of emergency (focus on Herrera, Los Santos and Veraguas) and allocated US$100 million. SINAPROC: 0 deaths, 27 injured; more than 426 homes assessed with damage (severe, moderate, minor) by MOP, MIVIOT and SINAPROC, about 2,130 people affected (damnificados); 419 schools (MEDUCA) and 21 health facilities affected; 300 people evacuated from Isla Cañas. MEDUCA to decide on Sunday whether classes resume Monday.",
+  "note_es": "El Consejo de Gabinete declaró estado de emergencia nacional (con énfasis en Herrera, Los Santos y Veraguas) y destinó US$100 millones. SINAPROC: 0 fallecidos, 27 lesionados; más de 426 viviendas evaluadas con daños (graves, moderados, leves) por MOP, MIVIOT y SINAPROC, unas 2.130 personas damnificadas; 419 centros educativos (MEDUCA) y 21 instalaciones de salud afectadas; 300 personas evacuadas de Isla Cañas. MEDUCA decidirá el domingo si las clases se reanudan el lunes."
  },
  "official_snapshots": [
   {
@@ -81,6 +78,24 @@
     "hotels": 7
    },
    "note_es": "Informe consolidado de SINAPROC (corte 20:00 hora local, 9 oct): 0 fallecidos, 0 desaparecidos, 27 lesionados leves; 142 viviendas afectadas, al menos 3 destruidas (Herrera 2, Chiriquí 1); 188 escuelas, 20 instalaciones de salud, 26 edificios gubernamentales, 13 iglesias, 7 hoteles, 9 puentes y 4 edificios residenciales afectados; ~300 personas evacuadas preventivamente de Isla Cañas; 8 familias albergadas en Coclé (EFE)."
+  },
+  {
+   "as_of_utc": "2026-10-10T19:34:00Z",
+   "deaths": 0,
+   "injured": 27,
+   "missing": null,
+   "displaced": null,
+   "affected_people": 2130,
+   "homes_damaged": 426,
+   "homes_destroyed": null,
+   "infrastructure": {
+    "schools": 419,
+    "health_facilities": 21
+   },
+   "source_name": "Government of Panama / SINAPROC (Cabinet press conference, 10 Oct)",
+   "url": "https://www.infobae.com/panama/2026/10/10/gobierno-de-panama-declara-estado-de-emergencia-tras-terremoto-y-destina-100-millones-para-atender-los-danos/",
+   "note": "Cabinet declared a national state of emergency (focus on Herrera, Los Santos and Veraguas) and allocated US$100 million. SINAPROC: 0 deaths, 27 injured; more than 426 homes assessed with damage (severe, moderate, minor) by MOP, MIVIOT and SINAPROC, about 2,130 people affected (damnificados); 419 schools (MEDUCA) and 21 health facilities affected; 300 people evacuated from Isla Cañas. MEDUCA to decide on Sunday whether classes resume Monday.",
+   "note_es": "El Consejo de Gabinete declaró estado de emergencia nacional (con énfasis en Herrera, Los Santos y Veraguas) y destinó US$100 millones. SINAPROC: 0 fallecidos, 27 lesionados; más de 426 viviendas evaluadas con daños (graves, moderados, leves) por MOP, MIVIOT y SINAPROC, unas 2.130 personas damnificadas; 419 centros educativos (MEDUCA) y 21 instalaciones de salud afectadas; 300 personas evacuadas de Isla Cañas. MEDUCA decidirá el domingo si las clases se reanudan el lunes."
   }
  ],
  "conflicts": [
@@ -256,7 +271,7 @@
    ]
   }
  },
- "reports_count": 383,
+ "reports_count": 385,
  "reports_with_images": 157,
  "places_with_damage": [
   "Aguadulce",

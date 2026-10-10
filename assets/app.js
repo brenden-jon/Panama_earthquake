@@ -33,7 +33,7 @@ const H = () => {                                                  // Spanish hi
   const en = state.highlights, es = state.highlightsEs;
   return isEs() && es && en && es.updated_utc === en.updated_utc ? es : en;
 };
-const FIG_ES = { deaths: "fallecidos", injured: "heridos", missing: "desaparecidos", displaced: "desplazados", homes_damaged: "viviendas afectadas", homes_destroyed: "viviendas destruidas", buildings_collapsed: "edificaciones colapsadas", aftershocks: "réplicas", plant_capacity_pct: "% de capacidad de la planta" };
+const FIG_ES = { affected_people: "personas damnificadas", deaths: "fallecidos", injured: "heridos", missing: "desaparecidos", displaced: "desplazados", homes_damaged: "viviendas afectadas", homes_destroyed: "viviendas destruidas", buildings_collapsed: "edificaciones colapsadas", aftershocks: "réplicas", plant_capacity_pct: "% de capacidad de la planta" };
 const cssVar = n => getComputedStyle(document.documentElement).getPropertyValue(n).trim();
 const groupColor = g => cssVar(g === "damage" ? "--series-2" : g === "infra" ? "--series-1" : "--series-3");
 
@@ -166,7 +166,7 @@ function renderOverview() {
 
   if (s) {
     const o = s.official_latest || {};
-    const offFields = [["deaths", "deaths"], ["injured", "injured"], ["missing", "missing"], ["displaced", "displaced"], ["homes_damaged", "homes affected"], ["homes_destroyed", "homes destroyed"]].map(([k, l]) => [k, tl(l, FIG_ES[k])]);
+    const offFields = [["deaths", "deaths"], ["injured", "injured"], ["missing", "missing"], ["affected_people", "people affected"], ["displaced", "displaced"], ["homes_damaged", "homes affected"], ["homes_destroyed", "homes destroyed"]].map(([k, l]) => [k, tl(l, FIG_ES[k])]);
     const known = offFields.filter(([k]) => o[k] != null);
     const p = s.pager, e = s.exposure;
     const fatTop = topBin(p.fatality_bins), econTop = topBin(p.economic_bins);

@@ -1,0 +1,45 @@
+{
+ "generated_utc": "2026-10-10T20:15:00Z",
+ "reports": [
+  {
+   "id": "off5_1",
+   "reported_utc": "2026-10-10T19:34:00Z",
+   "place": "Panama City (Presidencia)",
+   "district": "Panamá",
+   "province": "Multiple / national",
+   "lat": 8.955,
+   "lon": -79.535,
+   "category": "response",
+   "title": "National state of emergency declared; US$100 million for response",
+   "summary": "The Cabinet declared a national state of emergency, focused on Herrera, Los Santos and Veraguas, and allocated US$100 million for assistance to families, affected communities and urgent repair work (Minister of the Presidency Juan Carlos Orillac). A high-level coordination commission was created.",
+   "title_es": "Se declara estado de emergencia nacional; US$100 millones para la respuesta",
+   "summary_es": "El Consejo de Gabinete declaró estado de emergencia nacional, con énfasis en Herrera, Los Santos y Veraguas, y destinó US$100 millones para asistencia a familias, comunidades afectadas y reparaciones urgentes (ministro de la Presidencia Juan Carlos Orillac). Se creó una comisión de coordinación de alto nivel.",
+   "figures": {},
+   "source_name": "Infobae / Telemetro (Presidencia)",
+   "source_type": "official",
+   "url": "https://www.infobae.com/panama/2026/10/10/gobierno-de-panama-declara-estado-de-emergencia-tras-terremoto-y-destina-100-millones-para-atender-los-danos/",
+   "image_url": null,
+   "confidence": "official"
+  },
+  {
+   "id": "off5_2",
+   "reported_utc": "2026-10-10T20:40:00Z",
+   "place": "Panama (national)",
+   "district": "",
+   "province": "Multiple / national",
+   "lat": 8.98,
+   "lon": -79.52,
+   "category": "response",
+   "title": "IDB makes up to US$300 million contingent credit and US$500,000 grant available",
+   "summary": "The IDB activated Panama's contingent credit for natural disasters, providing up to US$300 million, plus US$500,000 in non-reimbursable funds for humanitarian assistance, damage assessment and recovery planning. CAF had earlier given US$250,000 and a US$50 million credit line.",
+   "title_es": "El BID pone a disposición hasta US$300 millones en crédito contingente y US$500.000 no reembolsables",
+   "summary_es": "El BID activó el crédito contingente de Panamá para desastres naturales, con hasta US$300 millones, más US$500.000 no reembolsables para asistencia humanitaria, evaluación de daños y planificación de la recuperación. CAF había aportado antes US$250.000 y una línea de crédito de US$50 millones.",
+   "figures": {},
+   "source_name": "Infobae / Forbes Centroamérica",
+   "source_type": "news",
+   "url": "https://www.infobae.com/panama/2026/10/10/terremoto-en-panama-ee-uu-bid-y-caf-envian-ayuda-humanitaria-y-millonarios-fondos-para-mas-de-2000-damnificados/",
+   "image_url": null,
+   "confidence": "multiple_sources"
+  }
+ ]
+}
