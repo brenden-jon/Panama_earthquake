@@ -1,0 +1,508 @@
+{
+ "generated_utc": "2026-10-10T17:38:18Z",
+ "reports": [
+  {
+   "id": "off4_1",
+   "reported_utc": "2026-10-10T12:31:00Z",
+   "place": "Panamá Pacífico (US Chinook aid flights)",
+   "district": "Arraiján",
+   "province": "Panamá Oeste",
+   "lat": 8.9244,
+   "lon": -79.5913,
+   "category": "response",
+   "title": "US CH-47 Chinooks fly aid to Azuero; 22 US rescue and structural specialists arrive",
+   "summary": "US troops load pallets of aid onto a CH-47 Chinook at Panamá Pacífico for flights to Azuero, coordinated by SENAN, SINAPROC and Joint Task Force-Bravo. The US also sent 20-22 urban search-and-rescue and structural-assessment specialists from Virginia and California; each Chinook carries about 10,000 lb or 24 passengers.",
+   "title_es": "Chinooks de EE. UU. llevan ayuda a Azuero; llegan 22 especialistas estadounidenses en rescate y estructuras",
+   "summary_es": "Militares estadounidenses cargan tarimas de ayuda en un helicóptero CH-47 Chinook en Panamá Pacífico rumbo a Azuero, en coordinación con el Senan, Sinaproc y la Fuerza de Tarea Conjunta Bravo. EE. UU. también envió entre 20 y 22 especialistas en búsqueda y rescate urbano y evaluación estructural desde Virginia y California; cada Chinook carga unas 10,000 libras o 24 pasajeros.",
+   "image_caption_es": "Militares de EE. UU. cargan ayuda en un Chinook en Panamá Pacífico",
+   "figures": {
+    "us_specialists": 22,
+    "chinook_payload_lb": 10000
+   },
+   "source_name": "Metro Libre / Infobae (US Embassy)",
+   "source_type": "news",
+   "url": "https://www.metrolibre.com/nacionales/ee-uu-moviliza-helicopteros-chinook-rescatistas-e-insumos-para-apoyar-a-las-zonas-afectadas-por-el-sismo-CA26377995",
+   "image_url": "https://www.metrolibre.com/binrepository/1000x667/0c33/1200d630/none/83989904/QBEF/us-3_101-14697500_20261010073139.jpg",
+   "confidence": "multiple_sources"
+  },
+  {
+   "id": "off4_2",
+   "reported_utc": "2026-10-10T13:22:00Z",
+   "place": "Penonomé (Hospital Aquilino Tejeira)",
+   "district": "Penonomé",
+   "province": "Coclé",
+   "lat": 8.5205,
+   "lon": -80.3596,
+   "category": "response",
+   "title": "Health minister: about 70 patients treated in tents at Penonomé hospital; modular hospitals deployed",
+   "summary": "Health Minister Fernando Boyd Galindo said about 70 patients at the damaged Aquilino Tejeira hospital are being treated in tents while air-conditioned modular hospitals are set up; a US structural team from Virginia is assessing which hospital buildings can be reused. Photo shows patients on stretchers under awnings outside the hospital.",
+   "title_es": "Ministro de Salud: unos 70 pacientes atendidos en carpas en el hospital de Penonomé; se instalan hospitales modulares",
+   "summary_es": "El ministro de Salud, Fernando Boyd Galindo, informó que unos 70 pacientes del dañado hospital Aquilino Tejeira son atendidos en carpas mientras se instalan hospitales modulares con aire acondicionado; un equipo estructural de EE. UU. procedente de Virginia evalúa qué edificios hospitalarios pueden volver a usarse. La foto muestra pacientes en camillas bajo toldos fuera del hospital.",
+   "image_caption_es": "Pacientes en camillas atendidos bajo toldos frente a un hospital",
+   "figures": {
+    "patients_in_tents": 70
+   },
+   "source_name": "La Estrella de Panamá (MINSA)",
+   "source_type": "news",
+   "url": "https://www.laestrella.com.pa/panama/nacional/cerca-de-70-pacientes-son-atendidos-en-carpas-tras-danos-en-hospital-de-penonome-EA26379184",
+   "image_url": "https://www.laestrella.com.pa/binrepository/1200x800/0c-2/1203d802/none/199516884/KLSL/hospitales-jpg-14697722-14697722_181-14697722_20261010082912.jpg",
+   "confidence": "official"
+  },
+  {
+   "id": "off4_3",
+   "reported_utc": "2026-10-10T13:22:00Z",
+   "place": "Tonosí",
+   "district": "Tonosí",
+   "province": "Los Santos",
+   "lat": 7.3954,
+   "lon": -80.5089,
+   "category": "injuries",
+   "title": "MINSA: eight people with long-bone fractures airlifted out of Tonosí",
+   "summary": "Health Minister Fernando Boyd Galindo said eight people in Tonosí with long-bone fractures were being evacuated by air because road access to the district remains cut.",
+   "title_es": "Minsa: trasladan por aire a ocho personas con fracturas de huesos largos desde Tonosí",
+   "summary_es": "El ministro de Salud, Fernando Boyd Galindo, indicó que ocho personas con fracturas de huesos largos en Tonosí eran trasladadas por vía aérea porque el acceso por carretera al distrito sigue cortado.",
+   "image_caption_es": null,
+   "figures": {
+    "injured_airlifted": 8
+   },
+   "source_name": "La Estrella de Panamá (MINSA)",
+   "source_type": "news",
+   "url": "https://www.laestrella.com.pa/panama/nacional/cerca-de-70-pacientes-son-atendidos-en-carpas-tras-danos-en-hospital-de-penonome-EA26379184",
+   "image_url": null,
+   "confidence": "official"
+  },
+  {
+   "id": "off4_4",
+   "reported_utc": "2026-10-10T14:10:37Z",
+   "place": "Veraguas (affected communities)",
+   "district": "",
+   "province": "Veraguas",
+   "lat": 8.1,
+   "lon": -80.98,
+   "category": "displacement",
+   "title": "Veraguas families gather outside damaged homes and ask for water and food",
+   "summary": "Telemetro live footage from Veraguas shows families gathered outside a damaged two-storey building; affected residents in Veraguas and Coclé (Macaracas, Las Minas also cited) ask the government for water and food.",
+   "title_es": "Familias de Veraguas se reúnen fuera de viviendas dañadas y piden agua y comida",
+   "summary_es": "Imágenes en vivo de Telemetro desde Veraguas muestran a familias reunidas frente a un edificio de dos plantas dañado; damnificados de Veraguas y Coclé (también se mencionan Macaracas y Las Minas) piden al Gobierno agua y comida.",
+   "image_caption_es": "Familias reunidas afuera frente a una casa de dos plantas en Veraguas",
+   "figures": {},
+   "source_name": "Telemetro",
+   "source_type": "news",
+   "url": "https://www.telemetro.com/nacionales/sismo-panama-damnificados-solicitan-agua-y-comida-contraloria-autoriza-uso-recursos-n6094687",
+   "image_url": "https://media.telemetro.com/p/39ab07b4b8797819e58e9ff60aa3ff09/adjuntos/311/imagenes/019/138/0019138348/1200x675/smart/sinaproc-veraguas-1.jpg",
+   "confidence": "single_source"
+  },
+  {
+   "id": "off4_5",
+   "reported_utc": "2026-10-10T11:15:00Z",
+   "place": "Panama (national)",
+   "district": "",
+   "province": "Panamá",
+   "lat": 8.9824,
+   "lon": -79.5199,
+   "category": "response",
+   "title": "Comptroller lets community boards use PIOS and property-tax funds and vehicles for quake relief",
+   "summary": "Comptroller General Anel Flores authorised juntas comunales and municipalities to use Public Works Investment Programme (PIOS) and property-tax (IBI) funds flexibly for quake-affected communities, and to use official vehicles nationwide without safe-conduct passes; spending remains subject to audit. He also asked MEDUCA and Pandeportes to open facilities as support and collection centres.",
+   "title_es": "Contraloría permite a juntas comunales usar fondos PIOS e IBI y vehículos para atender el sismo",
+   "summary_es": "El contralor general Anel Flores autorizó a juntas comunales y municipios a usar con flexibilidad fondos del Programa de Inversión de Obras Públicas y Servicios (PIOS) y del Impuesto de Bien Inmueble (IBI) para atender a comunidades afectadas, y a usar vehículos oficiales en todo el país sin salvoconducto; el gasto sigue sujeto a fiscalización. También pidió al Meduca y a Pandeportes habilitar instalaciones como centros de apoyo y acopio.",
+   "image_caption_es": null,
+   "figures": {},
+   "source_name": "La Estrella de Panamá (Contraloría)",
+   "source_type": "news",
+   "url": "https://www.laestrella.com.pa/panama/nacional/contraloria-flexibiliza-fondos-y-vehiculos-para-atender-a-damnificados-por-el-terremoto-NA26377192",
+   "image_url": null,
+   "confidence": "official"
+  },
+  {
+   "id": "off4_6",
+   "reported_utc": "2026-10-10T15:51:00Z",
+   "place": "Herrera and Los Santos",
+   "district": "",
+   "province": "Los Santos",
+   "lat": 7.9,
+   "lon": -80.4,
+   "category": "response",
+   "title": "ACODECO warns against bottled-water price gouging in Herrera and Los Santos",
+   "summary": "Consumer agency ACODECO ordered checks in Herrera and Los Santos to enforce bottled-water price caps (e.g. B/.2.05 per gallon, B/.6.25 per 5 gallons) after the quake disrupted water supply.",
+   "title_es": "Acodeco advierte contra especulación con el agua embotellada en Herrera y Los Santos",
+   "summary_es": "La Acodeco ordenó verificaciones en Herrera y Los Santos para hacer cumplir los precios tope del agua embotellada (por ejemplo, B/.2.05 el galón y B/.6.25 el botellón de 5 galones) tras las afectaciones al suministro por el sismo.",
+   "image_caption_es": null,
+   "figures": {
+    "price_cap_gallon_balboas": 2.05
+   },
+   "source_name": "Telemetro (ACODECO)",
+   "source_type": "news",
+   "url": "https://www.telemetro.com/nacionales/no-al-juega-vivo-acodeco-advierte-precios-del-agua-fuerte-sismo-panama-n6094711",
+   "image_url": null,
+   "confidence": "official"
+  },
+  {
+   "id": "off4_7",
+   "reported_utc": "2026-10-10T12:34:00Z",
+   "place": "Panama Metro (Lines 1 and 2)",
+   "district": "Panamá",
+   "province": "Panamá",
+   "lat": 9.0,
+   "lon": -79.51,
+   "category": "response",
+   "title": "Metro Lines 1 and 2 remain suspended Saturday as aftershocks continue",
+   "summary": "Metro de Panamá said commercial service on Lines 1 and 2 stays suspended on Saturday after overnight and morning inspections, because of new aftershocks; no reopening time announced. MiBus reinforced bus service.",
+   "title_es": "Las líneas 1 y 2 del Metro siguen suspendidas el sábado por las réplicas",
+   "summary_es": "El Metro de Panamá informó que el servicio comercial de las líneas 1 y 2 sigue suspendido el sábado tras inspecciones durante la noche y la mañana, debido a nuevas réplicas; no se ha anunciado hora de reapertura. MiBus reforzó su servicio.",
+   "image_caption_es": null,
+   "figures": {},
+   "source_name": "Telemetro / La Estrella de Panamá (Metro de Panamá)",
+   "source_type": "news",
+   "url": "https://www.telemetro.com/nacionales/metro-panama-mantiene-suspendido-el-servicio-este-sabado-nuevas-replicas-n6094680",
+   "image_url": null,
+   "confidence": "official"
+  },
+  {
+   "id": "off4_8",
+   "reported_utc": "2026-10-10T13:44:00Z",
+   "place": "Panama (location not stated; SINAPROC inspection)",
+   "district": "",
+   "province": "Panamá",
+   "lat": 8.9824,
+   "lon": -79.5199,
+   "category": "building_damage",
+   "title": "SINAPROC inspects house with collapsed block wall (photo with national balance)",
+   "summary": "Photo illustrating the COEN/SINAPROC preliminary balance shows a SINAPROC officer at night beside a house whose concrete-block wall has collapsed into rubble; location not stated. The balance lists 142 homes, 188 schools, 20 health facilities, 26 government buildings, 13 churches, 7 hotels and 9 bridges affected.",
+   "title_es": "Sinaproc inspecciona casa con pared de bloques derrumbada (foto del balance nacional)",
+   "summary_es": "La foto que acompaña el balance preliminar del COEN/Sinaproc muestra de noche a un funcionario de Sinaproc junto a una casa cuya pared de bloques se derrumbó; no se indica el lugar. El balance registra 142 viviendas, 188 escuelas, 20 instalaciones de salud, 26 edificios de gobierno, 13 iglesias, 7 hoteles y 9 puentes afectados.",
+   "image_caption_es": "Funcionario de Sinaproc junto a casa con pared de bloques derrumbada",
+   "figures": {
+    "homes": 142,
+    "schools": 188,
+    "health_facilities": 20,
+    "government_buildings": 26,
+    "churches": 13,
+    "hotels": 7,
+    "bridges": 9
+   },
+   "source_name": "Metro Libre (SINAPROC)",
+   "source_type": "news",
+   "url": "https://www.metrolibre.com/nacionales/fuerte-sismo-de-75-deja-afectaciones-en-viviendas-escuelas-e-infraestructuras-a-nivel-nacional-IA26379753",
+   "image_url": "https://www.metrolibre.com/binrepository/1000x750/0c51/1200d630/none/83989904/DABG/0c28e023-7f89-4f72-9c31-267dd0277e67_101-14697750_20261010084420.jpg",
+   "confidence": "official"
+  },
+  {
+   "id": "off4_9",
+   "reported_utc": "2026-10-10T13:16:17Z",
+   "place": "Panama (national)",
+   "district": "",
+   "province": "Panamá",
+   "lat": 8.9824,
+   "lon": -79.5199,
+   "category": "response",
+   "title": "European Commission ready to help Panama if asked; ERCC monitoring",
+   "summary": "EU crisis commissioner Hadja Lahbib said the EU Emergency Response Coordination Centre is monitoring the quake and the EU stands 'ready to provide support if requested'; no request had been made.",
+   "title_es": "La Comisión Europea, lista para ayudar a Panamá si se solicita; el ERCC monitorea",
+   "summary_es": "La comisaria europea de Gestión de Crisis, Hadja Lahbib, indicó que el Centro de Coordinación de Respuesta a Emergencias de la UE monitorea el sismo y que la UE está «lista para brindar apoyo si se solicita»; Panamá no había hecho ninguna solicitud.",
+   "image_caption_es": null,
+   "figures": {},
+   "source_name": "Europa Press via Diario Siglo XXI",
+   "source_type": "news",
+   "url": "https://www.diariosigloxxi.com/texto-ep/mostrar/20261010151617/comision-europea-ofrece-ayuda-panama-terremoto-magnitud-76-sacudido-centro-sur",
+   "image_url": null,
+   "confidence": "multiple_sources"
+  },
+  {
+   "id": "off4_10",
+   "reported_utc": "2026-10-10T14:26:00Z",
+   "place": "Azuero region (US Chinook aid delivery)",
+   "district": "",
+   "province": "Los Santos",
+   "lat": 7.75,
+   "lon": -80.4,
+   "category": "response",
+   "title": "Hegseth: US 'immediately shifted military assets' to Panama; Chinook unloads aid with SINAPROC",
+   "summary": "US Secretary of War Pete Hegseth said the US immediately shifted military assets to assist Panama with humanitarian relief. Photo shows a US soldier beside a CH-47 Chinook on a grass field as troops and SINAPROC staff in orange unload supplies.",
+   "title_es": "Hegseth: EE. UU. «trasladó de inmediato activos militares» a Panamá; Chinook descarga ayuda con Sinaproc",
+   "summary_es": "El secretario de Guerra de EE. UU., Pete Hegseth, afirmó que su país trasladó de inmediato activos militares para ayudar a Panamá con asistencia humanitaria. La foto muestra a un soldado estadounidense junto a un CH-47 Chinook en un campo de grama mientras militares y personal de Sinaproc descargan suministros.",
+   "image_caption_es": "Soldados de EE. UU. y Sinaproc descargan ayuda de un Chinook en un campo",
+   "figures": {},
+   "source_name": "La Estrella de Panamá",
+   "source_type": "news",
+   "url": "https://www.laestrella.com.pa/panama/nacional/estados-unidos-reubica-activos-militares-para-apoyar-a-panama-tras-el-terremoto-anuncia-pete-hegseth-EP26381027",
+   "image_url": "https://www.laestrella.com.pa/binrepository/1200x800/0c-1/1203d802/none/199516884/JHFM/ayudaestadosunidos-jpg-14697982-14697982_181-14697982_20261010093044.jpg",
+   "confidence": "multiple_sources"
+  },
+  {
+   "id": "off4_11",
+   "reported_utc": "2026-10-10T15:12:09Z",
+   "place": "Panama City (Presidencia)",
+   "district": "Panamá",
+   "province": "Panamá",
+   "lat": 8.953,
+   "lon": -79.534,
+   "category": "response",
+   "title": "Mulino convenes Cabinet Council on Saturday; decisions to be announced afterwards",
+   "summary": "President Mulino convened the Cabinet Council on Saturday morning to take decisions on the quake response and was to announce them in a press conference afterwards (La Prensa carried the conference live from ~16:57 UTC). Using the Fondo de Ahorro de Panamá requires a Cabinet emergency declaration and a costed damage estimate.",
+   "title_es": "Mulino convoca al Consejo de Gabinete el sábado; anunciará decisiones después",
+   "summary_es": "El presidente Mulino convocó al Consejo de Gabinete el sábado en la mañana para tomar decisiones sobre la respuesta al terremoto y anunciarlas luego en conferencia de prensa (La Prensa la transmitió en vivo desde las 11:57 a. m.). Para usar el Fondo de Ahorro de Panamá se requiere una declaratoria de emergencia del Gabinete y cuantificar los daños.",
+   "image_caption_es": null,
+   "figures": {},
+   "source_name": "Destino Panamá / La Prensa",
+   "source_type": "news",
+   "url": "https://destinopanama.com.pa/2026/10/mulino-convoca-al-consejo-de-gabinete-y-anunciara-decisiones-al-pais/",
+   "image_url": null,
+   "confidence": "multiple_sources"
+  },
+  {
+   "id": "off4_12",
+   "reported_utc": "2026-10-10T15:30:45Z",
+   "place": "Tonosí",
+   "district": "Tonosí",
+   "province": "Los Santos",
+   "lat": 7.3954,
+   "lon": -80.5089,
+   "category": "response",
+   "title": "Government minister Dinoska Montalvo on the ground in Tonosí meeting affected families",
+   "summary": "EFE reports Government Minister Dinoska Montalvo was in Tonosí on Saturday, in direct contact with affected families; five communities in Los Santos remain cut off by damaged bridges, roads and landslides.",
+   "title_es": "La ministra de Gobierno, Dinoska Montalvo, en Tonosí con las familias afectadas",
+   "summary_es": "EFE informa que la ministra de Gobierno, Dinoska Montalvo, estaba el sábado en Tonosí en contacto directo con las familias afectadas; cinco comunidades de Los Santos siguen incomunicadas por daños en puentes, carreteras y deslizamientos.",
+   "image_caption_es": null,
+   "figures": {
+    "communities_cut_off": 5
+   },
+   "source_name": "EFE via Infobae",
+   "source_type": "news",
+   "url": "https://www.infobae.com/america/agencias/2026/10/10/nerviosismo-por-las-replicas-tras-terremoto-de-77-en-panama-sin-victimas-pero-si-danos/",
+   "image_url": null,
+   "confidence": "multiple_sources"
+  },
+  {
+   "id": "off4_13",
+   "reported_utc": "2026-10-10T16:01:24Z",
+   "place": "Panama City (Alcaldía, Edificio Hatillo)",
+   "district": "Panamá",
+   "province": "Panamá",
+   "lat": 8.979,
+   "lon": -79.526,
+   "category": "response",
+   "title": "Panama City mayor's office opens donation centre at Hatillo building",
+   "summary": "The Alcaldía de Panamá opened a collection centre ('Nuestras provincias nos necesitan') at the Hatillo building from 8:00 to 18:00 on Saturday for non-perishable food, water, baby formula, hygiene items, nappies and first-aid supplies for quake-hit families in the interior; no clothing accepted.",
+   "title_es": "La Alcaldía de Panamá abre centro de acopio en el edificio Hatillo",
+   "summary_es": "La Alcaldía de Panamá habilitó un centro de acopio («Nuestras provincias nos necesitan») en el edificio Hatillo de 8:00 a. m. a 6:00 p. m. el sábado para recibir alimentos no perecederos, agua, fórmulas, artículos de higiene, pañales y material de primeros auxilios para las familias afectadas del interior; no se recibe ropa.",
+   "image_caption_es": null,
+   "figures": {},
+   "source_name": "Destino Panamá (Alcaldía de Panamá)",
+   "source_type": "news",
+   "url": "https://destinopanama.com.pa/2026/10/alcaldia-de-panama-habilita-centro-de-acopio-para-familias-afectadas-por-los-sismos/",
+   "image_url": null,
+   "confidence": "official"
+  },
+  {
+   "id": "off4_14",
+   "reported_utc": "2026-10-10T15:51:21Z",
+   "place": "Panama (national roads)",
+   "district": "",
+   "province": "Panamá",
+   "lat": 8.9824,
+   "lon": -79.5199,
+   "category": "other",
+   "title": "National Police: 94 traffic accidents recorded after the quake",
+   "summary": "The National Police's traffic operations directorate reported 94 road traffic accidents following the magnitude 7.5 earthquake and urged drivers to take care.",
+   "title_es": "Policía Nacional: 94 accidentes de tránsito tras el sismo",
+   "summary_es": "La Dirección Nacional de Operaciones de Tránsito de la Policía Nacional reportó 94 accidentes de tránsito tras el terremoto de magnitud 7.5 y pidió a los conductores manejar con precaución.",
+   "image_caption_es": null,
+   "figures": {
+    "traffic_accidents": 94
+   },
+   "source_name": "Destino Panamá (Policía Nacional)",
+   "source_type": "news",
+   "url": "https://destinopanama.com.pa/2026/10/se-registraron-94-accidentes-de-transito-tras-sismos/",
+   "image_url": null,
+   "confidence": "official"
+  },
+  {
+   "id": "off4_15",
+   "reported_utc": "2026-10-10T15:11:00Z",
+   "place": "Mandinga (Pesé)",
+   "district": "Pesé",
+   "province": "Herrera",
+   "lat": 7.89,
+   "lon": -80.63,
+   "category": "building_damage",
+   "title": "Deputy: more than half of homes in Mandinga, Pesé, totally destroyed",
+   "summary": "Deputy José Luis Varela said after visiting Mandinga (Pesé district, Herrera) that 'more than 50% of the homes are totally destroyed'; families sleep in hammocks and improvised shelters, share a community kitchen and lack medicines (insulin, blood-pressure drugs). Photo shows a house interior strewn with debris and belongings against bare block walls.",
+   "title_es": "Diputado: más de la mitad de las viviendas de Mandinga, en Pesé, quedaron totalmente destruidas",
+   "summary_es": "El diputado José Luis Varela afirmó tras visitar Mandinga (distrito de Pesé, Herrera) que «más del 50% de las viviendas están totalmente destruidas»; las familias duermen en hamacas y refugios improvisados, comparten una olla comunitaria y no tienen medicamentos (insulina, pastillas para la presión). La foto muestra el interior de una casa con escombros y pertenencias regadas junto a paredes de bloque.",
+   "image_caption_es": "Interior de vivienda con escombros y pertenencias regadas en Mandinga",
+   "figures": {
+    "homes_destroyed_share_pct": 50
+   },
+   "source_name": "La Estrella de Panamá",
+   "source_type": "news",
+   "url": "https://www.laestrella.com.pa/panama/nacional/mas-del-50-de-las-viviendas-de-mandinga-en-pese-quedaron-destruidas-dice-diputado-varela-KP26382989",
+   "image_url": "https://www.laestrella.com.pa/binrepository/1200x800/0c0/0d0/none/199516884/HGXH/whatsapp-image-2026-10-10-at-12-07-5_181-14698297_20261010101439.jpg",
+   "confidence": "single_source"
+  },
+  {
+   "id": "off4_16",
+   "reported_utc": "2026-10-10T12:49:59Z",
+   "place": "Tonosí",
+   "district": "Tonosí",
+   "province": "Los Santos",
+   "lat": 7.3954,
+   "lon": -80.5089,
+   "category": "utilities",
+   "title": "Tonosí mayor's SOS: no power or water, food and medicine running short; access only via Macaracas",
+   "summary": "Tonosí mayor Aníbal Domínguez said the district has no electricity or drinking water, several communities are unreachable, the rural hospital works at limited capacity, and road access is only possible via Macaracas with extreme caution; he asked for bottled water, canned/dry food, nappies, milk and medicines.",
+   "title_es": "SOS del alcalde de Tonosí: sin luz ni agua, escasean alimentos y medicinas; acceso solo por Macaracas",
+   "summary_es": "El alcalde de Tonosí, Aníbal Domínguez, indicó que el distrito está sin electricidad ni agua potable, varias comunidades siguen inaccesibles, el hospital rural opera con capacidad limitada y el acceso por tierra solo es posible por Macaracas con extrema precaución; pidió agua embotellada, alimentos enlatados y secos, pañales, leche y medicamentos.",
+   "image_caption_es": null,
+   "figures": {},
+   "source_name": "Panamá América",
+   "source_type": "news",
+   "url": "https://www.panamaamerica.com.pa/provincias/lanzan-sos-desde-tonosi-escasean-alimentos-e-insumos-1267325",
+   "image_url": null,
+   "confidence": "single_source"
+  }
+ ],
+ "image_review": {
+  "off4_1": {
+   "verdict": "event",
+   "caption": "US soldiers load aid pallets onto a Chinook at Panamá Pacífico",
+   "place_match": true
+  },
+  "off4_2": {
+   "verdict": "event",
+   "caption": "Patients on stretchers treated under awnings outside hospital",
+   "place_match": true
+  },
+  "off4_4": {
+   "verdict": "event",
+   "caption": "Families gathered outdoors near a two-storey house in Veraguas",
+   "place_match": null
+  },
+  "off4_8": {
+   "verdict": "damage",
+   "caption": "SINAPROC officer beside house with collapsed block wall, night",
+   "place_match": null
+  },
+  "off4_10": {
+   "verdict": "event",
+   "caption": "US troops and SINAPROC unload aid from Chinook on a field",
+   "place_match": null
+  },
+  "off4_15": {
+   "verdict": "damage",
+   "caption": "House interior strewn with debris and belongings, Mandinga",
+   "place_match": null
+  }
+ },
+ "official_figures": [
+  {
+   "as_of_utc": "2026-10-10T14:32:00Z",
+   "deaths": 0,
+   "injured": 30,
+   "missing": 0,
+   "displaced": 300,
+   "homes_damaged": 139,
+   "homes_destroyed": 2,
+   "infrastructure": {
+    "schools": 188,
+    "health_facilities": 20,
+    "government_buildings": 33,
+    "bridges": 9,
+    "churches": 15,
+    "hotels": 7
+   },
+   "source_name": "'Latest government report' (SINAPROC/COEN) as relayed by Destino Panamá",
+   "url": "https://destinopanama.com.pa/2026/10/terremoto-en-panama-deja-30-lesionados-y-danos-en-188-centros-educativos/",
+   "note": "Saturday-morning update: 30 injured (up from 27), 0 dead, 139 homes affected incl. 2 total losses; 33 government buildings (incl. 2 fire stations, 4 police stations), 15 churches, 9 roads, 9 bridges. 'Displaced' = ~300 precautionary evacuees from Isla Cañas carried over from the Friday-night report (not shelter count); 8 families in IFARHU shelter, Penonomé. Primary SINAPROC document not found; the 30-injured figure is echoed by Teledoce/Telemundo and El Colombiano ('cerca de 30'). Time = article timestamp.",
+   "note_es": "Actualización del sábado en la mañana: 30 lesionados (antes 27), 0 fallecidos, 139 viviendas afectadas, 2 con pérdida total; 33 edificios gubernamentales (incl. 2 cuarteles de bomberos y 4 de policía), 15 iglesias, 9 carreteras y 9 puentes. 'Desplazados' = unas 300 personas evacuadas de forma preventiva de Isla Cañas según el informe del viernes en la noche (no es cifra de albergados); 8 familias en albergue del IFARHU en Penonomé. No se halló el documento original de Sinaproc; la cifra de 30 lesionados la recogen también Teledoce/Telemundo y El Colombiano («cerca de 30»). La hora es la de publicación del artículo."
+  },
+  {
+   "as_of_utc": "2026-10-10T14:16:00Z",
+   "deaths": 0,
+   "injured": 27,
+   "missing": 0,
+   "displaced": 300,
+   "homes_damaged": 142,
+   "homes_destroyed": 3,
+   "infrastructure": {
+    "schools": 188,
+    "health_facilities": 20,
+    "government_buildings": 26,
+    "bridges": 9,
+    "churches": 13,
+    "hotels": 7
+   },
+   "source_name": "SINAPROC/COEN preliminary report, republished by Telemetro (09:16 local) and Metro Libre",
+   "url": "https://www.telemetro.com/nacionales/sismo-panama-no-se-reportan-victimas-fatales-y-sinaproc-atiende-damnificados-n6094686",
+   "note": "Same as the Friday 20:00-cutoff consolidated report (no new national SINAPROC balance found by 12:00 local Saturday). Province breakdown: injured Coclé 17, Los Santos 6, Panamá Oeste 2, Veraguas 1, Herrera 1; homes Coclé 50, Herrera 32 (2 total), Veraguas 18, Chiriquí 16, Los Santos 14, Colón 9, Panamá Oeste 3. One shelter (IFARHU Penonomé, 8 families); 5+ communities cut off.",
+   "note_es": "Igual al informe consolidado con corte a las 8:00 p. m. del viernes (hasta el mediodía del sábado no se halló un nuevo balance nacional de Sinaproc). Por provincia: lesionados Coclé 17, Los Santos 6, Panamá Oeste 2, Veraguas 1, Herrera 1; viviendas Coclé 50, Herrera 32 (2 totales), Veraguas 18, Chiriquí 16, Los Santos 14, Colón 9, Panamá Oeste 3. Un albergue (IFARHU de Penonomé, 8 familias); 5 o más comunidades incomunicadas."
+  }
+ ],
+ "response_notes": [
+  {
+   "topic": "Presidency / Cabinet",
+   "text_en": "Mulino convened the Cabinet Council on Saturday morning (10 Oct); a press conference with its decisions began around 11:57 local (16:57 UTC). Decisions (emergency declaration, FAP use, budget) not yet published at time of sweep. Tapping the Fondo de Ahorro de Panamá requires a Cabinet emergency declaration and damage costing ≥0.5% of GDP (Law 38 of 2012).",
+   "text_es": "Mulino convocó al Consejo de Gabinete el sábado 10 en la mañana; la conferencia con sus decisiones empezó hacia las 11:57 a. m. Al cierre de esta revisión no se habían publicado las decisiones (declaratoria de emergencia, uso del FAP, presupuesto). Para usar el Fondo de Ahorro de Panamá se requiere una declaratoria del Gabinete y daños de al menos 0.5% del PIB (Ley 38 de 2012).",
+   "url": "https://www.prensa.com/politica/consejo-de-gabinete-tras-el-terremoto-de-75-en-panama/"
+  },
+  {
+   "topic": "Presidency / Tonosí visit",
+   "text_en": "Mulino said on Friday he expected to reach cut-off Tonosí on Saturday; by midday no report of his arrival was found. Government Minister Dinoska Montalvo was in Tonosí on Saturday meeting affected families (EFE).",
+   "text_es": "Mulino dijo el viernes que esperaba llegar el sábado a Tonosí, que sigue incomunicado; al mediodía no se encontró reporte de su llegada. La ministra de Gobierno, Dinoska Montalvo, estaba el sábado en Tonosí reunida con familias afectadas (EFE).",
+   "url": "https://www.infobae.com/america/agencias/2026/10/10/nerviosismo-por-las-replicas-tras-terremoto-de-77-en-panama-sin-victimas-pero-si-danos/"
+  },
+  {
+   "topic": "Logistics / MOP",
+   "text_en": "Saturday morning: heavy machinery working to reopen roads to Tonosí (reachable only via Macaracas); helicopters doing aerial damage assessment in Herrera, Los Santos and Veraguas; first food donations reached Los Santos (09:49 local) and Coclé. MOP inspected Mariato–El Torio by helicopter; Arenas, Quebro and Cacao isolated.",
+   "text_es": "Sábado en la mañana: maquinaria pesada trabaja para reabrir las vías a Tonosí (solo accesible por Macaracas); helicópteros hacen evaluaciones aéreas en Herrera, Los Santos y Veraguas; las primeras donaciones de alimentos llegaron a Los Santos (9:49 a. m.) y a Coclé. El MOP inspeccionó por helicóptero Mariato–El Torio; Arenas, Quebro y Cacao siguen aislados.",
+   "url": "https://www.telemetro.com/nacionales/en-vivo-sismo-panama-suspenden-clases-y-funciones-entidades-publicas-n6094639"
+  },
+  {
+   "topic": "Shelters / Mariato",
+   "text_en": "Mariato mayor Ángel Batista (07:19 local): many houses collapsed, bridges unusable, several shelters set up in schools and on high ground; no deaths; no power or internet; dry food needed.",
+   "text_es": "El alcalde de Mariato, Ángel Batista (7:19 a. m.): muchas casas caídas, puentes inutilizables, varios albergues en escuelas y zonas altas; sin fallecidos; sin luz ni internet; se necesita comida seca.",
+   "url": "https://www.telemetro.com/nacionales/en-vivo-sismo-panama-suspenden-clases-y-funciones-entidades-publicas-n6094639"
+  },
+  {
+   "topic": "Health (MINSA/CSS)",
+   "text_en": "Health Minister Boyd Galindo: ~70 patients in tents at Penonomé's Aquilino Tejeira hospital; air-conditioned modular hospitals being activated; 8 people with long-bone fractures airlifted from Tonosí; US structural team from Virginia assessing hospitals. CSS said hemodialysis rooms reopen nationwide Saturday (Soná unit damaged).",
+   "text_es": "Ministro de Salud Boyd Galindo: unos 70 pacientes en carpas en el hospital Aquilino Tejeira de Penonomé; se activan hospitales modulares con aire acondicionado; 8 personas con fracturas de huesos largos trasladadas por aire desde Tonosí; un equipo estructural de EE. UU. (Virginia) evalúa hospitales. La CSS informó que las salas de hemodiálisis reabren el sábado en todo el país (la de Soná está dañada).",
+   "url": "https://www.laestrella.com.pa/panama/nacional/cerca-de-70-pacientes-son-atendidos-en-carpas-tras-danos-en-hospital-de-penonome-EA26379184"
+  },
+  {
+   "topic": "Education (MEDUCA)",
+   "text_en": "MEDUCA total remains 188 schools affected (Herrera 48, Veraguas 35, Los Santos 22, Chiriquí 20, Coclé 17); classes suspended nationwide until further notice; no restart date announced by midday Saturday. Comptroller asked MEDUCA and Pandeportes to open facilities as support/collection centres.",
+   "text_es": "El Meduca mantiene en 188 las escuelas afectadas (Herrera 48, Veraguas 35, Los Santos 22, Chiriquí 20, Coclé 17); clases suspendidas en todo el país hasta nuevo aviso; al mediodía del sábado no había fecha de reinicio. La Contraloría pidió al Meduca y a Pandeportes habilitar instalaciones como centros de apoyo y acopio.",
+   "url": "https://www.infobae.com/panama/2026/10/10/los-188-centros-escolares-afectados-se-extienden-por-todo-panama-tras-el-terremoto-de-magnitud-75/"
+  },
+  {
+   "topic": "Transport (Metro/Tocumen)",
+   "text_en": "Metro Lines 1 and 2 remain suspended Saturday because of aftershocks; MiBus reinforced. Tocumen operating since ~09:01 local but halts take-offs and landings after each felt aftershock to inspect runways.",
+   "text_es": "Las líneas 1 y 2 del Metro siguen suspendidas el sábado por las réplicas; MiBus reforzó el servicio. Tocumen opera desde las 9:01 a. m., pero detiene despegues y aterrizajes tras cada réplica sentida para revisar pistas.",
+   "url": "https://www.telemetro.com/nacionales/metro-panama-mantiene-suspendido-el-servicio-este-sabado-nuevas-replicas-n6094680"
+  },
+  {
+   "topic": "Utilities (IDAAN/ACP/Naturgy)",
+   "text_en": "IDAAN: Chilibre plant back to full production (Friday night). ACP suspended maintenance work at Monte Esperanza water plant (11:59 local Saturday). Tonosí and Mariato still without power/water Saturday morning; no new Naturgy restoration figures found. ACODECO enforcing bottled-water price caps in Herrera and Los Santos.",
+   "text_es": "IDAAN: la potabilizadora de Chilibre recuperó su producción total (viernes en la noche). La ACP suspendió trabajos de mantenimiento en la potabilizadora de Monte Esperanza (11:59 a. m. del sábado). Tonosí y Mariato seguían sin luz ni agua el sábado en la mañana; no se hallaron nuevas cifras de restablecimiento de Naturgy. Acodeco vigila los precios tope del agua embotellada en Herrera y Los Santos.",
+   "url": "https://www.telemetro.com/nacionales/no-al-juega-vivo-acodeco-advierte-precios-del-agua-fuerte-sismo-panama-n6094711"
+  },
+  {
+   "topic": "Public finance / local funds",
+   "text_en": "Comptroller Anel Flores let juntas comunales and municipalities use PIOS and property-tax (IBI) funds flexibly and use official vehicles without safe-conduct passes for the emergency. MEF (Chapman) has contacted IDB, CAF, CABEI, World Bank and IMF; no amounts except CAF (USD 250k grant + USD 50m disaster credit line). IDB president Goldfajn: 'count on the IDB Group' (no amount).",
+   "text_es": "El contralor Anel Flores permitió a juntas comunales y municipios usar con flexibilidad fondos PIOS e IBI y vehículos oficiales sin salvoconducto para la emergencia. El MEF (Chapman) contactó al BID, CAF, BCIE, Banco Mundial y FMI; solo la CAF ha dado montos (donación de USD 250,000 y línea de USD 50 millones para desastres). El presidente del BID, Goldfajn: «cuenten con el Grupo BID» (sin monto).",
+   "url": "https://www.laestrella.com.pa/panama/nacional/contraloria-flexibiliza-fondos-y-vehiculos-para-atender-a-damnificados-por-el-terremoto-NA26377192"
+  },
+  {
+   "topic": "International – United States",
+   "text_en": "US CH-47 Chinooks (JTF-Bravo/SOUTHCOM) flying tents and supplies from Panamá Pacífico to Azuero from Saturday morning; 20–22 USAR/structural specialists from Virginia and California deployed; Hegseth: assets 'immediately shifted'; Rubio: State Dept mobilising at Panama's request.",
+   "text_es": "Chinooks CH-47 de EE. UU. (JTF-Bravo/Comando Sur) trasladan carpas e insumos desde Panamá Pacífico a Azuero desde el sábado en la mañana; se desplegaron 20-22 especialistas en rescate urbano y evaluación estructural de Virginia y California; Hegseth: activos «trasladados de inmediato»; Rubio: el Departamento de Estado moviliza recursos a solicitud de Panamá.",
+   "url": "https://www.infobae.com/panama/2026/10/10/helicoptero-chinook-de-estados-unidos-transporta-ayuda-humanitaria-a-las-zonas-afectadas-por-el-sismo-en-panama/"
+  },
+  {
+   "topic": "International – others",
+   "text_en": "Foreign Ministry thanked offers from the US, Colombia, Ecuador, Guatemala, Peru and El Salvador (also Mexico, Chile) and is channelling aid to 'verified needs'; no formal international appeal. EU (Lahbib): ERCC monitoring, ready to help if requested. IFRC: Panamanian Red Cross mobilised (first aid, psychosocial support, assessments in Chitré, La Villa, Las Tablas, Pedasí); IFRC global mechanisms (e.g. DREF) available pending assessments. UNICEF ready to support. No OCHA/WFP/World Bank/IMF announcement found.",
+   "text_es": "La Cancillería agradeció los ofrecimientos de EE. UU., Colombia, Ecuador, Guatemala, Perú y El Salvador (también México y Chile) y canaliza la ayuda según «necesidades verificadas»; no hay llamamiento internacional formal. UE (Lahbib): el ERCC monitorea y está lista para ayudar si se solicita. FICR: la Cruz Roja Panameña está movilizada (primeros auxilios, apoyo psicosocial, evaluaciones en Chitré, La Villa, Las Tablas y Pedasí); los mecanismos globales de la FICR (p. ej. DREF) están disponibles según las evaluaciones. UNICEF lista para apoyar. No se hallaron anuncios de OCHA, PMA, Banco Mundial o FMI.",
+   "url": "https://www.prensa.com/mundo/panama-agradece-solidaridad-internacional-tras-el-terremoto-y-coordina-ofrecimientos-de-ayuda/"
+  }
+ ]
+}

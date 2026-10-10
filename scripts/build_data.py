@@ -115,7 +115,29 @@ def load_reports():
                 r["image_url"] = None
             else:
                 seen_img.add(r["image_url"])
+    cap_photos_per_site(out)
     return out
+
+
+def cap_photos_per_site(reports, per_site=3, per_town=8):
+    """Keep the map lean: at most 3 photos per building/site and 8 general photos per town.
+    Extra reports keep their text and source link, just without the photo. Preference: official and
+    corroborated sources first, then verified damage photos, then the most recent."""
+    conf_rank = {"official": 0, "multiple_sources": 1, "single_source": 2, "unverified": 3}
+    def key(r):
+        place = (r.get("place") or "").lower().strip()
+        return place if "(" in place else "town:" + place.split(",")[0].strip()
+    groups = {}
+    for r in reports:
+        if r.get("image_url"):
+            groups.setdefault(key(r), []).append(r)
+    for k, rs in groups.items():
+        limit = per_town if k.startswith("town:") else per_site
+        rs.sort(key=lambda r: (conf_rank.get(r.get("confidence"), 4), r.get("image_verdict") != "damage",
+                               "" if not r.get("reported_utc") else "~" + r["reported_utc"]), reverse=False)
+        for r in rs[limit:]:
+            r["image_url"] = None
+            r["image_capped"] = True
 
 
 def walls():

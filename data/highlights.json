@@ -1,13 +1,13 @@
 {
- "updated_utc": "2026-10-10T08:40:00Z",
- "headline": "A shallow M7.7 earthquake struck the Azuero Peninsula at 12:56 local time on 9 October. SINAPROC reports no deaths or missing persons, 27 injured and 142 homes affected; damage across seven provinces.",
+ "updated_utc": "2026-10-10T18:30:00Z",
+ "headline": "A shallow M7.7 earthquake struck the Azuero Peninsula on 9 October. Officially no deaths or missing persons; Tonosí remains cut off and housing damage is far larger than official counts so far.",
  "key_points": [
-  "Official (SINAPROC, 20:00 local): 0 deaths, 0 missing, 27 injured; 142 homes affected (3+ destroyed), 188 schools, 20 health facilities, 9 bridges.",
-  "Los Pozos (Herrera): mayor reports hundreds of homes collapsed — far above SINAPROC's 32 homes affected in Herrera; counts still rising.",
-  "Tonosí cut off by road; four people rescued from a hotel. Mariato communities cut off after road ruptures.",
-  "Penonomé: hotel, cathedral, Gobernación, churches and colonial houses damaged; Bolívar statue toppled.",
-  "Hospitals evacuated in San Félix (~209 people), Penonomé, Santiago and Las Tablas; 188 schools damaged nationwide (MEDUCA).",
-  "Water: Chilibre back to full production, supply returning gradually. No emergency declaration yet; CAF offers US$50M credit line. More than 100 aftershocks (SINAPROC)."
+  "Official (SINAPROC): 0 deaths, 0 missing, 27 injured (~30 per government update Saturday); 142 homes, 188 schools, 20 health facilities, 9 bridges affected.",
+  "Housing damage well above official counts: hundreds of homes collapsed in Los Pozos, ~100 damaged in Las Minas, over half destroyed in Mandinga (Pesé).",
+  "Tonosí cut off (access only via Macaracas): mayor's SOS — no power or water, food and medicine short; 8 fracture patients airlifted.",
+  "Hospitals treating patients in tents in Penonomé (~70), Aguadulce (165 evacuated), San Félix, Chitré and La Villa; modular hospitals being set up.",
+  "Families sleeping outdoors in Las Tablas stadium, El Guayabal, La Villa and El Guabo; shelters opened in Mariato schools.",
+  "Cabinet met Saturday; no emergency declaration yet. US Chinooks delivering aid and a US rescue/structural team arrived; 100+ aftershocks."
  ],
  "areas": [
   {
@@ -18,7 +18,7 @@
   {
    "area": "Tonosí / Cambutal, Los Santos",
    "status": "severe",
-   "text": "Town cut off by road; four people rescued from a hotel, one woman with a broken arm (EFE). Homes collapsed; minor hospital damage. Strongest modelled shaking (MMI VIII–IX)."
+   "text": "Cut off except via Macaracas; mayor's SOS: no power or water, food and medicine running short. Homes collapsed; 8 fracture patients airlifted; aid arriving by helicopter."
   },
   {
    "area": "Pedasí / Playa Venao, Los Santos",
@@ -41,9 +41,9 @@
    "text": "Part of the Basílica Menor tower collapsed."
   },
   {
-   "area": "Los Pozos, Las Minas, Ocú & Chitré, Herrera",
+   "area": "Los Pozos, Las Minas, Pesé & Ocú, Herrera",
    "status": "severe",
-   "text": "Los Pozos mayor: hundreds of homes collapsed in 5 of 9 corregimientos; parish church ~70% destroyed; schools and roads damaged. Cracked homes in Las Minas; classroom ceiling collapse in Ocú; damage in Chitré."
+   "text": "Hundreds of homes collapsed in Los Pozos (mayor); ~100 homes with considerable damage in Las Minas; over half of homes destroyed in Mandinga, Pesé (deputy); parish churches damaged; school ceiling collapse in Ocú."
   },
   {
    "area": "Aguadulce, Coclé",
@@ -128,12 +128,12 @@
    "source": "Telemetro live"
   }
  ],
- "upcoming": "President Mulino to fly to Tonosí today (Saturday); next SINAPROC update and MEDUCA decision on classes expected.",
+ "upcoming": "Cabinet decisions and a new SINAPROC balance expected; President Mulino's visit to Azuero.",
  "unknowns": [
-  "Number of displaced people and people in shelters — only 8 families sheltered in Coclé reported so far.",
-  "Confirmed count of damaged and destroyed homes; Los Pozos 'hundreds collapsed' is the mayor's estimate.",
-  "Situation in cut-off communities (Tonosí, Mariato coast) and the hardest-shaken rural areas.",
-  "When water supply in Panama City and power in southern Veraguas will be restored.",
-  "Landslides in the hills of southern Azuero and Veraguas (one unconfirmed report near El Valle de Antón)."
+  "Cabinet decisions — whether a state of emergency will be declared (needed to tap the Fondo de Ahorro de Panamá).",
+  "A consolidated count of damaged and destroyed homes; local reports point to many hundreds.",
+  "Number of displaced people and people in shelters; many families are sleeping outdoors.",
+  "When power, water and road access to Tonosí and five cut-off Los Santos communities will be restored.",
+  "Extent of landslides (El Valle de Antón, Cañazas–Altos de Ibalá road reported)."
  ]
 }

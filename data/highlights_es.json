@@ -1,13 +1,13 @@
 {
- "updated_utc": "2026-10-10T08:40:00Z",
- "headline": "Un sismo superficial de magnitud 7,7 sacudió la península de Azuero a las 12:56 hora local del 9 de octubre. SINAPROC reporta cero fallecidos y desaparecidos, 27 lesionados y 142 viviendas afectadas; daños en siete provincias.",
+ "updated_utc": "2026-10-10T18:30:00Z",
+ "headline": "Un sismo superficial de magnitud 7,7 sacudió la península de Azuero el 9 de octubre. Oficialmente no hay fallecidos ni desaparecidos; Tonosí sigue incomunicado y los daños en viviendas superan con creces las cifras oficiales hasta ahora.",
  "key_points": [
-  "Oficial (SINAPROC, 20:00 hora local): 0 fallecidos, 0 desaparecidos, 27 lesionados; 142 viviendas afectadas (3+ destruidas), 188 escuelas, 20 instalaciones de salud, 9 puentes.",
-  "Los Pozos (Herrera): el alcalde reporta cientos de viviendas colapsadas, muy por encima de las 32 afectadas que SINAPROC registra en Herrera; las cifras siguen aumentando.",
-  "Tonosí incomunicado por carretera; cuatro personas rescatadas de un hotel. Comunidades de Mariato aisladas por rupturas viales.",
-  "Penonomé: hotel, catedral, Gobernación, iglesias y casas coloniales dañadas; estatua de Bolívar derribada.",
-  "Hospitales evacuados en San Félix (~209 personas), Penonomé, Santiago y Las Tablas; 188 escuelas dañadas en el país (MEDUCA).",
-  "Agua: Chilibre en producción plena; el suministro se restablece gradualmente. Aún sin declaratoria de emergencia; CAF ofrece una línea de crédito de US$50 millones. Más de 100 réplicas (SINAPROC)."
+  "Oficial (SINAPROC): 0 fallecidos, 0 desaparecidos, 27 lesionados (~30 según actualización del gobierno del sábado); 142 viviendas, 188 escuelas, 20 instalaciones de salud y 9 puentes afectados.",
+  "Daños en viviendas muy superiores a las cifras oficiales: cientos de viviendas colapsadas en Los Pozos, ~100 dañadas en Las Minas, más de la mitad destruidas en Mandinga (Pesé).",
+  "Tonosí incomunicado (acceso solo por Macaracas): SOS del alcalde — sin luz ni agua, escasean alimentos y medicinas; 8 pacientes con fracturas evacuados por aire.",
+  "Hospitales atienden en carpas en Penonomé (~70), Aguadulce (165 evacuados), San Félix, Chitré y La Villa; se instalan hospitales modulares.",
+  "Familias duermen a la intemperie en el estadio de Las Tablas, El Guayabal, La Villa y El Guabo; albergues habilitados en escuelas de Mariato.",
+  "El Consejo de Gabinete sesionó el sábado; aún sin declaratoria de emergencia. Helicópteros Chinook de EE. UU. llevan ayuda y llegó un equipo de rescate y evaluación estructural; más de 100 réplicas."
  ],
  "areas": [
   {
@@ -18,7 +18,7 @@
   {
    "area": "Tonosí / Cambutal, Los Santos",
    "status": "severe",
-   "text": "Poblado incomunicado por carretera; cuatro personas rescatadas de un hotel, una mujer con un brazo fracturado (EFE). Viviendas colapsadas; afectaciones menores en el hospital. Mayor intensidad modelada (MMI VIII–IX)."
+   "text": "Incomunicado salvo por Macaracas; SOS del alcalde: sin luz ni agua, escasean alimentos y medicinas. Viviendas colapsadas; 8 pacientes con fracturas evacuados por aire; llega ayuda en helicóptero."
   },
   {
    "area": "Pedasí / Playa Venao, Los Santos",
@@ -41,9 +41,9 @@
    "text": "Colapsó parte de la torre de la Basílica Menor."
   },
   {
-   "area": "Los Pozos, Las Minas, Ocú y Chitré, Herrera",
+   "area": "Los Pozos, Las Minas, Pesé y Ocú, Herrera",
    "status": "severe",
-   "text": "Alcalde de Los Pozos: cientos de viviendas colapsadas en 5 de 9 corregimientos; iglesia parroquial ~70 % destruida; escuelas y vías dañadas. Viviendas agrietadas en Las Minas; colapso de cielorraso en aula de Ocú; daños en Chitré."
+   "text": "Cientos de viviendas colapsadas en Los Pozos (alcalde); ~100 viviendas con daños considerables en Las Minas; más de la mitad de las viviendas destruidas en Mandinga, Pesé (diputado); iglesias parroquiales dañadas; colapso de cielorraso en escuela de Ocú."
   },
   {
    "area": "Aguadulce, Coclé",
@@ -128,12 +128,12 @@
    "source": "Telemetro en vivo"
   }
  ],
- "upcoming": "El presidente Mulino viajará hoy (sábado) a Tonosí; se esperan una nueva actualización de SINAPROC y la decisión de MEDUCA sobre las clases.",
+ "upcoming": "Se esperan las decisiones del Gabinete y un nuevo balance de SINAPROC; visita del presidente Mulino a Azuero.",
  "unknowns": [
-  "Número de desplazados y personas en albergues: hasta ahora solo se reportan 8 familias albergadas en Coclé.",
-  "Conteo confirmado de viviendas dañadas y destruidas; los 'cientos colapsadas' en Los Pozos son estimación del alcalde.",
-  "Situación de las comunidades incomunicadas (Tonosí, costa de Mariato) y de las zonas rurales con mayor intensidad.",
-  "Cuándo se restablecerá el agua en la Ciudad de Panamá y la electricidad en el sur de Veraguas.",
-  "Deslizamientos en las zonas montañosas del sur de Azuero y Veraguas (un reporte sin confirmar cerca de El Valle de Antón)."
+  "Decisiones del Gabinete: si se declarará estado de emergencia (necesario para usar el Fondo de Ahorro de Panamá).",
+  "Un conteo consolidado de viviendas dañadas y destruidas; los reportes locales apuntan a varios cientos.",
+  "Número de desplazados y de personas en albergues; muchas familias duermen a la intemperie.",
+  "Cuándo se restablecerán la electricidad, el agua y el acceso vial a Tonosí y a cinco comunidades incomunicadas de Los Santos.",
+  "Alcance de los deslizamientos (reportados en El Valle de Antón y en la vía Cañazas–Altos de Ibalá)."
  ]
 }
