@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-10T11:36:05Z",
+ "generated_utc": "2026-10-10T11:47:02Z",
  "official_latest": {
   "as_of_utc": "2026-10-10T01:00:00Z",
   "deaths": 0,
@@ -11,6 +11,14 @@
   "source_name": "SINAPROC consolidated report (cut-off 20:00 local), reported by La Prensa / EFE",
   "url": "https://prensa.com/sociedad/terremoto-188-escuelas-afectadas-y-danos-en-viviendas-y-hospitales",
   "note": "SINAPROC consolidated report (cut-off 20:00 local, 9 Oct): 0 dead, 0 missing, 27 with minor injuries; 142 homes affected, at least 3 destroyed (Herrera 2, Chiriquí 1); 188 schools, 20 health facilities, 26 government buildings, 13 churches, 7 hotels, 9 bridges and 4 residential buildings affected; ~300 people evacuated from Isla Cañas as a precaution; 8 families sheltered in Coclé (EFE).",
+  "infrastructure": {
+   "schools": 188,
+   "health_facilities": 20,
+   "government_buildings": 26,
+   "bridges": 9,
+   "churches": 13,
+   "hotels": 7
+  },
   "note_es": "Informe consolidado de SINAPROC (corte 20:00 hora local, 9 oct): 0 fallecidos, 0 desaparecidos, 27 lesionados leves; 142 viviendas afectadas, al menos 3 destruidas (Herrera 2, Chiriquí 1); 188 escuelas, 20 instalaciones de salud, 26 edificios gubernamentales, 13 iglesias, 7 hoteles, 9 puentes y 4 edificios residenciales afectados; ~300 personas evacuadas preventivamente de Isla Cañas; 8 familias albergadas en Coclé (EFE)."
  },
  "official_snapshots": [
@@ -64,6 +72,14 @@
    "source_name": "SINAPROC consolidated report (cut-off 20:00 local), reported by La Prensa / EFE",
    "url": "https://prensa.com/sociedad/terremoto-188-escuelas-afectadas-y-danos-en-viviendas-y-hospitales",
    "note": "SINAPROC consolidated report (cut-off 20:00 local, 9 Oct): 0 dead, 0 missing, 27 with minor injuries; 142 homes affected, at least 3 destroyed (Herrera 2, Chiriquí 1); 188 schools, 20 health facilities, 26 government buildings, 13 churches, 7 hotels, 9 bridges and 4 residential buildings affected; ~300 people evacuated from Isla Cañas as a precaution; 8 families sheltered in Coclé (EFE).",
+   "infrastructure": {
+    "schools": 188,
+    "health_facilities": 20,
+    "government_buildings": 26,
+    "bridges": 9,
+    "churches": 13,
+    "hotels": 7
+   },
    "note_es": "Informe consolidado de SINAPROC (corte 20:00 hora local, 9 oct): 0 fallecidos, 0 desaparecidos, 27 lesionados leves; 142 viviendas afectadas, al menos 3 destruidas (Herrera 2, Chiriquí 1); 188 escuelas, 20 instalaciones de salud, 26 edificios gubernamentales, 13 iglesias, 7 hoteles, 9 puentes y 4 edificios residenciales afectados; ~300 personas evacuadas preventivamente de Isla Cañas; 8 familias albergadas en Coclé (EFE)."
   }
  ],

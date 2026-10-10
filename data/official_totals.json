@@ -47,7 +47,15 @@
    "homes_destroyed": 3,
    "source_name": "SINAPROC consolidated report (cut-off 20:00 local), reported by La Prensa / EFE",
    "url": "https://prensa.com/sociedad/terremoto-188-escuelas-afectadas-y-danos-en-viviendas-y-hospitales",
-   "note": "SINAPROC consolidated report (cut-off 20:00 local, 9 Oct): 0 dead, 0 missing, 27 with minor injuries; 142 homes affected, at least 3 destroyed (Herrera 2, Chiriquí 1); 188 schools, 20 health facilities, 26 government buildings, 13 churches, 7 hotels, 9 bridges and 4 residential buildings affected; ~300 people evacuated from Isla Cañas as a precaution; 8 families sheltered in Coclé (EFE)."
+   "note": "SINAPROC consolidated report (cut-off 20:00 local, 9 Oct): 0 dead, 0 missing, 27 with minor injuries; 142 homes affected, at least 3 destroyed (Herrera 2, Chiriquí 1); 188 schools, 20 health facilities, 26 government buildings, 13 churches, 7 hotels, 9 bridges and 4 residential buildings affected; ~300 people evacuated from Isla Cañas as a precaution; 8 families sheltered in Coclé (EFE).",
+   "infrastructure": {
+    "schools": 188,
+    "health_facilities": 20,
+    "government_buildings": 26,
+    "bridges": 9,
+    "churches": 13,
+    "hotels": 7
+   }
   }
  ],
  "conflicts": [

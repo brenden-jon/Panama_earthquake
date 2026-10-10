@@ -33,7 +33,7 @@ const H = () => {                                                  // Spanish hi
   const en = state.highlights, es = state.highlightsEs;
   return isEs() && es && en && es.updated_utc === en.updated_utc ? es : en;
 };
-const FIG_ES = { deaths: "fallecidos", injured: "heridos", missing: "desaparecidos", displaced: "desplazados", homes_damaged: "viviendas dañadas", homes_destroyed: "viviendas destruidas", buildings_collapsed: "edificaciones colapsadas", aftershocks: "réplicas", plant_capacity_pct: "% de capacidad de la planta" };
+const FIG_ES = { deaths: "fallecidos", injured: "heridos", missing: "desaparecidos", displaced: "desplazados", homes_damaged: "viviendas afectadas", homes_destroyed: "viviendas destruidas", buildings_collapsed: "edificaciones colapsadas", aftershocks: "réplicas", plant_capacity_pct: "% de capacidad de la planta" };
 const cssVar = n => getComputedStyle(document.documentElement).getPropertyValue(n).trim();
 const groupColor = g => cssVar(g === "damage" ? "--series-2" : g === "infra" ? "--series-1" : "--series-3");
 
@@ -166,7 +166,7 @@ function renderOverview() {
 
   if (s) {
     const o = s.official_latest || {};
-    const offFields = [["deaths", "deaths"], ["injured", "injured"], ["missing", "missing"], ["displaced", "displaced"], ["homes_damaged", "homes damaged"], ["homes_destroyed", "homes destroyed"]].map(([k, l]) => [k, tl(l, FIG_ES[k])]);
+    const offFields = [["deaths", "deaths"], ["injured", "injured"], ["missing", "missing"], ["displaced", "displaced"], ["homes_damaged", "homes affected"], ["homes_destroyed", "homes destroyed"]].map(([k, l]) => [k, tl(l, FIG_ES[k])]);
     const known = offFields.filter(([k]) => o[k] != null);
     const p = s.pager, e = s.exposure;
     const fatTop = topBin(p.fatality_bins), econTop = topBin(p.economic_bins);
@@ -181,16 +181,21 @@ function renderOverview() {
            <div class="nv nv-pending">${tl("No official casualty figures yet", "Aún no hay cifras oficiales de víctimas")}</div>
            <div class="nl">${tl("Authorities have not published deaths, injured, missing or displaced counts.", "Las autoridades no han publicado cifras de fallecidos, heridos, desaparecidos ni desplazados.")}</div>
            <div class="nf">${tl("Last checked", "Última revisión")} ${localTime(h ? h.updated_utc : o.as_of_utc)}</div></div>`;
-    $("#numbers").innerHTML = official + [
-      { k: "reported", v: fmt(state.reports.length), l: tl("impact reports compiled", "reportes de impacto compilados"), f: tl(`from ${places} places · ${photos} damage photos`, `de ${places} lugares · ${photos} fotos de daños`) },
-      { k: "model", v: binLabel(fatTop, false), l: tl("deaths most likely (estimate)", "fallecidos más probable (estimación)"), f: tl(`USGS PAGER · ${Math.round(fatTop.probability * 100)}% probability`, `USGS PAGER · ${Math.round(fatTop.probability * 100)} % de probabilidad`) },
-      { k: "model", v: "US$" + binLabel(econTop, true), l: tl("economic losses most likely", "pérdidas económicas más probables"), f: tl("USGS PAGER red alert · up to 9% of GDP", "USGS PAGER alerta roja · hasta 9 % del PIB") },
-      { k: "reported", v: fmt(dmgPlaces.size), l: tl("towns with reported building damage", "poblados con daños reportados a edificaciones"), f: `${[...dmgPlaces].slice(0, 4).join(", ")}…` },
+    const INFRA = [["schools", "schools", "escuelas"], ["health_facilities", "health facilities", "instalaciones de salud"], ["government_buildings", "government buildings", "edificios públicos"], ["bridges", "bridges", "puentes"], ["churches", "churches", "iglesias"], ["hotels", "hotels", "hoteles"]];
+    const inf = o.infrastructure || {};
+    const infra = Object.keys(inf).length
+      ? `<div class="num num-official num-wide"><span class="kind kind-official">${t("Official")}</span>
+           <div class="off-grid">${INFRA.filter(([k]) => inf[k] != null).map(([k, en, es]) => `<div><div class="nv">${fmt(inf[k])}</div><div class="nl">${tl(en, es)}</div></div>`).join("")}</div>
+           <div class="nf">${tl("public and other buildings affected", "edificaciones públicas y otras afectadas")} · ${tl("as of", "al")} ${localTime(o.as_of_utc)}</div></div>`
+      : "";
+    const popLoK = fmtK(roundTo(popLo, 10000)), popHiK = fmtK(roundTo(popHi, 10000));
+    $("#numbers").innerHTML = official + infra + [
+      { k: "reported", v: fmt(dmgPlaces.size), l: tl("towns with reported building damage", "poblados con daños reportados a edificaciones"), f: tl(`from ${state.reports.length} reports · ${photos} damage photos`, `de ${state.reports.length} reportes · ${photos} fotos de daños`) },
+      { k: "model", v: `${popLoK}–${popHiK}`, l: tl("people in very strong shaking (MMI VII+)", "personas con sacudida muy fuerte (MMI VII+)"), f: tl("USGS ShakeMap × population (WorldPop / Census 2023)", "ShakeMap del USGS × población (WorldPop / Censo 2023)") },
     ].map(x => `<div class="num num-${x.k}"><span class="kind kind-${x.k}">${x.k === "model" ? t("Estimate") : t("Reported")}</span><div class="nv">${x.v}</div><div class="nl">${x.l}</div><div class="nf">${x.f}</div></div>`).join("");
 
     $("#official-note").innerHTML = o.note ? `<p>${esc(tx(o, "note"))}</p><p class="muted small">${tl("Source:", "Fuente:")} <a href="${esc(o.url)}" target="_blank" rel="noopener">${esc(o.source_name)}</a> · ${localTime(o.as_of_utc)}</p>` : `<p class="muted">${t("No official statement recorded yet.")}</p>`;
     pagerBars("#pager-fat", p.fatality_bins, false);
-    pagerBars("#pager-econ", p.economic_bins, true);
     const c = (isEs() && s.conflicts_es && s.conflicts_es.length === (s.conflicts || []).length ? s.conflicts_es : s.conflicts) || [];
     $("#conflict-box").innerHTML = c.length ? `<ul>${c.map(x => `<li>${esc(x)}</li>`).join("")}</ul>` : `<p class="muted">${t("No conflicting reports noted.")}</p>`;
   }
