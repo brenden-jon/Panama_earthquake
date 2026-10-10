@@ -1,0 +1,160 @@
+{
+ "generated_utc": "2026-10-10T17:03:46Z",
+ "reports": [
+  {
+   "id": "md4_1",
+   "reported_utc": "2026-10-10T16:17:34Z",
+   "place": "Penonomé (Hotel Dos Continentes)",
+   "district": "Penonomé",
+   "province": "Coclé",
+   "lat": 8.5165,
+   "lon": -80.36,
+   "category": "building_damage",
+   "title": "AP: cars crushed under collapsed Hotel Dos Continentes wing",
+   "summary": "AP night photo shows the hotel's upper floors folded down over a row of parked cars in Penonomé.",
+   "title_es": "AP: autos aplastados bajo ala colapsada del Hotel Dos Continentes",
+   "summary_es": "Foto nocturna de AP muestra los pisos superiores del hotel desplomados sobre una fila de autos estacionados en Penonomé.",
+   "image_caption_es": "Pisos del hotel colapsados sobre autos estacionados",
+   "figures": {},
+   "source_name": "AP (Aris Mariota) via KPRC Click2Houston",
+   "source_type": "news",
+   "url": "https://www.click2houston.com/news/world/2026/10/10/unnerved-panamanians-sleep-in-streets-as-aftershocks-rattle-quake-hit-towns/",
+   "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/gmg/2V3RI24ZX5ERFD2MQ6ZVICQTBU.jpg",
+   "confidence": "multiple_sources"
+  },
+  {
+   "id": "md4_2",
+   "reported_utc": "2026-10-10T16:17:34Z",
+   "place": "Penonomé (Hotel Dos Continentes)",
+   "district": "Penonomé",
+   "province": "Coclé",
+   "lat": 8.5165,
+   "lon": -80.36,
+   "category": "building_damage",
+   "title": "AP: white pickup pinned under collapsed hotel facade",
+   "summary": "AP photo shows a white pickup trapped beneath the collapsed front canopy and floors of a building in Penonomé.",
+   "title_es": "AP: camioneta blanca atrapada bajo fachada colapsada",
+   "summary_es": "Foto de AP muestra una camioneta blanca atrapada bajo la marquesina y los pisos colapsados de un edificio en Penonomé.",
+   "image_caption_es": "Camioneta atrapada bajo fachada colapsada en Penonomé",
+   "figures": {},
+   "source_name": "AP (Aris Mariota) via KPRC Click2Houston",
+   "source_type": "news",
+   "url": "https://www.click2houston.com/news/world/2026/10/10/unnerved-panamanians-sleep-in-streets-as-aftershocks-rattle-quake-hit-towns/",
+   "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/gmg/75FCQHAGDBA7RHMDKJATPOKI5U.jpg",
+   "confidence": "multiple_sources"
+  },
+  {
+   "id": "md4_3",
+   "reported_utc": "2026-10-10T16:17:34Z",
+   "place": "Penonomé",
+   "district": "Penonomé",
+   "province": "Coclé",
+   "lat": 8.5189,
+   "lon": -80.3573,
+   "category": "building_damage",
+   "title": "AP: two-storey building gutted, rubble behind police tape",
+   "summary": "AP night photo shows a two-storey building in Penonomé with its front torn away and rubble piled behind cordon tape.",
+   "title_es": "AP: edificio de dos pisos destruido, escombros tras cinta policial",
+   "summary_es": "Foto nocturna de AP muestra un edificio de dos pisos en Penonomé sin su fachada y con escombros tras la cinta de acordonamiento.",
+   "image_caption_es": "Edificio de dos pisos sin fachada y escombros acordonados",
+   "figures": {},
+   "source_name": "AP (Aris Mariota) via KPRC Click2Houston",
+   "source_type": "news",
+   "url": "https://www.click2houston.com/news/world/2026/10/10/unnerved-panamanians-sleep-in-streets-as-aftershocks-rattle-quake-hit-towns/",
+   "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/gmg/IJSYZNPO7VE3FB3PKZ2NVJDJUM.jpg",
+   "confidence": "multiple_sources"
+  },
+  {
+   "id": "md4_4",
+   "reported_utc": "2026-10-10T16:17:34Z",
+   "place": "Penonomé (Simón Bolívar statue)",
+   "district": "Penonomé",
+   "province": "Coclé",
+   "lat": 8.5191,
+   "lon": -80.3577,
+   "category": "building_damage",
+   "title": "AP night photo: Bolívar statue lies at foot of its pedestal",
+   "summary": "AP photo shows the bronze statue knocked off its pedestal lying on the plaza in Penonomé at night.",
+   "title_es": "AP: estatua de Bolívar yace al pie de su pedestal",
+   "summary_es": "Foto de AP muestra la estatua de bronce derribada de su pedestal, tendida en la plaza de Penonomé de noche.",
+   "image_caption_es": "Estatua derribada junto a su pedestal en Penonomé",
+   "figures": {},
+   "source_name": "AP (Aris Mariota) via KPRC Click2Houston",
+   "source_type": "news",
+   "url": "https://www.click2houston.com/news/world/2026/10/10/unnerved-panamanians-sleep-in-streets-as-aftershocks-rattle-quake-hit-towns/",
+   "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/gmg/WU6MNREQAVB6NEXEKDRYZQ754M.jpg",
+   "confidence": "multiple_sources"
+  },
+  {
+   "id": "md4_5",
+   "reported_utc": "2026-10-10T16:17:34Z",
+   "place": "Panama City",
+   "district": "Panamá",
+   "province": "Panamá",
+   "lat": 8.9824,
+   "lon": -79.5199,
+   "category": "response",
+   "title": "AP: office workers wait outside building in Panama City",
+   "summary": "AP photo shows office workers standing and sitting outside a building in Panama City after the quake; Sinaproc said there were no damage reports in the capital.",
+   "title_es": "AP: oficinistas esperan fuera de un edificio en Ciudad de Panamá",
+   "summary_es": "Foto de AP muestra a oficinistas de pie y sentados fuera de un edificio en Ciudad de Panamá tras el sismo; Sinaproc dijo que no había reportes de daños en la capital.",
+   "image_caption_es": "Oficinistas evacuados esperan fuera de un edificio",
+   "figures": {},
+   "source_name": "AP (Alma Solis) via KPRC Click2Houston",
+   "source_type": "news",
+   "url": "https://www.click2houston.com/news/world/2026/10/10/unnerved-panamanians-sleep-in-streets-as-aftershocks-rattle-quake-hit-towns/",
+   "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/gmg/YYMCCK3YWBEZXK5PBTORCPII24.jpg",
+   "confidence": "single_source"
+  },
+  {
+   "id": "md4_6",
+   "reported_utc": "2026-10-10T16:17:34Z",
+   "place": "La Villa de Los Santos",
+   "district": "Los Santos",
+   "province": "Los Santos",
+   "lat": 7.9364,
+   "lon": -80.4167,
+   "category": "displacement",
+   "title": "AP: La Villa residents spend night on streets amid aftershocks",
+   "summary": "AP reports residents of La Villa de Los Santos, where homes and the San Atanasio church collapsed, slept in the streets and await government guidance; aftershocks up to M5.8 recorded.",
+   "title_es": "AP: vecinos de La Villa pasan la noche en la calle por réplicas",
+   "summary_es": "AP informa que vecinos de La Villa de Los Santos, donde colapsaron viviendas y la iglesia San Atanasio, durmieron en la calle y esperan orientación del Gobierno; se registraron réplicas de hasta M5,8.",
+   "image_caption_es": null,
+   "figures": {
+    "max_aftershock_magnitude": 5.8
+   },
+   "source_name": "AP via KPRC Click2Houston",
+   "source_type": "news",
+   "url": "https://www.click2houston.com/news/world/2026/10/10/unnerved-panamanians-sleep-in-streets-as-aftershocks-rattle-quake-hit-towns/",
+   "image_url": null,
+   "confidence": "single_source"
+  }
+ ],
+ "image_review": {
+  "md4_1": {
+   "verdict": "damage",
+   "caption": "Collapsed hotel floors crush row of parked cars",
+   "place_match": true
+  },
+  "md4_2": {
+   "verdict": "damage",
+   "caption": "Pickup pinned beneath collapsed building front",
+   "place_match": true
+  },
+  "md4_3": {
+   "verdict": "damage",
+   "caption": "Two-storey building gutted, rubble behind cordon tape",
+   "place_match": true
+  },
+  "md4_4": {
+   "verdict": "damage",
+   "caption": "Statue toppled beside its pedestal at night",
+   "place_match": true
+  },
+  "md4_5": {
+   "verdict": "event",
+   "caption": "Evacuated office workers wait outside building",
+   "place_match": true
+  }
+ }
+}

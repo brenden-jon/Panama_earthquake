@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-10T12:26:22Z",
+ "generated_utc": "2026-10-10T17:03:50Z",
  "official_latest": {
   "as_of_utc": "2026-10-10T01:00:00Z",
   "deaths": 0,
@@ -256,8 +256,8 @@
    ]
   }
  },
- "reports_count": 325,
- "reports_with_images": 156,
+ "reports_count": 331,
+ "reports_with_images": 161,
  "places_with_damage": [
   "Aguadulce",
   "Aguadulce (municipal market)",
