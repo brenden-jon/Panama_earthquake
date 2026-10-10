@@ -1,13 +1,13 @@
 {
- "updated_utc": "2026-10-09T23:35:00Z",
- "headline": "A shallow M7.7 earthquake struck the Azuero Peninsula at 12:56 local time. SINAPROC's first official communiqué reports no deaths, no missing persons and some injured, with damage across six provinces.",
+ "updated_utc": "2026-10-10T01:05:00Z",
+ "headline": "A shallow M7.7 earthquake struck the Azuero Peninsula at 12:56 local time on 9 October. Officially no deaths or missing persons; damage is reported across seven provinces, with hundreds of homes collapsed in Los Pozos according to its mayor.",
  "key_points": [
-  "Official (SINAPROC Communiqué No. 1): no deaths, no missing persons; some injured, incl. 15 students with minor injuries in Coclé.",
-  "Worst documented damage: Penonomé (partial hotel collapse, churches, facades) and southern Azuero (homes collapsed in Los Santos).",
-  "Fire stations damaged in six provinces; much of the Soná station collapsed, trapping emergency vehicles.",
-  "Water treatment plants damaged nationwide; Chilibre plant serving Panama City at 20% capacity.",
-  "Damage also reported in Chiriquí, the Pearl Islands and Darién; Tonosí and Pedasí hospitals lightly damaged.",
-  "Strong aftershocks continue: more than 95 recorded nationally (Instituto de Geociencias via media), largest M6.6 (USGS; M6.9 per IGC) near Coiba."
+  "Official (SINAPROC): no deaths, no missing persons; some injured, incl. 15 students with minor injuries in Coclé.",
+  "Los Pozos (Herrera): mayor reports hundreds of homes collapsed in 5 of 9 corregimientos; parish church ~70% destroyed.",
+  "Tonosí cut off by road; four people rescued from a hotel. Mariato communities cut off after road ruptures.",
+  "Penonomé: hotel, cathedral, Gobernación, churches and colonial houses damaged; Bolívar statue toppled.",
+  "Hospitals evacuated in San Félix (~209 people), Penonomé, Santiago and Las Tablas; 188 schools damaged nationwide (MEDUCA).",
+  "Water plants damaged nationwide (Chilibre at 20%); 95+ aftershocks, largest M6.6 near Coiba."
  ],
  "areas": [
   {
@@ -18,7 +18,7 @@
   {
    "area": "Tonosí / Cambutal, Los Santos",
    "status": "severe",
-   "text": "Described as the most affected area by Telemetro; partial collapse of a hotel and adjoining houses; road damage. Closest towns to the epicentre; strongest modelled shaking (MMI VIII–IX)."
+   "text": "Town cut off by road; four people rescued from a hotel, one woman with a broken arm (EFE). Homes collapsed; minor hospital damage. Strongest modelled shaking (MMI VIII–IX)."
   },
   {
    "area": "Pedasí / Playa Venao, Los Santos",
@@ -41,9 +41,9 @@
    "text": "Part of the Basílica Menor tower collapsed."
   },
   {
-   "area": "Chitré, Los Pozos, Las Minas & La Villa, Herrera/Los Santos",
-   "status": "reported",
-   "text": "SINAPROC reports damage in Chitré (no details); cracked homes in Las Minas; in La Villa de Los Santos the San Atanasio church bell tower cracked and the Museo de la Nacionalidad roof and stairs were damaged. Few images yet — information gap."
+   "area": "Los Pozos, Las Minas, Ocú & Chitré, Herrera",
+   "status": "severe",
+   "text": "Los Pozos mayor: hundreds of homes collapsed in 5 of 9 corregimientos; parish church ~70% destroyed; schools and roads damaged. Cracked homes in Las Minas; classroom ceiling collapse in Ocú; damage in Chitré."
   },
   {
    "area": "Aguadulce, Coclé",
@@ -62,8 +62,8 @@
   },
   {
    "area": "Chiriquí, Pearl Islands & Darién",
-   "status": "moderate",
-   "text": "Light damage to homes and businesses and to several schools in Chiriquí; cracks at the David fire station; shops and homes affected in the Pearl Islands; minor damage to a school in Darién (SINAPROC)."
+   "status": "significant",
+   "text": "Hospital del Oriente Chiricano (San Félix) fully evacuated, ~209 people (MINSA); damage at Puerto Armuelles hospital and Tolé health centre; cracked hotel facade and fire station in David; 15+ schools damaged. Shops and homes affected in the Pearl Islands; minor school damage in Darién."
   }
  ],
  "services": [
@@ -128,12 +128,12 @@
    "source": "Telemetro live"
   }
  ],
- "upcoming": "Further official communiqués from SINAPROC / Ministry of Government expected; figures will be updated as they are published.",
+ "upcoming": "President Mulino is expected to visit Tonosí on 10 October; further SINAPROC communiqués expected.",
  "unknowns": [
-  "Total number of injured — SINAPROC reports 'some people injured' without a national count.",
-  "How many homes are damaged or destroyed; Los Santos reports collapsed homes but no figures yet.",
-  "Damage in the hardest-shaken rural areas (Tonosí, Macaracas, Las Minas, Los Pozos), where reporting is limited.",
-  "Extent of damage to water treatment plants and when supply in Panama City will be restored.",
-  "Landslides in the hills of southern Azuero and Veraguas (modelled risk is high)."
+  "Total injured and number of displaced people — no national figures yet.",
+  "Confirmed count of damaged and destroyed homes; Los Pozos 'hundreds collapsed' is the mayor's estimate.",
+  "Situation in cut-off communities (Tonosí, Mariato coast) and the hardest-shaken rural areas.",
+  "When water supply in Panama City and power in southern Veraguas will be restored.",
+  "Landslides in the hills of southern Azuero and Veraguas (one unconfirmed report near El Valle de Antón)."
  ]
 }

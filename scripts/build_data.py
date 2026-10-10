@@ -53,6 +53,10 @@ def place_es(place):
     return out if out != place else None
 
 
+# Image hosts we do not hot-link (licensed previews / expiring signed links); the report stays, without its photo.
+NO_HOTLINK = ("gettyimages.", "gettyimages.com", "istockphoto.")
+
+
 def read_batch(f):
     """A report batch may be mid-write by a running search agent; skip it rather than fail the build."""
     try:
@@ -91,6 +95,9 @@ def load_reports():
             for k, val in tr.get(r["id"], {}).items():  # Spanish title / summary / image_caption
                 if val:
                     r[k + "_es"] = val
+            if r.get("image_url") and any(h in r["image_url"] for h in NO_HOTLINK):
+                r["image_url"] = None
+                r["image_withheld"] = "licensed image (not shown)"
             pe = place_es(r.get("place") or "")
             if pe:
                 r["place_es"] = pe

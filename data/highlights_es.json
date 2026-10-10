@@ -1,13 +1,13 @@
 {
- "updated_utc": "2026-10-09T23:35:00Z",
- "headline": "Un sismo superficial de magnitud 7,7 sacudió la península de Azuero a las 12:56 hora local. El primer comunicado oficial de SINAPROC reporta cero fallecidos, ningún desaparecido y algunos lesionados, con daños en seis provincias.",
+ "updated_utc": "2026-10-10T01:05:00Z",
+ "headline": "Un sismo superficial de magnitud 7,7 sacudió la península de Azuero a las 12:56 hora local del 9 de octubre. Oficialmente no hay fallecidos ni desaparecidos; se reportan daños en siete provincias, con cientos de viviendas colapsadas en Los Pozos según su alcalde.",
  "key_points": [
-  "Oficial (Comunicado N° 1 de SINAPROC): sin fallecidos ni desaparecidos; algunos lesionados, incl. 15 estudiantes con lesiones menores en Coclé.",
-  "Daños más graves documentados: Penonomé (colapso parcial de hotel, iglesias, fachadas) y sur de Azuero (viviendas colapsadas en Los Santos).",
-  "Estaciones de bomberos dañadas en seis provincias; gran parte de la de Soná colapsó, atrapando vehículos de emergencia.",
-  "Plantas potabilizadoras dañadas en todo el país; la planta de Chilibre, que abastece a la capital, opera al 20 %.",
-  "También se reportan daños en Chiriquí, el Archipiélago de las Perlas y Darién; hospitales de Tonosí y Pedasí con afectaciones leves.",
-  "Continúan réplicas fuertes: más de 95 registradas a nivel nacional (Instituto de Geociencias vía medios), la mayor M6,6 (USGS; M6,9 según el IGC) cerca de Coiba."
+  "Oficial (SINAPROC): sin fallecidos ni desaparecidos; algunos lesionados, incl. 15 estudiantes con lesiones menores en Coclé.",
+  "Los Pozos (Herrera): el alcalde reporta cientos de viviendas colapsadas en 5 de 9 corregimientos; iglesia parroquial ~70 % destruida.",
+  "Tonosí incomunicado por carretera; cuatro personas rescatadas de un hotel. Comunidades de Mariato aisladas por rupturas viales.",
+  "Penonomé: hotel, catedral, Gobernación, iglesias y casas coloniales dañadas; estatua de Bolívar derribada.",
+  "Hospitales evacuados en San Félix (~209 personas), Penonomé, Santiago y Las Tablas; 188 escuelas dañadas en el país (MEDUCA).",
+  "Potabilizadoras dañadas en todo el país (Chilibre al 20 %); más de 95 réplicas, la mayor M6,6 cerca de Coiba."
  ],
  "areas": [
   {
@@ -18,7 +18,7 @@
   {
    "area": "Tonosí / Cambutal, Los Santos",
    "status": "severe",
-   "text": "Telemetro la describe como la zona más afectada; colapso parcial de un hotel y viviendas contiguas; daños en vías. Son los poblados más cercanos al epicentro, con el movimiento modelado más fuerte (MMI VIII–IX)."
+   "text": "Poblado incomunicado por carretera; cuatro personas rescatadas de un hotel, una mujer con un brazo fracturado (EFE). Viviendas colapsadas; afectaciones menores en el hospital. Mayor intensidad modelada (MMI VIII–IX)."
   },
   {
    "area": "Pedasí / Playa Venao, Los Santos",
@@ -41,9 +41,9 @@
    "text": "Colapsó parte de la torre de la Basílica Menor."
   },
   {
-   "area": "Chitré, Los Pozos, Las Minas y La Villa, Herrera/Los Santos",
-   "status": "reported",
-   "text": "El SINAPROC reporta daños en Chitré (sin detalles); viviendas agrietadas en Las Minas; en La Villa de Los Santos se agrietó el campanario de la iglesia San Atanasio y sufrieron daños el techo y la escalinata del Museo de la Nacionalidad. Aún hay pocas imágenes: vacío de información."
+   "area": "Los Pozos, Las Minas, Ocú y Chitré, Herrera",
+   "status": "severe",
+   "text": "Alcalde de Los Pozos: cientos de viviendas colapsadas en 5 de 9 corregimientos; iglesia parroquial ~70 % destruida; escuelas y vías dañadas. Viviendas agrietadas en Las Minas; colapso de cielorraso en aula de Ocú; daños en Chitré."
   },
   {
    "area": "Aguadulce, Coclé",
@@ -62,8 +62,8 @@
   },
   {
    "area": "Chiriquí, Archipiélago de las Perlas y Darién",
-   "status": "moderate",
-   "text": "Daños leves en viviendas, comercios y varias escuelas de Chiriquí; rajaduras en la estación de bomberos de David; comercios y viviendas afectados en el Archipiélago de las Perlas; afectaciones menores en una escuela de Darién (SINAPROC)."
+   "status": "significant",
+   "text": "Hospital del Oriente Chiricano (San Félix) evacuado por completo, ~209 personas (MINSA); daños en el hospital de Puerto Armuelles y el centro de salud de Tolé; fachada de hotel y estación de bomberos agrietadas en David; más de 15 escuelas dañadas. Comercios y viviendas afectados en el Archipiélago de las Perlas; afectaciones menores en una escuela de Darién."
   }
  ],
  "services": [
@@ -128,12 +128,12 @@
    "source": "Telemetro en vivo"
   }
  ],
- "upcoming": "Se esperan nuevos comunicados oficiales de SINAPROC / Ministerio de Gobierno; las cifras se actualizarán a medida que se publiquen.",
+ "upcoming": "Se espera que el presidente Mulino visite Tonosí el 10 de octubre; se esperan nuevos comunicados de SINAPROC.",
  "unknowns": [
-  "Número total de lesionados: SINAPROC informa 'algunas personas lesionadas' sin cifra nacional.",
-  "Cuántas viviendas están dañadas o destruidas; Los Santos reporta viviendas colapsadas, aún sin cifras.",
-  "Daños en las zonas rurales con mayor intensidad (Tonosí, Macaracas, Las Minas, Los Pozos), con información limitada.",
-  "Alcance de los daños en las potabilizadoras y cuándo se restablecerá el suministro en la Ciudad de Panamá.",
-  "Deslizamientos en las zonas montañosas del sur de Azuero y Veraguas (riesgo modelado alto)."
+  "Total de lesionados y de personas desplazadas: aún no hay cifras nacionales.",
+  "Conteo confirmado de viviendas dañadas y destruidas; los 'cientos colapsadas' en Los Pozos son estimación del alcalde.",
+  "Situación de las comunidades incomunicadas (Tonosí, costa de Mariato) y de las zonas rurales con mayor intensidad.",
+  "Cuándo se restablecerá el agua en la Ciudad de Panamá y la electricidad en el sur de Veraguas.",
+  "Deslizamientos en las zonas montañosas del sur de Azuero y Veraguas (un reporte sin confirmar cerca de El Valle de Antón)."
  ]
 }
