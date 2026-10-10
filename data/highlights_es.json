@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-10-10T01:05:00Z",
+ "updated_utc": "2026-10-10T01:40:00Z",
  "headline": "Un sismo superficial de magnitud 7,7 sacudió la península de Azuero a las 12:56 hora local del 9 de octubre. Oficialmente no hay fallecidos ni desaparecidos; se reportan daños en siete provincias, con cientos de viviendas colapsadas en Los Pozos según su alcalde.",
  "key_points": [
   "Oficial (SINAPROC): sin fallecidos ni desaparecidos; algunos lesionados, incl. 15 estudiantes con lesiones menores en Coclé.",
@@ -7,7 +7,7 @@
   "Tonosí incomunicado por carretera; cuatro personas rescatadas de un hotel. Comunidades de Mariato aisladas por rupturas viales.",
   "Penonomé: hotel, catedral, Gobernación, iglesias y casas coloniales dañadas; estatua de Bolívar derribada.",
   "Hospitales evacuados en San Félix (~209 personas), Penonomé, Santiago y Las Tablas; 188 escuelas dañadas en el país (MEDUCA).",
-  "Potabilizadoras dañadas en todo el país (Chilibre al 20 %); más de 95 réplicas, la mayor M6,6 cerca de Coiba."
+  "Agua: potabilizadoras dañadas en todo el país; Chilibre recuperada al 70 % (IDAAN). Hemodiálisis suspendida a nivel nacional. Más de 95 réplicas, la mayor M6,6."
  ],
  "areas": [
   {
@@ -76,8 +76,8 @@
   {
    "sector": "Agua",
    "status": "disrupted",
-   "text": "Plantas potabilizadoras dañadas en todo el país (IDAAN); la planta de Chilibre, que abastece a la mayor parte de la Ciudad de Panamá y San Miguelito, opera al 20 %.",
-   "source": "IDAAN vía Comunicado N° 1 de SINAPROC"
+   "text": "Potabilizadoras dañadas en todo el país; Chilibre (mayor parte de la Ciudad de Panamá y San Miguelito) se recupera al 70 % tras caer al 20 %. La CSS suspendió la hemodiálisis a nivel nacional por falta de agua; tanques de Monte Esperanza (Colón) dañados pero bombeando.",
+   "source": "IDAAN, ACP, CSS vía medios"
   },
   {
    "sector": "Telecomunicaciones",

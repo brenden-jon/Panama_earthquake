@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-10T00:42:33Z",
+ "generated_utc": "2026-10-10T00:52:31Z",
  "official_latest": {
   "as_of_utc": "2026-10-09T22:58:00Z",
   "deaths": 0,
@@ -227,8 +227,8 @@
    ]
   }
  },
- "reports_count": 257,
- "reports_with_images": 131,
+ "reports_count": 253,
+ "reports_with_images": 124,
  "places_with_damage": [
   "Aguadulce",
   "Aguadulce (municipal market)",
@@ -289,6 +289,7 @@
   "Penonomé (Iglesia San Isidro Labrador)",
   "Penonomé (Mercado Público)",
   "Penonomé (Simón Bolívar statue)",
+  "Penonomé (collapsed red-roofed building)",
   "Penonomé (commercial building)",
   "Penonomé (fire station 1)",
   "Penonomé (town centre)",
@@ -305,10 +306,8 @@
   "Soná (Cementerio Municipal)",
   "Soná (Estación de Bomberos Mayor Alberto Martinelli)",
   "Soná (Extensión Universitaria de la Universidad de Panamá)",
-  "Soná (Extensión Universitaria, Universidad de Panamá)",
   "Soná (Martinelli residence)",
   "Soná (fire station)",
-  "Tonosí",
-  "Tonosí (hotel de Kiki)"
+  "Tonosí"
  ]
 }

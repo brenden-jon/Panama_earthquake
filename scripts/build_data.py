@@ -108,6 +108,13 @@ def load_reports():
                     r["image_url"] = None
             out.append(r)
     out.sort(key=lambda r: r.get("reported_utc") or r.get("added_utc") or "", reverse=True)
+    seen_img = set()  # the same photo reported by two outlets: show it once (on the newest report)
+    for r in out:
+        if r.get("image_url"):
+            if r["image_url"] in seen_img:
+                r["image_url"] = None
+            else:
+                seen_img.add(r["image_url"])
     return out
 
 

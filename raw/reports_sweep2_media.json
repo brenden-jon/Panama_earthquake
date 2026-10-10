@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-10T00:41:00Z",
+ "generated_utc": "2026-10-10T00:50:01Z",
  "reports": [
   {
    "id": "media_1",
@@ -20,27 +20,6 @@
    "source_type": "news",
    "url": "https://www.infobae.com/panama/fotos/2026/10/09/las-primeras-imagenes-del-potente-terremoto-en-panama/",
    "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/6CZJNLFDAJFAPBDFLXKV3WSRTM.png",
-   "confidence": "multiple_sources"
-  },
-  {
-   "id": "media_2",
-   "reported_utc": "2026-10-09T19:49:47Z",
-   "place": "Penonomé (Hotel Dos Continentes)",
-   "district": "Penonomé",
-   "province": "Coclé",
-   "lat": 8.5205,
-   "lon": -80.3596,
-   "category": "building_damage",
-   "title": "Crowd watches partially collapsed hotel in Penonomé",
-   "summary": "Infobae gallery photo shows a multi-storey hotel in Penonomé with collapsed lower floors and pancaked balconies while a crowd gathers on the street.",
-   "title_es": "Multitud observa hotel parcialmente colapsado en Penonomé",
-   "summary_es": "Foto de la galería de Infobae muestra un hotel de varios pisos en Penonomé con los niveles inferiores colapsados y balcones aplastados, mientras una multitud se aglomera en la calle.",
-   "image_caption_es": "Hotel de varios pisos con niveles inferiores colapsados en Penonomé",
-   "figures": {},
-   "source_name": "Infobae (courtesy social media)",
-   "source_type": "news",
-   "url": "https://www.infobae.com/panama/fotos/2026/10/09/las-primeras-imagenes-del-potente-terremoto-en-panama/",
-   "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/22NFIJJ3MRBZBFQ4CY5W4XAAII.jpg",
    "confidence": "multiple_sources"
   },
   {
@@ -170,27 +149,6 @@
    "confidence": "single_source"
   },
   {
-   "id": "media_9",
-   "reported_utc": "2026-10-09T19:09:47Z",
-   "place": "Penonomé (Hotel Dos Continentes)",
-   "district": "Penonomé",
-   "province": "Coclé",
-   "lat": 8.5205,
-   "lon": -80.3596,
-   "category": "building_damage",
-   "title": "Ground-floor rooms crushed at Hotel 2 Continentes (video)",
-   "summary": "User video still shows the collapsed ground-floor rooms of Hotel 2 Continentes in Penonomé, with ceiling panels and the upper slab resting on furniture.",
-   "title_es": "Habitaciones de planta baja aplastadas en el Hotel 2 Continentes (video)",
-   "summary_es": "Captura de video de un usuario muestra las habitaciones de planta baja colapsadas del Hotel 2 Continentes en Penonomé, con paneles de cielo raso y la losa superior sobre los muebles.",
-   "image_caption_es": "Habitaciones de planta baja aplastadas, Hotel 2 Continentes",
-   "figures": {},
-   "source_name": "X @Skrying",
-   "source_type": "social",
-   "url": "https://x.com/Skrying/status/2108636059059802517",
-   "image_url": "https://pbs.twimg.com/amplify_video_thumb/2108636049752690688/img/d_nhplDbZZroT6Xb.jpg",
-   "confidence": "multiple_sources"
-  },
-  {
    "id": "media_10",
    "reported_utc": "2026-10-09T19:11:49Z",
    "place": "Los Pozos (church)",
@@ -231,90 +189,6 @@
    "url": "https://x.com/varelapopi/status/2108671298746417228",
    "image_url": null,
    "confidence": "single_source"
-  },
-  {
-   "id": "media_12",
-   "reported_utc": "2026-10-09T22:41:58Z",
-   "place": "Penonomé",
-   "district": "Penonomé",
-   "province": "Coclé",
-   "lat": 8.5205,
-   "lon": -80.3596,
-   "category": "injuries",
-   "title": "Mulino visits Penonomé as injured woman treated in field tent",
-   "summary": "President Mulino posted video from Penonomé showing an injured woman on a stretcher receiving IV treatment at an outdoor triage tent while he coordinates aid.",
-   "title_es": "Mulino recorre Penonomé mientras atienden a una herida en carpa de campaña",
-   "summary_es": "El presidente Mulino publicó un video desde Penonomé en el que se ve a una mujer herida en camilla recibiendo suero en una carpa de atención al aire libre mientras coordina la ayuda.",
-   "image_caption_es": "Mujer herida en camilla atendida en carpa, Penonomé",
-   "figures": {},
-   "source_name": "X @JoseRaulMulino",
-   "source_type": "official",
-   "url": "https://x.com/JoseRaulMulino/status/2108689456819507288",
-   "image_url": "https://pbs.twimg.com/amplify_video_thumb/2108689425777467392/img/b4aIGYhunP68bZDZ.jpg",
-   "confidence": "official"
-  },
-  {
-   "id": "media_13",
-   "reported_utc": "2026-10-10T00:08:01Z",
-   "place": "Penonomé (Gobernación de Coclé)",
-   "district": "Penonomé",
-   "province": "Coclé",
-   "lat": 8.5205,
-   "lon": -80.3596,
-   "category": "building_damage",
-   "title": "Rescuer walks over rubble of collapsed Gobernación wing, Penonomé (EFE)",
-   "summary": "EFE photo shows a rescuer in a helmet climbing over a large rubble pile in front of the gutted, partly collapsed Coclé Gobernación building in Penonomé, its interior exposed.",
-   "title_es": "Socorrista camina sobre escombros del ala colapsada de la Gobernación, Penonomé (EFE)",
-   "summary_es": "Foto de EFE muestra a un socorrista con casco sobre una gran pila de escombros frente al edificio de la Gobernación de Coclé en Penonomé, parcialmente colapsado y con su interior expuesto.",
-   "image_caption_es": "Socorrista sobre escombros de la Gobernación de Coclé en Penonomé",
-   "figures": {},
-   "source_name": "EFE via El Financiero",
-   "source_type": "news",
-   "url": "https://www.elfinanciero.com.mx/mundo/2026/10/09/fotos-terremoto-de-77-en-panama-colapsa-edificios-y-deja-carreteras-danadas/",
-   "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/XBZBG4WLPBBXFJ4RRBBJCPOTFI.jpg",
-   "confidence": "multiple_sources"
-  },
-  {
-   "id": "media_14",
-   "reported_utc": "2026-10-10T00:08:01Z",
-   "place": "Penonomé (Catedral San Juan Bautista)",
-   "district": "Penonomé",
-   "province": "Coclé",
-   "lat": 8.5205,
-   "lon": -80.3596,
-   "category": "building_damage",
-   "title": "Rubble and crushed pickup beside Penonomé cathedral (EFE)",
-   "summary": "EFE photo shows a rescuer walking among scattered masonry beside the side of Penonomé cathedral, where a collapsed roof section buried a white pickup; area cordoned off.",
-   "title_es": "Escombros y camioneta aplastada junto a la catedral de Penonomé (EFE)",
-   "summary_es": "Foto de EFE muestra a un socorrista entre mampostería regada junto al costado de la catedral de Penonomé, donde una sección de techo colapsada sepultó una camioneta blanca; el área está acordonada.",
-   "image_caption_es": "Escombros y camioneta aplastada junto a la catedral de Penonomé",
-   "figures": {},
-   "source_name": "EFE via El Financiero",
-   "source_type": "news",
-   "url": "https://www.elfinanciero.com.mx/mundo/2026/10/09/fotos-terremoto-de-77-en-panama-colapsa-edificios-y-deja-carreteras-danadas/",
-   "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/IYVROCNVD5BAXC3SUFOBACRURQ.jpg",
-   "confidence": "multiple_sources"
-  },
-  {
-   "id": "media_15",
-   "reported_utc": "2026-10-10T00:08:01Z",
-   "place": "Penonomé (Gobernación de Coclé)",
-   "district": "Penonomé",
-   "province": "Coclé",
-   "lat": 8.5205,
-   "lon": -80.3596,
-   "category": "building_damage",
-   "title": "Sinaproc cordons off gutted Gobernación building in Penonomé (EFE)",
-   "summary": "EFE photo shows rescuers stringing Sinaproc \"no pase\" tape in front of the Coclé Gobernación building, whose corner bays have collapsed exposing offices and flags inside.",
-   "title_es": "Sinaproc acordona el edificio destruido de la Gobernación en Penonomé (EFE)",
-   "summary_es": "Foto de EFE muestra a socorristas colocando cinta de \"no pase\" de Sinaproc frente al edificio de la Gobernación de Coclé, cuyas esquinas colapsaron dejando expuestas oficinas y banderas.",
-   "image_caption_es": "Socorristas acordonan la Gobernación de Coclé, Penonomé",
-   "figures": {},
-   "source_name": "EFE via El Financiero",
-   "source_type": "news",
-   "url": "https://www.elfinanciero.com.mx/mundo/2026/10/09/fotos-terremoto-de-77-en-panama-colapsa-edificios-y-deja-carreteras-danadas/",
-   "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/ZO3RJSMCUNBSRGEB6FLU6XUEJA.jpg",
-   "confidence": "multiple_sources"
   },
   {
    "id": "media_16",
@@ -527,48 +401,6 @@
    "confidence": "multiple_sources"
   },
   {
-   "id": "media_26",
-   "reported_utc": "2026-10-09T21:51:49Z",
-   "place": "Penonomé (commercial building)",
-   "district": "Penonomé",
-   "province": "Coclé",
-   "lat": 8.5205,
-   "lon": -80.3596,
-   "category": "building_damage",
-   "title": "Shattered upper-floor windows on Penonomé commercial block",
-   "summary": "La Prensa photo shows a two-storey commercial building in Penonomé (Casa Chang/Distribuidora Casa Isaac) with blown-out upper-floor windows and debris on the forecourt, shutters closed.",
-   "title_es": "Ventanas destrozadas en edificio comercial de Penonomé",
-   "summary_es": "Foto de La Prensa muestra un edificio comercial de dos pisos en Penonomé (Casa Chang/Distribuidora Casa Isaac) con las ventanas del piso superior reventadas y escombros en la entrada, con las cortinas cerradas.",
-   "image_caption_es": "Edificio comercial con ventanas superiores rotas en Penonomé",
-   "figures": {},
-   "source_name": "La Prensa",
-   "source_type": "news",
-   "url": "https://www.prensa.com/sociedad/terremoto-en-panama-balance-preliminar-de-danos-y-afectaciones/",
-   "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/corprensa/LR53RN6PQBF47BQ3DUF64BAMAM.jpg",
-   "confidence": "single_source"
-  },
-  {
-   "id": "media_27",
-   "reported_utc": "2026-10-09T21:51:49Z",
-   "place": "Soná (Extensión Universitaria, Universidad de Panamá)",
-   "district": "Soná",
-   "province": "Veraguas",
-   "lat": 7.8777,
-   "lon": -81.3562,
-   "category": "building_damage",
-   "title": "Parapet and sign damaged at University of Panama campus in Soná",
-   "summary": "La Prensa photo shows the University of Panama extension building in Soná with roof-edge panels missing and sign letters displaced along the top of the facade.",
-   "title_es": "Daños en parapeto y letrero de la extensión universitaria de Soná",
-   "summary_es": "Foto de La Prensa muestra el edificio de la Extensión Universitaria de la Universidad de Panamá en Soná con paneles del borde del techo desprendidos y letras del rótulo desplazadas en lo alto de la fachada.",
-   "image_caption_es": "Parapeto y letrero dañados en la extensión universitaria de Soná",
-   "figures": {},
-   "source_name": "La Prensa",
-   "source_type": "news",
-   "url": "https://www.prensa.com/sociedad/terremoto-en-panama-balance-preliminar-de-danos-y-afectaciones/",
-   "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/corprensa/XFYIJXL5YZA2TAY4DS32GDQZOI.jpg",
-   "confidence": "single_source"
-  },
-  {
    "id": "media_28",
    "reported_utc": "2026-10-09T23:03:47Z",
    "place": "Soná (Estación de Bomberos Mayor Alberto Martinelli)",
@@ -650,30 +482,6 @@
    "source_type": "news",
    "url": "https://www.infobae.com/panama/fotos/2026/10/09/las-primeras-imagenes-del-potente-terremoto-en-panama/",
    "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/GMIS6FPOCNAUBHNSLXWRPGBI3Q.png",
-   "confidence": "single_source"
-  },
-  {
-   "id": "media_32",
-   "reported_utc": "2026-10-09T23:50:20Z",
-   "place": "Tonosí (hotel de Kiki)",
-   "district": "Tonosí",
-   "province": "Los Santos",
-   "lat": 7.3954,
-   "lon": -80.5089,
-   "category": "injuries",
-   "title": "Four rescued from overturned hotel in Tonosí; woman breaks arm",
-   "summary": "A Tonosí resident told EFE that houses collapsed and \"Kiki's hotel\" toppled; four people trapped in the hotel were rescued by firefighters with bruises, and a woman broke her arm. Many houses are cracked.",
-   "title_es": "Rescatan a cuatro personas de hotel volcado en Tonosí; señora se fractura un brazo",
-   "summary_es": "Un residente de Tonosí dijo a EFE que se derrumbaron casas y que el \"hotel de Kiki\" se volteó; cuatro personas atrapadas en el hotel fueron rescatadas por los bomberos con golpes, y una señora se fracturó un brazo. Muchas casas quedaron rajadas.",
-   "image_caption_es": null,
-   "figures": {
-    "trapped_rescued": 4,
-    "injured_fracture": 1
-   },
-   "source_name": "EFE via La Prensa",
-   "source_type": "news",
-   "url": "https://www.prensa.com/sociedad/hay-miedo-en-tonosi-el-epicentro-del-terremoto-de-75-que-sacudio-panama/",
-   "image_url": null,
    "confidence": "single_source"
   },
   {
@@ -763,17 +571,77 @@
    "url": "https://www.midiario.com/nacionales/mas-de-188-centros-educativos-afectados-por-el-sismo-y-se-evalua-la-continuidad-de-clases-a-nivel-nacional/",
    "image_url": null,
    "confidence": "official"
+  },
+  {
+   "id": "media_37",
+   "reported_utc": "2026-10-09T23:49:24Z",
+   "place": "Penonomé (Hospital Aquilino Tejeira)",
+   "district": "Penonomé",
+   "province": "Coclé",
+   "lat": 8.5205,
+   "lon": -80.3596,
+   "category": "response",
+   "title": "Aquilino Tejeira hospital patients treated in the street, Penonomé (EFE)",
+   "summary": "EFE photo shows patients on hospital beds with IV drips being treated under tents in the street outside Hospital Aquilino Tejeira in Penonomé after the building was evacuated.",
+   "title_es": "Pacientes del hospital Aquilino Tejeira atendidos en la calle, Penonomé (EFE)",
+   "summary_es": "Foto de EFE muestra a pacientes en camas con suero atendidos bajo carpas en la calle frente al Hospital Aquilino Tejeira de Penonomé, tras la evacuación del edificio.",
+   "image_caption_es": "Pacientes en camas con suero atendidos en la calle, Penonomé",
+   "figures": {},
+   "source_name": "EFE via Infobae",
+   "source_type": "news",
+   "url": "https://www.infobae.com/panama/2026/10/09/pacientes-de-hospital-en-panama-son-atendidos-en-la-calle-tras-fuerte-terremoto-que-genero-danos-estructurales/",
+   "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/XERHH2EDINDPLOVK36B2SZKCIM.jpg",
+   "confidence": "multiple_sources"
+  },
+  {
+   "id": "media_38",
+   "reported_utc": "2026-10-09T23:49:24Z",
+   "place": "Penonomé (collapsed red-roofed building)",
+   "district": "Penonomé",
+   "province": "Coclé",
+   "lat": 8.5205,
+   "lon": -80.3596,
+   "category": "building_damage",
+   "title": "Man walks past collapsed red-roofed building in Penonomé (EFE)",
+   "summary": "EFE photo in Infobae shows a shocked man walking along a debris-strewn street past a collapsed building with a red tin roof in Penonomé.",
+   "title_es": "Hombre camina frente a edificio de techo rojo colapsado en Penonomé (EFE)",
+   "summary_es": "Foto de EFE en Infobae muestra a un hombre conmocionado caminando por una calle llena de escombros frente a un edificio de techo rojo de zinc colapsado en Penonomé.",
+   "image_caption_es": "Hombre frente a edificio colapsado de techo rojo en Penonomé",
+   "figures": {},
+   "source_name": "EFE via Infobae",
+   "source_type": "news",
+   "url": "https://www.infobae.com/panama/2026/10/09/pacientes-de-hospital-en-panama-son-atendidos-en-la-calle-tras-fuerte-terremoto-que-genero-danos-estructurales/",
+   "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/LS7JQTOBSNE7JHFM4NVPHULTXI.jpg",
+   "confidence": "single_source"
+  },
+  {
+   "id": "media_39",
+   "reported_utc": "2026-10-09T22:40:47Z",
+   "place": "Isla Cañas",
+   "district": "Tonosí",
+   "province": "Los Santos",
+   "lat": 7.404,
+   "lon": -80.3264,
+   "category": "tsunami",
+   "title": "Anomalous waves enter coastal homes on Isla Cañas",
+   "summary": "Geosciences Institute director Néstor Luque said anomalous waves had already entered homes very close to the shore on Isla Cañas; waves of 1–3 m were possible there and in southern Los Santos. Photo shows boats off the island.",
+   "title_es": "Oleaje anómalo entra en viviendas costeras de Isla Cañas",
+   "summary_es": "El director del Instituto de Geociencias, Néstor Luque, dijo que el oleaje anómalo ya penetró en viviendas muy cerca de la costa en Isla Cañas; se esperaban olas de 1 a 3 m allí y en el sur de Los Santos. La foto muestra embarcaciones frente a la isla.",
+   "image_caption_es": "Embarcaciones frente a la costa de Isla Cañas",
+   "figures": {
+    "wave_height_m_max_forecast": 3
+   },
+   "source_name": "Infobae (photo La Estrella de Panamá)",
+   "source_type": "news",
+   "url": "https://www.infobae.com/panama/2026/10/09/el-instituto-de-geociencias-advirtio-sobre-olas-anomalas-de-hasta-tres-metros-en-isla-canas-tras-el-sismo-principal-en-panama/",
+   "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/JF6B2LIH7VFVBO2OMLM3PQO44Y.png",
+   "confidence": "multiple_sources"
   }
  ],
  "image_review": {
   "media_1": {
    "verdict": "damage",
    "caption": "San Atanasio church masonry and tower piece fallen onto street",
-   "place_match": true
-  },
-  "media_2": {
-   "verdict": "damage",
-   "caption": "Hotel with collapsed lower floors, crowd watching in Penonomé",
    "place_match": true
   },
   "media_3": {
@@ -806,34 +674,9 @@
    "caption": "Collapsed slabs and twisted railings in Penonomé",
    "place_match": true
   },
-  "media_9": {
-   "verdict": "damage",
-   "caption": "Crushed ground-floor hotel rooms at Hotel 2 Continentes",
-   "place_match": true
-  },
   "media_10": {
    "verdict": "damage",
    "caption": "Masonry rubble in front of Los Pozos church",
-   "place_match": true
-  },
-  "media_12": {
-   "verdict": "event",
-   "caption": "Injured woman on stretcher at triage tent, Mulino present",
-   "place_match": true
-  },
-  "media_13": {
-   "verdict": "damage",
-   "caption": "Rescuer on rubble of gutted Gobernación building, Penonomé",
-   "place_match": true
-  },
-  "media_14": {
-   "verdict": "damage",
-   "caption": "Masonry debris and crushed pickup beside Penonomé cathedral",
-   "place_match": true
-  },
-  "media_15": {
-   "verdict": "damage",
-   "caption": "Rescuers tape off collapsed Gobernación building, Penonomé",
    "place_match": true
   },
   "media_16": {
@@ -886,16 +729,6 @@
    "caption": "Deep facade crack above statue niche, Penonomé cathedral",
    "place_match": true
   },
-  "media_26": {
-   "verdict": "damage",
-   "caption": "Commercial block with blown-out upper windows, Penonomé",
-   "place_match": true
-  },
-  "media_27": {
-   "verdict": "damage",
-   "caption": "University building with damaged roof parapet, Soná",
-   "place_match": true
-  },
   "media_28": {
    "verdict": "damage",
    "caption": "Soná fire station ground floor pancaked, side view",
@@ -915,6 +748,21 @@
    "verdict": "damage",
    "caption": "Church upper facade collapsed into rubble pile",
    "place_match": null
+  },
+  "media_37": {
+   "verdict": "event",
+   "caption": "Hospital patients on beds treated outdoors under tents",
+   "place_match": true
+  },
+  "media_38": {
+   "verdict": "damage",
+   "caption": "Man passes collapsed red-roofed building, debris on street",
+   "place_match": true
+  },
+  "media_39": {
+   "verdict": "event",
+   "caption": "Fishing boats off Isla Cañas coast",
+   "place_match": true
   }
  }
 }

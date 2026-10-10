@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-10T00:40:21Z",
+ "generated_utc": "2026-10-10T00:49:14Z",
  "reports": [
   {
    "reported_utc": "2026-10-09T19:57:40Z",
@@ -568,6 +568,48 @@
    "confidence": "single_source",
    "id": "pty_27",
    "figures": {}
+  },
+  {
+   "reported_utc": "2026-10-09T19:20:13Z",
+   "place": "Supermarket, Panama (La Prensa video, location not stated)",
+   "district": "Panamá",
+   "province": "Panamá",
+   "lat": 9.0,
+   "lon": -79.52,
+   "category": "other",
+   "title": "Video: products knocked onto supermarket floor after quake",
+   "summary": "La Prensa video republished by Infobae shows detergents and other products thrown from shelves onto the floor of a Panamanian supermarket after the 9 October quake; the store's location is not given.",
+   "title_es": "Video: productos caídos al piso de un supermercado tras el sismo",
+   "summary_es": "Video de La Prensa republicado por Infobae muestra detergentes y otros productos caídos de los anaqueles al piso de un supermercado en Panamá tras el sismo del 9 de octubre; no se indica la ubicación del local.",
+   "image_caption_es": "Productos caídos de los anaqueles al piso de un supermercado",
+   "source_name": "Infobae (video from La Prensa)",
+   "source_type": "news",
+   "url": "https://www.infobae.com/video/panama/video-del-terremoto-de-panama-en-un-supermercado/jJses9c1/",
+   "image_url": "https://cdn.jwplayer.com/v2/media/jJses9c1/poster.jpg?width=1280",
+   "confidence": "single_source",
+   "id": "pty_28",
+   "figures": {}
+  },
+  {
+   "reported_utc": "2026-10-09T22:11:21Z",
+   "place": "Panama City (government office building)",
+   "district": "Panamá",
+   "province": "Panamá",
+   "lat": 8.99,
+   "lon": -79.52,
+   "category": "response",
+   "title": "Staff evacuated outside a government office building in Panama City",
+   "summary": "EnSegundos photo shows staff gathered on the lawn and street outside a glass government office building in Panama City after public offices were evacuated and closed following the quake.",
+   "title_es": "Funcionarios evacuados frente a un edificio gubernamental en la ciudad de Panamá",
+   "summary_es": "Foto de EnSegundos muestra a funcionarios reunidos en la grama y la calle frente a un edificio gubernamental de vidrio en la ciudad de Panamá, tras la evacuación y cierre de oficinas públicas por el sismo.",
+   "image_caption_es": "Funcionarios evacuados frente a un edificio público de vidrio",
+   "source_name": "EnSegundos",
+   "source_type": "news",
+   "url": "https://ensegundos.com.pa/2026/10/09/terremoto-de-magnitud-76-sacude-panama-reportan-danos-evacuaciones-y-replicas/",
+   "image_url": "https://ensegundos.com.pa/wp-content/uploads/2026/10/IMG_3344.jpeg",
+   "confidence": "single_source",
+   "id": "pty_29",
+   "figures": {}
   }
  ],
  "image_review": {
@@ -675,6 +717,16 @@
    "verdict": "event",
    "caption": "Crowd evacuated outside casino complex with skybridge",
    "place_match": true
+  },
+  "pty_28": {
+   "verdict": "damage",
+   "caption": "Products fallen from shelves onto supermarket floor",
+   "place_match": null
+  },
+  "pty_29": {
+   "verdict": "event",
+   "caption": "Staff evacuated outside glass government office building",
+   "place_match": null
   }
  }
 }
