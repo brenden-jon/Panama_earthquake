@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-10T18:26:07Z",
+ "generated_utc": "2026-10-10T20:39:12Z",
  "official_latest": {
   "as_of_utc": "2026-10-10T01:00:00Z",
   "deaths": 0,
@@ -106,50 +106,50 @@
   "Réplica más fuerte (20:25 UTC): USGS M6,6, 14 km al O de Río Grande (Veraguas); IGC-UP M6,9, a 32 km de Coiba; El Tiempo también cita M6,6 a 8 km al NO de Río Grande."
  ],
  "pager": {
-  "fatality_alert": "orange",
+  "fatality_alert": "yellow",
   "economic_alert": "red",
   "fatality_bins": [
    {
     "color": "green",
     "min": "0",
     "max": "1",
-    "probability": 0.014098027888233833
+    "probability": 0.021775754356942296
    },
    {
     "color": "yellow",
     "min": "1",
     "max": "10",
-    "probability": 0.12063915131925697
+    "probability": 0.15490003006603217
    },
    {
     "color": "yellow",
     "min": "10",
     "max": "100",
-    "probability": 0.35967934943286733
+    "probability": 0.38773812609163677
    },
    {
     "color": "orange",
     "min": "100",
     "max": "1000",
-    "probability": 0.36468288323877524
+    "probability": 0.33038272987373796
    },
    {
     "color": "red",
     "min": "1000",
     "max": "10000",
-    "probability": 0.125766381587597
+    "probability": 0.09563164130771518
    },
    {
     "color": "red",
     "min": "10000",
     "max": "100000",
-    "probability": 0.014570903445858985
+    "probability": 0.009273251802467852
    },
    {
     "color": "red",
     "min": "100000",
     "max": "10000000",
-    "probability": 0.0005633030874002687
+    "probability": 0.0002984665014276189
    }
   ],
   "economic_bins": [
@@ -157,58 +157,58 @@
     "color": "green",
     "min": "0",
     "max": "1",
-    "probability": 0.0002615550162720587
+    "probability": 0.0005375423835136385
    },
    {
     "color": "yellow",
     "min": "1",
     "max": "10",
-    "probability": 0.005161715310051676
+    "probability": 0.008872586666013295
    },
    {
     "color": "yellow",
     "min": "10",
     "max": "100",
-    "probability": 0.046490885080717206
+    "probability": 0.06723025935028533
    },
    {
     "color": "orange",
     "min": "100",
     "max": "1000",
-    "probability": 0.18832400202766383
+    "probability": 0.22943544191669424
    },
    {
     "color": "red",
     "min": "1000",
     "max": "10000",
-    "probability": 0.34507205576217626
+    "probability": 0.35449793048431155
    },
    {
     "color": "red",
     "min": "10000",
     "max": "100000",
-    "probability": 0.28682266928623545
+    "probability": 0.24849846844943957
    },
    {
     "color": "red",
     "min": "100000",
     "max": "10000000",
-    "probability": 0.1278671175168664
+    "probability": 0.09092777074973712
    }
   ],
-  "fatalities_empirical": 103,
-  "fatalities_semi_empirical": 1245,
-  "losses_usd_empirical": 5834810002,
+  "fatalities_empirical": 71,
+  "fatalities_semi_empirical": 642,
+  "losses_usd_empirical": 3552001541,
   "pop_exposure_pa_by_mmi": [
    0,
    0,
    0,
-   131161,
-   2738757,
-   1152281,
-   453543,
-   179658,
-   14159,
+   170884,
+   3032502,
+   874642,
+   489214,
+   92172,
+   10145,
    0
   ]
  },
