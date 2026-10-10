@@ -8,8 +8,8 @@ window.I18N = (() => {
     "Preliminary analytical platform": "Plataforma analítica preliminar",
     "M7.7 Azuero earthquake · 9 October 2026": "Sismo M7.7 de Azuero · 9 de octubre de 2026",
     "About this platform": "Acerca de esta plataforma",
-    "This platform was developed independently by Brenden Jongman to support rapid analysis of the October 2026 Panama earthquake and its potential impacts. It uses publicly available data and AI-assisted analytical and development tools.":
-      "Esta plataforma fue desarrollada de forma independiente por Brenden Jongman para apoyar el análisis rápido del sismo de octubre de 2026 en Panamá y sus posibles impactos. Utiliza datos públicos y herramientas analíticas y de desarrollo asistidas por inteligencia artificial.",
+    "This platform was developed independently to support rapid analysis of the October 2026 Panama earthquake and its potential impacts. It uses publicly available data and AI-assisted analytical and development tools.":
+      "Esta plataforma fue desarrollada de forma independiente para apoyar el análisis rápido del sismo de octubre de 2026 en Panamá y sus posibles impactos. Utiliza datos públicos y herramientas analíticas y de desarrollo asistidas por inteligencia artificial.",
     "The information and estimates are preliminary, may contain errors, and should not be interpreted as validated damage or loss assessments. This is not an official World Bank product, and its contents do not necessarily reflect the views of the World Bank or its member governments.":
       "La información y las estimaciones son preliminares, pueden contener errores y no deben interpretarse como evaluaciones validadas de daños o pérdidas. Este no es un producto oficial del Banco Mundial y su contenido no refleja necesariamente las opiniones del Banco Mundial ni de sus gobiernos miembros.",
     "For preliminary analytical use only. Not for public distribution.": "Solo para uso analítico preliminar. No apto para distribución pública.",
@@ -138,9 +138,6 @@ window.I18N = (() => {
     "Building-vulnerability layer (census housing materials, GEM exposure model) in preparation.": "Capa de vulnerabilidad de edificaciones (materiales de vivienda del censo, modelo de exposición GEM) en preparación.",
 
     // sources tab
-    "This platform was developed independently by": "Esta plataforma fue desarrollada de forma independiente por",
-    "to support rapid analysis of the October 2026 Panama earthquake and its potential impacts. It uses publicly available data and AI-assisted analytical and development tools.":
-      "para apoyar el análisis rápido del sismo de octubre de 2026 en Panamá y sus posibles impactos. Utiliza datos públicos y herramientas analíticas y de desarrollo asistidas por inteligencia artificial.",
     "The information and estimates are": "La información y las estimaciones son",
     "preliminary, may contain errors": "preliminares, pueden contener errores",
     ", and should not be interpreted as validated damage or loss assessments. This is not an official World Bank product, and its contents do not necessarily reflect the views of the World Bank or its member governments.":
@@ -166,8 +163,8 @@ window.I18N = (() => {
     "Building footprints from machine learning miss buildings under tree cover and in remote areas; counts are lower-to-mid estimates.":
       "Las huellas de edificaciones por aprendizaje automático omiten edificaciones bajo cobertura arbórea y en zonas remotas; los conteos son estimaciones bajas a medias.",
     "Images are hot-linked from their original publishers and remain their property.": "Las imágenes se enlazan desde sus editores originales y siguen siendo de su propiedad.",
-    "Preliminary analytical use only · not for public distribution · developed independently by Brenden Jongman · not an official World Bank product ·":
-      "Solo para uso analítico preliminar · no apto para distribución pública · desarrollado de forma independiente por Brenden Jongman · no es un producto oficial del Banco Mundial ·",
+    "Preliminary analytical use only · not for public distribution · not an official World Bank product · Contact: Brenden Jongman ·":
+      "Solo para uso analítico preliminar · no apto para distribución pública · no es un producto oficial del Banco Mundial · Contacto: Brenden Jongman ·",
     "Close": "Cerrar",
 
     // generated text: labels
