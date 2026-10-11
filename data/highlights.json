@@ -1,9 +1,9 @@
 {
- "updated_utc": "2026-10-11T13:45:00Z",
+ "updated_utc": "2026-10-11T14:10:00Z",
  "headline": "Two days after the M7.7 Azuero earthquake, a national state of emergency is in force. Officially no deaths; 840 homes affected, about 267 people in shelters and 419 schools damaged; no classes on Monday.",
  "key_points": [
   "Official (COE/SINAPROC, Sat evening): 0 deaths, 29 injured; 840 homes affected (Herrera 206, Veraguas 202, Los Santos 182, Coclé 149); ~267 in shelters.",
-  "Local reports point higher still: hundreds of homes collapsed in Los Pozos, ~100 in Las Minas, over half of Mandinga (Pesé).",
+  "Village-level damage is severe: La Miel (95% of homes) and Bajo Corral (90%) in Las Tablas; 300+ homes collapsed in Los Pozos (mayor); ~1,500 affected in Mariato villages.",
   "Tonosí: hospital unusable — care in tents; new US$30M hospital announced. Power and water still out in Tonosí, Mariato, Soná and Pedasí areas.",
   "Schools: 419 affected, 24 need rebuilding; no classes nationwide on Monday 12 Oct.",
   "Emergency decree (Res. 108, to 31 Dec): US$100M fast-track funds, may rise. IDB up to US$300M + US$500k; CAF US$50M; US$5M from US State Dept.",
@@ -19,6 +19,16 @@
    "area": "Tonosí / Cambutal, Los Santos",
    "status": "severe",
    "text": "Cut off except via Macaracas; mayor's SOS: no power or water, food and medicine running short. Homes collapsed; 8 fracture patients airlifted; aid arriving by helicopter."
+  },
+  {
+   "area": "Mariato villages & Montijo, Veraguas",
+   "status": "severe",
+   "text": "~1,500 affected in Llano Catival, Quebro, Arenas and El Cacao; Arenas, Quebro and El Cacao cut off; rural water systems collapsed; ~255 people in Mariato shelters. Montijo islands (Leones, Cébaco, Gobernadora) cut off, boats sunk; 55 homes damaged in Montijo town."
+  },
+  {
+   "area": "Las Tablas rural villages, Los Santos",
+   "status": "severe",
+   "text": "La Miel: 95% of homes affected, many total losses, no aid yet; Bajo Corral: 90% affected, roads blocked by landslides; Bayano (La Canoa, Taboga): most homes a total loss."
   },
   {
    "area": "Pedasí / Playa Venao, Los Santos",

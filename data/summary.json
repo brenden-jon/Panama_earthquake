@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-11T13:13:27Z",
+ "generated_utc": "2026-10-11T13:16:13Z",
  "official_latest": {
   "as_of_utc": "2026-10-10T23:30:00Z",
   "deaths": 0,
@@ -289,7 +289,7 @@
    ]
   }
  },
- "reports_count": 413,
+ "reports_count": 419,
  "reports_with_images": 160,
  "places_with_damage": [
   "Aguadulce",
@@ -313,6 +313,7 @@
   "Chupaito",
   "Coclé (Escuela Alejandro Tapia / Federico Zúñiga)",
   "Coclé province",
+  "Colón (El Vaticano and Paseo Marino)",
   "Colón (city)",
   "Colón province",
   "Comarca Ngäbe-Buglé (Chichica, Cerro Puerco, Llano Macano schools)",
@@ -339,6 +340,7 @@
   "La Villa de Los Santos (Museo de la Nacionalidad)",
   "La Villa de Los Santos (police station and colonial houses)",
   "Las Lajas (San Félix)",
+  "Las Llanas and El Calabacito",
   "Las Minas",
   "Las Tablas",
   "Llano Ñopo",
@@ -390,6 +392,7 @@
   "Playa Venao (Hostal El Sitio)",
   "Puerto Armuelles (Hospital Dionisio Arrocha)",
   "Río Hato (Centro de Salud)",
+  "San Félix",
   "San Félix (Hospital del Oriente Chiricano)",
   "Santiago",
   "Santiago (Estación central de Bomberos)",

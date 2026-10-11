@@ -1,9 +1,9 @@
 {
- "updated_utc": "2026-10-11T13:45:00Z",
+ "updated_utc": "2026-10-11T14:10:00Z",
  "headline": "Dos días después del sismo M7,7 de Azuero rige un estado de emergencia nacional. Oficialmente sin fallecidos; 840 viviendas afectadas, unas 267 personas en albergues y 419 escuelas dañadas; no habrá clases el lunes.",
  "key_points": [
   "Oficial (COE/SINAPROC, sábado por la noche): 0 fallecidos, 29 lesionados; 840 viviendas afectadas (Herrera 206, Veraguas 202, Los Santos 182, Coclé 149); ~267 personas en albergues.",
-  "Los reportes locales apuntan aún más alto: cientos de viviendas colapsadas en Los Pozos, ~100 en Las Minas, más de la mitad de Mandinga (Pesé).",
+  "Los daños a nivel de comunidad son graves: La Miel (95 % de las viviendas) y Bajo Corral (90 %) en Las Tablas; más de 300 viviendas colapsadas en Los Pozos (alcalde); ~1.500 afectados en comunidades de Mariato.",
   "Tonosí: hospital inutilizable, atención en carpas; se anuncia un nuevo hospital de US$30 millones. Sin luz ni agua aún en Tonosí, Mariato, Soná y Pedasí.",
   "Escuelas: 419 afectadas, 24 deben reconstruirse; no habrá clases en todo el país el lunes 12 de octubre.",
   "Decreto de emergencia (Res. 108, hasta el 31 dic): US$100 millones con contratación expedita, podría aumentar. BID hasta US$300 millones + US$500.000; CAF US$50 millones; US$5 millones del Departamento de Estado de EE. UU.",
@@ -19,6 +19,16 @@
    "area": "Tonosí / Cambutal, Los Santos",
    "status": "severe",
    "text": "Incomunicado salvo por Macaracas; SOS del alcalde: sin luz ni agua, escasean alimentos y medicinas. Viviendas colapsadas; 8 pacientes con fracturas evacuados por aire; llega ayuda en helicóptero."
+  },
+  {
+   "area": "Comunidades de Mariato y Montijo, Veraguas",
+   "status": "severe",
+   "text": "~1.500 afectados en Llano Catival, Quebro, Arenas y El Cacao; Arenas, Quebro y El Cacao incomunicados; colapsaron acueductos rurales; ~255 personas en albergues de Mariato. Islas de Montijo (Leones, Cébaco, Gobernadora) aisladas, embarcaciones hundidas; 55 viviendas dañadas en el poblado de Montijo."
+  },
+  {
+   "area": "Comunidades rurales de Las Tablas, Los Santos",
+   "status": "severe",
+   "text": "La Miel: 95 % de las viviendas afectadas, muchas pérdidas totales, sin ayuda aún; Bajo Corral: 90 % afectadas, vías bloqueadas por deslizamientos; Bayano (La Canoa, Taboga): la mayoría de las viviendas, pérdida total."
   },
   {
    "area": "Pedasí / Playa Venao, Los Santos",
