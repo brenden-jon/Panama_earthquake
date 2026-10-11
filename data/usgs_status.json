@@ -1,14 +1,14 @@
 {
- "checked_utc": "2026-10-11T10:59:14Z",
+ "checked_utc": "2026-10-11T16:37:16Z",
  "mag": 7.7,
  "alert": "red",
  "mmi": 9.036,
- "felt": 1188,
- "updated_utc": "2026-10-11T10:54:11Z",
+ "felt": 1300,
+ "updated_utc": "2026-10-11T16:32:41Z",
  "versions": {
   "shakemap": "9",
   "losspager": 1791655525418,
-  "dyfi": 1791716051535
+  "dyfi": 1791736361125
  },
  "gdacs": [
   {
