@@ -1,0 +1,380 @@
+{
+ "generated_utc": "2026-10-11T13:12:31Z",
+ "reports": [
+  {
+   "id": "off6_1",
+   "reported_utc": "2026-10-11T03:12:02Z",
+   "place": "Panama (national) — COE/SINAPROC balance",
+   "district": "",
+   "province": "Multiple / national",
+   "lat": 8.98,
+   "lon": -79.52,
+   "category": "displacement",
+   "title": "COE/SINAPROC Saturday-evening balance: 840 homes affected, 1,213 people affected, 29 injured",
+   "summary": "The National COE/SINAPROC report released Saturday evening (~18:30 local) counts 840 homes affected (Herrera 206, Veraguas 202, Los Santos 182, Coclé 149, Chiriquí 49, Panamá Oeste 21, Colón 18, Bocas del Toro 8, Darién 1, plus 4 residential buildings in Panamá), 1,213 people registered as affected (Los Santos 721, Mariato 255, Colón 201, Bocas del Toro 28, Penonomé 8) plus 300 preventive evacuees from Isla Cañas, 29 with minor injuries, no deaths or missing, and 419 schools affected.",
+   "title_es": "Balance del COE/Sinaproc del sábado en la noche: 840 viviendas afectadas, 1.213 personas afectadas y 29 lesionados",
+   "summary_es": "El informe del COE Nacional/Sinaproc divulgado el sábado en la noche (~6:30 p. m.) contabiliza 840 viviendas afectadas (Herrera 206, Veraguas 202, Los Santos 182, Coclé 149, Chiriquí 49, Panamá Oeste 21, Colón 18, Bocas del Toro 8, Darién 1, además de 4 edificios residenciales en Panamá), 1.213 personas afectadas registradas (Los Santos 721, Mariato 255, Colón 201, Bocas del Toro 28, Penonomé 8) más 300 evacuados preventivamente de Isla Cañas, 29 lesionados leves, sin fallecidos ni desaparecidos, y 419 escuelas afectadas.",
+   "figures": {
+    "homes_affected": 840,
+    "people_affected": 1213,
+    "injured": 29,
+    "deaths": 0,
+    "missing": 0,
+    "schools": 419,
+    "preventive_evacuees": 300
+   },
+   "source_name": "TVN Noticias",
+   "source_type": "news",
+   "url": "https://www.tvn-2.com/nacionales/temblor-panama-800-casas-afectadas_1_2265477.html",
+   "image_url": null,
+   "confidence": "official"
+  },
+  {
+   "id": "off6_2",
+   "reported_utc": "2026-10-11T12:13:40Z",
+   "place": "Mariato",
+   "district": "Mariato",
+   "province": "Veraguas",
+   "lat": 7.66,
+   "lon": -80.99,
+   "category": "displacement",
+   "title": "About 255 people in two shelters in Mariato; 12 in Penonomé shelter",
+   "summary": "SINAPROC's latest report cited by Infobae: two shelters in Mariato house about 255 people and the IFARHU shelter in Penonomé 12; Soná and Mariato have 9 bridges and 9 road points damaged; Chiriquí has 49 homes affected, 10 totally destroyed, and 80 schools affected (3 total losses).",
+   "title_es": "Unas 255 personas en dos albergues en Mariato; 12 en el albergue de Penonomé",
+   "summary_es": "El informe más reciente de Sinaproc citado por Infobae: dos albergues en Mariato atienden a unas 255 personas y el del IFARHU en Penonomé a 12; en Soná y Mariato hay 9 puentes y 9 puntos viales afectados; Chiriquí suma 49 viviendas afectadas, 10 con daño total, y 80 escuelas afectadas (3 pérdidas totales).",
+   "figures": {
+    "sheltered_mariato": 255,
+    "sheltered_penonome": 12,
+    "bridges_veraguas": 9,
+    "homes_destroyed_chiriqui": 10
+   },
+   "source_name": "Infobae (citing SINAPROC)",
+   "source_type": "news",
+   "url": "https://www.infobae.com/panama/2026/10/11/terremoto-de-75-en-panama-deja-mas-de-700-viviendas-danadas-y-419-escuelas-afectadas/",
+   "image_url": null,
+   "confidence": "multiple_sources"
+  },
+  {
+   "id": "off6_3",
+   "reported_utc": "2026-10-10T23:56:39Z",
+   "place": "Panama (national) — MEDUCA",
+   "district": "",
+   "province": "Multiple / national",
+   "lat": 8.98,
+   "lon": -79.52,
+   "category": "response",
+   "title": "MEDUCA suspends classes nationwide on Monday 12 October",
+   "summary": "The Ministry of Education suspended classes in all public and private schools nationwide on Monday 12 October while school buildings are inspected; about 419 schools are affected and 24 will have to be rebuilt, education officials said (Infobae quotes '24 escuelas que vamos a tener que hacer nuevas'). No resumption date set; temporary modules proposed.",
+   "title_es": "MEDUCA suspende las clases en todo el país el lunes 12 de octubre",
+   "summary_es": "El Ministerio de Educación suspendió las clases en todas las escuelas oficiales y particulares del país el lunes 12 de octubre mientras se inspeccionan los planteles; unas 419 escuelas están afectadas y 24 tendrán que construirse de nuevo, según autoridades educativas citadas por Infobae. No hay fecha de reanudación; se plantean módulos temporales.",
+   "figures": {
+    "schools_affected": 419,
+    "schools_to_rebuild": 24
+   },
+   "source_name": "La Prensa",
+   "source_type": "news",
+   "url": "https://www.prensa.com/sociedad/terremoto-meduca-suspende-las-clases-del-lunes-a-nivel-nacional/",
+   "image_url": null,
+   "confidence": "multiple_sources"
+  },
+  {
+   "id": "off6_4",
+   "reported_utc": "2026-10-11T01:50:17Z",
+   "place": "Panama City — Metro",
+   "district": "Panamá",
+   "province": "Panamá",
+   "lat": 8.98,
+   "lon": -79.52,
+   "category": "utilities",
+   "title": "Metro Lines 1 and 2 to resume service at 07:00 Sunday after test runs",
+   "summary": "Metro de Panamá announced Lines 1 and 2 would resume commercial service from 07:00 on Sunday 11 October (07:00–22:00) after passenger-free test runs and safety checks of stations, viaducts, tunnels and tracks; service had been suspended since Friday afternoon.",
+   "title_es": "Las líneas 1 y 2 del Metro reanudan el servicio a las 7:00 a. m. del domingo tras pruebas",
+   "summary_es": "El Metro de Panamá anunció que las líneas 1 y 2 reanudarían el servicio comercial desde las 7:00 a. m. del domingo 11 de octubre (horario de 7:00 a. m. a 10:00 p. m.) tras marchas en blanco y revisiones de estaciones, viaductos, túneles y vías; el servicio estaba suspendido desde la tarde del viernes.",
+   "figures": {},
+   "source_name": "Destino Panamá",
+   "source_type": "news",
+   "url": "https://destinopanama.com.pa/2026/10/el-metro-de-panama-reanuda-sus-funciones-desde-las-700-am-de-este-domingo/",
+   "image_url": null,
+   "confidence": "multiple_sources"
+  },
+  {
+   "id": "off6_5",
+   "reported_utc": "2026-10-10T23:34:36Z",
+   "place": "Azuero / Veraguas — Naturgy",
+   "district": "",
+   "province": "Multiple / national",
+   "lat": 7.9,
+   "lon": -80.5,
+   "category": "utilities",
+   "title": "Naturgy: power restored to 97% of customers cut by the quake",
+   "summary": "Naturgy said it had restored power to 97% of customers who lost supply, with more than 190 crews and 400+ workers; work continues in Mariato, Soná, Atalaya (Veraguas), Tonosí, Flores, Pedasí (Los Santos), Coclé, Panamá Oeste and Chiriquí, hampered by access problems.",
+   "title_es": "Naturgy: restablecido el servicio al 97% de los clientes afectados por el sismo",
+   "summary_es": "Naturgy informó que restableció la electricidad al 97% de los clientes que perdieron el servicio, con más de 190 brigadas y más de 400 trabajadores; siguen los trabajos en Mariato, Soná, Atalaya (Veraguas), Tonosí, Flores, Pedasí (Los Santos), Coclé, Panamá Oeste y Chiriquí, con dificultades de acceso.",
+   "figures": {
+    "percent_restored": 97,
+    "crews": 190,
+    "workers": 400
+   },
+   "source_name": "Destino Panamá / Telemetro (Naturgy statement)",
+   "source_type": "news",
+   "url": "https://destinopanama.com.pa/2026/10/naturgy-restablece-el-97-del-servicio-electrico-tras-el-sismo/",
+   "image_url": null,
+   "confidence": "multiple_sources"
+  },
+  {
+   "id": "off6_6",
+   "reported_utc": "2026-10-11T01:23:45Z",
+   "place": "Tonosí",
+   "district": "Tonosí",
+   "province": "Los Santos",
+   "lat": 7.405,
+   "lon": -80.44,
+   "category": "response",
+   "title": "Health minister announces US$30 million replacement hospital for Tonosí",
+   "summary": "On his Saturday tour, Health Minister Fernando Boyd Galindo announced a new B/.30 million hospital for Tonosí (about 18 months) to replace the damaged rural hospital; MINSA deployed 203 staff, four facilities operate from tents and Ocú hospital moved services to a nearby CAPSI.",
+   "title_es": "El ministro de Salud anuncia un nuevo hospital de B/.30 millones para Tonosí",
+   "summary_es": "En su gira del sábado, el ministro de Salud, Fernando Boyd Galindo, anunció un nuevo hospital de B/.30 millones para Tonosí (unos 18 meses) que reemplazará al hospital rural dañado; el MINSA desplegó 203 funcionarios, cuatro instalaciones atienden en carpas y el hospital de Ocú trasladó sus servicios a un CAPSI cercano.",
+   "figures": {
+    "budget_usd": 30000000,
+    "minsa_staff_deployed": 203
+   },
+   "source_name": "La Verdad Panamá",
+   "source_type": "news",
+   "url": "https://www.laverdadpa.com/minsa-mantiene-la-atencion-de-salud-tras-el-sismo-y-anuncia-nuevo-hospital-para-tonosi/",
+   "image_url": null,
+   "confidence": "single_source"
+  },
+  {
+   "id": "off6_7",
+   "reported_utc": "2026-10-10T20:33:03Z",
+   "place": "Panama (national) — US assistance",
+   "district": "",
+   "province": "Multiple / national",
+   "lat": 8.98,
+   "lon": -79.52,
+   "category": "response",
+   "title": "US State Department commits US$5 million; DART and two USAR teams deployed",
+   "summary": "The State Department committed US$5 million in humanitarian aid, deployed a Disaster Assistance Response Team and two USAR technical teams (20 specialists) for structural assessments, and SOUTHCOM CH-47 Chinooks are moving tents and supplies to Azuero.",
+   "title_es": "El Departamento de Estado de EE. UU. destina US$5 millones; despliega un equipo DART y dos equipos USAR",
+   "summary_es": "El Departamento de Estado comprometió US$5 millones en ayuda humanitaria, desplegó un Equipo de Respuesta a Desastres (DART) y dos equipos técnicos USAR (20 especialistas) para evaluaciones estructurales, y helicópteros CH-47 Chinook del Comando Sur trasladan carpas y suministros a Azuero.",
+   "figures": {
+    "aid_usd": 5000000,
+    "usar_specialists": 20
+   },
+   "source_name": "US Department of State (via CiberCuba)",
+   "source_type": "official",
+   "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/the-united-states-mobilizes-immediate-response-to-the-panama-earthquakes/",
+   "image_url": null,
+   "confidence": "multiple_sources"
+  },
+  {
+   "id": "off6_8",
+   "reported_utc": "2026-10-11T00:00:00Z",
+   "place": "Tonosí / Las Tablas",
+   "district": "Tonosí",
+   "province": "Los Santos",
+   "lat": 7.405,
+   "lon": -80.44,
+   "category": "response",
+   "title": "Mulino tours Tonosí, Las Tablas and Veraguas; confirms no deaths or missing",
+   "summary": "President Mulino visited Tonosí and Las Tablas (Los Santos) and Veraguas on Saturday; he confirmed no deaths or missing persons, said the US$100 million could rise after structural assessments, that hundreds are sleeping outdoors for fear of aftershocks, and that the Colón Free Zone donated cots and tents; the US Army Corps of Engineers is supporting.",
+   "title_es": "Mulino recorre Tonosí, Las Tablas y Veraguas; confirma que no hay muertos ni desaparecidos",
+   "summary_es": "El presidente Mulino visitó el sábado Tonosí y Las Tablas (Los Santos) y Veraguas; confirmó que no hay fallecidos ni desaparecidos, dijo que los US$100 millones podrían aumentar tras las evaluaciones estructurales, que cientos duermen a la intemperie por miedo a las réplicas y que la Zona Libre de Colón donó catres y carpas; el Cuerpo de Ingenieros del Ejército de EE. UU. colabora.",
+   "figures": {
+    "deaths": 0,
+    "missing": 0
+   },
+   "source_name": "TVN Noticias",
+   "source_type": "news",
+   "url": "https://www.tvn-2.com/nacionales/temblor-panama-terremoto-jose-raul-mulino-los-santos-veraguas_1_2265418.html",
+   "image_url": null,
+   "confidence": "multiple_sources"
+  },
+  {
+   "id": "off6_9",
+   "reported_utc": "2026-10-10T23:16:34Z",
+   "place": "Azuero / central provinces",
+   "district": "",
+   "province": "Multiple / national",
+   "lat": 7.8,
+   "lon": -80.6,
+   "category": "other",
+   "title": "Storm warning for quake-hit provinces; SINAPROC suspends Monday's national drill",
+   "summary": "IMHPA issued a storm warning from 11:00 Saturday to 13:00 Monday covering Herrera, Los Santos, Veraguas, Coclé, Chiriquí and other regions, warning that 65–90% soil saturation raises flood and landslide risk; SINAPROC suspended the national evacuation drill planned for Monday 12 October.",
+   "title_es": "Aviso de tormentas en provincias afectadas por el terremoto; Sinaproc suspende el simulacro nacional del lunes",
+   "summary_es": "El IMHPA emitió un aviso de tormentas desde las 11:00 a. m. del sábado hasta la 1:00 p. m. del lunes para Herrera, Los Santos, Veraguas, Coclé, Chiriquí y otras regiones, y advirtió que la saturación del suelo de 65–90% aumenta el riesgo de crecidas y deslizamientos; Sinaproc suspendió el simulacro nacional de evacuación previsto para el lunes 12 de octubre.",
+   "figures": {},
+   "source_name": "Infobae",
+   "source_type": "news",
+   "url": "https://www.infobae.com/panama/2026/10/10/suspenden-simulacro-nacional-en-panama-mientras-alertan-por-tormentas-en-zonas-golpeadas-por-el-terremoto/",
+   "image_url": null,
+   "confidence": "single_source"
+  },
+  {
+   "id": "off6_10",
+   "reported_utc": "2026-10-10T23:16:22Z",
+   "place": "Panama (national) — SUME 911",
+   "district": "",
+   "province": "Multiple / national",
+   "lat": 8.98,
+   "lon": -79.52,
+   "category": "response",
+   "title": "Quake triggered 8,630 calls to 911; 94 traffic accidents; 27+ police stations damaged",
+   "summary": "SUME 911 received 8,630 calls on 9 October and mobilised 178 resources with 99 inter-agency coordinations; 94 traffic accidents were reported after the quake and more than 27 police installations were damaged.",
+   "title_es": "El terremoto generó 8.630 llamadas al 911; 94 accidentes de tránsito; más de 27 sedes policiales dañadas",
+   "summary_es": "El SUME 911 recibió 8.630 llamadas el 9 de octubre y movilizó 178 recursos con 99 coordinaciones interinstitucionales; se reportaron 94 accidentes de tránsito tras el sismo y más de 27 instalaciones policiales con daños.",
+   "figures": {
+    "calls_911": 8630,
+    "resources_mobilised": 178,
+    "traffic_accidents": 94,
+    "police_facilities_damaged": 27
+   },
+   "source_name": "Infobae",
+   "source_type": "news",
+   "url": "https://www.infobae.com/panama/2026/10/10/terremoto-en-panama-provoco-8630-llamadas-al-911/",
+   "image_url": null,
+   "confidence": "single_source"
+  },
+  {
+   "id": "off6_11",
+   "reported_utc": "2026-10-11T11:20:00Z",
+   "place": "Azuero Peninsula",
+   "district": "",
+   "province": "Los Santos",
+   "lat": 7.6,
+   "lon": -80.4,
+   "category": "aftershock",
+   "title": "M5.0 aftershock felt before dawn Sunday near Azuero",
+   "summary": "A magnitude 5.0 aftershock about 10 km deep near the Azuero Peninsula shook Panama before dawn on Sunday 11 October (reported 06:20 local); more than 170 aftershocks had been recorded by Saturday.",
+   "title_es": "Réplica de magnitud 5,0 sacude Azuero en la madrugada del domingo",
+   "summary_es": "Una réplica de magnitud 5,0, a unos 10 km de profundidad cerca de la península de Azuero, sacudió Panamá en la madrugada del domingo 11 de octubre (reportada a las 6:20 a. m.); hasta el sábado se contaban más de 170 réplicas.",
+   "figures": {
+    "magnitude": 5.0
+   },
+   "source_name": "El País (Cali) live blog",
+   "source_type": "news",
+   "url": "https://www.elpais.com.co/mundo/terremoto-en-panama-en-vivo-hay-estructuras-colapsadas-tras-sismo-se-espera-balance-oficial-0942.html",
+   "image_url": null,
+   "confidence": "single_source"
+  },
+  {
+   "id": "off6_12",
+   "reported_utc": "2026-10-11T01:54:50Z",
+   "place": "Tonosí",
+   "district": "Tonosí",
+   "province": "Los Santos",
+   "lat": 7.405,
+   "lon": -80.44,
+   "category": "infrastructure",
+   "title": "Tonosí still without water or power Saturday night; only access via Macaracas",
+   "summary": "As of Saturday night Tonosí remained without electricity or drinking water; access roads from Las Tablas and Pedasí stayed closed and the district could only be reached via Macaracas; several communities remain cut off with food shortages. Mayor Aníbal Domínguez asked for bottled water, canned and dry food, milk, diapers and medicines; the Festival del Campesino 2026 was suspended.",
+   "title_es": "Tonosí sigue sin agua ni luz el sábado en la noche; solo se accede por Macaracas",
+   "summary_es": "Hasta el sábado en la noche Tonosí seguía sin electricidad ni agua potable; las vías desde Las Tablas y Pedasí seguían cerradas y al distrito solo se llegaba por Macaracas; varias comunidades siguen incomunicadas y con escasez de alimentos. El alcalde Aníbal Domínguez pidió agua embotellada, alimentos enlatados y secos, leche, pañales y medicamentos; se suspendió el Festival del Campesino 2026.",
+   "figures": {},
+   "source_name": "Infobae",
+   "source_type": "news",
+   "url": "https://www.infobae.com/panama/2026/10/11/tonosi-cerca-del-epicentro-del-terremoto-en-panama-sigue-sin-agua-ni-electricidad-y-con-vias-cerradas/",
+   "image_url": null,
+   "confidence": "multiple_sources"
+  }
+ ],
+ "image_review": {},
+ "official_figures": [
+  {
+   "as_of_utc": "2026-10-10T23:30:00Z",
+   "deaths": 0,
+   "injured": 29,
+   "missing": 0,
+   "affected_people": 1213,
+   "displaced": 567,
+   "homes_damaged": 840,
+   "homes_destroyed": null,
+   "infrastructure": {
+    "schools": 419,
+    "health_facilities": null,
+    "government_buildings": null,
+    "bridges": 11,
+    "churches": null,
+    "hotels": 6
+   },
+   "source_name": "COE Nacional / SINAPROC report (~18:30 local, 10 Oct), as reported by TVN and La Prensa",
+   "url": "https://www.tvn-2.com/nacionales/temblor-panama-800-casas-afectadas_1_2265477.html",
+   "note": "Saturday-evening consolidated report (time per La Prensa 'as of 6:30 p.m.'; TVN article 22:12 local). 840 homes affected: Herrera 206, Veraguas 202, Los Santos 182 (families), Coclé 149, Chiriquí 49 (10 total loss per Infobae), Panamá Oeste 21, Colón 18, Bocas del Toro 8, Darién 1, + 4 residential buildings in Panamá. 1,213 people registered affected (Los Santos 721, Mariato 255, Colón 201, Bocas 28, Penonomé 8). 'Displaced' = ~267 in shelters (Mariato 255 in 2 shelters, Penonomé 12) + 300 preventive evacuees from Isla Cañas. Shelters also in Boca de Quema and Tonosí. Schools 419 (Chiriquí 80, Los Santos 71, Herrera 51, Veraguas 38, Ngäbe-Buglé 21). Bridges: 9 Veraguas + 2 Los Santos (sum of provincial figures). Health facilities by province sum to ~19 (Veraguas 8, Los Santos 4, Herrera 3, Coclé 2, Chiriquí 2) plus Colón hospital; national total not stated. Homes destroyed national total not stated (≥10 Chiriquí, 2 Herrera earlier). Six field hospitals. Note the 2,130 'damnificados' figure given at the Cabinet press conference earlier on 10 Oct is a different metric.",
+   "note_es": "Informe consolidado del sábado en la noche (hora según La Prensa, 'hasta las 6:30 p. m.'; nota de TVN a las 10:12 p. m.). 840 viviendas afectadas: Herrera 206, Veraguas 202, Los Santos 182 (familias), Coclé 149, Chiriquí 49 (10 con pérdida total según Infobae), Panamá Oeste 21, Colón 18, Bocas del Toro 8, Darién 1, más 4 edificios residenciales en Panamá. 1.213 personas afectadas registradas (Los Santos 721, Mariato 255, Colón 201, Bocas 28, Penonomé 8). 'Desplazados' = unas 267 personas en albergues (Mariato 255 en 2 albergues, Penonomé 12) + 300 evacuados preventivos de Isla Cañas. También hay albergues en Boca de Quema y Tonosí. Escuelas 419 (Chiriquí 80, Los Santos 71, Herrera 51, Veraguas 38, Ngäbe-Buglé 21). Puentes: 9 en Veraguas + 2 en Los Santos (suma provincial). Las instalaciones de salud por provincia suman ~19 (Veraguas 8, Los Santos 4, Herrera 3, Coclé 2, Chiriquí 2) más el hospital de Colón; no se dio total nacional. No se dio total nacional de viviendas destruidas (≥10 en Chiriquí). Seis hospitales de campaña. La cifra de 2.130 damnificados dada en la conferencia del Gabinete del 10 de octubre es otra métrica."
+  }
+ ],
+ "response_notes": [
+  {
+   "topic": "Public finance (MEF)",
+   "text_en": "Resolution 108 authorises MEF to ask the National Assembly to temporarily suspend the fiscal-responsibility deficit ceiling (Law 34 of 2008; 3.5% of GDP for the non-financial public sector). Funds go to a Banco Nacional trust; contracts through 31 Dec 2026, amount/term adjustable by Cabinet. Minister Chapman: resources are sufficient; soft multilateral loans possible. IDB: US$300m contingent credit + US$500k grant; CAF: US$250k grant + US$50m credit line; MEF in contact with World Bank and IMF.",
+   "text_es": "La Resolución 108 autoriza al MEF a pedir a la Asamblea Nacional suspender temporalmente el tope de déficit de la Ley 34 de 2008 (3,5% del PIB para el sector público no financiero). Los fondos van a un fideicomiso en el Banco Nacional; contratos hasta el 31 de diciembre de 2026, monto y plazo ajustables por el Gabinete. El ministro Chapman: hay recursos suficientes; se podrían usar préstamos blandos multilaterales. BID: US$300 millones en crédito contingente + US$500.000 no reembolsables; CAF: US$250.000 + línea de US$50 millones; el MEF está en contacto con el Banco Mundial y el FMI.",
+   "url": "https://newsroompanama.com/2026/10/11/the-panama-earthquake-emergency-creates100-million-dollars-and-the-relaxation-of-deficit-limits/"
+  },
+  {
+   "topic": "Presidency",
+   "text_en": "Mulino toured Tonosí, Las Tablas and Veraguas on Saturday 10 Oct; said 'the country will not stop', the US$100m may increase; ordered reliance on SINAPROC information; Telefónica and Más Móvil networks integrated to keep communications up.",
+   "text_es": "Mulino recorrió el sábado 10 de octubre Tonosí, Las Tablas y Veraguas; dijo que 'el país no se va a parar' y que los US$100 millones podrían aumentar; pidió informarse por Sinaproc; se integraron las redes de Telefónica y Más Móvil para mantener las comunicaciones.",
+   "url": "https://www.tvn-2.com/nacionales/temblor-panama-terremoto-jose-raul-mulino-los-santos-veraguas_1_2265418.html"
+  },
+  {
+   "topic": "Housing (MIVIOT)",
+   "text_en": "Housing Minister Jaime Jované: preliminary census of 426 homes and ~2,130 people affected (Saturday afternoon; later SINAPROC count 840 homes); MIVIOT regional offices in Herrera, Los Santos and Coclé reinforced with social workers and engineers to certify homes with minor damage for safe return and identify those needing repair or replacement. No bono amount announced yet.",
+   "text_es": "El ministro de Vivienda, Jaime Jované: censo preliminar de 426 viviendas y unas 2.130 personas afectadas (sábado en la tarde; luego Sinaproc contó 840 viviendas); las regionales del MIVIOT en Herrera, Los Santos y Coclé se reforzaron con trabajadores sociales e ingenieros para certificar viviendas con daños menores y determinar cuáles requieren reparación o reemplazo. Aún no se anuncia monto de bonos.",
+   "url": "https://www.metrolibre.com/nacionales/al-menos-426-viviendas-afectadas-y-2130-personas-impactadas-informa-el-miviot-GO26396981"
+  },
+  {
+   "topic": "Roads (MOP)",
+   "text_en": "MOP Minister José Luis Andrade (Saturday afternoon): nine bridges compromised, worst at Río Torio; work to open light-vehicle passage on Torio–Quebro–Arenas (Mariato) towards Tonosí, incl. Río Sarí bridge; Américas and Centenario bridges need no closure. No confirmation found of full road access to Tonosí/Mariato restored by Sunday morning.",
+   "text_es": "El ministro del MOP, José Luis Andrade (sábado en la tarde): nueve puentes comprometidos, el más dañado sobre el río Torio; se trabaja para habilitar el paso de vehículos livianos en Torio–Quebro–Arenas (Mariato) hacia Tonosí, incluido el puente sobre el río Sarí; los puentes de las Américas y Centenario no requieren cierre. No se halló confirmación de acceso vial pleno a Tonosí/Mariato restablecido el domingo en la mañana.",
+   "url": "https://www.panamaamerica.com.pa/sociedad/mop-identifica-nueve-puentes-comprometidos-trabajan-en-restablecer-el-paso-de-autos"
+  },
+  {
+   "topic": "State of emergency decree",
+   "text_en": "National state of emergency adopted by Cabinet Resolution No. 108 of 10 Oct 2026, published the same day in Gaceta Oficial No. 30631; valid until 31 Dec 2026; up to US$100 million for ministries and agencies to execute works and buy goods/services under a special (expedited) procurement procedure. Funds managed by MEF through a trust account at Banco Nacional with Comptroller oversight.",
+   "text_es": "Estado de emergencia nacional adoptado mediante la Resolución de Gabinete N.° 108 del 10 de octubre de 2026, publicada ese día en la Gaceta Oficial N.° 30631; vigente hasta el 31 de diciembre de 2026; hasta US$100 millones para que ministerios y entidades ejecuten obras y compren bienes y servicios por procedimiento especial de contratación. Los fondos los administra el MEF mediante una cuenta fiduciaria en el Banco Nacional, con fiscalización de la Contraloría.",
+   "url": "https://www.prensa-latina.cu/2026/10/11/panama-habilitan-ayuda-a-damnificados-tras-potente-sismo/"
+  },
+  {
+   "topic": "Education (MEDUCA)",
+   "text_en": "Classes suspended in all public and private schools nationwide on Monday 12 Oct (announced Saturday evening); ~419 schools affected, 24 to be rebuilt; no resumption date yet. University of Panama operating virtually.",
+   "text_es": "Clases suspendidas en todas las escuelas oficiales y particulares del país el lunes 12 de octubre (anuncio del sábado en la noche); unas 419 escuelas afectadas, 24 por reconstruir; sin fecha de reanudación. La Universidad de Panamá funciona de forma virtual.",
+   "url": "https://www.telemetro.com/nacionales/no-habra-clases-el-lunes-12-octubre-mientras-evaluan-danos-planteles-sismo-n6094777"
+  },
+  {
+   "topic": "Transport (Metro)",
+   "text_en": "Metro Lines 1 and 2 scheduled to reopen Sunday 11 Oct at 07:00 after passenger-free test runs (announcement Saturday night).",
+   "text_es": "Las líneas 1 y 2 del Metro debían reabrir el domingo 11 de octubre a las 7:00 a. m. tras marchas en blanco (anuncio del sábado en la noche).",
+   "url": "https://destinopanama.com.pa/2026/10/el-metro-de-panama-reanuda-sus-funciones-desde-las-700-am-de-este-domingo/"
+  },
+  {
+   "topic": "Utilities (Naturgy)",
+   "text_en": "Naturgy reported 97% of affected customers restored by Saturday afternoon; 190+ crews; pending areas include Mariato, Soná, Atalaya, Tonosí, Flores and Pedasí.",
+   "text_es": "Naturgy reportó el sábado en la tarde el 97% de los clientes afectados con servicio restablecido; más de 190 brigadas; quedan pendientes zonas como Mariato, Soná, Atalaya, Tonosí, Flores y Pedasí.",
+   "url": "https://destinopanama.com.pa/2026/10/naturgy-restablece-el-97-del-servicio-electrico-tras-el-sismo/"
+  },
+  {
+   "topic": "Health (MINSA)",
+   "text_en": "Minister Boyd Galindo toured Coclé, Herrera, Veraguas and Los Santos on Saturday; announced a B/.30 million, ~18-month replacement hospital for Tonosí; 203 MINSA staff deployed; four facilities working from tents; Ocú hospital services moved to a CAPSI; six field hospitals operating.",
+   "text_es": "El ministro Boyd Galindo recorrió el sábado Coclé, Herrera, Veraguas y Los Santos; anunció un hospital de reemplazo para Tonosí de B/.30 millones (unos 18 meses); 203 funcionarios del MINSA desplegados; cuatro instalaciones atienden en carpas; el hospital de Ocú trasladó servicios a un CAPSI; seis hospitales de campaña en funcionamiento.",
+   "url": "https://www.laverdadpa.com/minsa-mantiene-la-atencion-de-salud-tras-el-sismo-y-anuncia-nuevo-hospital-para-tonosi/"
+  },
+  {
+   "topic": "International – United States",
+   "text_en": "State Department committed US$5 million in humanitarian assistance; DART plus two USAR technical teams (20 specialists) in country; SOUTHCOM CH-47 Chinook moving tents/supplies to Azuero; two SENAN helicopters authorised.",
+   "text_es": "El Departamento de Estado comprometió US$5 millones en asistencia humanitaria; un equipo DART y dos equipos técnicos USAR (20 especialistas) en el país; un CH-47 Chinook del Comando Sur traslada carpas y suministros a Azuero; se autorizó el uso de dos helicópteros del SENAN.",
+   "url": "https://en.cibercuba.com/noticias/2026-10-10-u1-e208574-s27061-nid342547-departamento-estado-eeuu-destina-5-millones-panama"
+  },
+  {
+   "topic": "Tonosí access and services",
+   "text_en": "Saturday night (Infobae 20:54 local): Tonosí still without power and piped water; roads from Las Tablas and Pedasí closed, access only via Macaracas; Naturgy's 97% restoration excludes parts of Tonosí, Flores, Pedasí and Mariato. Tonosí rural hospital unusable: tents now, B/.30m replacement announced.",
+   "text_es": "Sábado en la noche (Infobae, 8:54 p. m.): Tonosí sigue sin luz ni agua; vías desde Las Tablas y Pedasí cerradas, acceso solo por Macaracas; el 97% de restablecimiento de Naturgy no incluye partes de Tonosí, Flores, Pedasí y Mariato. El hospital rural de Tonosí quedó inhabilitado: atención en carpas y anuncio de uno nuevo de B/.30 millones.",
+   "url": "https://www.infobae.com/panama/2026/10/11/tonosi-cerca-del-epicentro-del-terremoto-en-panama-sigue-sin-agua-ni-electricidad-y-con-vias-cerradas/"
+  },
+  {
+   "topic": "International – UN and others",
+   "text_en": "No formal international appeal found. UN system in Panama activated its emergency group and stands ready (no request received); UNICEF ready to support; IFRC has made its global mechanisms (DREF/appeal) available pending assessments, but no DREF allocation found yet; EU ERCC monitoring, offer of help if requested. No new Colombia/Costa Rica aid deliveries found in this window.",
+   "text_es": "No se halló un llamamiento internacional formal. El Sistema de la ONU en Panamá activó su grupo de emergencias y está listo para apoyar (sin solicitud del Gobierno); UNICEF dispuesto a apoyar; la FICR puso a disposición sus mecanismos globales (DREF/llamamiento) según las evaluaciones, pero aún no se ha hallado una asignación DREF; el ERCC de la UE monitorea y ofrece ayuda si se solicita. No se hallaron nuevas entregas de ayuda de Colombia o Costa Rica en este periodo.",
+   "url": "https://news.un.org/es/story/2026/10/1542036"
+  }
+ ]
+}

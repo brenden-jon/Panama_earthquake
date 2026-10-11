@@ -1,13 +1,13 @@
 {
- "updated_utc": "2026-10-10T20:15:00Z",
- "headline": "Panama has declared a national state of emergency after the M7.7 Azuero earthquake and allocated US$100 million. Officially no deaths; 426+ homes damaged and about 2,130 people affected so far.",
+ "updated_utc": "2026-10-11T13:45:00Z",
+ "headline": "Two days after the M7.7 Azuero earthquake, a national state of emergency is in force. Officially no deaths; 840 homes affected, about 267 people in shelters and 419 schools damaged; no classes on Monday.",
  "key_points": [
-  "Official (SINAPROC, 10 Oct): 0 deaths, 27 injured; 426+ homes damaged, ~2,130 people affected; 419 schools and 21 health facilities affected.",
-  "Housing damage well above official counts: hundreds of homes collapsed in Los Pozos, ~100 damaged in Las Minas, over half destroyed in Mandinga (Pesé).",
-  "Tonosí cut off (access only via Macaracas): mayor's SOS — no power or water, food and medicine short; 8 fracture patients airlifted.",
-  "Hospitals treating patients in tents in Penonomé (~70), Aguadulce (165 evacuated), San Félix, Chitré and La Villa; modular hospitals being set up.",
-  "Families sleeping outdoors in Las Tablas stadium, El Guayabal, La Villa and El Guabo; shelters opened in Mariato schools.",
-  "National state of emergency declared, US$100M allocated. IDB contingent credit up to US$300M + US$500k grant; CAF US$50M line; US helicopters delivering aid."
+  "Official (COE/SINAPROC, Sat evening): 0 deaths, 29 injured; 840 homes affected (Herrera 206, Veraguas 202, Los Santos 182, Coclé 149); ~267 in shelters.",
+  "Local reports point higher still: hundreds of homes collapsed in Los Pozos, ~100 in Las Minas, over half of Mandinga (Pesé).",
+  "Tonosí: hospital unusable — care in tents; new US$30M hospital announced. Power and water still out in Tonosí, Mariato, Soná and Pedasí areas.",
+  "Schools: 419 affected, 24 need rebuilding; no classes nationwide on Monday 12 Oct.",
+  "Emergency decree (Res. 108, to 31 Dec): US$100M fast-track funds, may rise. IDB up to US$300M + US$500k; CAF US$50M; US$5M from US State Dept.",
+  "Storm warning until Monday 13:00 raises landslide risk in quake-hit provinces; aftershocks continue (M5.0 Sunday morning)."
  ],
  "areas": [
   {
@@ -70,7 +70,7 @@
   {
    "sector": "Electricity",
    "status": "disrupted",
-   "text": "Distribution outages in six provinces (Chiriquí, Herrera, Los Santos, Veraguas, Coclé, part of Panamá Oeste); 17 circuits restored in Colón. ETESA says the national transmission network is stable.",
+   "text": "Naturgy has restored 97% of affected customers; Mariato, Soná, Atalaya, Tonosí, Flores and Pedasí still pending.",
    "source": "Naturgy / Ensa / ETESA via media"
   },
   {
@@ -112,7 +112,7 @@
   {
    "sector": "Education & public offices",
    "status": "closed",
-   "text": "Classes suspended nationwide; University of Panama closed; public offices closed by presidential order.",
+   "text": "419 schools affected, 24 need rebuilding; no classes nationwide on Monday 12 Oct (MEDUCA).",
    "source": "MEDUCA / Presidencia"
   },
   {
@@ -128,12 +128,12 @@
    "source": "Telemetro live"
   }
  ],
- "upcoming": "MEDUCA to announce on Sunday whether classes resume Monday; damage assessments continue.",
+ "upcoming": "MIVIOT housing census and next COE/SINAPROC balance expected; storm warning in force until Monday 13:00.",
  "unknowns": [
-  "Full count of destroyed homes and displaced people; official assessments (426 homes so far) are still under way.",
-  "A consolidated count of damaged and destroyed homes; local reports point to many hundreds.",
-  "Number of displaced people and people in shelters; many families are sleeping outdoors.",
-  "When power, water and road access to Tonosí and five cut-off Los Santos communities will be restored.",
-  "Extent of landslides (El Valle de Antón, Cañazas–Altos de Ibalá road reported)."
+  "Homes destroyed (only Chiriquí's 10 reported) and the final housing count — MIVIOT housing census under way.",
+  "When access, power and water will be restored to Tonosí and the Mariato coast.",
+  "Whether heavy rain triggers further landslides on damaged slopes and roads.",
+  "When schools will reopen and how many need structural repair.",
+  "Full cost of damage — no official estimate yet."
  ]
 }

@@ -1,22 +1,22 @@
 {
- "generated_utc": "2026-10-11T10:59:22Z",
+ "generated_utc": "2026-10-11T13:13:27Z",
  "official_latest": {
-  "as_of_utc": "2026-10-10T19:34:00Z",
+  "as_of_utc": "2026-10-10T23:30:00Z",
   "deaths": 0,
-  "injured": 27,
-  "missing": null,
-  "displaced": null,
-  "affected_people": 2130,
-  "homes_damaged": 426,
+  "injured": 29,
+  "missing": 0,
+  "displaced": 267,
+  "homes_damaged": 840,
   "homes_destroyed": null,
   "infrastructure": {
    "schools": 419,
-   "health_facilities": 21
+   "health_facilities": 21,
+   "bridges": 11
   },
-  "source_name": "Government of Panama / SINAPROC (Cabinet press conference, 10 Oct)",
-  "url": "https://www.infobae.com/panama/2026/10/10/gobierno-de-panama-declara-estado-de-emergencia-tras-terremoto-y-destina-100-millones-para-atender-los-danos/",
-  "note": "Cabinet declared a national state of emergency (focus on Herrera, Los Santos and Veraguas) and allocated US$100 million. SINAPROC: 0 deaths, 27 injured; more than 426 homes assessed with damage (severe, moderate, minor) by MOP, MIVIOT and SINAPROC, about 2,130 people affected (damnificados); 419 schools (MEDUCA) and 21 health facilities affected; 300 people evacuated from Isla Cañas. MEDUCA to decide on Sunday whether classes resume Monday.",
-  "note_es": "El Consejo de Gabinete declaró estado de emergencia nacional (con énfasis en Herrera, Los Santos y Veraguas) y destinó US$100 millones. SINAPROC: 0 fallecidos, 27 lesionados; más de 426 viviendas evaluadas con daños (graves, moderados, leves) por MOP, MIVIOT y SINAPROC, unas 2.130 personas damnificadas; 419 centros educativos (MEDUCA) y 21 instalaciones de salud afectadas; 300 personas evacuadas de Isla Cañas. MEDUCA decidirá el domingo si las clases se reanudan el lunes."
+  "source_name": "COE Nacional / SINAPROC report (~18:30 local, 10 Oct), as reported by TVN and La Prensa",
+  "url": "https://www.tvn-2.com/nacionales/temblor-panama-800-casas-afectadas_1_2265477.html",
+  "note": "COE/SINAPROC national balance (Saturday ~18:30 local): 0 deaths, 0 missing, 29 injured; 840 homes affected (Herrera 206, Veraguas 202, Los Santos 182, Coclé 149, Chiriquí 49 incl. 10 destroyed, Panamá Oeste 21, Colón 18, Bocas del Toro 8, Darién 1) plus 4 apartment buildings; about 267 people in shelters (Mariato 255, Penonomé 12) and 300 evacuated as a precaution from Isla Cañas; 1,213 people registered as affected (the Cabinet cited ~2,130 damnificados); 419 schools; 11 bridges. Health facilities (21) from the Cabinet briefing the same day.",
+  "note_es": "Balance nacional del COE/SINAPROC (sábado ~18:30 hora local): 0 fallecidos, 0 desaparecidos, 29 lesionados; 840 viviendas afectadas (Herrera 206, Veraguas 202, Los Santos 182, Coclé 149, Chiriquí 49 incl. 10 destruidas, Panamá Oeste 21, Colón 18, Bocas del Toro 8, Darién 1) más 4 edificios de apartamentos; unas 267 personas en albergues (Mariato 255, Penonomé 12) y 300 evacuadas preventivamente de Isla Cañas; 1.213 personas registradas como afectadas (el Gabinete citó ~2.130 damnificados); 419 escuelas; 11 puentes. Instalaciones de salud (21) según la conferencia del Gabinete del mismo día."
  },
  "official_snapshots": [
   {
@@ -96,6 +96,24 @@
    "url": "https://www.infobae.com/panama/2026/10/10/gobierno-de-panama-declara-estado-de-emergencia-tras-terremoto-y-destina-100-millones-para-atender-los-danos/",
    "note": "Cabinet declared a national state of emergency (focus on Herrera, Los Santos and Veraguas) and allocated US$100 million. SINAPROC: 0 deaths, 27 injured; more than 426 homes assessed with damage (severe, moderate, minor) by MOP, MIVIOT and SINAPROC, about 2,130 people affected (damnificados); 419 schools (MEDUCA) and 21 health facilities affected; 300 people evacuated from Isla Cañas. MEDUCA to decide on Sunday whether classes resume Monday.",
    "note_es": "El Consejo de Gabinete declaró estado de emergencia nacional (con énfasis en Herrera, Los Santos y Veraguas) y destinó US$100 millones. SINAPROC: 0 fallecidos, 27 lesionados; más de 426 viviendas evaluadas con daños (graves, moderados, leves) por MOP, MIVIOT y SINAPROC, unas 2.130 personas damnificadas; 419 centros educativos (MEDUCA) y 21 instalaciones de salud afectadas; 300 personas evacuadas de Isla Cañas. MEDUCA decidirá el domingo si las clases se reanudan el lunes."
+  },
+  {
+   "as_of_utc": "2026-10-10T23:30:00Z",
+   "deaths": 0,
+   "injured": 29,
+   "missing": 0,
+   "displaced": 267,
+   "homes_damaged": 840,
+   "homes_destroyed": null,
+   "infrastructure": {
+    "schools": 419,
+    "health_facilities": 21,
+    "bridges": 11
+   },
+   "source_name": "COE Nacional / SINAPROC report (~18:30 local, 10 Oct), as reported by TVN and La Prensa",
+   "url": "https://www.tvn-2.com/nacionales/temblor-panama-800-casas-afectadas_1_2265477.html",
+   "note": "COE/SINAPROC national balance (Saturday ~18:30 local): 0 deaths, 0 missing, 29 injured; 840 homes affected (Herrera 206, Veraguas 202, Los Santos 182, Coclé 149, Chiriquí 49 incl. 10 destroyed, Panamá Oeste 21, Colón 18, Bocas del Toro 8, Darién 1) plus 4 apartment buildings; about 267 people in shelters (Mariato 255, Penonomé 12) and 300 evacuated as a precaution from Isla Cañas; 1,213 people registered as affected (the Cabinet cited ~2,130 damnificados); 419 schools; 11 bridges. Health facilities (21) from the Cabinet briefing the same day.",
+   "note_es": "Balance nacional del COE/SINAPROC (sábado ~18:30 hora local): 0 fallecidos, 0 desaparecidos, 29 lesionados; 840 viviendas afectadas (Herrera 206, Veraguas 202, Los Santos 182, Coclé 149, Chiriquí 49 incl. 10 destruidas, Panamá Oeste 21, Colón 18, Bocas del Toro 8, Darién 1) más 4 edificios de apartamentos; unas 267 personas en albergues (Mariato 255, Penonomé 12) y 300 evacuadas preventivamente de Isla Cañas; 1.213 personas registradas como afectadas (el Gabinete citó ~2.130 damnificados); 419 escuelas; 11 puentes. Instalaciones de salud (21) según la conferencia del Gabinete del mismo día."
   }
  ],
  "conflicts": [
@@ -271,8 +289,8 @@
    ]
   }
  },
- "reports_count": 385,
- "reports_with_images": 157,
+ "reports_count": 413,
+ "reports_with_images": 160,
  "places_with_damage": [
   "Aguadulce",
   "Aguadulce (municipal market)",
@@ -280,14 +298,19 @@
   "Archipiélago de las Perlas",
   "Atalaya",
   "Atalaya (Basílica Menor Jesús Nazareno)",
+  "Bajo Corral",
+  "Bayano (La Canoa, Taboga)",
+  "Búcaro, Flores, Cambutal and Isla de Cañas",
   "Calle 50 / Paitilla, Panama City",
   "Cambutal",
   "Cañazas (road to Altos de Ibalá)",
   "Cerro Viejo, Tolé (Centro de Salud)",
+  "Chepo de Las Minas",
   "Chiriquí province",
   "Chiriquí province (schools)",
   "Chitré",
   "Chitré (fire stations)",
+  "Chupaito",
   "Coclé (Escuela Alejandro Tapia / Federico Zúñiga)",
   "Coclé province",
   "Colón (city)",
@@ -308,6 +331,8 @@
   "Hospital del Oriente Chiricano (San Félix)",
   "La Chorrera (fire stations)",
   "La Enea, Guararé (home of singer Lucho Pérez)",
+  "La Miel",
+  "La Pitaloza",
   "La Pitaloza, Los Pozos",
   "La Villa de Los Santos",
   "La Villa de Los Santos (Iglesia de San Atanasio)",
@@ -329,9 +354,11 @@
   "Macaracas (Restaurante Mr. Fan)",
   "Macaracas (fire station)",
   "Macaracas (university building)",
+  "Madre Vieja (Río Grande)",
   "Mandinga (Pesé)",
   "Marbella, Panama City",
   "Mariato",
+  "Montijo (town)",
   "Nationwide (schools)",
   "Natá",
   "Ocú (Escuela Gloriela Barría)",
