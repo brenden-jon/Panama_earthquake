@@ -12,7 +12,7 @@
 <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/MarkerCluster.min.css">
-<link rel="stylesheet" href="assets/style.css?v=20261012014059">
+<link rel="stylesheet" href="assets/style.css?v=20261012153141">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Cpath d='M2 17h6l3-8 5 15 4-11 3 4h7' fill='none' stroke='%23d03b3b' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E">
 </head>
 <body>
@@ -60,6 +60,7 @@
     <a href="#impacts" data-tab="impacts">Impact reports <span class="count" id="n-reports" data-dyn></span></a>
     <a href="#news" data-tab="news">Live news stream <span class="count" id="n-news" data-dyn></span></a>
     <a href="#risk" data-tab="risk">Rapid exposure assessment</a>
+    <a href="#poverty" data-tab="poverty">Poverty &amp; social impact</a>
     <a href="#sources" data-tab="sources">Method &amp; sources</a>
   </nav>
 </header>
@@ -229,6 +230,22 @@
   </div>
 </section>
 
+<!-- ================= POVERTY ================= -->
+<section id="tab-poverty" class="tab">
+  <div id="pov-intro" data-dyn></div>
+  <div class="numbers pov-numbers" id="pov-numbers" data-dyn></div>
+  <div class="card card-map pov-map-card">
+    <div class="pov-map-head" data-dyn id="pov-map-head"></div>
+    <div id="pov-map" class="pov-map" aria-label="Map: poverty rate by corregimiento with earthquake shaking contours"></div>
+    <div class="pov-legend" id="pov-legend" data-dyn></div>
+  </div>
+  <div class="grid-2">
+    <div class="card"><div id="pov-means" data-dyn></div></div>
+    <div class="card"><div id="pov-table" data-dyn></div></div>
+  </div>
+  <p class="muted small" id="pov-source" data-dyn></p>
+</section>
+
 <!-- ================= SOURCES ================= -->
 <section id="tab-sources" class="tab">
   <div class="card prose">
@@ -267,8 +284,8 @@
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/leaflet.markercluster.min.js"></script>
-<script src="assets/stats.js?v=20261012014059"></script>
-<script src="assets/i18n.js?v=20261012014059"></script>
-<script src="assets/app.js?v=20261012014059"></script>
+<script src="assets/stats.js?v=20261012153141"></script>
+<script src="assets/i18n.js?v=20261012153141"></script>
+<script src="assets/app.js?v=20261012153141"></script>
 </body>
 </html>

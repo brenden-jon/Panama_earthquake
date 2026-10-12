@@ -377,3 +377,27 @@ html:not(.gate-ok) body > :not(.gate):not(script) { visibility: hidden; }
   .last-update { font-size: 11.5px; }
   #updated { display: block !important; }
 }
+
+/* poverty & social impact */
+.pov-numbers { grid-template-columns: repeat(4, 1fr); margin-top: 14px; }
+@media (max-width: 1100px) { .pov-numbers { grid-template-columns: 1fr 1fr; } }
+.nv-vs { font-size: 16px; font-weight: 600; color: var(--muted); }
+.pov-map-card { margin-top: 14px; }
+.pov-map-head { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px; padding: 12px 14px 10px; }
+.pov-map-head h3 { margin: 0; }
+.pov-ctl { display: flex; flex-wrap: wrap; align-items: center; gap: 10px; font-size: 13px; }
+.pov-ctl select { max-width: 100%; }
+.pov-chk { display: inline-flex; align-items: center; gap: 4px; color: var(--text-2); }
+.pov-map { height: 560px; }
+@media (max-width: 640px) { .pov-map { height: 420px; } }
+.pov-legend { padding: 10px 14px 12px; font-size: 12px; color: var(--text-2); border-top: 1px solid var(--border); }
+.pl-title { font-weight: 600; margin-bottom: 6px; color: var(--text); }
+.pl-ramp, .pl-lines { display: flex; flex-wrap: wrap; gap: 4px 12px; }
+.pl-lines { margin-top: 6px; }
+.pl-ramp i { display: inline-block; width: 14px; height: 12px; border-radius: 2px; margin-right: 4px; vertical-align: -2px; border: 1px solid var(--border); }
+.pl-line { display: inline-block; width: 18px; height: 0; border-top: 3px solid; margin-right: 4px; vertical-align: 3px; }
+.pov-list li { margin-bottom: 10px; line-height: 1.5; }
+#pov-source { margin-top: 12px; line-height: 1.5; }
+.pov-ctl { min-width: 0; max-width: 100%; }
+@media (max-width: 640px) { .pov-ctl, .pov-ctl select { width: 100%; } }
+.pov-map-head > *, .pov-ctl select { min-width: 0; box-sizing: border-box; }

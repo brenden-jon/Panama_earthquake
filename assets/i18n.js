@@ -34,6 +34,7 @@ window.I18N = (() => {
     "Impact reports": "Reportes de impacto",
     "Live news stream": "Noticias en vivo",
     "Rapid exposure assessment": "Evaluación rápida de exposición",
+    "Poverty & social impact": "Pobreza e impacto social",
 
     // overview
     "Key numbers": "Cifras clave",

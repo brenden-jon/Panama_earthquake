@@ -84,13 +84,14 @@ window.onLangApplied = () => { if ($("#theme-btn")) themeLabel(); };
 // ---------- tabs ----------
 function showTab() {
   const id = (location.hash || "#overview").slice(1);
-  const valid = ["overview", "map", "impacts", "news", "risk", "sources"];
+  const valid = ["overview", "map", "impacts", "news", "risk", "poverty", "sources"];
   const tab = valid.includes(id) ? id : "overview";
   document.querySelectorAll(".tab").forEach(s => s.classList.toggle("active", s.id === "tab-" + tab));
   document.querySelectorAll(".tabs a").forEach(a => a.classList.toggle("active", a.dataset.tab === tab));
   if (document.documentElement.classList.contains("gate-ok")) STATS.page("/" + tab, tab);
   if (tab === "map") initFullMap("big", "big-map");
   if (tab === "risk") initRiskMap();
+  if (tab === "poverty") showPoverty();
   if (tab === "overview") initFullMap("ov", "ov-map");
   setTimeout(() => Object.values(maps).forEach(m => m.invalidateSize()), 50);
   window.scrollTo({ top: 0 });
@@ -416,6 +417,140 @@ function initRiskMap() {
   draw();
 }
 
+// ---------- poverty & social impact ----------
+// Poverty map 2022 (MEF / World Bank small-area estimates, Census 2023) by corregimiento, crossed with ShakeMap exposure.
+const POV_REPORT = "https://documentos.bancomundial.org/es/publication/documents-reports/documentdetail/099043025143034152";
+const POV_ANNEX = "http://documents.worldbank.org/curated/en/099042925123538272";
+const POV_RAMP = ["#f4f0f8", "#ddd0ea", "#c3acd9", "#a586c4", "#8462ad", "#634194", "#432371"];
+const POV_METRICS = {
+  pov: { breaks: [0.1, 0.2, 0.3, 0.4, 0.5, 0.7], v: p => p.pov, pct: true,
+    en: "Poverty rate (moderate)", es: "Tasa de pobreza (general)" },
+  ext: { breaks: [0.025, 0.05, 0.1, 0.2, 0.3, 0.5], v: p => p.ext, pct: true,
+    en: "Extreme poverty rate", es: "Tasa de pobreza extrema" },
+  poor7: { breaks: [100, 250, 500, 1000, 2500, 5000], v: p => p.poor7, zeroBlank: true,
+    en: "Poor people in very strong shaking (MMI VII+)", es: "Personas pobres con sacudida muy fuerte (MMI VII+)" },
+  inc: { breaks: [600, 400, 300, 200, 150, 100], v: p => p.inc, desc: true, money: true,
+    en: "Income per person (US$/month; darker = lower)", es: "Ingreso por persona (US$/mes; más oscuro = menor)" },
+};
+const pct = (x, d = 0) => (x * 100).toFixed(d) + "%";
+async function loadPoverty() {
+  if (state.pov) return true;
+  try {
+    const [s, g] = await Promise.all([getJSON("data/poverty/summary.json"), getJSON("data/poverty/corregimientos_poverty.geojson", false)]);
+    state.pov = { s, g };
+    return true;
+  } catch (e) { return false; }
+}
+function povClass(m, v) {
+  if (v == null || (m.zeroBlank && !v)) return -1;
+  const b = m.breaks; let i = 0;
+  if (m.desc) { while (i < b.length && v < b[i]) i++; } else { while (i < b.length && v >= b[i]) i++; }
+  return i;
+}
+function povLegend(key) {
+  const m = POV_METRICS[key], b = m.breaks;
+  const f = x => m.pct ? pct(x, x < 0.05 ? 1 : 0) : m.money ? "$" + x : fmt(x);
+  const labels = POV_RAMP.map((_, i) => m.desc
+    ? (i === 0 ? `≥ ${f(b[0])}` : i === b.length ? `< ${f(b[b.length - 1])}` : `${f(b[i])}–${f(b[i - 1])}`)
+    : (i === 0 ? `< ${f(b[0])}` : i === b.length ? `≥ ${f(b[b.length - 1])}` : `${f(b[i - 1])}–${f(b[i])}`));
+  $("#pov-legend").innerHTML = `<div class="pl-title">${tl(m.en, m.es)}</div><div class="pl-ramp">` +
+    POV_RAMP.map((c, i) => `<span><i style="background:${c}"></i>${labels[i]}</span>`).join("") + `</div>` +
+    `<div class="pl-lines"><span><i class="pl-line" style="border-color:${MMI_COLORS[6]}"></i>${tl("Shaking VI (strong)", "Sacudida VI (fuerte)")}</span>` +
+    `<span><i class="pl-line" style="border-color:${MMI_COLORS[7]}"></i>VII (${tl("very strong", "muy fuerte")})</span>` +
+    `<span><i class="pl-line" style="border-color:${MMI_COLORS[8]}"></i>VIII (${tl("severe", "severa")})</span>` +
+    `<span><span class="epi-swatch">★</span> ${tl("Epicentre", "Epicentro")}</span></div>`;
+}
+function povLayer(key) {
+  const m = POV_METRICS[key];
+  return L.geoJSON(state.pov.g, {
+    style: f => { const c = povClass(m, m.v(f.properties)); return { color: isDark() ? "#444" : "#fff", weight: 0.4, fillColor: c < 0 ? "transparent" : POV_RAMP[c], fillOpacity: c < 0 ? 0 : 0.82 }; },
+    onEachFeature: (f, l) => {
+      const p = f.properties;
+      l.bindTooltip(() => `<b>${esc(p.n)}</b><br><span class="muted">${esc(p.d)}, ${esc(p.p)}</span><br>` +
+        `${tl("Population", "Población")}: ${fmt(p.pop)}<br>${tl("Poverty", "Pobreza")}: <b>${pct(p.pov)}</b> · ${tl("extreme", "extrema")}: ${pct(p.ext)}<br>` +
+        `${tl("Income per person", "Ingreso por persona")}: US$${fmt(p.inc)}/${tl("month", "mes")} · Gini ${p.gini.toFixed(2)}<br>` +
+        `${tl("Modelled shaking", "Sacudida modelada")}: MMI ${p.mmi != null ? p.mmi.toFixed(1) : "–"}${p.p7 ? ` · ${pct(p.s7)} ${tl("of people at VII+", "de la población en VII+")} (~${fmt(p.poor7)} ${tl("poor", "pobres")})` : ""}`, { sticky: true });
+    },
+  });
+}
+function povContours() {
+  if (!state.contours) return L.layerGroup();
+  const sel = f => [6, 7, 8].includes(f.properties.value);
+  return L.layerGroup([   // dark casing under the MMI-coloured line keeps yellow legible on pale fills
+    L.geoJSON(state.contours, { interactive: false, filter: sel, style: () => ({ color: "#1b1b1b", weight: 4.4, opacity: 0.55 }) }),
+    L.geoJSON(state.contours, { interactive: false, filter: sel, style: f => ({ color: MMI_COLORS[f.properties.value], weight: 2.6, opacity: 1 }) }),
+  ]);
+}
+function initPovMap() {
+  if (maps.pov || !window.L || !state.pov) return;
+  const m = maps.pov = L.map("pov-map", { zoomSnap: 0.25, scrollWheelZoom: false, dragging: !L.Browser.mobile, tap: false }).fitBounds([[7.2, -81.5], [8.9, -79.7]]);
+  baseLayer(m);
+  const draw = () => {
+    ["_pov", "_cont", "_photos"].forEach(k => m[k] && m.removeLayer(m[k]));
+    const key = $("#pov-metric")?.value || "pov";
+    m._pov = povLayer(key).addTo(m);
+    m._cont = povContours().addTo(m);
+    if ($("#pov-photos")?.checked) m._photos = reportLayers().photos.addTo(m);
+    povLegend(key);
+  };
+  m._redraw = draw;
+  epicentre().addTo(m);
+  draw();
+}
+function renderPoverty() {
+  if (!state.pov) return;
+  const S = state.pov.s, N = S.national, v7 = S.vii, ru = S.rural_vii, ur = S.urban_vii;
+  const r100 = n => roundTo(n, n >= 10000 ? 1000 : 100);
+  $("#pov-intro").innerHTML = `<div class="callout"><strong>${tl("Who lives where the shaking was strongest?", "¿Quién vive donde la sacudida fue más fuerte?")}</strong> ` +
+    tl(`This page overlays the earthquake's modelled shaking (USGS ShakeMap) on Panama's official <a href="${POV_REPORT}" target="_blank" rel="noopener">2022 poverty map</a> (Ministry of Economy and Finance and World Bank, 2025), which estimates income poverty for each of the 699 corregimientos by combining the 2022 household survey with the 2023 census. Poverty figures are <em>pre-earthquake</em>; exposure to shaking is not the same as damage.`,
+       `Esta página superpone la sacudida modelada del sismo (ShakeMap del USGS) con el <a href="${POV_REPORT}" target="_blank" rel="noopener">mapa de pobreza 2022</a> oficial de Panamá (Ministerio de Economía y Finanzas y Banco Mundial, 2025), que estima la pobreza por ingresos de cada uno de los 699 corregimientos combinando la encuesta de hogares 2022 con el censo 2023. Las cifras de pobreza son <em>previas al sismo</em>; la exposición a la sacudida no equivale a daño.`) + `</div>`;
+  const tile = (v, l, f, kind = "model", wide = false) => `<div class="num${wide ? " num-wide" : ""}"><span class="kind kind-${kind}">${kind === "model" ? t("Estimate") : tl("Pre-quake data", "Datos previos")}</span><div class="nv">${v}</div><div class="nl">${l}</div><div class="nf">${f}</div></div>`;
+  $("#pov-numbers").innerHTML = [
+    tile(`~${fmtK(r100(v7.poor))}`, tl("poor people live in areas of very strong shaking (MMI VII+)", "personas pobres viven en zonas de sacudida muy fuerte (MMI VII+)"),
+      tl(`${pct(v7.rate)} of the ~${fmtK(roundTo(v7.pop, 10000))} people at VII+`, `${pct(v7.rate)} de las ~${fmtK(roundTo(v7.pop, 10000))} personas en VII+`)),
+    tile(`~${fmtK(r100(v7.ext))}`, tl("in extreme poverty in the same areas", "en pobreza extrema en esas mismas zonas"),
+      tl(`income below US$${N.line_ext}/person/month`, `ingreso menor a US$${N.line_ext}/persona/mes`)),
+    tile(`${pct(ru.rate)} <span class="nv-vs">vs ${pct(ur.rate)}</span>`, tl("poverty in rural vs urban corregimientos with very strong shaking", "pobreza en corregimientos rurales vs urbanos con sacudida muy fuerte"),
+      tl(`about ${(ru.rate / ur.rate).toFixed(1)}× higher in the countryside`, `cerca de ${(ru.rate / ur.rate).toFixed(1)} veces mayor en el campo`)),
+    tile(`${S.n_vii_pov40}`, tl(`hard-hit corregimientos where 40%+ of people are poor`, `corregimientos muy afectados donde el 40 %+ de la población es pobre`),
+      tl(`of ${S.n_vii_corr} with most residents at VII+ · ~${fmtK(r100(S.pov40_pop))} residents`, `de ${S.n_vii_corr} con la mayoría de residentes en VII+ · ~${fmtK(r100(S.pov40_pop))} habitantes`)),
+  ].join("");
+  $("#pov-map-head").innerHTML = `<h3>${tl("Poverty by corregimiento and earthquake shaking", "Pobreza por corregimiento y sacudida del sismo")}</h3>
+    <div class="pov-ctl"><select id="pov-metric" aria-label="${tl("Map metric", "Indicador del mapa")}">${Object.entries(POV_METRICS).map(([k, m]) => `<option value="${k}">${tl(m.en, m.es)}</option>`).join("")}</select>
+    <label class="pov-chk"><input type="checkbox" id="pov-photos"> ${tl("Damage photos", "Fotos de daños")}</label></div>`;
+  const means = [
+    tl(`<b>The worst-shaken area is, on average, less poor than Panama as a whole.</b> Poverty among the ~${fmtK(roundTo(v7.pop, 10000))} people at MMI VII+ is ${pct(v7.rate)}, against ${pct(N.rate)} nationally, because the hardest-hit provinces (Los Santos ${"15%"}, Herrera ${"16%"}) and towns such as Chitré, Santiago and Penonomé are among the better-off parts of the country.`,
+       `<b>La zona con mayor sacudida es, en promedio, menos pobre que el país en su conjunto.</b> La pobreza entre las ~${fmtK(roundTo(v7.pop, 10000))} personas en MMI VII+ es del ${pct(v7.rate)}, frente al ${pct(N.rate)} nacional, porque las provincias más golpeadas (Los Santos 15 %, Herrera 16 %) y ciudades como Chitré, Santiago y Penonomé están entre las zonas con mejores condiciones del país.`),
+    tl(`<b>But poverty is concentrated in the rural interior right next to the epicentre.</b> In Las Minas, Los Pozos, Ocú and Macaracas many corregimientos had modelled shaking near or above MMI VIII and 48–59% poverty (e.g. Chepo and Quebrada El Ciprián in Las Minas, Las Llanas and Los Cerros de Paja in Los Pozos, Bahía Honda in Macaracas). Reported damage in these villages is severe, and they are among the hardest to reach.`,
+       `<b>Pero la pobreza se concentra en el interior rural, junto al epicentro.</b> En Las Minas, Los Pozos, Ocú y Macaracas muchos corregimientos tuvieron una sacudida modelada cercana o superior a MMI VIII y 48–59 % de pobreza (p. ej., Chepo y Quebrada El Ciprián en Las Minas, Las Llanas y Los Cerros de Paja en Los Pozos, Bahía Honda en Macaracas). Los daños reportados en estas comunidades son graves y están entre las de más difícil acceso.`),
+    tl(`<b>Western Veraguas (Soná, Las Palmas) is the poorest area with strong shaking</b>, with 55–63% poverty and incomes around US$115–140 per person a month, only just above the rural poverty line of US$${N.line_mod}. Relatively small losses of income, crops, livestock or housing can push these households into poverty or deeper into it.`,
+       `<b>El occidente de Veraguas (Soná, Las Palmas) es la zona más pobre con sacudida fuerte</b>, con 55–63 % de pobreza e ingresos de US$115–140 por persona al mes, apenas por encima de la línea de pobreza rural de US$${N.line_mod}. Pérdidas relativamente pequeñas de ingresos, cosechas, ganado o vivienda pueden llevar a estos hogares a la pobreza o hundirlos más en ella.`),
+    tl(`<b>Recovery support should be targeted below the district level.</b> The report finds poverty ranges from under 1% to 98% across corregimientos, with large gaps within the same province, and that about 9% of Panamanians who were not poor were at risk of falling into poverty within two years, even before this shock. Corregimiento-level estimates like these can help prioritise cash transfers, housing support and the rapid damage assessment.`,
+       `<b>El apoyo a la recuperación debe focalizarse por debajo del nivel de distrito.</b> El informe muestra que la pobreza va de menos del 1 % al 98 % entre corregimientos, con grandes brechas dentro de una misma provincia, y que cerca del 9 % de los panameños no pobres estaba en riesgo de caer en la pobreza en dos años, incluso antes de este choque. Estimaciones por corregimiento como estas pueden ayudar a priorizar transferencias, apoyo a vivienda y la evaluación rápida de daños.`),
+  ];
+  $("#pov-means").innerHTML = `<h3>${tl("What this means", "Qué significa")}</h3><ul class="plain pov-list">${means.map(x => `<li>${x}</li>`).join("")}</ul>`;
+  $("#pov-table").innerHTML = `<h3>${tl("Poorest corregimientos in very strong shaking", "Corregimientos más pobres con sacudida muy fuerte")}</h3>
+    <p class="muted small">${tl("Corregimientos where most residents were exposed to MMI VII+, ranked by poverty rate.", "Corregimientos donde la mayoría de residentes estuvo expuesta a MMI VII+, ordenados por tasa de pobreza.")}</p>
+    <div class="table-wrap"><table class="data compact"><thead><tr><th>${tl("Corregimiento", "Corregimiento")}</th><th>${tl("District", "Distrito")}</th><th class="r">${tl("Pop.", "Pobl.")}</th><th class="r">${tl("Poverty", "Pobreza")}</th><th class="r">${tl("Extreme", "Extrema")}</th><th class="r">MMI</th></tr></thead><tbody>` +
+    S.top.slice(0, 12).map(x => `<tr><td>${esc(x.n)}</td><td>${esc(x.d)}</td><td class="r">${fmt(x.pop)}</td><td class="r"><b>${pct(x.pov)}</b></td><td class="r">${pct(x.ext)}</td><td class="r">${x.mmi.toFixed(1)}</td></tr>`).join("") +
+    `</tbody></table></div>`;
+  $("#pov-source").innerHTML = tl(
+    `Sources: Diéguez, Málaga and Romero (2025), <a href="${POV_REPORT}" target="_blank" rel="noopener"><em>Mapa de Pobreza de Panamá para 2022: Reporte Técnico</em></a> and <a href="${POV_ANNEX}" target="_blank" rel="noopener">online annex</a> (MEF / World Bank). Poverty lines: US$${N.line_mod} per person per month (US$${N.line_mod_city} in urban Panamá and San Miguelito); extreme poverty US$${N.line_ext} (US$73.22 in urban Panamá and San Miguelito). National rates from the census-based model: ${pct(N.rate, 1)} poverty, ${pct(N.ext_rate, 0)} extreme. People exposed to each shaking level: USGS ShakeMap × WorldPop 2025 scaled to Census 2023 (see Rapid exposure assessment). "Rural" = corregimientos with mostly rural households. Mean MMI is averaged over the corregimiento's area. Pre-earthquake estimates; they do not measure losses caused by the earthquake.`,
+    `Fuentes: Diéguez, Málaga y Romero (2025), <a href="${POV_REPORT}" target="_blank" rel="noopener"><em>Mapa de Pobreza de Panamá para 2022: Reporte Técnico</em></a> y <a href="${POV_ANNEX}" target="_blank" rel="noopener">anexo en línea</a> (MEF / Banco Mundial). Líneas de pobreza: US$${N.line_mod} por persona al mes (US$${N.line_mod_city} en el área urbana de Panamá y San Miguelito); pobreza extrema US$${N.line_ext} (US$73.22 en el área urbana de Panamá y San Miguelito). Tasas nacionales del modelo censal: ${pct(N.rate, 1)} de pobreza, ${pct(N.ext_rate, 0)} extrema. Personas expuestas a cada nivel de sacudida: ShakeMap del USGS × WorldPop 2025 ajustado al Censo 2023 (ver Evaluación rápida de exposición). "Rural" = corregimientos con mayoría de hogares rurales. El MMI medio se promedia sobre el área del corregimiento. Estimaciones previas al sismo; no miden las pérdidas causadas por el terremoto.`);
+  const sel = $("#pov-metric"), prev = maps.pov && maps.pov._key;
+  if (prev) sel.value = prev;
+  sel.addEventListener("change", () => { if (maps.pov) { maps.pov._key = sel.value; maps.pov._redraw(); } });
+  $("#pov-photos").checked = !!(maps.pov && maps.pov._photosOn);
+  $("#pov-photos").addEventListener("change", e => { if (maps.pov) { maps.pov._photosOn = e.target.checked; maps.pov._redraw(); } });
+  if (maps.pov) maps.pov._redraw();
+}
+async function showPoverty() {
+  if (!(await loadPoverty())) return;
+  if (!$("#pov-numbers").innerHTML) renderPoverty();
+  initPovMap();
+  setTimeout(() => maps.pov && maps.pov.invalidateSize(), 50);
+}
+
 // ---------- impacts feed ----------
 function populateFilters() {
   const cats = [...new Set(state.reports.map(r => r.category))].sort();
@@ -566,6 +701,7 @@ function renderAll() {
   renderFeed();
   renderNews();
   renderRisk();
+  renderPoverty();
   renderSources();
   Object.values(maps).forEach(m => {
     if (m._panel) refreshMapLayers(m, layerToggles(m));

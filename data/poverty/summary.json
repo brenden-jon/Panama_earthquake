@@ -1,0 +1,230 @@
+{
+ "national": {
+  "pop": 4008473,
+  "rate": 0.249,
+  "ext_rate": 0.11,
+  "inc": 385,
+  "gini": 0.508,
+  "line_mod": "111.54",
+  "line_mod_city": "148.01",
+  "line_ext": "62.40"
+ },
+ "vi": {
+  "pop": 1609931,
+  "poor": 406996,
+  "ext": 189647,
+  "rate": 0.253,
+  "ext_rate": 0.118,
+  "inc": 338
+ },
+ "vii": {
+  "pop": 552695,
+  "poor": 97861,
+  "ext": 32131,
+  "rate": 0.177,
+  "ext_rate": 0.058,
+  "inc": 373
+ },
+ "viii": {
+  "pop": 178200,
+  "poor": 32854,
+  "ext": 10560,
+  "rate": 0.184,
+  "ext_rate": 0.059,
+  "inc": 376
+ },
+ "rural_vii": {
+  "pop": 266029,
+  "rate": 0.252
+ },
+ "urban_vii": {
+  "pop": 286666,
+  "rate": 0.107
+ },
+ "n_vii_corr": 228,
+ "n_vii_pov40": 41,
+ "n_vii_pov30": 83,
+ "pov40_pop": 37517,
+ "top": [
+  {
+   "n": "Puerto Vidal",
+   "d": "Las Palmas",
+   "p": "Veraguas",
+   "pop": 1836,
+   "pov": 0.628,
+   "ext": 0.326,
+   "inc": 119,
+   "mmi": 6.4,
+   "s7": 0.5,
+   "poor7": 587
+  },
+  {
+   "n": "Cativé",
+   "d": "Soná",
+   "p": "Veraguas",
+   "pop": 725,
+   "pov": 0.626,
+   "ext": 0.296,
+   "inc": 115,
+   "mmi": 6.9,
+   "s7": 0.99,
+   "poor7": 448
+  },
+  {
+   "n": "Manuel E. Amador Terrero",
+   "d": "Las Palmas",
+   "p": "Veraguas",
+   "pop": 848,
+   "pov": 0.624,
+   "ext": 0.324,
+   "inc": 121,
+   "mmi": 6.6,
+   "s7": 0.73,
+   "poor7": 387
+  },
+  {
+   "n": "Bahía Honda",
+   "d": "Macaracas",
+   "p": "Los Santos",
+   "pop": 686,
+   "pov": 0.589,
+   "ext": 0.28,
+   "inc": 124,
+   "mmi": 7.8,
+   "s7": 1.0,
+   "poor7": 404
+  },
+  {
+   "n": "Rodeo Viejo",
+   "d": "Soná",
+   "p": "Veraguas",
+   "pop": 1749,
+   "pov": 0.587,
+   "ext": 0.273,
+   "inc": 123,
+   "mmi": 6.9,
+   "s7": 1.0,
+   "poor7": 1026
+  },
+  {
+   "n": "La Laguna",
+   "d": "Calobre",
+   "p": "Veraguas",
+   "pop": 708,
+   "pov": 0.578,
+   "ext": 0.263,
+   "inc": 129,
+   "mmi": 6.7,
+   "s7": 0.91,
+   "poor7": 373
+  },
+  {
+   "n": "Cerro Largo",
+   "d": "Ocú",
+   "p": "Herrera",
+   "pop": 609,
+   "pov": 0.575,
+   "ext": 0.267,
+   "inc": 128,
+   "mmi": 7.7,
+   "s7": 1.0,
+   "poor7": 350
+  },
+  {
+   "n": "El Rincón",
+   "d": "Las Palmas",
+   "p": "Veraguas",
+   "pop": 2635,
+   "pov": 0.574,
+   "ext": 0.266,
+   "inc": 128,
+   "mmi": 6.5,
+   "s7": 0.67,
+   "poor7": 1016
+  },
+  {
+   "n": "Calidonia",
+   "d": "Soná",
+   "p": "Veraguas",
+   "pop": 1286,
+   "pov": 0.572,
+   "ext": 0.251,
+   "inc": 127,
+   "mmi": 6.8,
+   "s7": 0.99,
+   "poor7": 728
+  },
+  {
+   "n": "Bahía Honda",
+   "d": "Soná",
+   "p": "Veraguas",
+   "pop": 668,
+   "pov": 0.559,
+   "ext": 0.237,
+   "inc": 122,
+   "mmi": 6.8,
+   "s7": 0.99,
+   "poor7": 370
+  },
+  {
+   "n": "Quebrada el Ciprián",
+   "d": "Las Minas",
+   "p": "Herrera",
+   "pop": 751,
+   "pov": 0.556,
+   "ext": 0.237,
+   "inc": 137,
+   "mmi": 8.4,
+   "s7": 1.0,
+   "poor7": 417
+  },
+  {
+   "n": "Quebrada de Oro",
+   "d": "Soná",
+   "p": "Veraguas",
+   "pop": 1035,
+   "pov": 0.544,
+   "ext": 0.255,
+   "inc": 140,
+   "mmi": 6.9,
+   "s7": 1.0,
+   "poor7": 563
+  },
+  {
+   "n": "Zapotillo",
+   "d": "Las Palmas",
+   "p": "Veraguas",
+   "pop": 992,
+   "pov": 0.541,
+   "ext": 0.254,
+   "inc": 139,
+   "mmi": 6.6,
+   "s7": 0.81,
+   "poor7": 435
+  },
+  {
+   "n": "El María",
+   "d": "Las Palmas",
+   "p": "Veraguas",
+   "pop": 1040,
+   "pov": 0.535,
+   "ext": 0.231,
+   "inc": 140,
+   "mmi": 6.7,
+   "s7": 0.93,
+   "poor7": 518
+  },
+  {
+   "n": "Leones",
+   "d": "Las Minas",
+   "p": "Herrera",
+   "pop": 640,
+   "pov": 0.524,
+   "ext": 0.232,
+   "inc": 136,
+   "mmi": 7.9,
+   "s7": 1.0,
+   "poor7": 335
+  }
+ ]
+}
