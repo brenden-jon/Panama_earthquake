@@ -1,0 +1,167 @@
+{
+ "generated_utc": "2026-10-12T01:48:56Z",
+ "reports": [
+  {
+   "id": "ph7_1",
+   "reported_utc": "2026-10-11T23:15:31Z",
+   "place": "Búcaro",
+   "district": "Tonosí",
+   "province": "Los Santos",
+   "lat": 7.4,
+   "lon": -80.32,
+   "category": "infrastructure",
+   "title": "Road destroyed in Búcaro, Tonosí",
+   "summary": "EFE photo (Bienvenido Velasco) published by La Prensa shows an asphalt road in Búcaro broken and slumped into a ditch, with large slabs of pavement displaced.",
+   "title_es": "Carretera destruida en Búcaro, Tonosí",
+   "summary_es": "Foto de EFE (Bienvenido Velasco) publicada por La Prensa muestra una carretera en Búcaro con el asfalto partido y hundido, con grandes losas del pavimento desplazadas.",
+   "image_caption_es": "Carretera asfaltada partida y hundida en Búcaro",
+   "figures": {},
+   "source_name": "La Prensa / EFE",
+   "source_type": "news",
+   "url": "https://www.prensa.com/politica/en-la-costa-de-veraguas-sobrevivir-al-terremoto-es-buscar-agua-y-alimentos/",
+   "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/corprensa/K56JKYQKLVGGLFPNE2UNEOTXF4.jpg",
+   "confidence": "single_source"
+  },
+  {
+   "id": "ph7_2",
+   "reported_utc": "2026-10-10T17:46:00Z",
+   "place": "Chepo de Las Minas",
+   "district": "Las Minas",
+   "province": "Herrera",
+   "lat": 7.7293,
+   "lon": -80.8219,
+   "category": "infrastructure",
+   "title": "Cracked mountain road to Chepo de Las Minas",
+   "summary": "Telemetro video shows a mountain road near Chepo de Las Minas split by long open cracks beside a fresh slope failure; representative Abilio Cruz says the corregimiento is cut off by road collapses and ongoing aftershocks.",
+   "title_es": "Carretera agrietada hacia Chepo de Las Minas",
+   "summary_es": "Video de Telemetro muestra una carretera de montaña cerca de Chepo de Las Minas partida por grietas abiertas junto a un derrumbe reciente; el representante Abilio Cruz indica que el corregimiento está incomunicado por el colapso de vías y las réplicas.",
+   "image_caption_es": "Grietas abiertas en carretera de montaña hacia Chepo",
+   "figures": {},
+   "source_name": "Telemetro Reporta (YouTube)",
+   "source_type": "news",
+   "url": "https://www.youtube.com/watch?v=l4UijOcdNQo",
+   "image_url": "https://i.ytimg.com/vi/l4UijOcdNQo/maxresdefault.jpg",
+   "confidence": "single_source"
+  },
+  {
+   "id": "ph7_3",
+   "reported_utc": "2026-10-11T18:25:28Z",
+   "place": "El Calabacito",
+   "district": "Los Pozos",
+   "province": "Herrera",
+   "lat": 7.7217,
+   "lon": -80.599,
+   "category": "building_damage",
+   "title": "Collapsed walls inside homes in El Calabacito",
+   "summary": "Telemetro video shows a concrete-block wall collapsed onto beds inside a home in El Calabacito (Los Pozos), where more than 160 homes are affected; families said they had received no government aid by Sunday.",
+   "title_es": "Paredes colapsadas dentro de viviendas en El Calabacito",
+   "summary_es": "Video de Telemetro muestra una pared de bloques colapsada sobre camas dentro de una vivienda en El Calabacito (Los Pozos), donde más de 160 viviendas resultaron afectadas; las familias dicen que hasta el domingo no habían recibido ayuda del Gobierno.",
+   "image_caption_es": "Pared de bloques derrumbada sobre camas en una vivienda",
+   "figures": {
+    "homes_affected": 160
+   },
+   "source_name": "Telemetro Reporta (YouTube)",
+   "source_type": "news",
+   "url": "https://www.youtube.com/watch?v=xC3OCmyYngc",
+   "image_url": "https://i.ytimg.com/vi/xC3OCmyYngc/maxresdefault.jpg",
+   "confidence": "single_source"
+  },
+  {
+   "id": "ph7_4",
+   "reported_utc": "2026-10-12T00:18:20Z",
+   "place": "Agua Fría (La Pintada)",
+   "district": "La Pintada",
+   "province": "Coclé",
+   "lat": 8.59,
+   "lon": -80.45,
+   "category": "landslide",
+   "title": "Boulder crushes house in Agua Fría, La Pintada",
+   "summary": "Telemetro video shows a huge rock that fell onto a home in Agua Fría, La Pintada (Coclé) during the earthquake; the family lost everything and several other families in the community were affected.",
+   "title_es": "Roca aplasta vivienda en Agua Fría, La Pintada",
+   "summary_es": "Video de Telemetro muestra una enorme roca que cayó sobre una vivienda en Agua Fría, La Pintada (Coclé), durante el terremoto; la familia lo perdió todo y otras familias de la comunidad resultaron afectadas.",
+   "image_caption_es": "Enorme roca caída sobre el techo de una vivienda",
+   "figures": {},
+   "source_name": "Telemetro Reporta (YouTube)",
+   "source_type": "news",
+   "url": "https://www.youtube.com/watch?v=ZpGcL0itWmM",
+   "image_url": "https://i.ytimg.com/vi/ZpGcL0itWmM/maxresdefault.jpg",
+   "confidence": "single_source"
+  },
+  {
+   "id": "ph7_5",
+   "reported_utc": "2026-10-11T23:33:17Z",
+   "place": "Antón",
+   "district": "Antón",
+   "province": "Coclé",
+   "lat": 8.3945,
+   "lon": -80.2663,
+   "category": "building_damage",
+   "title": "Cracked church bell tower in Antón",
+   "summary": "Telemetro video shows diagonal cracks in a church bell tower in Antón, Coclé; several buildings in the district cracked and some were closed for safety.",
+   "title_es": "Campanario de iglesia agrietado en Antón",
+   "summary_es": "Video de Telemetro muestra grietas diagonales en el campanario de una iglesia en Antón, Coclé; varios edificios del distrito sufrieron rajaduras y algunos fueron cerrados por seguridad.",
+   "image_caption_es": "Grietas en el campanario de la iglesia de Antón",
+   "figures": {},
+   "source_name": "Telemetro Reporta (YouTube)",
+   "source_type": "news",
+   "url": "https://www.youtube.com/watch?v=u4Ro8lKaUDk",
+   "image_url": "https://i.ytimg.com/vi/u4Ro8lKaUDk/maxresdefault.jpg",
+   "confidence": "single_source"
+  },
+  {
+   "id": "ph7_6",
+   "reported_utc": "2026-10-11T23:59:35Z",
+   "place": "Malena",
+   "district": "Mariato",
+   "province": "Veraguas",
+   "lat": 7.592,
+   "lon": -80.9596,
+   "category": "building_damage",
+   "title": "Homes reduced to rubble in Torio and Malena",
+   "summary": "Telemetro video shows a concrete-block house reduced to a pile of rubble; residents of Torio and Malena (Mariato) say they lost everything, including their medicines, and ask for government help. La Prensa reports 12+ homes destroyed in Malena and 80% cracked.",
+   "title_es": "Viviendas reducidas a escombros en Torio y Malena",
+   "summary_es": "Video de Telemetro muestra una casa de bloques reducida a escombros; moradores de Torio y Malena (Mariato) dicen que lo perdieron todo, incluso sus medicamentos, y piden ayuda al Gobierno. La Prensa reporta más de 12 casas destruidas en Malena y 80% con grietas.",
+   "image_caption_es": "Casa de bloques convertida en escombros",
+   "figures": {
+    "homes_destroyed": 12
+   },
+   "source_name": "Telemetro Reporta (YouTube)",
+   "source_type": "news",
+   "url": "https://www.youtube.com/watch?v=ROdFZWu4vc8",
+   "image_url": "https://i.ytimg.com/vi/ROdFZWu4vc8/maxresdefault.jpg",
+   "confidence": "single_source"
+  }
+ ],
+ "image_review": {
+  "ph7_1": {
+   "verdict": "damage",
+   "caption": "Asphalt road broken and slumped in Búcaro",
+   "place_match": true
+  },
+  "ph7_2": {
+   "verdict": "damage",
+   "caption": "Open cracks along mountain road near Chepo de Las Minas",
+   "place_match": true
+  },
+  "ph7_3": {
+   "verdict": "damage",
+   "caption": "Block wall collapsed onto beds inside El Calabacito home",
+   "place_match": true
+  },
+  "ph7_4": {
+   "verdict": "damage",
+   "caption": "Huge boulder resting on house roof in Agua Fría",
+   "place_match": true
+  },
+  "ph7_5": {
+   "verdict": "damage",
+   "caption": "Cracks in church bell tower, Antón",
+   "place_match": true
+  },
+  "ph7_6": {
+   "verdict": "damage",
+   "caption": "Concrete-block house reduced to rubble (Torio/Malena)",
+   "place_match": null
+  }
+ }
+}

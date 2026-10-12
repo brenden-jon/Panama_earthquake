@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-12T01:40:59Z",
+ "generated_utc": "2026-10-12T01:49:27Z",
  "official_latest": {
   "as_of_utc": "2026-10-11T17:00:00Z",
   "deaths": 0,
@@ -307,12 +307,14 @@
    ]
   }
  },
- "reports_count": 423,
- "reports_with_images": 160,
+ "reports_count": 429,
+ "reports_with_images": 166,
  "places_with_damage": [
+  "Agua Fría (La Pintada)",
   "Aguadulce",
   "Aguadulce (municipal market)",
   "Alanje",
+  "Antón",
   "Archipiélago de las Perlas",
   "Atalaya",
   "Atalaya (Basílica Menor Jesús Nazareno)",
@@ -340,6 +342,7 @@
   "David (Hotel Occidental, Parque Cervantes)",
   "David (fire station 1)",
   "Eastern Chiriquí",
+  "El Calabacito",
   "El Valle de Antón",
   "El Valle de Antón (Cerro La India Dormida)",
   "Escuela Alberto Zúñiga (Coclé)",
@@ -375,6 +378,7 @@
   "Macaracas (fire station)",
   "Macaracas (university building)",
   "Madre Vieja (Río Grande)",
+  "Malena",
   "Mandinga (Pesé)",
   "Marbella, Panama City",
   "Mariato",
