@@ -1,0 +1,25 @@
+{
+ "generated_utc": "2026-10-12T03:00:00Z",
+ "reports": [
+  {
+   "id": "unicef_1",
+   "reported_utc": "2026-10-11T00:00:00Z",
+   "place": "Panama (national)",
+   "district": "",
+   "province": "Multiple / national",
+   "lat": 8.98,
+   "lon": -79.52,
+   "category": "response",
+   "title": "UNICEF: number of affected children unknown; 419 schools affected; tents for San Miguelito hospital",
+   "summary": "UNICEF's Situation Report No. 1 (9–10 Oct) says the number of affected children and families remains unknown, highlights 419 affected schools (16 students hospitalised in Ngäbe-Buglé) and concerns over water, sanitation and health access in rural areas; UNICEF installed two 46 m² tents at San Miguel Arcángel hospital (San Miguelito) and is focusing on WASH, education, health and child protection.",
+   "title_es": "UNICEF: número de niños afectados aún desconocido; 419 escuelas afectadas; carpas para el hospital de San Miguelito",
+   "summary_es": "El Informe de Situación N.º 1 de UNICEF (9–10 oct) indica que el número de niños, niñas y familias afectados sigue siendo desconocido, destaca 419 escuelas afectadas (16 estudiantes hospitalizados en Ngäbe-Buglé) y preocupaciones sobre agua, saneamiento y acceso a salud en zonas rurales; UNICEF instaló dos carpas de 46 m² en el hospital San Miguel Arcángel (San Miguelito) y se enfoca en agua y saneamiento, educación, salud y protección infantil.",
+   "figures": {},
+   "source_name": "UNICEF Panama (Situation Report No. 1)",
+   "source_type": "official",
+   "url": "https://www.unicef.org/media/184946/file/UNICEF%20Panama%20Situation%20Report%20No.1,%20(Earthquake),%209-10%20October%202026.pdf",
+   "image_url": null,
+   "confidence": "official"
+  }
+ ]
+}

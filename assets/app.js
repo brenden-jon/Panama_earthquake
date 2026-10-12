@@ -189,9 +189,11 @@ function renderOverview() {
            <div class="nf">${tl("public and other buildings affected", "edificaciones públicas y otras afectadas")} · ${tl("as of", "al")} ${localTime(o.as_of_utc)}</div></div>`
       : "";
     const popLoK = fmtK(roundTo(popLo, 10000)), popHiK = fmtK(roundTo(popHi, 10000));
+    // Children: 30% of Panamanians are under 18 (Census 2023); affected provinces are older, so 25–30% is used.
+    const childLoK = fmtK(roundTo(popLo * 0.25, 10000)), childHiK = fmtK(roundTo(popHi * 0.30, 10000));
     $("#numbers").innerHTML = official + infra + [
       { k: "reported", v: fmt(dmgPlaces.size), l: tl("towns with reported building damage", "poblados con daños reportados a edificaciones"), f: tl(`from ${state.reports.length} reports · ${photos} damage photos`, `de ${state.reports.length} reportes · ${photos} fotos de daños`) },
-      { k: "model", v: `${popLoK}–${popHiK}`, l: tl("people in very strong shaking (MMI VII+)", "personas con sacudida muy fuerte (MMI VII+)"), f: tl("USGS ShakeMap × population (WorldPop / Census 2023)", "ShakeMap del USGS × población (WorldPop / Censo 2023)") },
+      { k: "model", v: `${popLoK}–${popHiK}`, l: tl(`people in very strong shaking, incl. ~${childLoK}–${childHiK} children`, `personas con sacudida muy fuerte, incl. ~${childLoK}–${childHiK} niños, niñas y adolescentes`), f: tl("USGS ShakeMap × population (WorldPop / Census 2023); children = 25–30% under 18 (Census 2023)", "ShakeMap del USGS × población (WorldPop / Censo 2023); menores de 18 = 25–30 % (Censo 2023)") },
     ].map(x => `<div class="num num-${x.k}"><span class="kind kind-${x.k}">${x.k === "model" ? t("Estimate") : t("Reported")}</span><div class="nv">${x.v}</div><div class="nl">${x.l}</div><div class="nf">${x.f}</div></div>`).join("");
 
     $("#official-note").innerHTML = o.note ? `<p>${esc(tx(o, "note"))}</p><p class="muted small">${tl("Source:", "Fuente:")} <a href="${esc(o.url)}" target="_blank" rel="noopener">${esc(o.source_name)}</a> · ${localTime(o.as_of_utc)}</p>` : `<p class="muted">${t("No official statement recorded yet.")}</p>`;

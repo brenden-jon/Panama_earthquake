@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-12T01:32:33Z",
+ "generated_utc": "2026-10-12T01:40:59Z",
  "official_latest": {
   "as_of_utc": "2026-10-11T17:00:00Z",
   "deaths": 0,
@@ -307,7 +307,7 @@
    ]
   }
  },
- "reports_count": 422,
+ "reports_count": 423,
  "reports_with_images": 160,
  "places_with_damage": [
   "Aguadulce",
