@@ -1,13 +1,13 @@
 {
- "updated_utc": "2026-10-11T14:10:00Z",
- "headline": "Dos días después del sismo M7,7 de Azuero rige un estado de emergencia nacional. Oficialmente sin fallecidos; 840 viviendas afectadas, unas 267 personas en albergues y 419 escuelas dañadas; no habrá clases el lunes.",
+ "updated_utc": "2026-10-12T02:00:00Z",
+ "headline": "Tres días después del sismo M7,7 de Azuero, las cifras de daños siguen aumentando: SINAPROC reporta 1.293 viviendas dañadas y ~619 escuelas afectadas, con unas 570 personas en albergues y sin fallecidos.",
  "key_points": [
-  "Oficial (COE/SINAPROC, sábado por la noche): 0 fallecidos, 29 lesionados; 840 viviendas afectadas (Herrera 206, Veraguas 202, Los Santos 182, Coclé 149); ~267 personas en albergues.",
+  "Oficial (Comunicado 7 de SINAPROC, domingo mediodía): 0 fallecidos, 0 desaparecidos, 29 lesionados; 1.293 viviendas dañadas; ~619 escuelas; ~570 personas en albergues.",
   "Los daños a nivel de comunidad son graves: La Miel (95 % de las viviendas) y Bajo Corral (90 %) en Las Tablas; más de 300 viviendas colapsadas en Los Pozos (alcalde); ~1.500 afectados en comunidades de Mariato.",
   "Tonosí: hospital inutilizable, atención en carpas; se anuncia un nuevo hospital de US$30 millones. Sin luz ni agua aún en Tonosí, Mariato, Soná y Pedasí.",
   "Escuelas: 419 afectadas, 24 deben reconstruirse; no habrá clases en todo el país el lunes 12 de octubre.",
   "Decreto de emergencia (Res. 108, hasta el 31 dic): US$100 millones con contratación expedita, podría aumentar. BID hasta US$300 millones + US$500.000; CAF US$50 millones; US$5 millones del Departamento de Estado de EE. UU.",
-  "Aviso de tormenta hasta el lunes 13:00 aumenta el riesgo de deslizamientos en las provincias afectadas; continúan las réplicas (M5,0 el domingo por la mañana)."
+  "Continúan las réplicas: 256 registradas (Instituto de Geociencias). El aviso de tormenta eleva el riesgo de deslizamientos; EE. UU. confirma US$5 millones a través de su embajada."
  ],
  "areas": [
   {
@@ -138,7 +138,7 @@
    "source": "Telemetro en vivo"
   }
  ],
- "upcoming": "Se esperan el censo habitacional del MIVIOT y un nuevo balance del COE/SINAPROC; aviso de tormenta vigente hasta el lunes a las 13:00.",
+ "upcoming": "Se espera que las cifras sigan aumentando al evaluarse comunidades inaccesibles; se esperan el censo habitacional del MIVIOT y un nuevo comunicado de SINAPROC.",
  "unknowns": [
   "Viviendas destruidas (solo se reportan 10 en Chiriquí) y el conteo final de viviendas: censo habitacional del MIVIOT en curso.",
   "Cuándo se restablecerán el acceso, la electricidad y el agua en Tonosí y la costa de Mariato.",

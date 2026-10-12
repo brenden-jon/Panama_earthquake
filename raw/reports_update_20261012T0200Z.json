@@ -1,0 +1,69 @@
+{
+ "generated_utc": "2026-10-12T02:00:00Z",
+ "reports": [
+  {
+   "id": "sun_1",
+   "reported_utc": "2026-10-11T17:26:00Z",
+   "place": "Panama (national)",
+   "district": "",
+   "province": "Multiple / national",
+   "lat": 8.98,
+   "lon": -79.52,
+   "category": "displacement",
+   "title": "SINAPROC Communiqué 7: 1,293 homes damaged, ~619 schools, ~570 in shelters",
+   "summary": "SINAPROC Communiqué No. 7 (noon Sunday) reports 1,293 homes evaluated with damage, about 619 schools affected and about 570 people in shelters (Veraguas 310+, Colón 257); no deaths or missing persons. COE director René García says the count will rise as unreachable communities are assessed.",
+   "title_es": "Comunicado 7 de SINAPROC: 1.293 viviendas dañadas, ~619 escuelas, ~570 personas en albergues",
+   "summary_es": "El Comunicado N.º 7 de SINAPROC (mediodía del domingo) reporta 1.293 viviendas evaluadas con daños, unos 619 centros educativos afectados y unas 570 personas en albergues (Veraguas más de 310, Colón 257); sin fallecidos ni desaparecidos. El director del COE, René García, indica que la cifra aumentará al evaluarse comunidades inaccesibles.",
+   "figures": {
+    "homes_damaged": 1293
+   },
+   "source_name": "SINAPROC (via Retén Chiriquí; Telemetro)",
+   "source_type": "official",
+   "url": "https://www.retenchiriqui.com/post/terremoto-en-panam%C3%A1-sinaproc-reporta-da%C3%B1os-en-m%C3%A1s-de-1-200-viviendas-y-cerca-de-619-centros-educati",
+   "image_url": null,
+   "confidence": "official"
+  },
+  {
+   "id": "sun_2",
+   "reported_utc": "2026-10-11T23:29:00Z",
+   "place": "Azuero (aftershock zone)",
+   "district": "Tonosí",
+   "province": "Los Santos",
+   "lat": 7.6,
+   "lon": -80.7,
+   "category": "aftershock",
+   "title": "Instituto de Geociencias: 256 aftershocks recorded",
+   "summary": "Panama's Instituto de Geociencias has recorded 256 aftershocks since the mainshock; strong aftershocks remain possible in the coming days.",
+   "title_es": "Instituto de Geociencias: 256 réplicas registradas",
+   "summary_es": "El Instituto de Geociencias de Panamá ha registrado 256 réplicas desde el sismo principal; siguen siendo posibles réplicas fuertes en los próximos días.",
+   "figures": {
+    "aftershocks": 256
+   },
+   "source_name": "La Estrella de Panamá / Mi Diario",
+   "source_type": "news",
+   "url": "https://www.laestrella.com.pa/",
+   "image_url": null,
+   "confidence": "multiple_sources"
+  },
+  {
+   "id": "sun_3",
+   "reported_utc": "2026-10-11T22:18:00Z",
+   "place": "Veraguas province",
+   "district": "Santiago",
+   "province": "Veraguas",
+   "lat": 8.1,
+   "lon": -80.98,
+   "category": "building_damage",
+   "title": "Veraguas: 7 schools destroyed, about 200 with considerable damage",
+   "summary": "TVN reports that in Veraguas 7 schools were destroyed and about 200 others have considerable damage.",
+   "title_es": "Veraguas: 7 escuelas destruidas y unas 200 con daños considerables",
+   "summary_es": "TVN informa que en Veraguas 7 escuelas quedaron destruidas y unas 200 presentan daños considerables.",
+   "figures": {},
+   "source_name": "TVN Noticias",
+   "source_type": "news",
+   "url": "https://www.tvn-2.com/",
+   "image_url": null,
+   "confidence": "single_source"
+  }
+ ]
+}

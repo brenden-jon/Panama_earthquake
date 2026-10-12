@@ -1,22 +1,22 @@
 {
- "generated_utc": "2026-10-11T23:59:56Z",
+ "generated_utc": "2026-10-12T01:32:33Z",
  "official_latest": {
-  "as_of_utc": "2026-10-10T23:30:00Z",
+  "as_of_utc": "2026-10-11T17:00:00Z",
   "deaths": 0,
   "injured": 29,
   "missing": 0,
-  "displaced": 267,
-  "homes_damaged": 840,
+  "displaced": 570,
+  "homes_damaged": 1293,
   "homes_destroyed": null,
   "infrastructure": {
-   "schools": 419,
+   "schools": 619,
    "health_facilities": 21,
    "bridges": 11
   },
-  "source_name": "COE Nacional / SINAPROC report (~18:30 local, 10 Oct), as reported by TVN and La Prensa",
-  "url": "https://www.tvn-2.com/nacionales/temblor-panama-800-casas-afectadas_1_2265477.html",
-  "note": "COE/SINAPROC national balance (Saturday ~18:30 local): 0 deaths, 0 missing, 29 injured; 840 homes affected (Herrera 206, Veraguas 202, Los Santos 182, Coclé 149, Chiriquí 49 incl. 10 destroyed, Panamá Oeste 21, Colón 18, Bocas del Toro 8, Darién 1) plus 4 apartment buildings; about 267 people in shelters (Mariato 255, Penonomé 12) and 300 evacuated as a precaution from Isla Cañas; 1,213 people registered as affected (the Cabinet cited ~2,130 damnificados); 419 schools; 11 bridges. Health facilities (21) from the Cabinet briefing the same day.",
-  "note_es": "Balance nacional del COE/SINAPROC (sábado ~18:30 hora local): 0 fallecidos, 0 desaparecidos, 29 lesionados; 840 viviendas afectadas (Herrera 206, Veraguas 202, Los Santos 182, Coclé 149, Chiriquí 49 incl. 10 destruidas, Panamá Oeste 21, Colón 18, Bocas del Toro 8, Darién 1) más 4 edificios de apartamentos; unas 267 personas en albergues (Mariato 255, Penonomé 12) y 300 evacuadas preventivamente de Isla Cañas; 1.213 personas registradas como afectadas (el Gabinete citó ~2.130 damnificados); 419 escuelas; 11 puentes. Instalaciones de salud (21) según la conferencia del Gabinete del mismo día."
+  "source_name": "SINAPROC Comunicado Oficial N.º 7 (via Retén Chiriquí)",
+  "url": "https://www.retenchiriqui.com/post/terremoto-en-panam%C3%A1-sinaproc-reporta-da%C3%B1os-en-m%C3%A1s-de-1-200-viviendas-y-cerca-de-619-centros-educati",
+  "note": "SINAPROC Communiqué No. 7 (as of 12:00, Sunday 11 Oct): 1,293 homes evaluated with damage; about 619 schools affected; no deaths and no missing persons; about 570 people in shelters (310+ in Veraguas, 257 in Colón); ~1,500 people affected in Los Santos; 66,000+ lbs of aid flown in and 170 tonnes of water distributed. The COE director says the count will rise as unreachable communities are assessed. Injured (29) and health facilities (21) from the previous national balance.",
+  "note_es": "Comunicado Oficial N.º 7 de SINAPROC (al mediodía del domingo 11 de octubre): 1.293 viviendas evaluadas con daños; unos 619 centros educativos afectados; sin fallecidos ni desaparecidos; unas 570 personas en albergues (más de 310 en Veraguas, 257 en Colón); ~1.500 personas afectadas en Los Santos; más de 66.000 libras de ayuda por vía aérea y 170 toneladas de agua distribuidas. El director del COE indica que la cifra aumentará a medida que se evalúen comunidades inaccesibles. Lesionados (29) e instalaciones de salud (21) del balance nacional anterior."
  },
  "official_snapshots": [
   {
@@ -114,6 +114,24 @@
    "url": "https://www.tvn-2.com/nacionales/temblor-panama-800-casas-afectadas_1_2265477.html",
    "note": "COE/SINAPROC national balance (Saturday ~18:30 local): 0 deaths, 0 missing, 29 injured; 840 homes affected (Herrera 206, Veraguas 202, Los Santos 182, Coclé 149, Chiriquí 49 incl. 10 destroyed, Panamá Oeste 21, Colón 18, Bocas del Toro 8, Darién 1) plus 4 apartment buildings; about 267 people in shelters (Mariato 255, Penonomé 12) and 300 evacuated as a precaution from Isla Cañas; 1,213 people registered as affected (the Cabinet cited ~2,130 damnificados); 419 schools; 11 bridges. Health facilities (21) from the Cabinet briefing the same day.",
    "note_es": "Balance nacional del COE/SINAPROC (sábado ~18:30 hora local): 0 fallecidos, 0 desaparecidos, 29 lesionados; 840 viviendas afectadas (Herrera 206, Veraguas 202, Los Santos 182, Coclé 149, Chiriquí 49 incl. 10 destruidas, Panamá Oeste 21, Colón 18, Bocas del Toro 8, Darién 1) más 4 edificios de apartamentos; unas 267 personas en albergues (Mariato 255, Penonomé 12) y 300 evacuadas preventivamente de Isla Cañas; 1.213 personas registradas como afectadas (el Gabinete citó ~2.130 damnificados); 419 escuelas; 11 puentes. Instalaciones de salud (21) según la conferencia del Gabinete del mismo día."
+  },
+  {
+   "as_of_utc": "2026-10-11T17:00:00Z",
+   "deaths": 0,
+   "injured": 29,
+   "missing": 0,
+   "displaced": 570,
+   "homes_damaged": 1293,
+   "homes_destroyed": null,
+   "infrastructure": {
+    "schools": 619,
+    "health_facilities": 21,
+    "bridges": 11
+   },
+   "source_name": "SINAPROC Comunicado Oficial N.º 7 (via Retén Chiriquí)",
+   "url": "https://www.retenchiriqui.com/post/terremoto-en-panam%C3%A1-sinaproc-reporta-da%C3%B1os-en-m%C3%A1s-de-1-200-viviendas-y-cerca-de-619-centros-educati",
+   "note": "SINAPROC Communiqué No. 7 (as of 12:00, Sunday 11 Oct): 1,293 homes evaluated with damage; about 619 schools affected; no deaths and no missing persons; about 570 people in shelters (310+ in Veraguas, 257 in Colón); ~1,500 people affected in Los Santos; 66,000+ lbs of aid flown in and 170 tonnes of water distributed. The COE director says the count will rise as unreachable communities are assessed. Injured (29) and health facilities (21) from the previous national balance.",
+   "note_es": "Comunicado Oficial N.º 7 de SINAPROC (al mediodía del domingo 11 de octubre): 1.293 viviendas evaluadas con daños; unos 619 centros educativos afectados; sin fallecidos ni desaparecidos; unas 570 personas en albergues (más de 310 en Veraguas, 257 en Colón); ~1.500 personas afectadas en Los Santos; más de 66.000 libras de ayuda por vía aérea y 170 toneladas de agua distribuidas. El director del COE indica que la cifra aumentará a medida que se evalúen comunidades inaccesibles. Lesionados (29) e instalaciones de salud (21) del balance nacional anterior."
   }
  ],
  "conflicts": [
@@ -121,7 +139,7 @@
   "Epicentre province: USGS names Pitaloza Arriba (AP/Reuters say Herrera); local media cite Tonosí, Los Santos.",
   "Collapsed hotel location: Panamanian media place it in Penonomé (Hotel Dos Continentes); BioBioChile wrongly reported a four-storey hotel in downtown Panama City; es.wikipedia/Infobae also mention a separate partial hotel collapse near Tonosí.",
   "Some outlets (Vanguardia) wrongly call Penonomé the epicentre zone.",
-  "Aftershock counts differ by source and time: 46 by 15:00 and ~86 by 16:30 (Instituto de Geociencias), more than 100 by 17:30 (SINAPROC), at least 147 by ~22:15 (CNN, source not stated). The USGS catalogue lists only larger events; largest M6.6 (USGS) / M6.9 (IGC).",
+  "Aftershock counts differ by source and time: 46 by 15:00 and ~86 by 16:30 (Instituto de Geociencias), more than 100 by 17:30 (SINAPROC), at least 147 by ~22:15 (CNN, source not stated); 256 by Sunday 11 Oct (Instituto de Geociencias). The USGS catalogue lists only larger events; largest M6.6 (USGS) / M6.9 (IGC).",
   "PorEsto claims damage to Puente Centenario; El Tiempo video shows only shaking, no damage reported.",
   "Several outlets recycled Sinaproc text from the 10 Aug 2026 Colombia quake ('9:31 a.m. no persons affected') — not applicable to this event.",
   "Injuries: Sinaproc director Omar Smith reported 'several injured' (no figure); the Caja de Seguro Social (15:27 local) said no patients, users or staff were affected in its own facilities. Neither is a national total.",
@@ -132,7 +150,7 @@
   "Provincia del epicentro: el USGS menciona Pitaloza Arriba (AP/Reuters dicen Herrera); medios locales citan Tonosí, Los Santos.",
   "Ubicación del hotel colapsado: los medios panameños lo sitúan en Penonomé (Hotel Dos Continentes); BioBioChile informó erróneamente de un hotel de cuatro pisos en el centro de la Ciudad de Panamá; es.wikipedia/Infobae mencionan además un colapso parcial distinto de un hotel cerca de Tonosí.",
   "Algunos medios (Vanguardia) llaman erróneamente a Penonomé la zona del epicentro.",
-  "El número de réplicas varía según la fuente y la hora: 46 a las 15:00 y ~86 a las 16:30 (Instituto de Geociencias), más de 100 a las 17:30 (SINAPROC), al menos 147 hacia las 22:15 (CNN, sin fuente indicada). El catálogo del USGS solo incluye eventos mayores; la mayor M6,6 (USGS) / M6,9 (IGC).",
+  "El número de réplicas varía según la fuente y la hora: 46 a las 15:00 y ~86 a las 16:30 (Instituto de Geociencias), más de 100 a las 17:30 (SINAPROC), al menos 147 hacia las 22:15 (CNN, sin fuente indicada); 256 al domingo 11 de octubre (Instituto de Geociencias). El catálogo del USGS solo incluye eventos mayores; la mayor M6,6 (USGS) / M6,9 (IGC).",
   "PorEsto afirma que hubo daños en el Puente Centenario; el video de El Tiempo solo muestra el movimiento, sin daños reportados.",
   "Varios medios reciclaron un texto del Sinaproc sobre el sismo del 10 de agosto de 2026 en Colombia («9:31 a. m., sin personas afectadas»), que no corresponde a este evento.",
   "Heridos: el director del Sinaproc, Omar Smith, informó de «varios heridos» (sin cifra); la Caja de Seguro Social (15:27 hora local) dijo que no hubo pacientes, usuarios ni funcionarios afectados en sus propias instalaciones. Ninguna de las dos es una cifra nacional.",
@@ -289,7 +307,7 @@
    ]
   }
  },
- "reports_count": 419,
+ "reports_count": 422,
  "reports_with_images": 160,
  "places_with_damage": [
   "Aguadulce",
@@ -410,6 +428,7 @@
   "Tebario (school)",
   "Tonosí",
   "Veraguas (building near school zone)",
+  "Veraguas province",
   "Veraguas province (churches)"
  ]
 }
