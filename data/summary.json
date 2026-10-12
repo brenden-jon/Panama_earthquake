@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-12T05:45:06Z",
+ "generated_utc": "2026-10-12T12:32:22Z",
  "official_latest": {
   "as_of_utc": "2026-10-11T17:00:00Z",
   "deaths": 0,
@@ -307,8 +307,8 @@
    ]
   }
  },
- "reports_count": 429,
- "reports_with_images": 166,
+ "reports_count": 435,
+ "reports_with_images": 167,
  "places_with_damage": [
   "Agua Fría (La Pintada)",
   "Aguadulce",
