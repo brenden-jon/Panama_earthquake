@@ -1,15 +1,18 @@
 {
- "checked_utc": "2026-10-12T13:34:23Z",
+ "checked_utc": "2026-10-12T21:52:28Z",
  "mag": 7.7,
- "alert": "red",
- "mmi": 9.036,
- "felt": 1561,
- "updated_utc": "2026-10-12T13:32:57Z",
+ "alert": "orange",
+ "mmi": 7.707,
+ "felt": 1645,
+ "updated_utc": "2026-10-12T21:34:56Z",
  "versions": {
-  "shakemap": "9",
-  "losspager": 1791655525418,
-  "dyfi": 1791811977726
+  "shakemap": "10",
+  "losspager": 1791835152352,
+  "dyfi": 1791840896226
  },
+ "pager_refreshed_utc": "2026-10-12T21:52:28Z",
+ "shakemap_refreshed_utc": "2026-10-12T21:52:28Z",
+ "exposure_stale": true,
  "gdacs": [
   {
    "alert": "Orange",
