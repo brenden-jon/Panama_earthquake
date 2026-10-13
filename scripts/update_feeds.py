@@ -106,14 +106,18 @@ def usgs():
         old = {}
         if os.path.exists(D("data", "usgs_status.json")):
             old = json.load(open(D("data", "usgs_status.json"))).get("versions", {})
-        if "losspager" in prods and old.get("losspager") != status["versions"].get("losspager"):
+        pinned = os.path.exists(D("data", "usgs", "PINNED.json"))  # analyst kept an earlier ShakeMap/PAGER on purpose
+        status["pinned"] = pinned
+        if pinned:
+            status["versions"] = old or status["versions"]
+        if not pinned and "losspager" in prods and old.get("losspager") != status["versions"].get("losspager"):
             c = prods["losspager"][0]["contents"]
             for name in ("losses", "alerts", "exposures", "comments", "cities", "event"):
                 key = f"json/{name}.json"
                 if key in c:
                     open(D("data", "usgs", f"pager_{name}.json"), "wb").write(get(c[key]["url"]))
             status["pager_refreshed_utc"] = iso(NOW)
-        if "shakemap" in prods and old.get("shakemap") != status["versions"].get("shakemap"):
+        if not pinned and "shakemap" in prods and old.get("shakemap") != status["versions"].get("shakemap"):
             c = prods["shakemap"][0]["contents"]
             open(D("data", "usgs", "cont_mmi.json"), "wb").write(get(c["download/cont_mmi.json"]["url"]))
             status["shakemap_refreshed_utc"] = iso(NOW)

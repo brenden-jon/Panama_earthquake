@@ -1,0 +1,6 @@
+{
+ "pinned": true,
+ "reason": "USGS ShakeMap v10 (automatic, 2026-10-12T19:54Z) applies a DYFI-based custom bias that lowers intensities sharply (epicentre ~MMI 6.0, Los Pozos 5.5, Soná 3.4), inconsistent with observed damage. The platform keeps the earlier ShakeMap/PAGER files and the v8-based exposure analysis until USGS reviews the map. Delete this file to resume automatic ShakeMap/PAGER refresh.",
+ "pinned_utc": "2026-10-13T00:45:00Z",
+ "usgs_latest_shakemap_version": "10"
+}

@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-13T00:06:43Z",
+ "generated_utc": "2026-10-13T00:08:39Z",
  "official_latest": {
   "as_of_utc": "2026-10-12T16:30:00Z",
   "deaths": 0,
@@ -167,7 +167,8 @@
   "PorEsto claims damage to Puente Centenario; El Tiempo video shows only shaking, no damage reported.",
   "Several outlets recycled Sinaproc text from the 10 Aug 2026 Colombia quake ('9:31 a.m. no persons affected') — not applicable to this event.",
   "Injuries: Sinaproc director Omar Smith reported 'several injured' (no figure); the Caja de Seguro Social (15:27 local) said no patients, users or staff were affected in its own facilities. Neither is a national total.",
-  "Largest aftershock (20:25 UTC): USGS M6.6, 14 km W of Río Grande (Veraguas); IGC-UP M6.9, 32 km from Coiba; El Tiempo also cites M6.6 8 km NW of Río Grande."
+  "Largest aftershock (20:25 UTC): USGS M6.6, 14 km W of Río Grande (Veraguas); IGC-UP M6.9, 32 km from Coiba; El Tiempo also cites M6.6 8 km NW of Río Grande.",
+  "USGS ShakeMap: version 10 (automatic, 12 Oct 19:54 UTC) re-calibrates the model with 'Did You Feel It?' reports and lowers intensities sharply (epicentre ~VI, Los Pozos ~V–VI, Soná ~III; people at MMI VII+ from ~550,000 to ~60,000). This contradicts observed damage (300+ homes collapsed in Los Pozos, church towers down, schools destroyed), so this platform keeps the earlier ShakeMap (v8) for its exposure and poverty analysis until USGS reviews the map."
  ],
  "conflicts_es": [
   "Magnitud: USGS M7,7 (inicialmente 8,0, luego 7,6), profundidad de 12,6 km; IGC-UP M7,2 (inicialmente 7,0), profundidad de 4–10 km, ubicado a 39 km al O/NO de Tonosí; SGC de Colombia, 7,3 y luego 8,0.",
@@ -178,53 +179,54 @@
   "PorEsto afirma que hubo daños en el Puente Centenario; el video de El Tiempo solo muestra el movimiento, sin daños reportados.",
   "Varios medios reciclaron un texto del Sinaproc sobre el sismo del 10 de agosto de 2026 en Colombia («9:31 a. m., sin personas afectadas»), que no corresponde a este evento.",
   "Heridos: el director del Sinaproc, Omar Smith, informó de «varios heridos» (sin cifra); la Caja de Seguro Social (15:27 hora local) dijo que no hubo pacientes, usuarios ni funcionarios afectados en sus propias instalaciones. Ninguna de las dos es una cifra nacional.",
-  "Réplica más fuerte (20:25 UTC): USGS M6,6, 14 km al O de Río Grande (Veraguas); IGC-UP M6,9, a 32 km de Coiba; El Tiempo también cita M6,6 a 8 km al NO de Río Grande."
+  "Réplica más fuerte (20:25 UTC): USGS M6,6, 14 km al O de Río Grande (Veraguas); IGC-UP M6,9, a 32 km de Coiba; El Tiempo también cita M6,6 a 8 km al NO de Río Grande.",
+  "ShakeMap del USGS: la versión 10 (automática, 12 oct 19:54 UTC) recalibra el modelo con reportes de '¿Lo sintió?' y reduce fuertemente las intensidades (epicentro ~VI, Los Pozos ~V–VI, Soná ~III; personas en MMI VII+ de ~550.000 a ~60.000). Esto contradice los daños observados (más de 300 viviendas colapsadas en Los Pozos, torres de iglesias caídas, escuelas destruidas), por lo que esta plataforma mantiene el ShakeMap anterior (v8) para su análisis de exposición y pobreza hasta que el USGS revise el mapa."
  ],
  "pager": {
   "fatality_alert": "yellow",
-  "economic_alert": "orange",
+  "economic_alert": "red",
   "fatality_bins": [
    {
     "color": "green",
     "min": "0",
     "max": "1",
-    "probability": 0.1624065773909508
+    "probability": 0.021775754356942296
    },
    {
     "color": "yellow",
     "min": "1",
     "max": "10",
-    "probability": 0.3796668678631704
+    "probability": 0.15490003006603217
    },
    {
     "color": "yellow",
     "min": "10",
     "max": "100",
-    "probability": 0.34206587810815015
+    "probability": 0.38773812609163677
    },
    {
     "color": "orange",
     "min": "100",
     "max": "1000",
-    "probability": 0.10473982206189125
+    "probability": 0.33038272987373796
    },
    {
     "color": "red",
     "min": "1000",
     "max": "10000",
-    "probability": 0.010753772918790871
+    "probability": 0.09563164130771518
    },
    {
     "color": "red",
     "min": "10000",
     "max": "100000",
-    "probability": 0.00036311114024401014
+    "probability": 0.009273251802467852
    },
    {
     "color": "red",
     "min": "100000",
     "max": "10000000",
-    "probability": 3.970455475288404e-06
+    "probability": 0.0002984665014276189
    }
   ],
   "economic_bins": [
@@ -232,58 +234,58 @@
     "color": "green",
     "min": "0",
     "max": "1",
-    "probability": 0.01986889522291473
+    "probability": 0.0005375423835136385
    },
    {
     "color": "yellow",
     "min": "1",
     "max": "10",
-    "probability": 0.1082279079828397
+    "probability": 0.008872586666013295
    },
    {
     "color": "yellow",
     "min": "10",
     "max": "100",
-    "probability": 0.2870207215728698
+    "probability": 0.06723025935028533
    },
    {
     "color": "orange",
     "min": "100",
     "max": "1000",
-    "probability": 0.34498546174550493
+    "probability": 0.22943544191669424
    },
    {
     "color": "red",
     "min": "1000",
     "max": "10000",
-    "probability": 0.18809935369422714
+    "probability": 0.35449793048431155
    },
    {
     "color": "red",
     "min": "10000",
     "max": "100000",
-    "probability": 0.04639142662323892
+    "probability": 0.24849846844943957
    },
    {
     "color": "red",
     "min": "100000",
     "max": "10000000",
-    "probability": 0.0054062331448652134
+    "probability": 0.09092777074973712
    }
   ],
-  "fatalities_empirical": 8,
-  "fatalities_semi_empirical": 100,
-  "losses_usd_empirical": 170915712,
+  "fatalities_empirical": 71,
+  "fatalities_semi_empirical": 642,
+  "losses_usd_empirical": 3552001541,
   "pop_exposure_pa_by_mmi": [
    0,
    0,
-   91825,
-   1202299,
-   2726903,
-   567390,
-   76835,
-   3885,
    0,
+   170884,
+   3032502,
+   874642,
+   489214,
+   92172,
+   10145,
    0
   ]
  },

@@ -669,7 +669,8 @@
   "PorEsto afirma que hubo daños en el Puente Centenario; el video de El Tiempo solo muestra el movimiento, sin daños reportados.",
   "Varios medios reciclaron un texto del Sinaproc sobre el sismo del 10 de agosto de 2026 en Colombia («9:31 a. m., sin personas afectadas»), que no corresponde a este evento.",
   "Heridos: el director del Sinaproc, Omar Smith, informó de «varios heridos» (sin cifra); la Caja de Seguro Social (15:27 hora local) dijo que no hubo pacientes, usuarios ni funcionarios afectados en sus propias instalaciones. Ninguna de las dos es una cifra nacional.",
-  "Réplica más fuerte (20:25 UTC): USGS M6,6, 14 km al O de Río Grande (Veraguas); IGC-UP M6,9, a 32 km de Coiba; El Tiempo también cita M6,6 a 8 km al NO de Río Grande."
+  "Réplica más fuerte (20:25 UTC): USGS M6,6, 14 km al O de Río Grande (Veraguas); IGC-UP M6,9, a 32 km de Coiba; El Tiempo también cita M6,6 a 8 km al NO de Río Grande.",
+  "ShakeMap del USGS: la versión 10 (automática, 12 oct 19:54 UTC) recalibra el modelo con reportes de '¿Lo sintió?' y reduce fuertemente las intensidades (epicentro ~VI, Los Pozos ~V–VI, Soná ~III; personas en MMI VII+ de ~550.000 a ~60.000). Esto contradice los daños observados (más de 300 viviendas colapsadas en Los Pozos, torres de iglesias caídas, escuelas destruidas), por lo que esta plataforma mantiene el ShakeMap anterior (v8) para su análisis de exposición y pobreza hasta que el USGS revise el mapa."
  ],
  "source_hashes": {}
 }

@@ -12,7 +12,7 @@
  },
  "pager_refreshed_utc": "2026-10-12T21:52:28Z",
  "shakemap_refreshed_utc": "2026-10-12T21:52:28Z",
- "exposure_stale": true,
+ "exposure_stale": false,
  "gdacs": [
   {
    "alert": "Orange",
@@ -20,5 +20,6 @@
    "url": "https://www.gdacs.org/report.aspx?eventid=1570339&episodeid=1738684&eventtype=EQ",
    "severity": "Magnitude 7.7M, Depth:12.647km"
   }
- ]
+ ],
+ "pinned": true
 }

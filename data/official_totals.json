@@ -138,6 +138,7 @@
   "PorEsto claims damage to Puente Centenario; El Tiempo video shows only shaking, no damage reported.",
   "Several outlets recycled Sinaproc text from the 10 Aug 2026 Colombia quake ('9:31 a.m. no persons affected') — not applicable to this event.",
   "Injuries: Sinaproc director Omar Smith reported 'several injured' (no figure); the Caja de Seguro Social (15:27 local) said no patients, users or staff were affected in its own facilities. Neither is a national total.",
-  "Largest aftershock (20:25 UTC): USGS M6.6, 14 km W of Río Grande (Veraguas); IGC-UP M6.9, 32 km from Coiba; El Tiempo also cites M6.6 8 km NW of Río Grande."
+  "Largest aftershock (20:25 UTC): USGS M6.6, 14 km W of Río Grande (Veraguas); IGC-UP M6.9, 32 km from Coiba; El Tiempo also cites M6.6 8 km NW of Río Grande.",
+  "USGS ShakeMap: version 10 (automatic, 12 Oct 19:54 UTC) re-calibrates the model with 'Did You Feel It?' reports and lowers intensities sharply (epicentre ~VI, Los Pozos ~V–VI, Soná ~III; people at MMI VII+ from ~550,000 to ~60,000). This contradicts observed damage (300+ homes collapsed in Los Pozos, church towers down, schools destroyed), so this platform keeps the earlier ShakeMap (v8) for its exposure and poverty analysis until USGS reviews the map."
  ]
 }
