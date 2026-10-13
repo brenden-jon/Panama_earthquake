@@ -201,6 +201,7 @@ def main():
         "generated_utc": NOW,
         "official_latest": official["snapshots"][-1] if official["snapshots"] else None,
         "official_snapshots": official["snapshots"],
+        "humanitarian": official.get("humanitarian"),
         "conflicts": official.get("conflicts", []),
         "conflicts_es": tr.get("conflicts", []),
         "pager": {

@@ -127,6 +127,27 @@
    "source_name": "SINAPROC Comunicado Oficial N.º 8",
    "url": "https://www.sinaproc.gob.pa/comunicado-oficial-8/",
    "note": "SINAPROC Communiqué No. 8 (11:30, Monday 12 Oct): 1,287 homes with damage (Veraguas 420, Coclé 318, Herrera 302, Colón 29, Chiriquí 28 total losses; Los Santos not itemised); 1,744 families evaluated; 598 people in 14 shelters; 656 schools affected (Veraguas 196, Chiriquí 139, Los Santos 71, Coclé 40, Colón 36, Darién 10); at least 28 health facilities (Veraguas 22, 3 hospitals in Herrera, Hospital San Juan in Colón; Telemetro reports 67 in total); 10 communities cut off (5 in Los Santos, 5 in Herrera) plus 4 islands in Veraguas; no deaths or missing. Government buildings (60+), churches (44) and hotels (11) from the national balance reported by Infobae. Injured (29) and bridges (11) from earlier balances. Local reports suggest undercounting: 400+ homes affected in Cañazas district alone (Telemetro)."
+  },
+  {
+   "as_of_utc": "2026-10-13T01:00:00Z",
+   "deaths": 0,
+   "injured": 29,
+   "missing": 0,
+   "displaced": 598,
+   "homes_damaged": 1287,
+   "homes_destroyed": null,
+   "affected_people": 6174,
+   "infrastructure": {
+    "schools": 656,
+    "health_facilities": 67,
+    "government_buildings": 60,
+    "churches": 44,
+    "bridges": 16,
+    "hotels": 11
+   },
+   "source_name": "President Mulino, report to the Nation (12 Oct)",
+   "url": "https://www.laestrella.com.pa/panama/nacional/terremoto-de-75-en-panama-mulino-confirma-6174-afectados-a-cuatro-dias-de-los-sucesos-BF26454731",
+   "note": "President Mulino's report to the Nation (Monday evening 12 Oct): 6,174 people affected in 1,744 homes evaluated by UTP engineers, SINAPROC and US specialists; 35 schools destroyed (MEDUCA) of 656 affected; 67 of 842 health facilities damaged, US$61M needed for repairs, new hospital for Tonosí (MINSA); ~16 bridges damaged (Metas secretary: ~1,250 homes in first surveys); construction of the first 1,300 homes to start, prioritising the most vulnerable families. 7,100 security personnel, 1,100 SINAPROC staff and volunteers, 460 firefighters; 24,000 food bags; 240 t of water. Homes damaged (1,287), shelters (598) and injured (29) from SINAPROC Communiqué 8 and earlier balances."
   }
  ],
  "conflicts": [
@@ -134,11 +155,19 @@
   "Epicentre province: USGS names Pitaloza Arriba (AP/Reuters say Herrera); local media cite Tonosí, Los Santos.",
   "Collapsed hotel location: Panamanian media place it in Penonomé (Hotel Dos Continentes); BioBioChile wrongly reported a four-storey hotel in downtown Panama City; es.wikipedia/Infobae also mention a separate partial hotel collapse near Tonosí.",
   "Some outlets (Vanguardia) wrongly call Penonomé the epicentre zone.",
-  "Aftershock counts differ by source and time: 46 by 15:00 and ~86 by 16:30 (Instituto de Geociencias), more than 100 by 17:30 (SINAPROC), at least 147 by ~22:15 (CNN, source not stated); 256 by Sunday 11 Oct, more than 350 by Monday morning and more than 400 by Monday afternoon 12 Oct (Instituto de Geociencias); an M6.1 aftershock struck at 18:20 local on 12 Oct. The USGS catalogue lists only larger events; largest M6.6 (USGS) / M6.9 (IGC).",
+  "Aftershock counts differ by source and time: 46 by 15:00 and ~86 by 16:30 (Instituto de Geociencias), more than 100 by 17:30 (SINAPROC), at least 147 by ~22:15 (CNN, source not stated); 256 by Sunday 11 Oct, more than 350 by Monday morning and more than 400 by Monday afternoon 12 Oct (Instituto de Geociencias); an aftershock at 18:20 local on 12 Oct was M6.1 (USGS) / M6.4 (IGC), with 416 aftershocks located by 21:00. The USGS catalogue lists only larger events; largest M6.6 (USGS) / M6.9 (IGC).",
   "PorEsto claims damage to Puente Centenario; El Tiempo video shows only shaking, no damage reported.",
   "Several outlets recycled Sinaproc text from the 10 Aug 2026 Colombia quake ('9:31 a.m. no persons affected') — not applicable to this event.",
   "Injuries: Sinaproc director Omar Smith reported 'several injured' (no figure); the Caja de Seguro Social (15:27 local) said no patients, users or staff were affected in its own facilities. Neither is a national total.",
   "Largest aftershock (20:25 UTC): USGS M6.6, 14 km W of Río Grande (Veraguas); IGC-UP M6.9, 32 km from Coiba; El Tiempo also cites M6.6 8 km NW of Río Grande.",
   "USGS ShakeMap: version 10 (automatic, 12 Oct 19:54 UTC) re-calibrates the model with 'Did You Feel It?' reports and lowers intensities sharply (epicentre ~VI, Los Pozos ~V–VI, Soná ~III; people at MMI VII+ from ~550,000 to ~60,000). This contradicts observed damage (300+ homes collapsed in Los Pozos, church towers down, schools destroyed), so this platform keeps the earlier ShakeMap (v8) for its exposure and poverty analysis until USGS reviews the map."
- ]
+ ],
+ "humanitarian": {
+  "people_in_need": 38000,
+  "children_in_need": 8300,
+  "appeal_usd": 2500000,
+  "source_short": "UNICEF",
+  "as_of_utc": "2026-10-13T08:00:00Z",
+  "url": "https://www.unicef.org/press-releases/over-8000-children-need-humanitarian-assistance-following-panama-earthquake"
+ }
 }

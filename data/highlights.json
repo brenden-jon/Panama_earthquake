@@ -1,15 +1,15 @@
 {
- "updated_utc": "2026-10-13T00:30:00Z",
- "headline": "An M6.1 aftershock struck near Coiba / west of Soná at 18:20 Monday, as SINAPROC's Communiqué 8 reports 1,287 homes damaged, 656 schools affected and 598 people in 14 shelters; still no deaths. Local reports suggest the housing count is incomplete.",
+ "updated_utc": "2026-10-13T14:30:00Z",
+ "headline": "Day 4: the President reports 6,174 people affected, 35 schools destroyed and 67 health facilities damaged (US$61M for repairs); UNICEF says 38,000 people, including 8,300 children, need humanitarian aid. Still no deaths.",
  "key_points": [
-  "Official (SINAPROC Communiqué 8, Mon 11:30): 0 deaths, 0 missing; 1,287 homes damaged (Veraguas 420, Coclé 318, Herrera 302); 656 schools; 598 people in 14 shelters; 10 communities cut off in Los Santos and Herrera.",
+  "Official (President's report, Mon night; SINAPROC Communiqué 8): 0 deaths, 0 missing; 6,174 people affected; 1,287 homes damaged; 598 people in 14 shelters; 656 schools affected, 35 destroyed; 67 health facilities damaged; ~16 bridges.",
   "Village-level damage is severe: La Miel (95% of homes) and Bajo Corral (90%) in Las Tablas; 300+ homes collapsed in Los Pozos (mayor); ~1,500 affected in Mariato villages. Cañazas: 400+ homes affected (Telemetro), close to the official total for all of Veraguas.",
   "Tonosí: hospital unusable — care in tents; new US$30M hospital announced. Power and water still out in Tonosí, Mariato, Soná and Pedasí areas.",
-  "Health: five floors of Hospital Santo Tomás's old maternity building evacuated (66 patients moved); CSS closed 4 facilities (Panama City, Chitré, Los Pozos, Tonosí) and suspended outpatient care Mon–Tue in Herrera and Los Santos.",
-  "Schools: classes suspended nationwide today; 17 schools a total loss in Mariato alone, 14 with structural damage in Bocas del Toro.",
+  "Health: 67 of 842 facilities damaged, US$61M for repairs and a new Tonosí hospital (MINSA); Santo Tomás old maternity building evacuated; CSS clinics closed in Chitré, Los Pozos, Tonosí and Panama City.",
+  "Schools: 35 destroyed, 656 affected; public schools closed again Tuesday; ~34 school days left in the year. UNICEF: 8,300 children among 38,000 people needing humanitarian aid (US$2.5M appeal).",
   "Finance: no deficit-rule waiver (3.5% of GDP target kept); costs judged below the US$450M (0.5% of GDP) threshold for the Savings Fund (FAP). Housing works to start within a week; earthquake-resistant housing plan going to Cabinet.",
   "Emergency decree (Res. 108, to 31 Dec): US$100M ceiling for fast-track contracting. IDB up to US$300M + US$500k; CAF US$50M; US$5M from US State Dept.",
-  "Aftershocks: an M6.1 at 18:20 Monday west of Soná (USGS; PAGER green), after 400+ smaller ones (Instituto de Geociencias); more may follow for 1–2 months. 9 state ports closed for inspection; Metro and Tocumen operating."
+  "Aftershocks: Monday 18:20 aftershock M6.1 (USGS) / M6.4 (IGC) west of Soná, power cut but no new damage confirmed; 416 aftershocks by Monday night. Housing: first 1,300 homes to be built, prioritising vulnerable families."
  ],
  "areas": [
   {
@@ -146,6 +146,6 @@
   "When access, power and water will be restored to Tonosí and the Mariato coast.",
   "Whether heavy rain triggers further landslides on damaged slopes and roads.",
   "When schools will reopen and how many need structural repair.",
-  "How many children and families are affected — UNICEF says 'thousands' of children but no count yet; schools closed nationwide."
+  "How many children and families are affected: UNICEF now estimates 8,300 children among 38,000 people in need, but official counts by district are not yet published."
  ]
 }

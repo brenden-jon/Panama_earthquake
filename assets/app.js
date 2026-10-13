@@ -192,7 +192,11 @@ function renderOverview() {
     const popLoK = fmtK(roundTo(popLo, 10000)), popHiK = fmtK(roundTo(popHi, 10000));
     // Children: 30% of Panamanians are under 18 (Census 2023); affected provinces are older, so 25–30% is used.
     const childLoK = fmtK(roundTo(popLo * 0.25, 10000)), childHiK = fmtK(roundTo(popHi * 0.30, 10000));
-    $("#numbers").innerHTML = official + infra + [
+    const hu = s.humanitarian;   // UN appeal figures (people / children in need), shown when published
+    const human = hu ? `<div class="num num-official"><span class="kind kind-official">${esc(hu.source_short)}</span>
+           <div class="nv">${fmt(hu.children_in_need)}</div><div class="nl">${tl("children in need of humanitarian assistance", "niños, niñas y adolescentes necesitan asistencia humanitaria")}</div>
+           <div class="nf">${tl(`of ${fmt(hu.people_in_need)} people in need`, `de ${fmt(hu.people_in_need)} personas con necesidades`)} · <a href="${esc(hu.url)}" target="_blank" rel="noopener">${tl("appeal", "llamamiento")}</a> ${localTime(hu.as_of_utc)}</div></div>` : "";
+    $("#numbers").innerHTML = official + infra + human + [
       { k: "reported", v: fmt(dmgPlaces.size), l: tl("towns with reported building damage", "poblados con daños reportados a edificaciones"), f: tl(`from ${state.reports.length} reports · ${photos} damage photos`, `de ${state.reports.length} reportes · ${photos} fotos de daños`) },
       { k: "model", v: `${popLoK}–${popHiK}`, l: tl(`people in very strong shaking, incl. ~${childLoK}–${childHiK} children`, `personas con sacudida muy fuerte, incl. ~${childLoK}–${childHiK} niños, niñas y adolescentes`), f: tl("USGS ShakeMap × population (WorldPop / Census 2023); children = 25–30% under 18 (Census 2023)", "ShakeMap del USGS × población (WorldPop / Censo 2023); menores de 18 = 25–30 % (Censo 2023)") },
     ].map(x => `<div class="num num-${x.k}"><span class="kind kind-${x.k}">${x.k === "model" ? t("Estimate") : t("Reported")}</span><div class="nv">${x.v}</div><div class="nl">${x.l}</div><div class="nf">${x.f}</div></div>`).join("");

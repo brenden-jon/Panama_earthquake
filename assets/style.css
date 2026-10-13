@@ -401,3 +401,4 @@ html:not(.gate-ok) body > :not(.gate):not(script) { visibility: hidden; }
 .pov-ctl { min-width: 0; max-width: 100%; }
 @media (max-width: 640px) { .pov-ctl, .pov-ctl select { width: 100%; } }
 .pov-map-head > *, .pov-ctl select { min-width: 0; box-sizing: border-box; }
+@media (min-width: 1101px) { .numbers:not(.pov-numbers) { grid-template-columns: repeat(7, 1fr); } }

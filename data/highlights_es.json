@@ -1,15 +1,15 @@
 {
- "updated_utc": "2026-10-13T00:30:00Z",
- "headline": "Una réplica M6,1 sacudió la zona de Coiba / oeste de Soná a las 18:20 del lunes, mientras el Comunicado 8 de SINAPROC reporta 1.287 viviendas dañadas, 656 escuelas afectadas y 598 personas en 14 albergues; sin fallecidos. Reportes locales sugieren que el conteo de viviendas está incompleto.",
+ "updated_utc": "2026-10-13T14:30:00Z",
+ "headline": "Día 4: el Presidente reporta 6.174 personas afectadas, 35 escuelas destruidas y 67 instalaciones de salud dañadas (US$61 millones para repararlas); UNICEF estima que 38.000 personas, incluidos 8.300 niños y niñas, necesitan ayuda humanitaria. Sin fallecidos.",
  "key_points": [
-  "Oficial (Comunicado 8 de SINAPROC, lun 11:30): 0 fallecidos, 0 desaparecidos; 1.287 viviendas dañadas (Veraguas 420, Coclé 318, Herrera 302); 656 escuelas; 598 personas en 14 albergues; 10 comunidades incomunicadas en Los Santos y Herrera.",
+  "Oficial (informe del Presidente, lun noche; Comunicado 8 de SINAPROC): 0 fallecidos, 0 desaparecidos; 6.174 personas afectadas; 1.287 viviendas dañadas; 598 personas en 14 albergues; 656 escuelas afectadas, 35 destruidas; 67 instalaciones de salud dañadas; ~16 puentes.",
   "Los daños a nivel de comunidad son graves: La Miel (95 % de las viviendas) y Bajo Corral (90 %) en Las Tablas; más de 300 viviendas colapsadas en Los Pozos (alcalde); ~1.500 afectados en comunidades de Mariato. Cañazas: más de 400 viviendas afectadas (Telemetro), cerca del total oficial de todo Veraguas.",
   "Tonosí: hospital inutilizable, atención en carpas; se anuncia un nuevo hospital de US$30 millones. Sin luz ni agua aún en Tonosí, Mariato, Soná y Pedasí.",
-  "Salud: evacuados cinco pisos del antiguo edificio de maternidad del Hospital Santo Tomás (66 pacientes reubicados); la CSS cerró 4 instalaciones (Ciudad de Panamá, Chitré, Los Pozos, Tonosí) y suspendió consultas externas lunes y martes en Herrera y Los Santos.",
-  "Escuelas: clases suspendidas hoy en todo el país; 17 escuelas con pérdida total solo en Mariato y 14 con daños estructurales en Bocas del Toro.",
+  "Salud: 67 de 842 instalaciones dañadas, US$61 millones para reparaciones y nuevo hospital en Tonosí (MINSA); evacuado el antiguo edificio de maternidad del Santo Tomás; policlínicas de la CSS cerradas en Chitré, Los Pozos, Tonosí y Ciudad de Panamá.",
+  "Escuelas: 35 destruidas, 656 afectadas; las escuelas oficiales siguen cerradas el martes; quedan ~34 días de clases en el año. UNICEF: 8.300 niños y niñas entre 38.000 personas que necesitan ayuda humanitaria (llamamiento de US$2,5 millones).",
   "Finanzas: no habrá dispensa de la regla fiscal (meta de 3,5 % del PIB); los costos se consideran inferiores al umbral de US$450 millones (0,5 % del PIB) para usar el Fondo de Ahorro (FAP). Obras de vivienda en una semana; plan de viviendas sismorresistentes irá al Gabinete.",
   "Decreto de emergencia (Res. 108, hasta el 31 dic): tope de US$100 millones para contratación expedita. BID hasta US$300 millones + US$500.000; CAF US$50 millones; US$5 millones del Departamento de Estado de EE. UU.",
-  "Réplicas: una M6,1 a las 18:20 del lunes al oeste de Soná (USGS; PAGER verde), tras más de 400 menores (Instituto de Geociencias); podrían seguir 1–2 meses. 9 puertos estatales cerrados para inspección; Metro y Tocumen operan."
+  "Réplicas: la réplica del lunes a las 18:20 fue M6,1 (USGS) / M6,4 (IGC) al oeste de Soná, con corte de luz pero sin nuevos daños confirmados; 416 réplicas al lunes por la noche. Vivienda: se construirán las primeras 1.300 viviendas, priorizando a las familias vulnerables."
  ],
  "areas": [
   {
@@ -146,6 +146,6 @@
   "Cuándo se restablecerán el acceso, la electricidad y el agua en Tonosí y la costa de Mariato.",
   "Si las lluvias intensas provocan nuevos deslizamientos en laderas y vías dañadas.",
   "Cuándo reabrirán las escuelas y cuántas necesitan reparaciones estructurales.",
-  "Cuántos niños, niñas y familias están afectados: UNICEF habla de 'miles' de niños pero aún sin cifra; escuelas cerradas en todo el país."
+  "Cuántos niños, niñas y familias están afectados: UNICEF estima ahora 8.300 niños entre 38.000 personas con necesidades, pero aún no hay cifras oficiales por distrito."
  ]
 }

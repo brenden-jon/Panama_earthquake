@@ -1,25 +1,26 @@
 {
- "generated_utc": "2026-10-13T10:12:31Z",
+ "generated_utc": "2026-10-13T14:08:15Z",
  "official_latest": {
-  "as_of_utc": "2026-10-12T16:30:00Z",
+  "as_of_utc": "2026-10-13T01:00:00Z",
   "deaths": 0,
   "injured": 29,
   "missing": 0,
   "displaced": 598,
   "homes_damaged": 1287,
   "homes_destroyed": null,
+  "affected_people": 6174,
   "infrastructure": {
    "schools": 656,
-   "health_facilities": 28,
+   "health_facilities": 67,
    "government_buildings": 60,
    "churches": 44,
-   "bridges": 11,
+   "bridges": 16,
    "hotels": 11
   },
-  "source_name": "SINAPROC Comunicado Oficial N.º 8",
-  "url": "https://www.sinaproc.gob.pa/comunicado-oficial-8/",
-  "note": "SINAPROC Communiqué No. 8 (11:30, Monday 12 Oct): 1,287 homes with damage (Veraguas 420, Coclé 318, Herrera 302, Colón 29, Chiriquí 28 total losses; Los Santos not itemised); 1,744 families evaluated; 598 people in 14 shelters; 656 schools affected (Veraguas 196, Chiriquí 139, Los Santos 71, Coclé 40, Colón 36, Darién 10); at least 28 health facilities (Veraguas 22, 3 hospitals in Herrera, Hospital San Juan in Colón; Telemetro reports 67 in total); 10 communities cut off (5 in Los Santos, 5 in Herrera) plus 4 islands in Veraguas; no deaths or missing. Government buildings (60+), churches (44) and hotels (11) from the national balance reported by Infobae. Injured (29) and bridges (11) from earlier balances. Local reports suggest undercounting: 400+ homes affected in Cañazas district alone (Telemetro).",
-  "note_es": "Comunicado Oficial N.º 8 de SINAPROC (11:30, lunes 12 de octubre): 1.287 viviendas con daños (Veraguas 420, Coclé 318, Herrera 302, Colón 29, Chiriquí 28 pérdidas totales; Los Santos sin desglose); 1.744 familias evaluadas; 598 personas en 14 albergues; 656 centros educativos afectados (Veraguas 196, Chiriquí 139, Los Santos 71, Coclé 40, Colón 36, Darién 10); al menos 28 instalaciones de salud (22 en Veraguas, 3 hospitales en Herrera, Hospital San Juan en Colón; Telemetro reporta 67 en total); 10 comunidades incomunicadas (5 en Los Santos, 5 en Herrera) y 4 islas en Veraguas; sin fallecidos ni desaparecidos. Edificios públicos (60+), iglesias (44) y hoteles (11) del balance nacional reportado por Infobae. Heridos (29) y puentes (11) de balances anteriores. Reportes locales sugieren subregistro: más de 400 viviendas afectadas solo en el distrito de Cañazas (Telemetro)."
+  "source_name": "President Mulino, report to the Nation (12 Oct)",
+  "url": "https://www.laestrella.com.pa/panama/nacional/terremoto-de-75-en-panama-mulino-confirma-6174-afectados-a-cuatro-dias-de-los-sucesos-BF26454731",
+  "note": "President Mulino's report to the Nation (Monday evening 12 Oct): 6,174 people affected in 1,744 homes evaluated by UTP engineers, SINAPROC and US specialists; 35 schools destroyed (MEDUCA) of 656 affected; 67 of 842 health facilities damaged, US$61M needed for repairs, new hospital for Tonosí (MINSA); ~16 bridges damaged (Metas secretary: ~1,250 homes in first surveys); construction of the first 1,300 homes to start, prioritising the most vulnerable families. 7,100 security personnel, 1,100 SINAPROC staff and volunteers, 460 firefighters; 24,000 food bags; 240 t of water. Homes damaged (1,287), shelters (598) and injured (29) from SINAPROC Communiqué 8 and earlier balances.",
+  "note_es": "Informe a la Nación del presidente Mulino (lunes 12 oct por la noche): 6.174 personas afectadas en 1.744 viviendas evaluadas por ingenieros de la UTP, SINAPROC y especialistas de EE. UU.; 35 escuelas destruidas (MEDUCA) de 656 afectadas; 67 de 842 instalaciones de salud dañadas, US$61 millones para repararlas y nuevo hospital para Tonosí (MINSA); ~16 puentes dañados (secretario de Metas: ~1.250 viviendas en los primeros levantamientos); inicio de la construcción de las primeras 1.300 viviendas, priorizando a las familias más vulnerables. 7.100 efectivos de seguridad, 1.100 funcionarios y voluntarios de SINAPROC, 460 bomberos; 24.000 bolsas de comida; 240 t de agua. Viviendas dañadas (1.287), albergados (598) y heridos (29) del Comunicado 8 de SINAPROC y balances anteriores."
  },
  "official_snapshots": [
   {
@@ -156,14 +157,44 @@
    "url": "https://www.sinaproc.gob.pa/comunicado-oficial-8/",
    "note": "SINAPROC Communiqué No. 8 (11:30, Monday 12 Oct): 1,287 homes with damage (Veraguas 420, Coclé 318, Herrera 302, Colón 29, Chiriquí 28 total losses; Los Santos not itemised); 1,744 families evaluated; 598 people in 14 shelters; 656 schools affected (Veraguas 196, Chiriquí 139, Los Santos 71, Coclé 40, Colón 36, Darién 10); at least 28 health facilities (Veraguas 22, 3 hospitals in Herrera, Hospital San Juan in Colón; Telemetro reports 67 in total); 10 communities cut off (5 in Los Santos, 5 in Herrera) plus 4 islands in Veraguas; no deaths or missing. Government buildings (60+), churches (44) and hotels (11) from the national balance reported by Infobae. Injured (29) and bridges (11) from earlier balances. Local reports suggest undercounting: 400+ homes affected in Cañazas district alone (Telemetro).",
    "note_es": "Comunicado Oficial N.º 8 de SINAPROC (11:30, lunes 12 de octubre): 1.287 viviendas con daños (Veraguas 420, Coclé 318, Herrera 302, Colón 29, Chiriquí 28 pérdidas totales; Los Santos sin desglose); 1.744 familias evaluadas; 598 personas en 14 albergues; 656 centros educativos afectados (Veraguas 196, Chiriquí 139, Los Santos 71, Coclé 40, Colón 36, Darién 10); al menos 28 instalaciones de salud (22 en Veraguas, 3 hospitales en Herrera, Hospital San Juan en Colón; Telemetro reporta 67 en total); 10 comunidades incomunicadas (5 en Los Santos, 5 en Herrera) y 4 islas en Veraguas; sin fallecidos ni desaparecidos. Edificios públicos (60+), iglesias (44) y hoteles (11) del balance nacional reportado por Infobae. Heridos (29) y puentes (11) de balances anteriores. Reportes locales sugieren subregistro: más de 400 viviendas afectadas solo en el distrito de Cañazas (Telemetro)."
+  },
+  {
+   "as_of_utc": "2026-10-13T01:00:00Z",
+   "deaths": 0,
+   "injured": 29,
+   "missing": 0,
+   "displaced": 598,
+   "homes_damaged": 1287,
+   "homes_destroyed": null,
+   "affected_people": 6174,
+   "infrastructure": {
+    "schools": 656,
+    "health_facilities": 67,
+    "government_buildings": 60,
+    "churches": 44,
+    "bridges": 16,
+    "hotels": 11
+   },
+   "source_name": "President Mulino, report to the Nation (12 Oct)",
+   "url": "https://www.laestrella.com.pa/panama/nacional/terremoto-de-75-en-panama-mulino-confirma-6174-afectados-a-cuatro-dias-de-los-sucesos-BF26454731",
+   "note": "President Mulino's report to the Nation (Monday evening 12 Oct): 6,174 people affected in 1,744 homes evaluated by UTP engineers, SINAPROC and US specialists; 35 schools destroyed (MEDUCA) of 656 affected; 67 of 842 health facilities damaged, US$61M needed for repairs, new hospital for Tonosí (MINSA); ~16 bridges damaged (Metas secretary: ~1,250 homes in first surveys); construction of the first 1,300 homes to start, prioritising the most vulnerable families. 7,100 security personnel, 1,100 SINAPROC staff and volunteers, 460 firefighters; 24,000 food bags; 240 t of water. Homes damaged (1,287), shelters (598) and injured (29) from SINAPROC Communiqué 8 and earlier balances.",
+   "note_es": "Informe a la Nación del presidente Mulino (lunes 12 oct por la noche): 6.174 personas afectadas en 1.744 viviendas evaluadas por ingenieros de la UTP, SINAPROC y especialistas de EE. UU.; 35 escuelas destruidas (MEDUCA) de 656 afectadas; 67 de 842 instalaciones de salud dañadas, US$61 millones para repararlas y nuevo hospital para Tonosí (MINSA); ~16 puentes dañados (secretario de Metas: ~1.250 viviendas en los primeros levantamientos); inicio de la construcción de las primeras 1.300 viviendas, priorizando a las familias más vulnerables. 7.100 efectivos de seguridad, 1.100 funcionarios y voluntarios de SINAPROC, 460 bomberos; 24.000 bolsas de comida; 240 t de agua. Viviendas dañadas (1.287), albergados (598) y heridos (29) del Comunicado 8 de SINAPROC y balances anteriores."
   }
  ],
+ "humanitarian": {
+  "people_in_need": 38000,
+  "children_in_need": 8300,
+  "appeal_usd": 2500000,
+  "source_short": "UNICEF",
+  "as_of_utc": "2026-10-13T08:00:00Z",
+  "url": "https://www.unicef.org/press-releases/over-8000-children-need-humanitarian-assistance-following-panama-earthquake"
+ },
  "conflicts": [
   "Magnitude: USGS M7.7 (initially 8.0, then 7.6), depth 12.6 km; IGC-UP M7.2 (initially 7.0), depth 4–10 km, located 39 km W/NW of Tonosí; SGC Colombia 7.3 then 8.0.",
   "Epicentre province: USGS names Pitaloza Arriba (AP/Reuters say Herrera); local media cite Tonosí, Los Santos.",
   "Collapsed hotel location: Panamanian media place it in Penonomé (Hotel Dos Continentes); BioBioChile wrongly reported a four-storey hotel in downtown Panama City; es.wikipedia/Infobae also mention a separate partial hotel collapse near Tonosí.",
   "Some outlets (Vanguardia) wrongly call Penonomé the epicentre zone.",
-  "Aftershock counts differ by source and time: 46 by 15:00 and ~86 by 16:30 (Instituto de Geociencias), more than 100 by 17:30 (SINAPROC), at least 147 by ~22:15 (CNN, source not stated); 256 by Sunday 11 Oct, more than 350 by Monday morning and more than 400 by Monday afternoon 12 Oct (Instituto de Geociencias); an M6.1 aftershock struck at 18:20 local on 12 Oct. The USGS catalogue lists only larger events; largest M6.6 (USGS) / M6.9 (IGC).",
+  "Aftershock counts differ by source and time: 46 by 15:00 and ~86 by 16:30 (Instituto de Geociencias), more than 100 by 17:30 (SINAPROC), at least 147 by ~22:15 (CNN, source not stated); 256 by Sunday 11 Oct, more than 350 by Monday morning and more than 400 by Monday afternoon 12 Oct (Instituto de Geociencias); an aftershock at 18:20 local on 12 Oct was M6.1 (USGS) / M6.4 (IGC), with 416 aftershocks located by 21:00. The USGS catalogue lists only larger events; largest M6.6 (USGS) / M6.9 (IGC).",
   "PorEsto claims damage to Puente Centenario; El Tiempo video shows only shaking, no damage reported.",
   "Several outlets recycled Sinaproc text from the 10 Aug 2026 Colombia quake ('9:31 a.m. no persons affected') — not applicable to this event.",
   "Injuries: Sinaproc director Omar Smith reported 'several injured' (no figure); the Caja de Seguro Social (15:27 local) said no patients, users or staff were affected in its own facilities. Neither is a national total.",
@@ -175,7 +206,7 @@
   "Provincia del epicentro: el USGS menciona Pitaloza Arriba (AP/Reuters dicen Herrera); medios locales citan Tonosí, Los Santos.",
   "Ubicación del hotel colapsado: los medios panameños lo sitúan en Penonomé (Hotel Dos Continentes); BioBioChile informó erróneamente de un hotel de cuatro pisos en el centro de la Ciudad de Panamá; es.wikipedia/Infobae mencionan además un colapso parcial distinto de un hotel cerca de Tonosí.",
   "Algunos medios (Vanguardia) llaman erróneamente a Penonomé la zona del epicentro.",
-  "El número de réplicas varía según la fuente y la hora: 46 a las 15:00 y ~86 a las 16:30 (Instituto de Geociencias), más de 100 a las 17:30 (SINAPROC), al menos 147 hacia las 22:15 (CNN, sin fuente indicada); 256 al domingo 11 de octubre, más de 350 el lunes 12 por la mañana y más de 400 el lunes por la tarde (Instituto de Geociencias); una réplica M6,1 ocurrió a las 18:20 hora local del 12 de octubre. El catálogo del USGS solo incluye eventos mayores; la mayor M6,6 (USGS) / M6,9 (IGC).",
+  "El número de réplicas varía según la fuente y la hora: 46 a las 15:00 y ~86 a las 16:30 (Instituto de Geociencias), más de 100 a las 17:30 (SINAPROC), al menos 147 hacia las 22:15 (CNN, sin fuente indicada); 256 al domingo 11 de octubre, más de 350 el lunes 12 por la mañana y más de 400 el lunes por la tarde (Instituto de Geociencias); la réplica de las 18:20 hora local del 12 de octubre fue M6,1 (USGS) / M6,4 (IGC), con 416 réplicas localizadas a las 21:00. El catálogo del USGS solo incluye eventos mayores; la mayor M6,6 (USGS) / M6,9 (IGC).",
   "PorEsto afirma que hubo daños en el Puente Centenario; el video de El Tiempo solo muestra el movimiento, sin daños reportados.",
   "Varios medios reciclaron un texto del Sinaproc sobre el sismo del 10 de agosto de 2026 en Colombia («9:31 a. m., sin personas afectadas»), que no corresponde a este evento.",
   "Heridos: el director del Sinaproc, Omar Smith, informó de «varios heridos» (sin cifra); la Caja de Seguro Social (15:27 hora local) dijo que no hubo pacientes, usuarios ni funcionarios afectados en sus propias instalaciones. Ninguna de las dos es una cifra nacional.",
@@ -333,7 +364,7 @@
    ]
   }
  },
- "reports_count": 447,
+ "reports_count": 452,
  "reports_with_images": 167,
  "places_with_damage": [
   "Agua Fría (La Pintada)",
