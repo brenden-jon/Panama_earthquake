@@ -148,6 +148,48 @@
    "source_name": "President Mulino, report to the Nation (12 Oct)",
    "url": "https://www.laestrella.com.pa/panama/nacional/terremoto-de-75-en-panama-mulino-confirma-6174-afectados-a-cuatro-dias-de-los-sucesos-BF26454731",
    "note": "President Mulino's report to the Nation (Monday evening 12 Oct): 6,174 people affected in 1,744 homes evaluated by UTP engineers, SINAPROC and US specialists; 35 schools destroyed (MEDUCA) of 656 affected; 67 of 842 health facilities damaged, US$61M needed for repairs, new hospital for Tonosí (MINSA); ~16 bridges damaged (Metas secretary: ~1,250 homes in first surveys); construction of the first 1,300 homes to start, prioritising the most vulnerable families. 7,100 security personnel, 1,100 SINAPROC staff and volunteers, 460 firefighters; 24,000 food bags; 240 t of water. Homes damaged (1,287), shelters (598) and injured (29) from SINAPROC Communiqué 8 and earlier balances."
+  },
+  {
+   "as_of_utc": "2026-10-13T03:00:00Z",
+   "deaths": 0,
+   "injured": 29,
+   "missing": 0,
+   "displaced": 598,
+   "homes_damaged": 2164,
+   "homes_destroyed": 506,
+   "affected_people": 7480,
+   "infrastructure": {
+    "schools": 656,
+    "health_facilities": 67,
+    "government_buildings": 60,
+    "churches": 44,
+    "bridges": 16,
+    "hotels": 11
+   },
+   "source_name": "SINAPROC report, 12 Oct 22:00 (via La Prensa)",
+   "url": "https://www.prensa.com/sociedad/7480-personas-afectadas-por-el-terremoto-en-panama-35-escuelas-colapsadas/",
+   "note": "SINAPROC report (22:00, Monday 12 Oct): 7,480 people affected in 2,164 families across nine provinces. Housing damage by family: 506 total loss, 507 moderate, 776 partial, 375 minor. 31 pregnant women and 290 people with disabilities among those affected. 35 schools collapsed (Herrera 20: Las Minas 13, Los Pozos 6, Ocú 1; Veraguas 7; Los Santos 5; Coclé 2; Chiriquí 1), affecting 422 students."
+  },
+  {
+   "as_of_utc": "2026-10-13T21:00:00Z",
+   "deaths": 0,
+   "injured": 27,
+   "missing": 0,
+   "displaced": 2841,
+   "homes_damaged": 2164,
+   "homes_destroyed": 506,
+   "affected_people": 11460,
+   "infrastructure": {
+    "schools": 656,
+    "health_facilities": 67,
+    "government_buildings": 90,
+    "churches": 44,
+    "bridges": 16,
+    "hotels": 11
+   },
+   "source_name": "Government briefing after Cabinet (J. R. Icaza), 13 Oct",
+   "url": "https://www.laestrella.com.pa/panama/nacional/mas-de-2841-personas-permanecen-en-albergues-tras-el-terremoto-en-panama-OI26485913",
+   "note": "Government briefing after the Cabinet meeting (Tuesday 13 Oct, Minister J. R. Icaza): 11,460 people affected in 3,367 families evaluated; 2,841 people in 33+ shelters; 27 injured (minor to moderate), no deaths or missing; 28 patients airlifted; 1,250+ homes damaged, destroyed or uninhabitable (preliminary); 600+ public schools and ~90 government buildings affected; 121,000+ lb of aid by air and 331+ t of water. Homes damaged (2,164 families with housing damage) and destroyed (506 total losses) from SINAPROC's 12 Oct 22:00 report; schools (656), health facilities (67, MINSA) and bridges (~16) from earlier official figures. Counts keep rising as remote communities are assessed."
   }
  ],
  "conflicts": [
