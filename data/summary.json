@@ -1,26 +1,26 @@
 {
- "generated_utc": "2026-10-14T11:53:37Z",
+ "generated_utc": "2026-10-14T16:38:39Z",
  "official_latest": {
-  "as_of_utc": "2026-10-13T21:00:00Z",
+  "as_of_utc": "2026-10-14T00:00:00Z",
   "deaths": 0,
   "injured": 27,
   "missing": 0,
   "displaced": 2841,
-  "homes_damaged": 2164,
-  "homes_destroyed": 506,
-  "affected_people": 11460,
+  "homes_damaged": 3390,
+  "homes_destroyed": 727,
+  "affected_people": 11527,
   "infrastructure": {
-   "schools": 656,
-   "health_facilities": 67,
+   "schools": 619,
+   "health_facilities": 66,
    "government_buildings": 90,
    "churches": 44,
    "bridges": 16,
    "hotels": 11
   },
-  "source_name": "Government briefing after Cabinet (J. R. Icaza), 13 Oct",
-  "url": "https://www.laestrella.com.pa/panama/nacional/mas-de-2841-personas-permanecen-en-albergues-tras-el-terremoto-en-panama-OI26485913",
-  "note": "Government briefing after the Cabinet meeting (Tuesday 13 Oct, Minister J. R. Icaza): 11,460 people affected in 3,367 families evaluated; 2,841 people in 33+ shelters; 27 injured (minor to moderate), no deaths or missing; 28 patients airlifted; 1,250+ homes damaged, destroyed or uninhabitable (preliminary); 600+ public schools and ~90 government buildings affected; 121,000+ lb of aid by air and 331+ t of water. Homes damaged (2,164 families with housing damage) and destroyed (506 total losses) from SINAPROC's 12 Oct 22:00 report; schools (656), health facilities (67, MINSA) and bridges (~16) from earlier official figures. Counts keep rising as remote communities are assessed.",
-  "note_es": "Informe del Gobierno tras el Consejo de Gabinete (martes 13 oct, ministro J. R. Icaza): 11.460 personas afectadas en 3.367 familias evaluadas; 2.841 personas en más de 33 albergues; 27 heridos (leves a moderados), sin fallecidos ni desaparecidos; 28 pacientes aeroevacuados; más de 1.250 viviendas dañadas, destruidas o inhabitables (preliminar); más de 600 escuelas oficiales y ~90 edificios públicos afectados; más de 121.000 libras de ayuda por aire y más de 331 t de agua. Viviendas dañadas (2.164 familias con daños a vivienda) y destruidas (506 pérdidas totales) del informe de SINAPROC del 12 oct a las 22:00; escuelas (656), instalaciones de salud (67, MINSA) y puentes (~16) de cifras oficiales anteriores. Las cifras siguen subiendo a medida que se evalúan comunidades remotas."
+  "source_name": "SINAPROC Comunicado Oficial N.º 11 (via Retén Chiriquí)",
+  "url": "https://www.retenchiriqui.com/post/terremoto-en-panam%C3%A1-3-390-viviendas-afectadas-727-p%C3%A9rdidas-totales-y-m%C3%A1s-de-11-mil-personas-evalua",
+  "note": "SINAPROC Communiqué No. 11 (19:00, Tuesday 13 Oct): 3,390 homes affected and 727 total losses (in Herrera and Los Santos); 11,527 people evaluated in 3,667 families, including 42 pregnant women and 452 people with disabilities; 2,841+ people in 33+ shelters (2,044 in Veraguas, 644 in Los Santos); 27 injured, no deaths or missing; 619 schools under evaluation and 35 collapsed (MEDUCA); 32 landslides and 11 communities cut off in Herrera. Provincial housing figures as reported (Los Santos 1,613, Coclé 1,052, Veraguas 614, Herrera 498, Colón 14) add up to more than the national total, so treat them as indicative. Minister Icaza: housing reports rose from ~1,200 to ~3,300 as families registered damage on the government platform; 66 health facilities damaged. Government buildings (~90), bridges (~16), churches and hotels from earlier official figures.",
+  "note_es": "Comunicado Oficial N.º 11 de SINAPROC (19:00, martes 13 oct): 3.390 viviendas afectadas y 727 pérdidas totales (en Herrera y Los Santos); 11.527 personas evaluadas en 3.667 familias, entre ellas 42 embarazadas y 452 personas con discapacidad; más de 2.841 personas en más de 33 albergues (2.044 en Veraguas, 644 en Los Santos); 27 heridos, sin fallecidos ni desaparecidos; 619 escuelas en evaluación y 35 colapsadas (MEDUCA); 32 deslizamientos y 11 comunidades incomunicadas en Herrera. Las cifras provinciales de vivienda reportadas (Los Santos 1.613, Coclé 1.052, Veraguas 614, Herrera 498, Colón 14) suman más que el total nacional, por lo que son indicativas. Ministro Icaza: los reportes de viviendas subieron de ~1.200 a ~3.300 al registrar las familias sus daños en la plataforma del Estado; 66 instalaciones de salud dañadas. Edificios públicos (~90), puentes (~16), iglesias y hoteles de cifras oficiales anteriores."
  },
  "official_snapshots": [
   {
@@ -223,6 +223,28 @@
    "url": "https://www.laestrella.com.pa/panama/nacional/mas-de-2841-personas-permanecen-en-albergues-tras-el-terremoto-en-panama-OI26485913",
    "note": "Government briefing after the Cabinet meeting (Tuesday 13 Oct, Minister J. R. Icaza): 11,460 people affected in 3,367 families evaluated; 2,841 people in 33+ shelters; 27 injured (minor to moderate), no deaths or missing; 28 patients airlifted; 1,250+ homes damaged, destroyed or uninhabitable (preliminary); 600+ public schools and ~90 government buildings affected; 121,000+ lb of aid by air and 331+ t of water. Homes damaged (2,164 families with housing damage) and destroyed (506 total losses) from SINAPROC's 12 Oct 22:00 report; schools (656), health facilities (67, MINSA) and bridges (~16) from earlier official figures. Counts keep rising as remote communities are assessed.",
    "note_es": "Informe del Gobierno tras el Consejo de Gabinete (martes 13 oct, ministro J. R. Icaza): 11.460 personas afectadas en 3.367 familias evaluadas; 2.841 personas en más de 33 albergues; 27 heridos (leves a moderados), sin fallecidos ni desaparecidos; 28 pacientes aeroevacuados; más de 1.250 viviendas dañadas, destruidas o inhabitables (preliminar); más de 600 escuelas oficiales y ~90 edificios públicos afectados; más de 121.000 libras de ayuda por aire y más de 331 t de agua. Viviendas dañadas (2.164 familias con daños a vivienda) y destruidas (506 pérdidas totales) del informe de SINAPROC del 12 oct a las 22:00; escuelas (656), instalaciones de salud (67, MINSA) y puentes (~16) de cifras oficiales anteriores. Las cifras siguen subiendo a medida que se evalúan comunidades remotas."
+  },
+  {
+   "as_of_utc": "2026-10-14T00:00:00Z",
+   "deaths": 0,
+   "injured": 27,
+   "missing": 0,
+   "displaced": 2841,
+   "homes_damaged": 3390,
+   "homes_destroyed": 727,
+   "affected_people": 11527,
+   "infrastructure": {
+    "schools": 619,
+    "health_facilities": 66,
+    "government_buildings": 90,
+    "churches": 44,
+    "bridges": 16,
+    "hotels": 11
+   },
+   "source_name": "SINAPROC Comunicado Oficial N.º 11 (via Retén Chiriquí)",
+   "url": "https://www.retenchiriqui.com/post/terremoto-en-panam%C3%A1-3-390-viviendas-afectadas-727-p%C3%A9rdidas-totales-y-m%C3%A1s-de-11-mil-personas-evalua",
+   "note": "SINAPROC Communiqué No. 11 (19:00, Tuesday 13 Oct): 3,390 homes affected and 727 total losses (in Herrera and Los Santos); 11,527 people evaluated in 3,667 families, including 42 pregnant women and 452 people with disabilities; 2,841+ people in 33+ shelters (2,044 in Veraguas, 644 in Los Santos); 27 injured, no deaths or missing; 619 schools under evaluation and 35 collapsed (MEDUCA); 32 landslides and 11 communities cut off in Herrera. Provincial housing figures as reported (Los Santos 1,613, Coclé 1,052, Veraguas 614, Herrera 498, Colón 14) add up to more than the national total, so treat them as indicative. Minister Icaza: housing reports rose from ~1,200 to ~3,300 as families registered damage on the government platform; 66 health facilities damaged. Government buildings (~90), bridges (~16), churches and hotels from earlier official figures.",
+   "note_es": "Comunicado Oficial N.º 11 de SINAPROC (19:00, martes 13 oct): 3.390 viviendas afectadas y 727 pérdidas totales (en Herrera y Los Santos); 11.527 personas evaluadas en 3.667 familias, entre ellas 42 embarazadas y 452 personas con discapacidad; más de 2.841 personas en más de 33 albergues (2.044 en Veraguas, 644 en Los Santos); 27 heridos, sin fallecidos ni desaparecidos; 619 escuelas en evaluación y 35 colapsadas (MEDUCA); 32 deslizamientos y 11 comunidades incomunicadas en Herrera. Las cifras provinciales de vivienda reportadas (Los Santos 1.613, Coclé 1.052, Veraguas 614, Herrera 498, Colón 14) suman más que el total nacional, por lo que son indicativas. Ministro Icaza: los reportes de viviendas subieron de ~1.200 a ~3.300 al registrar las familias sus daños en la plataforma del Estado; 66 instalaciones de salud dañadas. Edificios públicos (~90), puentes (~16), iglesias y hoteles de cifras oficiales anteriores."
   }
  ],
  "humanitarian": {
@@ -408,7 +430,7 @@
    ]
   }
  },
- "reports_count": 459,
+ "reports_count": 463,
  "reports_with_images": 167,
  "places_with_damage": [
   "Agua Fría (La Pintada)",
