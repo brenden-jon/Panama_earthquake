@@ -152,17 +152,17 @@ function renderOverview() {
   const popRange = s ? `${fmtK(roundTo(popLo, 10000))}–${fmtK(roundTo(popHi, 10000))}` : "";
   const bigM = big ? big.properties.mag.toFixed(1) : "";
   $("#g-what").innerHTML = (isEs() ? [
-    `<b>Sismo de magnitud 7.7</b>, superficial (13 km de profundidad), a las <b>12:56 hora local</b> del viernes 9 de octubre (17:56 UTC). <span class="muted">El Instituto de Geociencias de Panamá lo midió en M7.2.</span>`,
+    `<b>Sismo de magnitud 7.7</b>, superficial (13 km de profundidad), a las <b>12:56 hora local</b> del viernes 9 de octubre (17:56 UTC). <span class="muted">El Instituto de Geociencias de Panamá lo estimó en M7.5.</span>`,
     `<b>Epicentro:</b> sur de la península de Azuero, entre Los Santos y Herrera.`,
     `<b>Mayor intensidad:</b> severa a violenta alrededor de Tonosí y Macaracas; muy fuerte en Herrera, Los Santos y el sur de Veraguas${s ? `, donde viven unas <b>${popRange} personas</b>` : ""}.`,
-    `<b>Réplicas:</b> decenas registradas por el Instituto de Geociencias; el catálogo del USGS incluye ${q.length} de las mayores${big ? `, la mayor de <b>M${bigM}</b>` : ""}. Son posibles más réplicas fuertes.`,
-    `<b>Tsunami:</b> alerta inicial levantada; no se reportan daños por tsunami.`,
+    `<b>Réplicas:</b> cientos registradas por el Instituto de Geociencias (más de 400 en los primeros tres días), con frecuencia decreciente; el catálogo del USGS incluye ${q.length} de las mayores${big ? `, la mayor de <b>M${bigM}</b>` : ""}. Son posibles más réplicas fuertes.`,
+    `<b>Costa:</b> la alerta de tsunami se levantó, pero oleaje anómalo y un hundimiento de 15–30 cm inundaron Isla Cañas; ruptura superficial de la falla de ~1 m en Búcaro.`,
   ] : [
-    `<b>M7.7 earthquake</b>, shallow (13 km deep), at <b>12:56 local time</b> on Friday 9 October (17:56 UTC). <span class="muted">Panama's Instituto de Geociencias measured M7.2.</span>`,
+    `<b>M7.7 earthquake</b>, shallow (13 km deep), at <b>12:56 local time</b> on Friday 9 October (17:56 UTC). <span class="muted">Panama's Instituto de Geociencias estimated M7.5.</span>`,
     `<b>Epicentre:</b> southern Azuero Peninsula, between Los Santos and Herrera.`,
     `<b>Strongest shaking:</b> severe to violent around Tonosí and Macaracas; very strong across Herrera, Los Santos and southern Veraguas${s ? `, where about <b>${popRange} people</b> live` : ""}.`,
-    `<b>Aftershocks:</b> dozens recorded by Panama's Instituto de Geociencias; the USGS catalogue lists ${q.length} of the larger ones${big ? `, largest <b>M${bigM}</b>` : ""}. More strong aftershocks are possible.`,
-    `<b>Tsunami:</b> initial warning lifted; no tsunami damage reported.`,
+    `<b>Aftershocks:</b> hundreds recorded by Panama's Instituto de Geociencias (400+ in the first three days), declining in frequency; the USGS catalogue lists ${q.length} of the larger ones${big ? `, largest <b>M${bigM}</b>` : ""}. More strong aftershocks are possible.`,
+    `<b>Coast:</b> the tsunami warning was lifted, but anomalous waves and 15–30 cm of subsidence flooded Isla Cañas; ~1 m surface fault rupture at Búcaro.`,
   ]).map(x => `<li>${x}</li>`).join("");
 
   if (s) {
