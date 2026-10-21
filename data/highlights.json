@@ -1,15 +1,15 @@
 {
- "updated_utc": "2026-10-14T17:00:00Z",
- "headline": "Housing damage triples as families register online: SINAPROC now counts 3,390 homes affected and 727 total losses, with 11,527 people affected and 2,841 in shelters (mostly in Veraguas). Schools begin reopening gradually.",
+ "updated_utc": "2026-10-21T01:30:00Z",
+ "headline": "Twelve days on, technical evaluations show far wider damage: more than 10,100 homes evaluated, 3,000+ uninhabitable or destroyed, and 33,200 people affected; 3,827 people remain in 55 shelters. One death has been confirmed. Reconstruction has started and CCRIF is paying US$17.4M.",
  "key_points": [
-  "Official (SINAPROC Communiqué 11, Tue 19:00): 0 deaths, 0 missing, 27 injured; 11,527 people affected (3,667 families); 2,841 in 33+ shelters (2,044 in Veraguas); 3,390 homes affected, 727 total losses; 619 schools (35 collapsed); 66 health facilities; ~90 government buildings.",
-  "Village-level damage is severe: La Miel (95% of homes) and Bajo Corral (90%) in Las Tablas; 300+ homes collapsed in Los Pozos (mayor); ~1,500 affected in Mariato villages. Cañazas: 400+ homes affected (Telemetro), close to the official total for all of Veraguas.",
-  "Tonosí: hospital unusable — care in tents; new US$30M hospital announced. Power and water still out in Tonosí, Mariato, Soná and Pedasí areas.",
-  "Health: 67 of 842 facilities damaged, US$61M for repairs and a new Tonosí hospital (MINSA); Santo Tomás old maternity building evacuated; CSS clinics closed in Chitré, Los Pozos, Tonosí and Panama City.",
-  "Schools: gradual reopening from Wed 14 Oct, only for schools certified safe; 245 of 619 affected schools inspected; 35 collapsed (20 in Herrera). UNICEF: 8,300 children among 38,000 people in need.",
-  "Finance: damage 'far from' US$450M (Chapman); no Savings Fund use, no fiscal waiver. Two trusts: public (MEF–Banco Nacional) for grants from IDB, CAF, BCIE, IMF, World Bank and cat-insurance payouts; private (Caja de Ahorros) for housing donations. Cabinet Res. 132-26 waives fees and taxes on repair and reconstruction works.",
-  "Emergency decree (Res. 108, to 31 Dec): US$100M ceiling for fast-track contracting. IDB up to US$300M + US$500k; CAF US$50M; US$5M from US State Dept.",
-  "Isla Cañas: sea has flooded farmland (80% of crops lost). Copernicus satellite mapping activated. Ports back to 80%; housing materials being delivered; first 1,300 homes planned."
+  "Official (COE 20 Oct; consolidated report 19 Oct): 1 death, 27 injured; 33,200 people evaluated; 10,100+ homes evaluated: 3,000+ red (uninhabitable or total loss), ~5,000 yellow (repairable); 3,827 people in 55 shelters (70% in Veraguas).",
+  "Damage concentrated in Los Santos and Herrera (74% of home evaluations); Macaracas alone reports 1,000+ homes affected. Public infrastructure: 576 schools, 42 health facilities, 87 public buildings, 69 roads and bridges.",
+  "First death: Elena Barría (68), Macaracas, died on 14 Oct from injuries when her house collapsed.",
+  "Housing: reconstruction under way in Herrera, Coclé, Veraguas and Chiriquí; priority for older people, people with disabilities and children; no rebuilding in risk zones; temporary houses installed.",
+  "Schools: 770 schools reopen on 21 Oct in 12 regions, but classes remain suspended in Los Santos, Herrera, Coclé and Veraguas; 35 schools collapsed.",
+  "Finance: CCRIF parametric payout US$17.4M; insured losses 'low hundreds of millions' (Gallagher Re); US$2.48M sent to 228 local governments; road and bridge repair costs expected within two weeks. Government says damage 'far from' US$450M.",
+  "Science: surface rupture with ~1–1.2 m horizontal and ~1 m vertical offset at Búcaro; Isla Cañas sank 15–30 cm, flooding farmland.",
+  "Risks: heavy rain (green alert) on landslide-dammed areas; aftershocks continue at a declining rate; water shortages in Azuero."
  ],
  "areas": [
   {
@@ -140,12 +140,12 @@
    "source": "Telemetro live"
   }
  ],
- "upcoming": "Counts expected to keep rising as unreachable communities are assessed; MIVIOT housing census and next SINAPROC communiqué expected.",
+ "upcoming": "Coming up: Teletón 20-30 fundraiser for housing on Sat 24 Oct; MOP road and bridge repair costs expected in early November; decision on classes in Los Santos, Herrera, Coclé and Veraguas.",
  "unknowns": [
   "Homes destroyed (only Chiriquí's 10 reported) and the final housing count — MIVIOT housing census under way.",
   "When access, power and water will be restored to Tonosí and the Mariato coast.",
   "Whether heavy rain triggers further landslides on damaged slopes and roads.",
   "When schools will reopen and how many need structural repair.",
-  "How many children and families are affected: UNICEF now estimates 8,300 children among 38,000 people in need, but official counts by district are not yet published."
+  "Total cost of damage: the government has not published an estimate; road and bridge costs are due within two weeks and housing costs depend on the 10,000+ evaluations."
  ]
 }

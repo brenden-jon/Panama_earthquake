@@ -211,6 +211,44 @@
    "source_name": "SINAPROC Comunicado Oficial N.º 11 (via Retén Chiriquí)",
    "url": "https://www.retenchiriqui.com/post/terremoto-en-panam%C3%A1-3-390-viviendas-afectadas-727-p%C3%A9rdidas-totales-y-m%C3%A1s-de-11-mil-personas-evalua",
    "note": "SINAPROC Communiqué No. 11 (19:00, Tuesday 13 Oct): 3,390 homes affected and 727 total losses (in Herrera and Los Santos); 11,527 people evaluated in 3,667 families, including 42 pregnant women and 452 people with disabilities; 2,841+ people in 33+ shelters (2,044 in Veraguas, 644 in Los Santos); 27 injured, no deaths or missing; 619 schools under evaluation and 35 collapsed (MEDUCA); 32 landslides and 11 communities cut off in Herrera. Provincial housing figures as reported (Los Santos 1,613, Coclé 1,052, Veraguas 614, Herrera 498, Colón 14) add up to more than the national total, so treat them as indicative. Minister Icaza: housing reports rose from ~1,200 to ~3,300 as families registered damage on the government platform; 66 health facilities damaged. Government buildings (~90), bridges (~16), churches and hotels from earlier official figures."
+  },
+  {
+   "as_of_utc": "2026-10-20T00:00:00Z",
+   "deaths": 1,
+   "injured": 27,
+   "missing": 0,
+   "displaced": 3827,
+   "homes_damaged": 9124,
+   "homes_destroyed": 2318,
+   "affected_people": 29952,
+   "infrastructure": {
+    "schools": 576,
+    "health_facilities": 42,
+    "government_buildings": 87,
+    "churches": 44
+   },
+   "source_name": "COEN / SINAPROC consolidated report, 9–19 Oct (via La Estrella)",
+   "url": "https://www.laestrella.com.pa/panama/nacional/terremoto-deja-9124-viviendas-afectadas-y-3827-personas-permanecen-en-albergues-GH26656550",
+   "note": "COEN/SINAPROC consolidated report for 9–19 October: 9,124 homes evaluated: 2,318 with total damage (7,430 residents), 5,546 with moderate or partial damage (18,470 residents), 1,260 with minor damage (4,052 residents); 29,952 people affected, including 98 pregnant women and 1,194 people with disabilities; 3,827 people in 55 shelters, 2,672 of them (70%) in Veraguas; 576 schools, 42 health facilities, 44 churches, 87 public buildings and 69 roads and bridges damaged; 27 injured. Los Santos and Herrera account for 74% of home evaluations; Veraguas and Chiriquí for 55% of damaged schools. One death: Elena Barría (68), injured when her house collapsed in Macaracas, died in hospital on 14 Oct (CSS)."
+  },
+  {
+   "as_of_utc": "2026-10-20T17:30:00Z",
+   "deaths": 1,
+   "injured": 27,
+   "missing": 0,
+   "displaced": 3827,
+   "homes_damaged": 10100,
+   "homes_destroyed": 3000,
+   "affected_people": 33200,
+   "infrastructure": {
+    "schools": 576,
+    "health_facilities": 42,
+    "government_buildings": 87,
+    "churches": 44
+   },
+   "source_name": "COE national update, 20 Oct 12:30 (via TVN)",
+   "url": "https://www.tvn-2.com/nacionales/11-dias-despues-terremoto-coe-reporta-33-mil-personas-afectadas-10-mil-viviendas_1_2267094.html",
+   "note": "COE update (12:30, Tuesday 20 Oct, director René García): more than 10,100 homes and 33,200 people evaluated; 3,000+ homes classified red (uninhabitable or total loss), about 5,000 yellow (repairable), the rest green; 100+ pregnant women and 1,300 people with disabilities among those evaluated. Shelters (3,827 in 55), schools, health facilities, public buildings and churches from the 19 Oct consolidated report. One death (Elena Barría, 68, Macaracas, died 14 Oct). Figures are evaluations, not final damage counts; Panamá Conecta has received 8,000+ damage reports and MIVIOT lists 6,400+ homes affected."
   }
  ],
  "conflicts": [
@@ -223,7 +261,8 @@
   "Several outlets recycled Sinaproc text from the 10 Aug 2026 Colombia quake ('9:31 a.m. no persons affected') — not applicable to this event.",
   "Injuries: Sinaproc director Omar Smith reported 'several injured' (no figure); the Caja de Seguro Social (15:27 local) said no patients, users or staff were affected in its own facilities. Neither is a national total.",
   "Largest aftershock (20:25 UTC): USGS M6.6, 14 km W of Río Grande (Veraguas); IGC-UP M6.9, 32 km from Coiba; El Tiempo also cites M6.6 8 km NW of Río Grande.",
-  "USGS ShakeMap: version 10 (automatic, 12 Oct 19:54 UTC) re-calibrates the model with 'Did You Feel It?' reports and lowers intensities sharply (epicentre ~VI, Los Pozos ~V–VI, Soná ~III; people at MMI VII+ from ~550,000 to ~60,000). This contradicts observed damage (300+ homes collapsed in Los Pozos, church towers down, schools destroyed), so this platform keeps the earlier ShakeMap (v8) for its exposure and poverty analysis until USGS reviews the map."
+  "USGS ShakeMap: version 10 (automatic, 12 Oct 19:54 UTC) re-calibrates the model with 'Did You Feel It?' reports and lowers intensities sharply (epicentre ~VI, Los Pozos ~V–VI, Soná ~III; people at MMI VII+ from ~550,000 to ~60,000). This contradicts observed damage (300+ homes collapsed in Los Pozos, church towers down, schools destroyed), so this platform keeps the earlier ShakeMap (v8) for its exposure and poverty analysis until USGS reviews the map.",
+  "Housing counts differ by source and method: SINAPROC field counts (1,287 homes on 12 Oct), self-registration on the government platform Panamá Conecta (3,300 by 14 Oct, 8,000+ reports by 20 Oct), MIVIOT (6,400+ homes) and COE technical evaluations (9,124 evaluated with 2,318 total damage by 19 Oct; 10,100 evaluated with 3,000+ red by 20 Oct). This platform shows the latest COE evaluation figures."
  ],
  "humanitarian": {
   "people_in_need": 38000,

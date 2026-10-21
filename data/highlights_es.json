@@ -1,15 +1,15 @@
 {
- "updated_utc": "2026-10-14T17:00:00Z",
- "headline": "El daño a viviendas se triplica al registrarse las familias en línea: SINAPROC contabiliza 3.390 viviendas afectadas y 727 pérdidas totales, con 11.527 personas afectadas y 2.841 en albergues (sobre todo en Veraguas). Las escuelas inician una reapertura gradual.",
+ "updated_utc": "2026-10-21T01:30:00Z",
+ "headline": "Doce días después, las evaluaciones técnicas muestran daños mucho mayores: más de 10.100 viviendas evaluadas, más de 3.000 inhabitables o destruidas y 33.200 personas afectadas; 3.827 personas siguen en 55 albergues. Se confirmó un fallecido. Comenzó la reconstrucción y CCRIF pagará US$17,4 millones.",
  "key_points": [
-  "Oficial (Comunicado 11 de SINAPROC, mar 19:00): 0 fallecidos, 0 desaparecidos, 27 heridos; 11.527 personas afectadas (3.667 familias); 2.841 en más de 33 albergues (2.044 en Veraguas); 3.390 viviendas afectadas, 727 pérdidas totales; 619 escuelas (35 colapsadas); 66 instalaciones de salud; ~90 edificios públicos.",
-  "Los daños a nivel de comunidad son graves: La Miel (95 % de las viviendas) y Bajo Corral (90 %) en Las Tablas; más de 300 viviendas colapsadas en Los Pozos (alcalde); ~1.500 afectados en comunidades de Mariato. Cañazas: más de 400 viviendas afectadas (Telemetro), cerca del total oficial de todo Veraguas.",
-  "Tonosí: hospital inutilizable, atención en carpas; se anuncia un nuevo hospital de US$30 millones. Sin luz ni agua aún en Tonosí, Mariato, Soná y Pedasí.",
-  "Salud: 67 de 842 instalaciones dañadas, US$61 millones para reparaciones y nuevo hospital en Tonosí (MINSA); evacuado el antiguo edificio de maternidad del Santo Tomás; policlínicas de la CSS cerradas en Chitré, Los Pozos, Tonosí y Ciudad de Panamá.",
-  "Escuelas: reapertura gradual desde el mié 14 oct, solo para escuelas certificadas; 245 de 619 escuelas afectadas inspeccionadas; 35 colapsadas (20 en Herrera). UNICEF: 8.300 niños y niñas entre 38.000 personas con necesidades.",
-  "Finanzas: daños 'lejos' de US$450 millones (Chapman); sin uso del Fondo de Ahorro ni dispensa fiscal. Dos fideicomisos: público (MEF–Banco Nacional) para aportes del BID, CAF, BCIE, FMI, Banco Mundial y seguros catastróficos; privado (Caja de Ahorros) para donaciones de vivienda. La Res. de Gabinete 132-26 exonera tasas e impuestos a obras de reparación y reconstrucción.",
-  "Decreto de emergencia (Res. 108, hasta el 31 dic): tope de US$100 millones para contratación expedita. BID hasta US$300 millones + US$500.000; CAF US$50 millones; US$5 millones del Departamento de Estado de EE. UU.",
-  "Isla Cañas: el mar inundó tierras de cultivo (80 % de la producción perdida). Activado el mapeo satelital Copernicus. Puertos al 80 %; entrega de materiales de vivienda; primeras 1.300 viviendas previstas."
+  "Oficial (COE 20 oct; informe consolidado 19 oct): 1 fallecido, 27 heridos; 33.200 personas evaluadas; más de 10.100 viviendas evaluadas: más de 3.000 en rojo (inhabitables o pérdida total), ~5.000 en amarillo (reparables); 3.827 personas en 55 albergues (70 % en Veraguas).",
+  "Daños concentrados en Los Santos y Herrera (74 % de las evaluaciones de vivienda); solo Macaracas reporta más de 1.000 viviendas afectadas. Infraestructura pública: 576 escuelas, 42 instalaciones de salud, 87 edificios públicos, 69 vías y puentes.",
+  "Primer fallecido: Elena Barría (68), de Macaracas, murió el 14 de octubre por las heridas sufridas al colapsar su casa.",
+  "Vivienda: reconstrucción en marcha en Herrera, Coclé, Veraguas y Chiriquí; prioridad a adultos mayores, personas con discapacidad y niños; no se reconstruirá en zonas de riesgo; se instalan casas temporales.",
+  "Escuelas: 770 escuelas reabren el 21 de octubre en 12 regiones, pero las clases siguen suspendidas en Los Santos, Herrera, Coclé y Veraguas; 35 escuelas colapsaron.",
+  "Finanzas: pago paramétrico de CCRIF de US$17,4 millones; pérdidas aseguradas en 'bajos cientos de millones' (Gallagher Re); US$2,48 millones enviados a 228 gobiernos locales; costos de reparación de vías y puentes en dos semanas. El Gobierno dice que los daños están 'lejos' de US$450 millones.",
+  "Ciencia: ruptura superficial con ~1–1,2 m de desplazamiento horizontal y ~1 m vertical en Búcaro; Isla Cañas se hundió 15–30 cm, inundando tierras de cultivo.",
+  "Riesgos: lluvias intensas (alerta verde) sobre zonas con represamientos por deslizamientos; las réplicas continúan con menor frecuencia; escasez de agua en Azuero."
  ],
  "areas": [
   {
@@ -140,12 +140,12 @@
    "source": "Telemetro en vivo"
   }
  ],
- "upcoming": "Se espera que las cifras sigan aumentando al evaluarse comunidades inaccesibles; se esperan el censo habitacional del MIVIOT y un nuevo comunicado de SINAPROC.",
+ "upcoming": "Próximamente: Teletón 20-30 para vivienda el sábado 24 de octubre; costos de reparación de vías y puentes del MOP a inicios de noviembre; decisión sobre clases en Los Santos, Herrera, Coclé y Veraguas.",
  "unknowns": [
   "Viviendas destruidas (solo se reportan 10 en Chiriquí) y el conteo final de viviendas: censo habitacional del MIVIOT en curso.",
   "Cuándo se restablecerán el acceso, la electricidad y el agua en Tonosí y la costa de Mariato.",
   "Si las lluvias intensas provocan nuevos deslizamientos en laderas y vías dañadas.",
   "Cuándo reabrirán las escuelas y cuántas necesitan reparaciones estructurales.",
-  "Cuántos niños, niñas y familias están afectados: UNICEF estima ahora 8.300 niños entre 38.000 personas con necesidades, pero aún no hay cifras oficiales por distrito."
+  "Costo total de los daños: el Gobierno no ha publicado una estimación; los costos de vías y puentes llegarán en dos semanas y los de vivienda dependen de las más de 10.000 evaluaciones."
  ]
 }
