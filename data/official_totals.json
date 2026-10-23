@@ -249,6 +249,46 @@
    "source_name": "COE national update, 20 Oct 12:30 (via TVN)",
    "url": "https://www.tvn-2.com/nacionales/11-dias-despues-terremoto-coe-reporta-33-mil-personas-afectadas-10-mil-viviendas_1_2267094.html",
    "note": "COE update (12:30, Tuesday 20 Oct, director René García): more than 10,100 homes and 33,200 people evaluated; 3,000+ homes classified red (uninhabitable or total loss), about 5,000 yellow (repairable), the rest green; 100+ pregnant women and 1,300 people with disabilities among those evaluated. Shelters (3,827 in 55), schools, health facilities, public buildings and churches from the 19 Oct consolidated report. One death (Elena Barría, 68, Macaracas, died 14 Oct). Figures are evaluations, not final damage counts; Panamá Conecta has received 8,000+ damage reports and MIVIOT lists 6,400+ homes affected."
+  },
+  {
+   "as_of_utc": "2026-10-21T23:00:00Z",
+   "deaths": 2,
+   "injured": 27,
+   "missing": 0,
+   "displaced": 5628,
+   "homes_damaged": 11321,
+   "homes_destroyed": 2890,
+   "affected_people": 37210,
+   "infrastructure": {
+    "schools": 576,
+    "health_facilities": 42,
+    "government_buildings": 87,
+    "churches": 44,
+    "bridges": 23
+   },
+   "source_name": "SINAPROC balance, 21 Oct 18:00 (via Telemetro)",
+   "url": "https://www.telemetro.com/nacionales/terremoto-75-panama-sinaproc-presenta-balance-oficial-11321-viviendas-evaluadas-n6096139",
+   "note": "SINAPROC balance (18:00, Wednesday 21 Oct): 11,321 homes evaluated: 2,890 total loss, 6,874 moderate or partial damage, 1,557 minor (Los Santos 5,060 and Herrera 3,267 evaluated); 37,210 people registered in damage and needs assessments (EDAN); 5,628 people (1,051 families) in 126 shelters, 3,531 of them in Veraguas; 27 injured; 2 deaths; 47 critical points and 23 bridges needing rehabilitation; IMA delivered 58,909 food bags to 750 communities."
+  },
+  {
+   "as_of_utc": "2026-10-22T23:30:00Z",
+   "deaths": 2,
+   "injured": 27,
+   "missing": 0,
+   "displaced": 6654,
+   "homes_damaged": 12333,
+   "homes_destroyed": 3129,
+   "affected_people": 40791,
+   "infrastructure": {
+    "schools": 576,
+    "health_facilities": 42,
+    "government_buildings": 87,
+    "churches": 44,
+    "bridges": 23
+   },
+   "source_name": "Government briefing, 22 Oct 18:30 (via La Prensa)",
+   "url": "https://www.prensa.com/politica/el-ejecutivo-actualiza-el-balance-de-areas-afectadas-por-el-terremoto/",
+   "note": "Government briefing (18:30, Thursday 22 Oct, Minister J. R. Icaza and SINAPROC director Omar Smith): 12,333 homes affected with 40,791 residents; 3,129 homes with total damage; 6,654 people in 122 shelters; 576 schools affected; 775 communities assisted in five provinces. Deaths: Elena Barría (68, Macaracas, died 14 Oct) and Regina Miranda (60, school secretary in Santiago, injured while evacuating, died 22 Oct); La Prensa counts a third death of a person with pre-existing conditions. Homes are being tagged green (safe), yellow (restricted, repairs needed) or red (uninhabitable); a public map is available on panamaconecta.gob.pa. Health facilities (42), public buildings (87) and churches (44 official; 100+ according to the Catholic Church) from earlier reports; bridges = 23 needing rehabilitation (SINAPROC 21 Oct)."
   }
  ],
  "conflicts": [
@@ -262,7 +302,8 @@
   "Injuries: Sinaproc director Omar Smith reported 'several injured' (no figure); the Caja de Seguro Social (15:27 local) said no patients, users or staff were affected in its own facilities. Neither is a national total.",
   "Largest aftershock (20:25 UTC): USGS M6.6, 14 km W of Río Grande (Veraguas); IGC-UP M6.9, 32 km from Coiba; El Tiempo also cites M6.6 8 km NW of Río Grande.",
   "USGS ShakeMap: version 10 (automatic, 12 Oct 19:54 UTC) re-calibrates the model with 'Did You Feel It?' reports and lowers intensities sharply (epicentre ~VI, Los Pozos ~V–VI, Soná ~III; people at MMI VII+ from ~550,000 to ~60,000). This contradicts observed damage (300+ homes collapsed in Los Pozos, church towers down, schools destroyed), so this platform keeps the earlier ShakeMap (v8) for its exposure and poverty analysis until USGS reviews the map.",
-  "Housing counts differ by source and method: SINAPROC field counts (1,287 homes on 12 Oct), self-registration on the government platform Panamá Conecta (3,300 by 14 Oct, 8,000+ reports by 20 Oct), MIVIOT (6,400+ homes) and COE technical evaluations (9,124 evaluated with 2,318 total damage by 19 Oct; 10,100 evaluated with 3,000+ red by 20 Oct). This platform shows the latest COE evaluation figures."
+  "Housing counts differ by source and method: SINAPROC field counts (1,287 homes on 12 Oct), self-registration on the government platform Panamá Conecta (3,300 by 14 Oct, 8,000+ reports by 20 Oct), MIVIOT (6,400+ homes) and COE technical evaluations (9,124 evaluated with 2,318 total damage by 19 Oct; 10,100 evaluated with 3,000+ red by 20 Oct). This platform shows the latest COE evaluation figures.",
+  "Deaths: the Health Ministry confirms two deaths from direct trauma (Elena Barría, 14 Oct; Regina Miranda, 22 Oct); La Prensa reports three, including a person with pre-existing conditions whose health worsened during the earthquake."
  ],
  "humanitarian": {
   "people_in_need": 38000,
