@@ -13,131 +13,78 @@
  ],
  "areas": [
   {
-   "area": "Penonomé, Coclé",
+   "area": "Los Santos (Macaracas, Tonosí, Las Tablas, Pedasí)",
    "status": "severe",
-   "text": "Colapso parcial del Hotel Dos Continentes; la torre de la catedral San Juan Bautista cayó sobre un auto; colapsó una pared de la Gobernación; mercado dañado (1 herido); Hospital Aquilino Tejeira agrietado y evacuado; daños en el Iguana Mall."
+   "text": "Provincia con más viviendas evaluadas (5.060). Macaracas reporta más de 1.000 viviendas afectadas y la primera fallecida; el hospital de Tonosí funciona en carpas y una unidad modular, con un nuevo hospital previsto; Isla Cañas se hundió 15–30 cm y el mar inundó tierras de cultivo; en Búcaro hay ~1 m de ruptura superficial de la falla. El etiquetado de viviendas por colores comenzó aquí."
   },
   {
-   "area": "Tonosí / Cambutal, Los Santos",
+   "area": "Herrera (Los Pozos, Las Minas, Pesé, Ocú)",
    "status": "severe",
-   "text": "Incomunicado salvo por Macaracas; SOS del alcalde: sin luz ni agua, escasean alimentos y medicinas. Viviendas colapsadas; 8 pacientes con fracturas evacuados por aire; llega ayuda en helicóptero."
+   "text": "3.267 viviendas evaluadas; 20 de las 35 escuelas colapsadas están aquí (13 en Las Minas, 6 en Los Pozos); deslizamientos y comunidades aisladas en zonas altas. Primeras viviendas reconstruidas en Pesé y Las Minas; la policlínica de la CSS en Los Pozos atiende en carpas."
   },
   {
-   "area": "Comunidades de Mariato y Montijo, Veraguas",
+   "area": "Veraguas (Soná, Mariato, Montijo, Cañazas, Santiago)",
    "status": "severe",
-   "text": "~1.500 afectados en Llano Catival, Quebro, Arenas y El Cacao; Arenas, Quebro y El Cacao incomunicados; colapsaron acueductos rurales; ~255 personas en albergues de Mariato. Islas de Montijo (Leones, Cébaco, Gobernadora) aisladas, embarcaciones hundidas; 55 viviendas dañadas en el poblado de Montijo."
+   "text": "Alberga a la mayoría de las personas en albergues (más de 3.500). Mariato: 17 escuelas perdidas, ~5 km de carretera y varios puentes dañados, restricción de peso en cinco puentes Atalaya–Mariato; Cañazas: más de 400 viviendas afectadas; Montijo: más de 33 viviendas inhabitables; Santiago: segunda fallecida (secretaria de una escuela herida durante la evacuación)."
   },
   {
-   "area": "Comunidades rurales de Las Tablas, Los Santos",
-   "status": "severe",
-   "text": "La Miel: 95 % de las viviendas afectadas, muchas pérdidas totales, sin ayuda aún; Bajo Corral: 90 % afectadas, vías bloqueadas por deslizamientos; Bayano (La Canoa, Taboga): la mayoría de las viviendas, pérdida total."
-  },
-  {
-   "area": "Pedasí / Playa Venao, Los Santos",
-   "status": "severe",
-   "text": "Colapsó el hostal El Sitio. Lugareños dijeron a La Prensa que había personas atrapadas, pero las autoridades locales afirman que los edificios turísticos dañados en Pedasí estaban desocupados. No hay confirmación oficial de personas atrapadas."
-  },
-  {
-   "area": "Santiago, Veraguas",
+   "area": "Coclé (Penonomé, La Pintada, Antón, Aguadulce)",
    "status": "significant",
-   "text": "Daños en la catedral y el edificio municipal (colapso parcial del techo); daños en la terminal de buses y en la Policlínica Horacio Díaz Gómez."
+   "text": "Torre de la catedral y edificio de la Gobernación de Penonomé dañados (este último podría demolerse); colapso parcial del Hotel Dos Continentes; viviendas perdidas en La Pintada (Agua Fría) y El Bajito de San Miguel. Los estudiantes terminarán el año con guías y módulos."
   },
   {
-   "area": "Soná y Mariato, Veraguas",
+   "area": "Chiriquí y Ngäbe-Buglé",
    "status": "significant",
-   "text": "Daños en la estación de bomberos de Soná; la vía a Torio (Mariato) se partió con desniveles verticales; cortada la vía Santiago–Arenas. Réplica de M6,6 a las 20:25 UTC con epicentro 14 km al O de Río Grande (Soná)."
+   "text": "Oriente de Chiriquí (San Félix, Remedios, Tolé) y comunidades vecinas de la comarca Ngäbe-Buglé: daños sobre todo en viviendas de adobe; 139 escuelas afectadas; inició la reconstrucción en San Félix."
   },
   {
-   "area": "Atalaya, Veraguas",
-   "status": "significant",
-   "text": "Colapsó parte de la torre de la Basílica Menor."
-  },
-  {
-   "area": "Los Pozos, Las Minas, Pesé y Ocú, Herrera",
-   "status": "severe",
-   "text": "Cientos de viviendas colapsadas en Los Pozos (alcalde); ~100 viviendas con daños considerables en Las Minas; más de la mitad de las viviendas destruidas en Mandinga, Pesé (diputado); iglesias parroquiales dañadas; colapso de cielorraso en escuela de Ocú."
-  },
-  {
-   "area": "Aguadulce, Coclé",
+   "area": "Ciudad de Panamá y Colón",
    "status": "moderate",
-   "text": "Colapso del cielo raso en un edificio escolar/universitario (video de Telemundo). The Sunday Guardian, citando a Telemetro, informa de daños importantes en al menos seis edificios; sin confirmar."
-  },
-  {
-   "area": "Ciudad de Panamá",
-   "status": "moderate",
-   "text": "Ventanas rotas en Calle 50 y Paitilla; hospitales evacuados por precaución; suspendidas las Líneas 1 y 2 del Metro; cerrado el aeropuerto de Tocumen."
-  },
-  {
-   "area": "Macaracas, Los Santos",
-   "status": "reported",
-   "text": "Rajaduras considerables en la estructura de la estación de bomberos de Macaracas (Bomberos vía SINAPROC). Intensidad modelada alta; pocos reportes adicionales por ahora."
-  },
-  {
-   "area": "Chiriquí, Archipiélago de las Perlas y Darién",
-   "status": "significant",
-   "text": "Hospital del Oriente Chiricano (San Félix) evacuado por completo, ~209 personas (MINSA); daños en el hospital de Puerto Armuelles y el centro de salud de Tolé; fachada de hotel y estación de bomberos agrietadas en David; más de 15 escuelas dañadas. Comercios y viviendas afectados en el Archipiélago de las Perlas; afectaciones menores en una escuela de Darién."
+   "text": "Evacuados cinco pisos del antiguo edificio de maternidad del Hospital Santo Tomás; Policlínica Presidente Remón cerrada; el resto de los servicios funciona con normalidad (Metro, Tocumen, puertos). Colón: daños parciales en el Hospital San Juan y el mercado municipal."
   }
  ],
  "services": [
   {
-   "sector": "Electricidad",
+   "sector": "Vivienda",
    "status": "disrupted",
-   "text": "Naturgy ha restablecido al 97 % de los clientes afectados; quedan pendientes Mariato, Soná, Atalaya, Tonosí, Flores y Pedasí.",
-   "source": "Naturgy / Ensa / ETESA vía medios"
+   "text": "12.333 viviendas afectadas, 3.129 destruidas; 6.654 personas en 122 albergues. Viviendas etiquetadas verde/amarillo/rojo; inició la construcción de casas de 43 m².",
+   "source": "SINAPROC / Government briefing 22 Oct"
   },
   {
-   "sector": "Agua",
+   "sector": "Escuelas",
    "status": "disrupted",
-   "text": "Potabilizadoras dañadas en todo el país; Chilibre (mayor parte de la Ciudad de Panamá y San Miguelito) se recupera al 70 % tras caer al 20 %. La CSS suspendió la hemodiálisis a nivel nacional por falta de agua; tanques de Monte Esperanza (Colón) dañados pero bombeando.",
-   "source": "IDAAN, ACP, CSS vía medios"
+   "text": "770 escuelas reabrieron en 12 regiones el 21 oct; clases aún suspendidas en Los Santos, Herrera y Veraguas; Coclé termina el año con guías y módulos; 35 escuelas colapsadas.",
+   "source": "MEDUCA"
   },
   {
-   "sector": "Telecomunicaciones",
+   "sector": "Salud",
    "status": "disrupted",
-   "text": "Fallas generalizadas de telefonía móvil e internet en varios operadores.",
-   "source": "Reportes de prensa"
+   "text": "42–67 instalaciones dañadas; US$61 millones para reparaciones; hospital de Tonosí en carpas y unidad modular; antiguo edificio de maternidad del Santo Tomás evacuado; línea de salud mental 800-6467.",
+   "source": "MINSA / CSS"
   },
   {
-   "sector": "Aeropuertos",
-   "status": "closed",
-   "text": "Tocumen Internacional cerrado y evacuado; vuelos desviados a Barranquilla, Cartagena, Bogotá, San José, Managua y Panamá Pacífico.",
-   "source": "Tocumen S.A.; El Heraldo, Aviacionline"
-  },
-  {
-   "sector": "Metro",
-   "status": "closed",
-   "text": "Líneas 1 y 2 suspendidas, estaciones evacuadas.",
-   "source": "Metro de Panamá vía medios"
-  },
-  {
-   "sector": "Vías",
+   "sector": "Vías y puentes",
    "status": "disrupted",
-   "text": "Fracturada la vía a Torio (Mariato); cortada la vía Santiago–Arenas; daños en los alrededores de Cambutal.",
-   "source": "Medios / redes sociales"
+   "text": "La mayoría de las vías reabiertas; 47 puntos críticos y 23 puentes por rehabilitar; restricción de peso en cinco puentes Atalaya–Mariato; costos de reparación del MOP a inicios de noviembre.",
+   "source": "SINAPROC / MOP"
+  },
+  {
+   "sector": "Agua y electricidad",
+   "status": "disrupted",
+   "text": "Electricidad restablecida, incluida Isla Cañas; persiste la escasez de agua en partes de Azuero.",
+   "source": "ASEP / IDAAN via media"
+  },
+  {
+   "sector": "Aeropuertos, Metro y puertos",
+   "status": "operating",
+   "text": "Tocumen y las líneas 1 y 2 del Metro operan desde el 12 oct; puertos estatales al ~80 %.",
+   "source": "Tocumen, Metro, AMP"
   },
   {
    "sector": "Canal de Panamá",
    "status": "operating",
-   "text": "Opera con normalidad; la ACP desmintió rumores de daños en las esclusas de Agua Clara.",
+   "text": "Opera con normalidad; sin daños reportados.",
    "source": "ACP"
-  },
-  {
-   "sector": "Educación y oficinas públicas",
-   "status": "closed",
-   "text": "419 escuelas afectadas, 24 deben reconstruirse; no habrá clases en todo el país el lunes 12 de octubre (MEDUCA).",
-   "source": "MEDUCA / Presidencia"
-  },
-  {
-   "sector": "Tsunami",
-   "status": "operating",
-   "text": "El PTWC advirtió inicialmente de olas de 1–3 m en las costas de Panamá; luego descartó una amenaza para todo el Pacífico. No se reportan daños por tsunami.",
-   "source": "PTWC (vía medios)"
-  },
-  {
-   "sector": "Servicios municipales (Ciudad de Panamá)",
-   "status": "closed",
-   "text": "El Municipio de Panamá suspendió todos los servicios municipales, incluidos los mercados, hasta nuevo aviso.",
-   "source": "Telemetro en vivo"
   }
  ],
  "upcoming": "Próximamente: Teletón 20-30 el sábado 24 oct (meta: 2.700 viviendas); costos de reparación de vías y puentes del MOP a inicios de noviembre; decisión sobre clases en Los Santos, Herrera y Veraguas.",

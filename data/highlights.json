@@ -13,131 +13,78 @@
  ],
  "areas": [
   {
-   "area": "Penonomé, Coclé",
+   "area": "Los Santos (Macaracas, Tonosí, Las Tablas, Pedasí)",
    "status": "severe",
-   "text": "Partial collapse of Hotel Dos Continentes; San Juan Bautista cathedral tower fell onto a car; Gobernación wall collapsed; market damaged (1 injured); Hospital Aquilino Tejeira cracked and evacuated; Iguana Mall damaged."
+   "text": "Most homes evaluated of any province (5,060). Macaracas reports 1,000+ homes affected and the first death; Tonosí hospital replaced by tents and a modular unit, new hospital planned; Isla Cañas sank 15–30 cm and seawater flooded farmland; Búcaro shows ~1 m surface fault rupture. Colour-tagging of homes started here."
   },
   {
-   "area": "Tonosí / Cambutal, Los Santos",
+   "area": "Herrera (Los Pozos, Las Minas, Pesé, Ocú)",
    "status": "severe",
-   "text": "Cut off except via Macaracas; mayor's SOS: no power or water, food and medicine running short. Homes collapsed; 8 fracture patients airlifted; aid arriving by helicopter."
+   "text": "3,267 homes evaluated; 20 of the 35 collapsed schools are here (13 in Las Minas, 6 in Los Pozos); landslides and isolated communities in the hills. First reconstructed homes in Pesé and Las Minas; CSS clinic in Los Pozos working from tents."
   },
   {
-   "area": "Mariato villages & Montijo, Veraguas",
+   "area": "Veraguas (Soná, Mariato, Montijo, Cañazas, Santiago)",
    "status": "severe",
-   "text": "~1,500 affected in Llano Catival, Quebro, Arenas and El Cacao; Arenas, Quebro and El Cacao cut off; rural water systems collapsed; ~255 people in Mariato shelters. Montijo islands (Leones, Cébaco, Gobernadora) cut off, boats sunk; 55 homes damaged in Montijo town."
+   "text": "Hosts most people in shelters (3,500+). Mariato: 17 schools lost, ~5 km of highway and several bridges damaged, weight limits on five Atalaya–Mariato bridges; Cañazas: 400+ homes affected; Montijo: 33+ homes uninhabitable; Santiago: second death (a school secretary injured during evacuation)."
   },
   {
-   "area": "Las Tablas rural villages, Los Santos",
-   "status": "severe",
-   "text": "La Miel: 95% of homes affected, many total losses, no aid yet; Bajo Corral: 90% affected, roads blocked by landslides; Bayano (La Canoa, Taboga): most homes a total loss."
-  },
-  {
-   "area": "Pedasí / Playa Venao, Los Santos",
-   "status": "severe",
-   "text": "El Sitio hostel collapsed. Locals told La Prensa people were trapped, but local authorities say the damaged tourist buildings in Pedasí were unoccupied. No official confirmation of anyone trapped."
-  },
-  {
-   "area": "Santiago, Veraguas",
+   "area": "Coclé (Penonomé, La Pintada, Antón, Aguadulce)",
    "status": "significant",
-   "text": "Cathedral and municipal building damaged (partial roof collapse); bus terminal and Policlínica Horacio Díaz Gómez damaged."
+   "text": "Penonomé cathedral tower and governorship building damaged (the latter may be demolished); Hotel Dos Continentes partly collapsed; homes lost in La Pintada (Agua Fría) and El Bajito de San Miguel. Students will finish the year with guides and modules."
   },
   {
-   "area": "Soná & Mariato, Veraguas",
+   "area": "Chiriquí & Ngäbe-Buglé",
    "status": "significant",
-   "text": "Soná fire station damaged; road to Torio (Mariato) split with vertical offsets; Santiago–Arenas road cut. M6.6 aftershock at 20:25 UTC centred 14 km W of Río Grande (Soná)."
+   "text": "Eastern Chiriquí (San Félix, Remedios, Tolé) and adjoining Ngäbe-Buglé communities: mostly adobe homes damaged; 139 schools affected; reconstruction started in San Félix."
   },
   {
-   "area": "Atalaya, Veraguas",
-   "status": "significant",
-   "text": "Part of the Basílica Menor tower collapsed."
-  },
-  {
-   "area": "Los Pozos, Las Minas, Pesé & Ocú, Herrera",
-   "status": "severe",
-   "text": "Hundreds of homes collapsed in Los Pozos (mayor); ~100 homes with considerable damage in Las Minas; over half of homes destroyed in Mandinga, Pesé (deputy); parish churches damaged; school ceiling collapse in Ocú."
-  },
-  {
-   "area": "Aguadulce, Coclé",
+   "area": "Panama City & Colón",
    "status": "moderate",
-   "text": "Ceiling collapse in a school/university building (Telemundo video). Sunday Guardian, citing Telemetro, reports significant damage to at least six buildings — unconfirmed."
-  },
-  {
-   "area": "Panama City",
-   "status": "moderate",
-   "text": "Broken windows on Calle 50 and Paitilla; hospitals evacuated as a precaution; Metro lines 1 and 2 suspended; Tocumen airport closed."
-  },
-  {
-   "area": "Macaracas, Los Santos",
-   "status": "reported",
-   "text": "Considerable structural cracks at the Macaracas fire station (Fire Brigade via SINAPROC). Strong modelled shaking; few other reports so far."
-  },
-  {
-   "area": "Chiriquí, Pearl Islands & Darién",
-   "status": "significant",
-   "text": "Hospital del Oriente Chiricano (San Félix) fully evacuated, ~209 people (MINSA); damage at Puerto Armuelles hospital and Tolé health centre; cracked hotel facade and fire station in David; 15+ schools damaged. Shops and homes affected in the Pearl Islands; minor school damage in Darién."
+   "text": "Five floors of Hospital Santo Tomás's old maternity building evacuated; Policlínica Presidente Remón closed; other services back to normal (Metro, Tocumen, ports). Colón: Hospital San Juan and municipal market partly damaged."
   }
  ],
  "services": [
   {
-   "sector": "Electricity",
+   "sector": "Housing",
    "status": "disrupted",
-   "text": "Naturgy has restored 97% of affected customers; Mariato, Soná, Atalaya, Tonosí, Flores and Pedasí still pending.",
-   "source": "Naturgy / Ensa / ETESA via media"
+   "text": "12,333 homes affected, 3,129 destroyed; 6,654 people in 122 shelters. Homes tagged green/yellow/red; construction of 43 m² homes started.",
+   "source": "SINAPROC / Government briefing 22 Oct"
   },
   {
-   "sector": "Water",
+   "sector": "Schools",
    "status": "disrupted",
-   "text": "Treatment plants damaged nationwide; Chilibre (most of Panama City and San Miguelito) back to 70% after falling to 20%. CSS suspended hemodialysis nationwide due to water shortage; Monte Esperanza (Colón) tanks damaged but pumping.",
-   "source": "IDAAN, ACP, CSS via media"
+   "text": "770 schools reopened in 12 regions on 21 Oct; classes still suspended in Los Santos, Herrera and Veraguas; Coclé finishes the year with guides and modules; 35 schools collapsed.",
+   "source": "MEDUCA"
   },
   {
-   "sector": "Telecoms",
+   "sector": "Health",
    "status": "disrupted",
-   "text": "Widespread mobile and internet failures across several operators.",
-   "source": "Media reports"
+   "text": "42–67 facilities damaged; US$61M for repairs; Tonosí hospital in tents and a modular unit; Santo Tomás old maternity building evacuated; mental-health line 800-6467.",
+   "source": "MINSA / CSS"
   },
   {
-   "sector": "Airports",
-   "status": "closed",
-   "text": "Tocumen International closed and evacuated; flights diverted to Barranquilla, Cartagena, Bogotá, San José, Managua and Panamá Pacífico.",
-   "source": "Tocumen S.A.; El Heraldo, Aviacionline"
-  },
-  {
-   "sector": "Metro",
-   "status": "closed",
-   "text": "Lines 1 and 2 suspended, stations evacuated.",
-   "source": "Metro de Panamá via media"
-  },
-  {
-   "sector": "Roads",
+   "sector": "Roads & bridges",
    "status": "disrupted",
-   "text": "Road to Torio (Mariato) ruptured; Santiago–Arenas road cut; damage around Cambutal.",
-   "source": "Media / social media"
+   "text": "Most roads reopened; 47 critical points and 23 bridges need rehabilitation; weight limits on five Atalaya–Mariato bridges; MOP repair costs due in early November.",
+   "source": "SINAPROC / MOP"
+  },
+  {
+   "sector": "Water & power",
+   "status": "disrupted",
+   "text": "Power restored, including Isla Cañas; water shortages persist in parts of Azuero.",
+   "source": "ASEP / IDAAN via media"
+  },
+  {
+   "sector": "Airports, Metro & ports",
+   "status": "operating",
+   "text": "Tocumen and Metro Lines 1 and 2 operating since 12 Oct; state ports back to ~80%.",
+   "source": "Tocumen, Metro, AMP"
   },
   {
    "sector": "Panama Canal",
    "status": "operating",
-   "text": "Operating normally; ACP denied rumours of damage to Agua Clara locks.",
+   "text": "Operating normally; no damage reported.",
    "source": "ACP"
-  },
-  {
-   "sector": "Education & public offices",
-   "status": "closed",
-   "text": "419 schools affected, 24 need rebuilding; no classes nationwide on Monday 12 Oct (MEDUCA).",
-   "source": "MEDUCA / Presidencia"
-  },
-  {
-   "sector": "Tsunami",
-   "status": "operating",
-   "text": "PTWC initially warned of 1–3 m waves on Panama's coasts; later no Pacific-wide threat. No tsunami damage reported.",
-   "source": "PTWC (via media)"
-  },
-  {
-   "sector": "Municipal services (Panama City)",
-   "status": "closed",
-   "text": "Panama City municipality suspended all municipal services, including markets, until further notice.",
-   "source": "Telemetro live"
   }
  ],
  "upcoming": "Coming up: Teletón 20-30 on Sat 24 Oct (target: 2,700 homes); road and bridge repair costs from MOP in early November; decision on classes in Los Santos, Herrera and Veraguas.",
