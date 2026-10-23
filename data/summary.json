@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-23T16:05:06Z",
+ "generated_utc": "2026-10-23T16:10:44Z",
  "official_latest": {
   "as_of_utc": "2026-10-22T23:30:00Z",
   "deaths": 2,
@@ -515,8 +515,8 @@
    ]
   }
  },
- "reports_count": 481,
- "reports_with_images": 167,
+ "reports_count": 485,
+ "reports_with_images": 171,
  "places_with_damage": [
   "Agua Fría (La Pintada)",
   "Aguadulce",
@@ -529,6 +529,7 @@
   "Azuero",
   "Bajo Corral",
   "Bayano (La Canoa, Taboga)",
+  "Búcaro",
   "Búcaro, Flores, Cambutal and Isla de Cañas",
   "Calle 50 / Paitilla, Panama City",
   "Cambutal",
@@ -582,6 +583,7 @@
   "Los Santos",
   "Los Santos (La Villa de Los Santos / Tonosí)",
   "Los Santos (commercial premises)",
+  "Los Santos (home tagged uninhabitable)",
   "Los Santos province",
   "Los Santos province (fire stations)",
   "Macaracas",
