@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-23T16:10:44Z",
+ "generated_utc": "2026-10-23T16:13:10Z",
  "official_latest": {
   "as_of_utc": "2026-10-22T23:30:00Z",
   "deaths": 2,
@@ -515,8 +515,8 @@
    ]
   }
  },
- "reports_count": 485,
- "reports_with_images": 171,
+ "reports_count": 490,
+ "reports_with_images": 175,
  "places_with_damage": [
   "Agua Fría (La Pintada)",
   "Aguadulce",
@@ -529,6 +529,7 @@
   "Azuero",
   "Bajo Corral",
   "Bayano (La Canoa, Taboga)",
+  "Between La Pitaloza and Malena",
   "Búcaro",
   "Búcaro, Flores, Cambutal and Isla de Cañas",
   "Calle 50 / Paitilla, Panama City",
@@ -566,6 +567,7 @@
   "La Enea, Guararé (home of singer Lucho Pérez)",
   "La Miel",
   "La Pitaloza",
+  "La Pitaloza (house)",
   "La Pitaloza, Los Pozos",
   "La Villa de Los Santos",
   "La Villa de Los Santos (Iglesia de San Atanasio)",
@@ -588,6 +590,7 @@
   "Los Santos province (fire stations)",
   "Macaracas",
   "Macaracas (Restaurante Mr. Fan)",
+  "Macaracas (collapsed house)",
   "Macaracas (fire station)",
   "Macaracas (university building)",
   "Madre Vieja (Río Grande)",

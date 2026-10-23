@@ -1,0 +1,132 @@
+{
+ "generated_utc": "2026-10-23T17:30:00Z",
+ "reports": [
+  {
+   "id": "ph9_1",
+   "reported_utc": "2026-10-12T20:21:00Z",
+   "place": "La Pitaloza",
+   "district": "Los Pozos",
+   "province": "Herrera",
+   "lat": 7.62,
+   "lon": -80.72,
+   "category": "infrastructure",
+   "title": "Photo: cracked road at La Pitaloza, near the epicentre; communities cut off",
+   "summary": "TVN visited La Pitaloza, near the epicentre, where cracks in the roads kept communities isolated and families slept outdoors; about 120 people remained in the hard-to-reach area.",
+   "title_es": "Foto: carretera agrietada en La Pitaloza, cerca del epicentro; comunidades aisladas",
+   "summary_es": "TVN recorrió La Pitaloza, cerca del epicentro, donde las grietas en las carreteras mantenían comunidades aisladas y las familias dormían a la intemperie; unas 120 personas permanecían en la zona de difícil acceso.",
+   "figures": {},
+   "source_name": "TVN",
+   "source_type": "news",
+   "url": "https://www.tvn-2.com/nacionales/temblor-panama-tvn-recorre-pitaloza-epicentro-sismo_1_2265693.html",
+   "image_url": "https://static.tvn-2.com/clip/41888416-72e2-4809-b8f2-cbc3fe92941b_facebook-aspect-ratio_default_0.jpg",
+   "confidence": "corroborated"
+  },
+  {
+   "id": "ph9_2",
+   "reported_utc": "2026-10-11T12:00:00Z",
+   "place": "La Pitaloza (house)",
+   "district": "Los Pozos",
+   "province": "Herrera",
+   "lat": 7.625,
+   "lon": -80.715,
+   "category": "building_damage",
+   "title": "Photo: destroyed home in La Pitaloza",
+   "summary": "Crítica reports destroyed homes in La Pitaloza (Los Pozos, Herrera) and hospitals in the region overwhelmed in the first days.",
+   "title_es": "Foto: vivienda destruida en La Pitaloza",
+   "summary_es": "Crítica informa de viviendas destruidas en La Pitaloza (Los Pozos, Herrera) y hospitales de la región saturados en los primeros días.",
+   "figures": {},
+   "source_name": "Crítica",
+   "source_type": "news",
+   "url": "https://www.critica.com.pa/nacional/herrera-sismo-destruye-casas-en-la-pitaloza-y-satura-hospitales-517885",
+   "image_url": "https://www.critica.com.pa/sites/default/files/imagenes/2026/10/11/lapitaloza-desastre-damnificados.jpg",
+   "confidence": "corroborated"
+  },
+  {
+   "id": "ph9_3",
+   "reported_utc": "2026-10-14T12:00:00Z",
+   "place": "Between La Pitaloza and Malena",
+   "district": "",
+   "province": "Multiple / national",
+   "lat": 7.6,
+   "lon": -80.82,
+   "category": "landslide",
+   "title": "Photo: ground cracks across pasture where 'the earth opened' between La Pitaloza and Malena",
+   "summary": "La Prensa documents open ground cracks running across farmland between La Pitaloza and Malena, along the surface rupture of the fault.",
+   "title_es": "Foto: grietas en el potrero donde 'la tierra se abrió' entre La Pitaloza y Malena",
+   "summary_es": "La Prensa documenta grietas abiertas que atraviesan tierras de cultivo entre La Pitaloza y Malena, a lo largo de la ruptura superficial de la falla.",
+   "figures": {},
+   "source_name": "La Prensa",
+   "source_type": "news",
+   "url": "https://www.prensa.com/politica/el-miedo-despues-del-terremoto-la-tierra-se-abrio-entre-la-pitaloza-y-malena/",
+   "image_url": "https://www.prensa.com/resizer/v2/EKYR4YQA4ZAFDMO45JVGAY5WDU.jpg?auth=eddb8d4839f7bd0103059b187114254026ecaa5b509f3b24b2c8d22257309000&width=1200",
+   "confidence": "corroborated"
+  },
+  {
+   "id": "ph9_4",
+   "reported_utc": "2026-10-11T12:00:00Z",
+   "place": "Macaracas",
+   "district": "Macaracas",
+   "province": "Los Santos",
+   "lat": 7.7333,
+   "lon": -80.55,
+   "category": "building_damage",
+   "title": "Photo: homes and public buildings badly damaged in Macaracas",
+   "summary": "Panamá América reports homes and public buildings devastated in Macaracas; the district now reports more than 1,000 homes affected.",
+   "title_es": "Foto: viviendas y edificios públicos muy dañados en Macaracas",
+   "summary_es": "Panamá América informa de viviendas y edificios públicos devastados en Macaracas; el distrito reporta ya más de 1.000 viviendas afectadas.",
+   "figures": {},
+   "source_name": "Panamá América",
+   "source_type": "news",
+   "url": "https://www.panamaamerica.com.pa/provincias/fuerte-sismo-devasta-casas-y-edificios-publicos-en-macaracas-1267572",
+   "image_url": "https://www.panamaamerica.com.pa/sites/default/files/styles/meta_seo/public/imagenes/2026/10/macaracas-damnificados-terremoto.jpg?itok=vrb9CZ3v",
+   "confidence": "corroborated"
+  },
+  {
+   "id": "ph9_5",
+   "reported_utc": "2026-10-10T12:00:00Z",
+   "place": "Macaracas (collapsed house)",
+   "district": "Macaracas",
+   "province": "Los Santos",
+   "lat": 7.728,
+   "lon": -80.56,
+   "category": "building_damage",
+   "title": "Photo: 'The house came down' — families left outdoors in Macaracas",
+   "summary": "TVN reports collapsed homes in Macaracas, with families left sleeping outdoors after the earthquake.",
+   "title_es": "Foto: 'La casa se vino abajo' — familias a la intemperie en Macaracas",
+   "summary_es": "TVN informa de viviendas colapsadas en Macaracas, con familias durmiendo a la intemperie tras el terremoto.",
+   "figures": {},
+   "source_name": "TVN",
+   "source_type": "news",
+   "url": "https://www.tvn-2.com/nacionales/temblor-terremoto-en-panama-casa-tonosi-macaracas-derrumbe_1_2265385.html",
+   "image_url": "https://static.tvn-2.com/clip/3d01c033-1cfb-4007-891d-ed009020d491_facebook-aspect-ratio_default_0.jpg",
+   "confidence": "corroborated"
+  }
+ ],
+ "image_review": {
+  "ph9_1": {
+   "verdict": "damage",
+   "caption": "Cracked road at La Pitaloza",
+   "place_match": true
+  },
+  "ph9_2": {
+   "verdict": "damage",
+   "caption": "Destroyed house, La Pitaloza",
+   "place_match": true
+  },
+  "ph9_3": {
+   "verdict": "damage",
+   "caption": "Ground cracks across pasture",
+   "place_match": true
+  },
+  "ph9_4": {
+   "verdict": "damage",
+   "caption": "Damaged home, Macaracas",
+   "place_match": true
+  },
+  "ph9_5": {
+   "verdict": "damage",
+   "caption": "Collapsed concrete-block house",
+   "place_match": true
+  }
+ }
+}
