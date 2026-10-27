@@ -1,13 +1,13 @@
 {
- "generated_utc": "2026-10-27T18:19:00Z",
+ "generated_utc": "2026-10-27T22:04:51Z",
  "official_latest": {
-  "as_of_utc": "2026-10-22T23:30:00Z",
+  "as_of_utc": "2026-10-25T23:00:00Z",
   "deaths": 2,
   "injured": 27,
   "missing": 0,
-  "displaced": 6654,
-  "homes_damaged": 12333,
-  "homes_destroyed": 3129,
+  "displaced": 5779,
+  "homes_damaged": 13985,
+  "homes_destroyed": 3390,
   "affected_people": 40791,
   "infrastructure": {
    "schools": 576,
@@ -16,10 +16,10 @@
    "churches": 44,
    "bridges": 23
   },
-  "source_name": "Government briefing, 22 Oct 18:30 (via La Prensa)",
-  "url": "https://www.prensa.com/politica/el-ejecutivo-actualiza-el-balance-de-areas-afectadas-por-el-terremoto/",
-  "note": "Government briefing (18:30, Thursday 22 Oct, Minister J. R. Icaza and SINAPROC director Omar Smith): 12,333 homes affected with 40,791 residents; 3,129 homes with total damage; 6,654 people in 122 shelters; 576 schools affected; 775 communities assisted in five provinces. Deaths: Elena Barría (68, Macaracas, died 14 Oct) and Regina Miranda (60, school secretary in Santiago, injured while evacuating, died 22 Oct); La Prensa counts a third death of a person with pre-existing conditions. Homes are being tagged green (safe), yellow (restricted, repairs needed) or red (uninhabitable); a public map is available on panamaconecta.gob.pa. Health facilities (42), public buildings (87) and churches (44 official; 100+ according to the Catholic Church) from earlier reports; bridges = 23 needing rehabilitation (SINAPROC 21 Oct).",
-  "note_es": "Informe del Gobierno (18:30, jueves 22 oct, ministro J. R. Icaza y director de SINAPROC Omar Smith): 12.333 viviendas afectadas con 40.791 residentes; 3.129 viviendas con daño total; 6.654 personas en 122 albergues; 576 escuelas afectadas; 775 comunidades asistidas en cinco provincias. Fallecidas: Elena Barría (68, Macaracas, murió el 14 oct) y Regina Miranda (60, secretaria de una escuela en Santiago, herida al evacuar, murió el 22 oct); La Prensa contabiliza una tercera muerte de una persona con condiciones preexistentes. Las viviendas se marcan en verde (segura), amarillo (acceso restringido, requiere reparación) o rojo (inhabitable); hay un mapa público en panamaconecta.gob.pa. Instalaciones de salud (42), edificios públicos (87) e iglesias (44 oficiales; más de 100 según la Iglesia católica) de informes anteriores; puentes = 23 por rehabilitar (SINAPROC 21 oct)."
+  "source_name": "COE balance, 9–24 Oct (via Telemetro / La Verdad)",
+  "url": "https://www.telemetro.com/nacionales/terremoto-panama-coe-reporta-3390-viviendas-dano-total-y-27-personas-lesionadas-n6096527",
+  "note": "COE balance for 9–24 October (published 25 Oct): 13,985 homes evaluated: 3,390 total damage, 7,883 moderate or partial, 1,869 minor; 5,779 people in 154 active shelters (Los Santos 1,143 in 36; Herrera 675 in 39; most of the rest in Veraguas); 27 injured; 853 schools and 120 health centres inspected; IMA food aid to 1,304 communities. Deaths (2) from MINSA; people affected (40,791) from the 22 Oct briefing, not updated in this balance. Chiriquí: 300+ homes affected and ~1,200 people affected (TVN, 26 Oct).",
+  "note_es": "Balance del COE del 9 al 24 de octubre (publicado el 25 oct): 13.985 viviendas evaluadas: 3.390 con daño total, 7.883 moderado o parcial, 1.869 leve; 5.779 personas en 154 albergues activos (Los Santos 1.143 en 36; Herrera 675 en 39; la mayoría del resto en Veraguas); 27 heridos; 853 escuelas y 120 centros de salud inspeccionados; ayuda alimentaria del IMA a 1.304 comunidades. Fallecidos (2) según el MINSA; personas afectadas (40.791) del informe del 22 oct, no actualizadas en este balance. Chiriquí: más de 300 viviendas afectadas y ~1.200 personas afectadas (TVN, 26 oct)."
  },
  "official_snapshots": [
   {
@@ -326,6 +326,27 @@
    "url": "https://www.prensa.com/politica/el-ejecutivo-actualiza-el-balance-de-areas-afectadas-por-el-terremoto/",
    "note": "Government briefing (18:30, Thursday 22 Oct, Minister J. R. Icaza and SINAPROC director Omar Smith): 12,333 homes affected with 40,791 residents; 3,129 homes with total damage; 6,654 people in 122 shelters; 576 schools affected; 775 communities assisted in five provinces. Deaths: Elena Barría (68, Macaracas, died 14 Oct) and Regina Miranda (60, school secretary in Santiago, injured while evacuating, died 22 Oct); La Prensa counts a third death of a person with pre-existing conditions. Homes are being tagged green (safe), yellow (restricted, repairs needed) or red (uninhabitable); a public map is available on panamaconecta.gob.pa. Health facilities (42), public buildings (87) and churches (44 official; 100+ according to the Catholic Church) from earlier reports; bridges = 23 needing rehabilitation (SINAPROC 21 Oct).",
    "note_es": "Informe del Gobierno (18:30, jueves 22 oct, ministro J. R. Icaza y director de SINAPROC Omar Smith): 12.333 viviendas afectadas con 40.791 residentes; 3.129 viviendas con daño total; 6.654 personas en 122 albergues; 576 escuelas afectadas; 775 comunidades asistidas en cinco provincias. Fallecidas: Elena Barría (68, Macaracas, murió el 14 oct) y Regina Miranda (60, secretaria de una escuela en Santiago, herida al evacuar, murió el 22 oct); La Prensa contabiliza una tercera muerte de una persona con condiciones preexistentes. Las viviendas se marcan en verde (segura), amarillo (acceso restringido, requiere reparación) o rojo (inhabitable); hay un mapa público en panamaconecta.gob.pa. Instalaciones de salud (42), edificios públicos (87) e iglesias (44 oficiales; más de 100 según la Iglesia católica) de informes anteriores; puentes = 23 por rehabilitar (SINAPROC 21 oct)."
+  },
+  {
+   "as_of_utc": "2026-10-25T23:00:00Z",
+   "deaths": 2,
+   "injured": 27,
+   "missing": 0,
+   "displaced": 5779,
+   "homes_damaged": 13985,
+   "homes_destroyed": 3390,
+   "affected_people": 40791,
+   "infrastructure": {
+    "schools": 576,
+    "health_facilities": 42,
+    "government_buildings": 87,
+    "churches": 44,
+    "bridges": 23
+   },
+   "source_name": "COE balance, 9–24 Oct (via Telemetro / La Verdad)",
+   "url": "https://www.telemetro.com/nacionales/terremoto-panama-coe-reporta-3390-viviendas-dano-total-y-27-personas-lesionadas-n6096527",
+   "note": "COE balance for 9–24 October (published 25 Oct): 13,985 homes evaluated: 3,390 total damage, 7,883 moderate or partial, 1,869 minor; 5,779 people in 154 active shelters (Los Santos 1,143 in 36; Herrera 675 in 39; most of the rest in Veraguas); 27 injured; 853 schools and 120 health centres inspected; IMA food aid to 1,304 communities. Deaths (2) from MINSA; people affected (40,791) from the 22 Oct briefing, not updated in this balance. Chiriquí: 300+ homes affected and ~1,200 people affected (TVN, 26 Oct).",
+   "note_es": "Balance del COE del 9 al 24 de octubre (publicado el 25 oct): 13.985 viviendas evaluadas: 3.390 con daño total, 7.883 moderado o parcial, 1.869 leve; 5.779 personas en 154 albergues activos (Los Santos 1.143 en 36; Herrera 675 en 39; la mayoría del resto en Veraguas); 27 heridos; 853 escuelas y 120 centros de salud inspeccionados; ayuda alimentaria del IMA a 1.304 comunidades. Fallecidos (2) según el MINSA; personas afectadas (40.791) del informe del 22 oct, no actualizadas en este balance. Chiriquí: más de 300 viviendas afectadas y ~1.200 personas afectadas (TVN, 26 oct)."
   }
  ],
  "humanitarian": {
@@ -341,7 +362,7 @@
   "Epicentre province: USGS names Pitaloza Arriba (AP/Reuters say Herrera); local media cite Tonosí, Los Santos.",
   "Collapsed hotel location: Panamanian media place it in Penonomé (Hotel Dos Continentes); BioBioChile wrongly reported a four-storey hotel in downtown Panama City; es.wikipedia/Infobae also mention a separate partial hotel collapse near Tonosí.",
   "Some outlets (Vanguardia) wrongly call Penonomé the epicentre zone.",
-  "Aftershock counts differ by source and time: 46 by 15:00 and ~86 by 16:30 (Instituto de Geociencias), more than 100 by 17:30 (SINAPROC), at least 147 by ~22:15 (CNN, source not stated); 256 by Sunday 11 Oct, more than 350 by Monday morning and more than 400 by Monday afternoon 12 Oct (Instituto de Geociencias); an aftershock at 18:20 local on 12 Oct was M6.1 (USGS) / M6.4 (IGC), with 416 aftershocks located by 21:00. The USGS catalogue lists only larger events; largest M6.6 (USGS) / M6.9 (IGC).",
+  "Aftershock counts differ by source and time: 46 by 15:00 and ~86 by 16:30 (Instituto de Geociencias), more than 100 by 17:30 (SINAPROC), at least 147 by ~22:15 (CNN, source not stated); 256 by Sunday 11 Oct, more than 350 by Monday morning and more than 400 by Monday afternoon 12 Oct (Instituto de Geociencias); an aftershock at 18:20 local on 12 Oct was M6.1 (USGS) / M6.4 (IGC), with 416 aftershocks located by 21:00; 1,056 by 26 Oct (IGC). On 27 Oct an M5.6–5.7 (IGC; USGS M5.0) aftershock near Coiba was felt in Panama City. The USGS catalogue lists only larger events; largest M6.6 (USGS) / M6.9 (IGC).",
   "PorEsto claims damage to Puente Centenario; El Tiempo video shows only shaking, no damage reported.",
   "Several outlets recycled Sinaproc text from the 10 Aug 2026 Colombia quake ('9:31 a.m. no persons affected') — not applicable to this event.",
   "Injuries: Sinaproc director Omar Smith reported 'several injured' (no figure); the Caja de Seguro Social (15:27 local) said no patients, users or staff were affected in its own facilities. Neither is a national total.",
@@ -355,7 +376,7 @@
   "Provincia del epicentro: el USGS menciona Pitaloza Arriba (AP/Reuters dicen Herrera); medios locales citan Tonosí, Los Santos.",
   "Ubicación del hotel colapsado: los medios panameños lo sitúan en Penonomé (Hotel Dos Continentes); BioBioChile informó erróneamente de un hotel de cuatro pisos en el centro de la Ciudad de Panamá; es.wikipedia/Infobae mencionan además un colapso parcial distinto de un hotel cerca de Tonosí.",
   "Algunos medios (Vanguardia) llaman erróneamente a Penonomé la zona del epicentro.",
-  "El número de réplicas varía según la fuente y la hora: 46 a las 15:00 y ~86 a las 16:30 (Instituto de Geociencias), más de 100 a las 17:30 (SINAPROC), al menos 147 hacia las 22:15 (CNN, sin fuente indicada); 256 al domingo 11 de octubre, más de 350 el lunes 12 por la mañana y más de 400 el lunes por la tarde (Instituto de Geociencias); la réplica de las 18:20 hora local del 12 de octubre fue M6,1 (USGS) / M6,4 (IGC), con 416 réplicas localizadas a las 21:00. El catálogo del USGS solo incluye eventos mayores; la mayor M6,6 (USGS) / M6,9 (IGC).",
+  "El número de réplicas varía según la fuente y la hora: 46 a las 15:00 y ~86 a las 16:30 (Instituto de Geociencias), más de 100 a las 17:30 (SINAPROC), al menos 147 hacia las 22:15 (CNN, sin fuente indicada); 256 al domingo 11 de octubre, más de 350 el lunes 12 por la mañana y más de 400 el lunes por la tarde (Instituto de Geociencias); la réplica de las 18:20 hora local del 12 de octubre fue M6,1 (USGS) / M6,4 (IGC), con 416 réplicas localizadas a las 21:00; 1.056 al 26 oct (IGC). El 27 oct una réplica M5,6–5,7 (IGC; USGS M5,0) cerca de Coiba se sintió en la Ciudad de Panamá. El catálogo del USGS solo incluye eventos mayores; la mayor M6,6 (USGS) / M6,9 (IGC).",
   "PorEsto afirma que hubo daños en el Puente Centenario; el video de El Tiempo solo muestra el movimiento, sin daños reportados.",
   "Varios medios reciclaron un texto del Sinaproc sobre el sismo del 10 de agosto de 2026 en Colombia («9:31 a. m., sin personas afectadas»), que no corresponde a este evento.",
   "Heridos: el director del Sinaproc, Omar Smith, informó de «varios heridos» (sin cifra); la Caja de Seguro Social (15:27 hora local) dijo que no hubo pacientes, usuarios ni funcionarios afectados en sus propias instalaciones. Ninguna de las dos es una cifra nacional.",
@@ -515,7 +536,7 @@
    ]
   }
  },
- "reports_count": 490,
+ "reports_count": 497,
  "reports_with_images": 175,
  "places_with_damage": [
   "Agua Fría (La Pintada)",
@@ -538,6 +559,7 @@
   "Cañazas (road to Altos de Ibalá)",
   "Cerro Viejo, Tolé (Centro de Salud)",
   "Chepo de Las Minas",
+  "Chiriquí (east)",
   "Chiriquí province",
   "Chiriquí province (schools)",
   "Chitré",

@@ -1,15 +1,15 @@
 {
- "updated_utc": "2026-10-23T16:30:00Z",
- "headline": "A dos semanas, hay 12.333 viviendas afectadas y 3.129 destruidas, con 40.791 personas en viviendas afectadas; las personas en albergues suben a 6.654 a medida que las viviendas inseguras se marcan en rojo. Se confirmó una segunda muerte. Avanza la construcción de viviendas sismorresistentes de 43 m².",
+ "updated_utc": "2026-10-27T22:30:00Z",
+ "headline": "A 18 días: 13.985 viviendas evaluadas, 3.390 destruidas y 5.779 personas aún en 154 albergues. Las réplicas continúan (1.056 registradas; una M5,6–5,7 cerca de Coiba el 27 oct se sintió en la capital). La reconstrucción avanza lento y los alcaldes piden soluciones de vivienda más rápidas.",
  "key_points": [
-  "Oficial (informe del Gobierno 22 oct): 2 fallecidos, 27 heridos; 12.333 viviendas afectadas (40.791 residentes), 3.129 con daño total; 6.654 personas en 122 albergues (la mayoría en Veraguas); 576 escuelas; 23 puentes por rehabilitar.",
+  "Oficial (COE, 9–24 oct): 2 fallecidos, 27 heridos; 13.985 viviendas evaluadas: 3.390 con daño total, 7.883 moderado o parcial, 1.869 leve; 5.779 personas en 154 albergues; 40.791 personas en viviendas afectadas (22 oct).",
   "Daños concentrados en Los Santos (5.060 viviendas evaluadas) y Herrera (3.267); las viviendas se marcan en verde, amarillo o rojo, con un mapa público en panamaconecta.gob.pa. Medios de vida afectados: ~2.400 lecheros en Azuero, cosecha de arroz en riesgo.",
   "Fallecidas: Elena Barría (68, Macaracas, 14 oct) y Regina Miranda (60, Santiago, herida al evacuar una escuela, 22 oct).",
-  "Vivienda: casas sismorresistentes de 43 m² con dos recámaras (46 m² accesibles), unos US$19.000–27.000 cada una; construcción en marcha en Herrera, Coclé y Chiriquí; no se reconstruirá en zonas de riesgo; la Teletón (24 oct) busca financiar 2.700 casas.",
-  "Escuelas: 770 reabrieron en 12 regiones el 21 oct; los estudiantes de Coclé terminarán el año con guías y módulos; clases aún suspendidas en Los Santos, Herrera y Veraguas.",
-  "Finanzas: programa de crédito y garantías de US$310 millones para mipymes (Banco Nacional, MEF, BID); pago de CCRIF de US$17,4 millones; US$2,48 millones a gobiernos locales; EE. UU. suma US$1 millón. El Gobierno dice que los daños están 'lejos' de US$450 millones.",
+  "Vivienda: la Teletón recaudó US$1,46 millones para 68 viviendas (43 m², ~US$19.000 cada una); el MIVIOT construye en Herrera, Coclé y Chiriquí; el MIDES entrega carpas a familias sin vivienda; los alcaldes piden soluciones más rápidas.",
+  "Escuelas: clases de vuelta en la mayoría de regiones; Veraguas retomó el 26 oct con módulos y clases virtuales, Coclé termina el año con guías; desfiles de noviembre cancelados en las cuatro provincias centrales.",
+  "Finanzas: US$310 millones en crédito y garantías para mipymes; CCRIF US$17,4 millones; apoyo de EE. UU. ~US$10 millones; BCIE US$500.000; costos de vías y puentes del MOP aún pendientes. El Gobierno dice que los daños están 'lejos' de US$450 millones.",
   "Ciencia: ruptura superficial con ~1–1,2 m de desplazamiento horizontal y ~1 m vertical en Búcaro; Isla Cañas se hundió 15–30 cm, inundando tierras de cultivo.",
-  "Riesgos: lluvias intensas (alerta verde) sobre zonas con represamientos por deslizamientos; las réplicas continúan con menor frecuencia; escasez de agua en Azuero."
+  "Réplicas: 1.056 registradas al 26 oct, en descenso; una M5,6–5,7 (USGS M5,0) cerca de Coiba el 27 oct se sintió en la capital y se desalojó la Asamblea Nacional; sin nuevos daños reportados."
  ],
  "areas": [
   {
@@ -47,13 +47,13 @@
   {
    "sector": "Vivienda",
    "status": "disrupted",
-   "text": "12.333 viviendas afectadas, 3.129 destruidas; 6.654 personas en 122 albergues. Viviendas etiquetadas verde/amarillo/rojo; inició la construcción de casas de 43 m².",
-   "source": "SINAPROC / Government briefing 22 Oct"
+   "text": "13.985 viviendas evaluadas, 3.390 destruidas; 5.779 personas en 154 albergues. Viviendas etiquetadas verde/amarillo/rojo; construcción de casas de 43 m² en marcha.",
+   "source": "COE balance 9–24 Oct"
   },
   {
    "sector": "Escuelas",
    "status": "disrupted",
-   "text": "770 escuelas reabrieron en 12 regiones el 21 oct; clases aún suspendidas en Los Santos, Herrera y Veraguas; Coclé termina el año con guías y módulos; 35 escuelas colapsadas.",
+   "text": "Clases de vuelta en la mayoría de regiones; Veraguas retomó el 26 oct con módulos y clases virtuales; Coclé termina el año con guías; 35 escuelas colapsadas.",
    "source": "MEDUCA"
   },
   {
@@ -87,7 +87,7 @@
    "source": "ACP"
   }
  ],
- "upcoming": "Próximamente: Teletón 20-30 el sábado 24 oct (meta: 2.700 viviendas); costos de reparación de vías y puentes del MOP a inicios de noviembre; decisión sobre clases en Los Santos, Herrera y Veraguas.",
+ "upcoming": "Próximamente: costos de reparación de vías y puentes del MOP; cifras y presupuesto del programa de vivienda del Gobierno; posible estimación oficial de daños y necesidades.",
  "unknowns": [
   "Viviendas destruidas (solo se reportan 10 en Chiriquí) y el conteo final de viviendas: censo habitacional del MIVIOT en curso.",
   "Cuándo se restablecerán el acceso, la electricidad y el agua en Tonosí y la costa de Mariato.",

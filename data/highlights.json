@@ -1,15 +1,15 @@
 {
- "updated_utc": "2026-10-23T16:30:00Z",
- "headline": "Two weeks on, 12,333 homes are affected and 3,129 destroyed, with 40,791 people in affected homes; the number of people in shelters has risen to 6,654 as unsafe homes are tagged red. A second death has been confirmed. Reconstruction of 43 m² earthquake-resistant homes is under way.",
+ "updated_utc": "2026-10-27T22:30:00Z",
+ "headline": "Eighteen days on: 13,985 homes evaluated, 3,390 destroyed, and 5,779 people still in 154 shelters. Aftershocks continue (1,056 recorded; an M5.6–5.7 near Coiba on 27 Oct was felt in Panama City). Reconstruction is slow and mayors are asking for faster housing solutions.",
  "key_points": [
-  "Official (Govt briefing 22 Oct): 2 deaths, 27 injured; 12,333 homes affected (40,791 residents), 3,129 with total damage; 6,654 people in 122 shelters (most in Veraguas); 576 schools; 23 bridges need rehabilitation.",
+  "Official (COE, 9–24 Oct): 2 deaths, 27 injured; 13,985 homes evaluated: 3,390 total damage, 7,883 moderate or partial, 1,869 minor; 5,779 people in 154 shelters; 40,791 people in affected homes (22 Oct).",
   "Damage concentrated in Los Santos (5,060 homes evaluated) and Herrera (3,267); homes are tagged green, yellow or red, with a public map on panamaconecta.gob.pa. Livelihoods hit: ~2,400 dairy farmers in Azuero, rice harvest at risk.",
   "Deaths: Elena Barría (68, Macaracas, 14 Oct) and Regina Miranda (60, Santiago, injured evacuating a school, 22 Oct).",
-  "Housing: 43 m² two-bedroom earthquake-resistant homes (46 m² accessible), about US$19,000–27,000 each; construction under way in Herrera, Coclé and Chiriquí; no rebuilding in risk zones; Teletón (24 Oct) aims to fund 2,700 homes.",
-  "Schools: 770 reopened in 12 regions on 21 Oct; Coclé students will finish the year with guides and modules; classes still suspended in Los Santos, Herrera and Veraguas.",
-  "Finance: US$310M credit and guarantee programme for small businesses (Banco Nacional, MEF, IDB); CCRIF payout US$17.4M; US$2.48M to local governments; US adds US$1M. Government says damage is 'far from' US$450M.",
+  "Housing: Teletón raised US$1.46M for 68 homes (43 m², ~US$19,000 each); MIVIOT building in Herrera, Coclé and Chiriquí; MIDES tents for families without homes; mayors ask for faster solutions.",
+  "Schools: classes back in most regions; Veraguas resumed on 26 Oct with modules and virtual classes, Coclé finishes the year with guides; November parades cancelled in the four central provinces.",
+  "Finance: US$310M credit and guarantees for small businesses; CCRIF US$17.4M; US support ~US$10M; CABEI US$500,000; MOP road and bridge costs still pending. Government says damage is 'far from' US$450M.",
   "Science: surface rupture with ~1–1.2 m horizontal and ~1 m vertical offset at Búcaro; Isla Cañas sank 15–30 cm, flooding farmland.",
-  "Risks: heavy rain (green alert) on landslide-dammed areas; aftershocks continue at a declining rate; water shortages in Azuero."
+  "Aftershocks: 1,056 recorded by 26 Oct, declining; an M5.6–5.7 (USGS M5.0) near Coiba on 27 Oct was felt in the capital and the National Assembly was evacuated; no new damage reported."
  ],
  "areas": [
   {
@@ -47,13 +47,13 @@
   {
    "sector": "Housing",
    "status": "disrupted",
-   "text": "12,333 homes affected, 3,129 destroyed; 6,654 people in 122 shelters. Homes tagged green/yellow/red; construction of 43 m² homes started.",
-   "source": "SINAPROC / Government briefing 22 Oct"
+   "text": "13,985 homes evaluated, 3,390 destroyed; 5,779 people in 154 shelters. Homes tagged green/yellow/red; construction of 43 m² homes under way.",
+   "source": "COE balance 9–24 Oct"
   },
   {
    "sector": "Schools",
    "status": "disrupted",
-   "text": "770 schools reopened in 12 regions on 21 Oct; classes still suspended in Los Santos, Herrera and Veraguas; Coclé finishes the year with guides and modules; 35 schools collapsed.",
+   "text": "Classes back in most regions; Veraguas resumed 26 Oct with modules and virtual classes; Coclé finishes the year with guides; 35 schools collapsed.",
    "source": "MEDUCA"
   },
   {
@@ -87,7 +87,7 @@
    "source": "ACP"
   }
  ],
- "upcoming": "Coming up: Teletón 20-30 on Sat 24 Oct (target: 2,700 homes); road and bridge repair costs from MOP in early November; decision on classes in Los Santos, Herrera and Veraguas.",
+ "upcoming": "Coming up: MOP road and bridge repair costs; Government housing programme numbers and budget; possible official damage and needs estimate.",
  "unknowns": [
   "Homes destroyed (only Chiriquí's 10 reported) and the final housing count — MIVIOT housing census under way.",
   "When access, power and water will be restored to Tonosí and the Mariato coast.",

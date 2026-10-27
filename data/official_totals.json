@@ -289,6 +289,26 @@
    "source_name": "Government briefing, 22 Oct 18:30 (via La Prensa)",
    "url": "https://www.prensa.com/politica/el-ejecutivo-actualiza-el-balance-de-areas-afectadas-por-el-terremoto/",
    "note": "Government briefing (18:30, Thursday 22 Oct, Minister J. R. Icaza and SINAPROC director Omar Smith): 12,333 homes affected with 40,791 residents; 3,129 homes with total damage; 6,654 people in 122 shelters; 576 schools affected; 775 communities assisted in five provinces. Deaths: Elena Barría (68, Macaracas, died 14 Oct) and Regina Miranda (60, school secretary in Santiago, injured while evacuating, died 22 Oct); La Prensa counts a third death of a person with pre-existing conditions. Homes are being tagged green (safe), yellow (restricted, repairs needed) or red (uninhabitable); a public map is available on panamaconecta.gob.pa. Health facilities (42), public buildings (87) and churches (44 official; 100+ according to the Catholic Church) from earlier reports; bridges = 23 needing rehabilitation (SINAPROC 21 Oct)."
+  },
+  {
+   "as_of_utc": "2026-10-25T23:00:00Z",
+   "deaths": 2,
+   "injured": 27,
+   "missing": 0,
+   "displaced": 5779,
+   "homes_damaged": 13985,
+   "homes_destroyed": 3390,
+   "affected_people": 40791,
+   "infrastructure": {
+    "schools": 576,
+    "health_facilities": 42,
+    "government_buildings": 87,
+    "churches": 44,
+    "bridges": 23
+   },
+   "source_name": "COE balance, 9–24 Oct (via Telemetro / La Verdad)",
+   "url": "https://www.telemetro.com/nacionales/terremoto-panama-coe-reporta-3390-viviendas-dano-total-y-27-personas-lesionadas-n6096527",
+   "note": "COE balance for 9–24 October (published 25 Oct): 13,985 homes evaluated: 3,390 total damage, 7,883 moderate or partial, 1,869 minor; 5,779 people in 154 active shelters (Los Santos 1,143 in 36; Herrera 675 in 39; most of the rest in Veraguas); 27 injured; 853 schools and 120 health centres inspected; IMA food aid to 1,304 communities. Deaths (2) from MINSA; people affected (40,791) from the 22 Oct briefing, not updated in this balance. Chiriquí: 300+ homes affected and ~1,200 people affected (TVN, 26 Oct)."
   }
  ],
  "conflicts": [
@@ -296,7 +316,7 @@
   "Epicentre province: USGS names Pitaloza Arriba (AP/Reuters say Herrera); local media cite Tonosí, Los Santos.",
   "Collapsed hotel location: Panamanian media place it in Penonomé (Hotel Dos Continentes); BioBioChile wrongly reported a four-storey hotel in downtown Panama City; es.wikipedia/Infobae also mention a separate partial hotel collapse near Tonosí.",
   "Some outlets (Vanguardia) wrongly call Penonomé the epicentre zone.",
-  "Aftershock counts differ by source and time: 46 by 15:00 and ~86 by 16:30 (Instituto de Geociencias), more than 100 by 17:30 (SINAPROC), at least 147 by ~22:15 (CNN, source not stated); 256 by Sunday 11 Oct, more than 350 by Monday morning and more than 400 by Monday afternoon 12 Oct (Instituto de Geociencias); an aftershock at 18:20 local on 12 Oct was M6.1 (USGS) / M6.4 (IGC), with 416 aftershocks located by 21:00. The USGS catalogue lists only larger events; largest M6.6 (USGS) / M6.9 (IGC).",
+  "Aftershock counts differ by source and time: 46 by 15:00 and ~86 by 16:30 (Instituto de Geociencias), more than 100 by 17:30 (SINAPROC), at least 147 by ~22:15 (CNN, source not stated); 256 by Sunday 11 Oct, more than 350 by Monday morning and more than 400 by Monday afternoon 12 Oct (Instituto de Geociencias); an aftershock at 18:20 local on 12 Oct was M6.1 (USGS) / M6.4 (IGC), with 416 aftershocks located by 21:00; 1,056 by 26 Oct (IGC). On 27 Oct an M5.6–5.7 (IGC; USGS M5.0) aftershock near Coiba was felt in Panama City. The USGS catalogue lists only larger events; largest M6.6 (USGS) / M6.9 (IGC).",
   "PorEsto claims damage to Puente Centenario; El Tiempo video shows only shaking, no damage reported.",
   "Several outlets recycled Sinaproc text from the 10 Aug 2026 Colombia quake ('9:31 a.m. no persons affected') — not applicable to this event.",
   "Injuries: Sinaproc director Omar Smith reported 'several injured' (no figure); the Caja de Seguro Social (15:27 local) said no patients, users or staff were affected in its own facilities. Neither is a national total.",
