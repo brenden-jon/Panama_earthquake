@@ -253,5 +253,15 @@
   "verdict": "damage",
   "caption": "Collapsed ceiling panels in Aguadulce school/university corridor",
   "place_match": null
+ },
+ "u202610302000_10": {
+  "verdict": "damage",
+  "caption": "Debris and sand inside flooded Isla Cañas home",
+  "place_match": true
+ },
+ "u202610302000_11": {
+  "verdict": "damage",
+  "caption": "Flooded homes and debris in Cañas",
+  "place_match": true
  }
 }

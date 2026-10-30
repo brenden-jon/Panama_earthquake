@@ -309,6 +309,26 @@
    "source_name": "COE balance, 9–24 Oct (via Telemetro / La Verdad)",
    "url": "https://www.telemetro.com/nacionales/terremoto-panama-coe-reporta-3390-viviendas-dano-total-y-27-personas-lesionadas-n6096527",
    "note": "COE balance for 9–24 October (published 25 Oct): 13,985 homes evaluated: 3,390 total damage, 7,883 moderate or partial, 1,869 minor; 5,779 people in 154 active shelters (Los Santos 1,143 in 36; Herrera 675 in 39; most of the rest in Veraguas); 27 injured; 853 schools and 120 health centres inspected; IMA food aid to 1,304 communities. Deaths (2) from MINSA; people affected (40,791) from the 22 Oct briefing, not updated in this balance. Chiriquí: 300+ homes affected and ~1,200 people affected (TVN, 26 Oct)."
+  },
+  {
+   "as_of_utc": "2026-10-29T02:00:00Z",
+   "deaths": 2,
+   "injured": 27,
+   "missing": 0,
+   "displaced": 4428,
+   "homes_damaged": 17048,
+   "homes_destroyed": 3390,
+   "affected_people": 55212,
+   "infrastructure": {
+    "schools": 619,
+    "health_facilities": 120,
+    "government_buildings": 127,
+    "churches": 44,
+    "bridges": 22
+   },
+   "source_name": "SINAPROC preliminary report, cut-off 28 Oct (via La Estrella de Panamá)",
+   "url": "https://www.laestrella.com.pa/panama/nacional/sinaproc-actualiza-cifras-de-afectados-por-el-sismo-del-9-de-octubre-DM26917127",
+   "note": "SINAPROC preliminary report to 28 Oct: 17,048 homes evaluated; 55,212 people registered in affected communities; 4,428 people in 135 shelters; 2 deaths, 27 injured; 619 schools, 120 health facilities, 127 government buildings, 44 churches and 22 bridges damaged; 66 road-damage reports being verified; 166 pregnant women and 2,242 people with disabilities among those affected. Homes with total damage (3,390) are from the COE balance of 24 Oct; SINAPROC did not update this figure. Previous cut-off (27 Oct, TVN): 16,302 homes, 52,874 people, 4,501 in 141 shelters."
   }
  ],
  "conflicts": [
@@ -323,7 +343,8 @@
   "Largest aftershock (20:25 UTC): USGS M6.6, 14 km W of Río Grande (Veraguas); IGC-UP M6.9, 32 km from Coiba; El Tiempo also cites M6.6 8 km NW of Río Grande.",
   "USGS ShakeMap: version 10 (automatic, 12 Oct 19:54 UTC) re-calibrates the model with 'Did You Feel It?' reports and lowers intensities sharply (epicentre ~VI, Los Pozos ~V–VI, Soná ~III; people at MMI VII+ from ~550,000 to ~60,000). This contradicts observed damage (300+ homes collapsed in Los Pozos, church towers down, schools destroyed), so this platform keeps the earlier ShakeMap (v8) for its exposure and poverty analysis until USGS reviews the map.",
   "Housing counts differ by source and method: SINAPROC field counts (1,287 homes on 12 Oct), self-registration on the government platform Panamá Conecta (3,300 by 14 Oct, 8,000+ reports by 20 Oct), MIVIOT (6,400+ homes) and COE technical evaluations (9,124 evaluated with 2,318 total damage by 19 Oct; 10,100 evaluated with 3,000+ red by 20 Oct). This platform shows the latest COE evaluation figures.",
-  "Deaths: the Health Ministry confirms two deaths from direct trauma (Elena Barría, 14 Oct; Regina Miranda, 22 Oct); La Prensa reports three, including a person with pre-existing conditions whose health worsened during the earthquake."
+  "Deaths: the Health Ministry confirms two deaths from direct trauma (Elena Barría, 14 Oct; Regina Miranda, 22 Oct); La Prensa reports three, including a person with pre-existing conditions whose health worsened during the earthquake.",
+  "Cost of damage: Moody's (28 Oct) cites MEF spending needs of up to ~US$100M (~0.1% of GDP) and sees no material rating impact; the government earlier said damage is 'far from' the US$450M threshold of the Fondo de Ahorro de Panamá. These figures exclude private losses and are not a full damage assessment; MOP road and bridge costs are still pending."
  ],
  "humanitarian": {
   "people_in_need": 38000,
