@@ -1,6 +1,226 @@
 {
- "updated_utc": "2026-11-05T11:32:05Z",
+ "updated_utc": "2026-11-05T18:59:20Z",
  "items": [
+  {
+   "id": "gn:CBMiqwFBVV95cUxOaHBoQmRVYXNrQWFzdWx4UkZoRVJsaEFES2FyY0lkaDVhZy1NODJSaHdYX3BDTEhiUlgwNlZsSDJpWHR3dlNTcHhsMEhwN3dudEVVSUFCT1o3REMtaWtGTndRV19hOXNlLTE4NDVMQi1kTFc1eXVhVkx2Q1pHWDBoRjI3bEZzMGdHVlh6ZVdTeHljY08yUWRscmRkeFdmRkVYUFBxYUoxWUI0Q1HSAbABQVVfeXFMTzdILUxSVkxlN2ZMeUFZVDkyUlVhUEZKWlJmQWdMRHVhbF83Tm5NSkxMVEQxOGR5YlhJMTdmZFhZQzNtWnBucldEMHQ5ZWhueE1IeS1qN0J6RmJsVEpFS1Y2R1JjOUV2aFJyaVBSTmQ3MnJqMkV0aHQyZHpPSHZHekZqZ1Jxa1QwZ3lwM0xnY0dmUWZ4Y3lMNk1mbDk1YXRqQ1cya1VLUDNOUXo3TWdDWnU",
+   "kind": "news",
+   "lang": "es",
+   "title": "La falla de Pedro Miguel: Geociencias explica el temblor",
+   "source": "El Siglo Panamá",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaHBoQmRVYXNrQWFzdWx4UkZoRVJsaEFES2FyY0lkaDVhZy1NODJSaHdYX3BDTEhiUlgwNlZsSDJpWHR3dlNTcHhsMEhwN3dudEVVSUFCT1o3REMtaWtGTndRV19hOXNlLTE4NDVMQi1kTFc1eXVhVkx2Q1pHWDBoRjI3bEZzMGdHVlh6ZVdTeHljY08yUWRscmRkeFdmRkVYUFBxYUoxWUI0Q1HSAbABQVVfeXFMTzdILUxSVkxlN2ZMeUFZVDkyUlVhUEZKWlJmQWdMRHVhbF83Tm5NSkxMVEQxOGR5YlhJMTdmZFhZQzNtWnBucldEMHQ5ZWhueE1IeS1qN0J6RmJsVEpFS1Y2R1JjOUV2aFJyaVBSTmQ3MnJqMkV0aHQyZHpPSHZHekZqZ1Jxa1QwZ3lwM0xnY0dmUWZ4Y3lMNk1mbDk1YXRqQ1cya1VLUDNOUXo3TWdDWnU?oc=5",
+   "published_utc": "2026-11-05T18:07:00Z",
+   "first_seen_utc": "2026-11-05T18:59:20Z"
+  },
+  {
+   "id": "gn:CBMirgFBVV95cUxOQ3J6M2tCdjVkX0theFIzbjJBYlAzUHVhX1hYTkdDZGxOODlXTkRNaUJtaTNfNWRDOUk0R2NER3VlcWJBcTVCOTdOWE14ZkVrZWVKX2RGZF90NEl5UkVHWFdhOFVNUXJHZkxsaTlHell1WDNzNlhkOG1SOGxIWFgtVGcyemhWR0tKdjlEdG9lZnMtSTFHOGZIMGlKTmhpRUZZU00wbEI2ZTRBVHctZEHSAbMBQVVfeXFMTUxtTVJvRFBKZlBRRmdTbUZyRFNNSmZUZHJSdXJiZ25tSUUtdmRDLVRMNUhiY21mb0hxWWRmU2lNSG5oa3RVUFdSa2F2aUQxeGVqVnJiZDlQQzBrYzg3RTJEOV93T3Jkai1qV2I1TC1fTXJZbm1EQ0J6QXVKZG43eDRoNVZPWDB3bTEtTzg0aDZRbFZMOGJiRVRST19XVUVESHRxTmJ3MlVaSU9ia3h6N1RTVEk",
+   "kind": "news",
+   "lang": "es",
+   "title": "Terremoto en Panamá: MIDES identifica a más de 21 mil personas afectadas",
+   "source": "Telemetro",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQ3J6M2tCdjVkX0theFIzbjJBYlAzUHVhX1hYTkdDZGxOODlXTkRNaUJtaTNfNWRDOUk0R2NER3VlcWJBcTVCOTdOWE14ZkVrZWVKX2RGZF90NEl5UkVHWFdhOFVNUXJHZkxsaTlHell1WDNzNlhkOG1SOGxIWFgtVGcyemhWR0tKdjlEdG9lZnMtSTFHOGZIMGlKTmhpRUZZU00wbEI2ZTRBVHctZEHSAbMBQVVfeXFMTUxtTVJvRFBKZlBRRmdTbUZyRFNNSmZUZHJSdXJiZ25tSUUtdmRDLVRMNUhiY21mb0hxWWRmU2lNSG5oa3RVUFdSa2F2aUQxeGVqVnJiZDlQQzBrYzg3RTJEOV93T3Jkai1qV2I1TC1fTXJZbm1EQ0J6QXVKZG43eDRoNVZPWDB3bTEtTzg0aDZRbFZMOGJiRVRST19XVUVESHRxTmJ3MlVaSU9ia3h6N1RTVEk?oc=5",
+   "published_utc": "2026-11-05T18:01:00Z",
+   "first_seen_utc": "2026-11-05T18:59:20Z"
+  },
+  {
+   "id": "gn:CBMiugFBVV95cUxNM2d2TDBROTFDM0twcEtMTGFvSFFYcUVtMnEtMTdSbXppRGxzejV3R3V3czkzTEFMb1pNM1dvYmpPdXFWektBdFg3U2tIblUxRnZFemZfa2ZFVldMZzJSN2ZDVkdFSGx2am44VWFZTE1rRlp5TElQYTQ0M3dMUUdyMHRrV3lvVWo3ZFVBN3R3M3JfbEx1YlpMblFkWHBQS3lwdDFJclFVZlh1R3BVZU5CZjczaEUxUzhkS2fSAb8BQVVfeXFMTUw0Q2Y2RkZELTc5X1M4M0ZQSWdVaXc2UDFvWk8wdkFqS1pmRlhSVmswYmRqTDV3MkFvX1R2RjllbVM5QllHM05OaF92aEt5cjJ6d2Jjd29YWGRmMkhQb0tGNmx5SERlUXlmNG1tMXdRZ3lCcDhiUjVjTkJyQU5uQXRLTzg0VEIyVjlGSW5tMVNLaFluTkRfVGJJSFdfOWItOTltcW1EY0E0WlJpVU5KR29tV1Nhdm05WUhSMU9qOGc",
+   "kind": "news",
+   "lang": "es",
+   "title": "Terremoto deja más de 21 mil personas bajo evaluación social en 4 provincia",
+   "source": "CRÍTICA",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNM2d2TDBROTFDM0twcEtMTGFvSFFYcUVtMnEtMTdSbXppRGxzejV3R3V3czkzTEFMb1pNM1dvYmpPdXFWektBdFg3U2tIblUxRnZFemZfa2ZFVldMZzJSN2ZDVkdFSGx2am44VWFZTE1rRlp5TElQYTQ0M3dMUUdyMHRrV3lvVWo3ZFVBN3R3M3JfbEx1YlpMblFkWHBQS3lwdDFJclFVZlh1R3BVZU5CZjczaEUxUzhkS2fSAb8BQVVfeXFMTUw0Q2Y2RkZELTc5X1M4M0ZQSWdVaXc2UDFvWk8wdkFqS1pmRlhSVmswYmRqTDV3MkFvX1R2RjllbVM5QllHM05OaF92aEt5cjJ6d2Jjd29YWGRmMkhQb0tGNmx5SERlUXlmNG1tMXdRZ3lCcDhiUjVjTkJyQU5uQXRLTzg0VEIyVjlGSW5tMVNLaFluTkRfVGJJSFdfOWItOTltcW1EY0E0WlJpVU5KR29tV1Nhdm05WUhSMU9qOGc?oc=5",
+   "published_utc": "2026-11-05T17:56:55Z",
+   "first_seen_utc": "2026-11-05T18:59:20Z"
+  },
+  {
+   "id": "gn:CBMixAFBVV95cUxQNGd6b3UxdFlreXNkOUZRaTJDM2w0dmtXU1hCWFFIUU1tNGhldU5lYXp5MkZqQk1zZjVuOEtNUF9QLThSR21JYUNfbHdUSXl0U2NnTlpvNVg1ZU1zZ3V1XzJ3TFgwd0h4Q3pDd29QYmZQeklfcFpoN1ZzNVRIOWVEZy01R3h5dDAxTzBoeElTdkFsQkNkWXlLYnVYM2c1M0dZX3FkVFI3ZmZqZkV4QWhpZkM1TFlQZjdiemFEUzQ4eWtHVUxU0gHfAUFVX3lxTE5FcUdYbl8zQ2l4SGR0X0JQRVNNWHNPR1hrSW1palZJczRUYVdqOUJ2SF9iUzJZWGRrNkM3UDlvN29BQ0NOUFNYbE5rQldiNjg2ZThudWlfNkVNeEdaUnhod1B6cjJQNTNNOGlBaGZUZXJvdTUyRlRiaXc3M0s0Q3F4dDNZcUZ6RjlHQVI5MkpCMlhSbGFjendBakNkRkE5WV80TkthUXVaUEk0eXFvYnlwcy1mR1hfaWRJbEFkR0VpVmlaRkpCQkx2YTRuSDJJbDhTbWM5ZjJaLTZKS0VDSkk",
+   "kind": "news",
+   "lang": "es",
+   "title": "La falla de Pedro Miguel, cerca de la capital de Panamá, acumula 79 sismos desde 2019",
+   "source": "Infobae",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNGd6b3UxdFlreXNkOUZRaTJDM2w0dmtXU1hCWFFIUU1tNGhldU5lYXp5MkZqQk1zZjVuOEtNUF9QLThSR21JYUNfbHdUSXl0U2NnTlpvNVg1ZU1zZ3V1XzJ3TFgwd0h4Q3pDd29QYmZQeklfcFpoN1ZzNVRIOWVEZy01R3h5dDAxTzBoeElTdkFsQkNkWXlLYnVYM2c1M0dZX3FkVFI3ZmZqZkV4QWhpZkM1TFlQZjdiemFEUzQ4eWtHVUxU0gHfAUFVX3lxTE5FcUdYbl8zQ2l4SGR0X0JQRVNNWHNPR1hrSW1palZJczRUYVdqOUJ2SF9iUzJZWGRrNkM3UDlvN29BQ0NOUFNYbE5rQldiNjg2ZThudWlfNkVNeEdaUnhod1B6cjJQNTNNOGlBaGZUZXJvdTUyRlRiaXc3M0s0Q3F4dDNZcUZ6RjlHQVI5MkpCMlhSbGFjendBakNkRkE5WV80TkthUXVaUEk0eXFvYnlwcy1mR1hfaWRJbEFkR0VpVmlaRkpCQkx2YTRuSDJJbDhTbWM5ZjJaLTZKS0VDSkk?oc=5",
+   "published_utc": "2026-11-05T17:43:00Z",
+   "first_seen_utc": "2026-11-05T18:59:20Z"
+  },
+  {
+   "id": "gn:CBMiqwFBVV95cUxNWW5jeGRXZk82TjEwVHJnZWFvU0ZuYV9iOGRmVTZZVGxua3pxUThuRGNEc0RYUmxlQlVtUVpSSWhJMVozZ0VTWHRMdHd0cWs2LTlFc3lrSzBvcmo2elBSa0dlSTRrSllXeGdIQUtUbWlCdnllMTVSdlRJUGJmT3dVWG9tS09aR0FWTG1LYzloV3Z3cHQzQmxzUGhHT2p0d0dWSXhzai0tR3g0SVnSAbABQVVfeXFMT2s0TkJjMThKdHJPdE1LUGRMMGdMWXROaGpoblNWOUtpczY2Mk5wUjhtUi1rUHQxYlhZeWtjUnNOSnkzQkdfM0U3S29PYmNvOE5VbVBGVUxYZmxsdjV0WTFVcDdDdVB4Ukd6NWxTTW0tdW5JT05LejBvYWcwREVCRHZtZXpkVWVwZThrNEpWM200UEtVcWpLQTF5ZTF6U3dKamxfb0tidnBXcUF1WWc2MWM",
+   "kind": "news",
+   "lang": "es",
+   "title": "¡La tierra no da tregua! Sismos no dejan dormir a Veraguas y Herrera",
+   "source": "CRÍTICA",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWW5jeGRXZk82TjEwVHJnZWFvU0ZuYV9iOGRmVTZZVGxua3pxUThuRGNEc0RYUmxlQlVtUVpSSWhJMVozZ0VTWHRMdHd0cWs2LTlFc3lrSzBvcmo2elBSa0dlSTRrSllXeGdIQUtUbWlCdnllMTVSdlRJUGJmT3dVWG9tS09aR0FWTG1LYzloV3Z3cHQzQmxzUGhHT2p0d0dWSXhzai0tR3g0SVnSAbABQVVfeXFMT2s0TkJjMThKdHJPdE1LUGRMMGdMWXROaGpoblNWOUtpczY2Mk5wUjhtUi1rUHQxYlhZeWtjUnNOSnkzQkdfM0U3S29PYmNvOE5VbVBGVUxYZmxsdjV0WTFVcDdDdVB4Ukd6NWxTTW0tdW5JT05LejBvYWcwREVCRHZtZXpkVWVwZThrNEpWM200UEtVcWpLQTF5ZTF6U3dKamxfb0tidnBXcUF1WWc2MWM?oc=5",
+   "published_utc": "2026-11-05T17:33:27Z",
+   "first_seen_utc": "2026-11-05T18:59:20Z"
+  },
+  {
+   "id": "gn:CBMiwAFBVV95cUxOVUNObXBwU1gzVkZ6X20zNTZzR2x1WFM1dzE0QXpjVHQ0elVwc0R2aGIzT2Q0bDRPV0FHRzE2VGJEWURaUHBCTWlXRXVMQzE1QVJzdXNwcEMwcllNWHJ1YUxYUEZfQTFxYWRoRmNtbFotQWRJVV90aVJ4bjJDV0Y4S29CTnFLLUVDZllpVzA3aVBzUnIyWFk2ZDhISWhfdEQyejJjdy1KRDBBei1Uc3dkaThEckQ0amZEbzVvbzRyVnrSAcYBQVVfeXFMT1dZMmhwdUpwc09VT054dklYbW93dlppcFY5aUVjOGp3aE4zMWY0MXVuTjl1anVmMHRzVERiYlVGQlV5MmJKelFJaGdZWnFlYTkwakpUZjZCanpLYnpOVGFtX2lxUWtxMGNhUlV0UnltS2Vxd0o0LThqZ2FuRjdaaG5jSm45TGpKNDA4Y2xrcG9XaFFFa3BUbU9ITy1lWE1FRkdTOXhtWlBNREs2aEl4VXlQaEZVWmNIOXhEZGZHWUtDa0Jfc3pn",
+   "kind": "news",
+   "lang": "es",
+   "title": "ATP reporta alza de 4 % en reservas: ¿Se recuperará el interior tras el sismo?",
+   "source": "La Estrella de Panamá",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVUNObXBwU1gzVkZ6X20zNTZzR2x1WFM1dzE0QXpjVHQ0elVwc0R2aGIzT2Q0bDRPV0FHRzE2VGJEWURaUHBCTWlXRXVMQzE1QVJzdXNwcEMwcllNWHJ1YUxYUEZfQTFxYWRoRmNtbFotQWRJVV90aVJ4bjJDV0Y4S29CTnFLLUVDZllpVzA3aVBzUnIyWFk2ZDhISWhfdEQyejJjdy1KRDBBei1Uc3dkaThEckQ0amZEbzVvbzRyVnrSAcYBQVVfeXFMT1dZMmhwdUpwc09VT054dklYbW93dlppcFY5aUVjOGp3aE4zMWY0MXVuTjl1anVmMHRzVERiYlVGQlV5MmJKelFJaGdZWnFlYTkwakpUZjZCanpLYnpOVGFtX2lxUWtxMGNhUlV0UnltS2Vxd0o0LThqZ2FuRjdaaG5jSm45TGpKNDA4Y2xrcG9XaFFFa3BUbU9ITy1lWE1FRkdTOXhtWlBNREs2aEl4VXlQaEZVWmNIOXhEZGZHWUtDa0Jfc3pn?oc=5",
+   "published_utc": "2026-11-05T16:57:00Z",
+   "first_seen_utc": "2026-11-05T18:59:20Z"
+  },
+  {
+   "id": "gn:CBMingFBVV95cUxPck1TX0RXLWRLU3V1UVVMRHFmX3p5TGQzZ0ROclE5RERXako1YThkdmMxTm1CeXZiOEdGN0hNeWZPUkRONmxyRDFVdnFveU0xVFZBV3ZMZ012dVZkZ3djOWhGYk42cWdNQXM1SS1iUVdKb2JRNEg4T2pxakYxd2ktazZWSXI0V1k4TEFtN1lOaU9yWUctU0JyN2F4bXdFUQ",
+   "kind": "news",
+   "lang": "en",
+   "title": "Light mag. 3.5 earthquake - North Pacific Ocean, 78 km southwest of Santiago, Provincia de Veraguas, Panama, on Thursday, Nov 5, 2026, at 11:28 am (Panama time)",
+   "source": "Volcano Discovery",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPck1TX0RXLWRLU3V1UVVMRHFmX3p5TGQzZ0ROclE5RERXako1YThkdmMxTm1CeXZiOEdGN0hNeWZPUkRONmxyRDFVdnFveU0xVFZBV3ZMZ012dVZkZ3djOWhGYk42cWdNQXM1SS1iUVdKb2JRNEg4T2pxakYxd2ktazZWSXI0V1k4TEFtN1lOaU9yWUctU0JyN2F4bXdFUQ?oc=5",
+   "published_utc": "2026-11-05T16:32:43Z",
+   "first_seen_utc": "2026-11-05T18:59:20Z"
+  },
+  {
+   "id": "gn:CBMingFBVV95cUxPeXc1aHRUcThKOWwxZFN1a21uaE04Tk8tdTBZcFNRbWxKWVB3NlNNa28wVVhfQWZZbFhBRDNxYzB5clBkTks4eU9oXzhlZjN1NUNmRmgzUkpMbmJKS0t4SGhEMlVvckdGcW9fNk9JR3p3aUZNeGswMHlRRklvTlA5dWs1b2V1VW1XR05rUlFfTkhpeVRudzYtWjVWeTdkUQ",
+   "kind": "news",
+   "lang": "en",
+   "title": "Light mag. 3.5 earthquake - North Pacific Ocean, 44 km southwest of Sona, Provincia de Veraguas, Panama, on Thursday, Nov 5, 2026, at 11:18 am (Panama time)",
+   "source": "Volcano Discovery",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeXc1aHRUcThKOWwxZFN1a21uaE04Tk8tdTBZcFNRbWxKWVB3NlNNa28wVVhfQWZZbFhBRDNxYzB5clBkTks4eU9oXzhlZjN1NUNmRmgzUkpMbmJKS0t4SGhEMlVvckdGcW9fNk9JR3p3aUZNeGswMHlRRklvTlA5dWs1b2V1VW1XR05rUlFfTkhpeVRudzYtWjVWeTdkUQ?oc=5",
+   "published_utc": "2026-11-05T16:32:19Z",
+   "first_seen_utc": "2026-11-05T18:59:20Z"
+  },
+  {
+   "id": "gn:CBMinwFBVV95cUxOUnFYZzFuQkxMUjZodkgwZlRNQjllMUNGekFJU0hKRC1aUW1HelNyUW9fTEVqTE5oMl9jZTJiWHE0WXVWX0puU1dUaEl6QWEtUXFXaUpHTi1Ndm5QT3AzQkdmZnlKcC1rYkZWOEdUbXhXM2ZfdVdlbW5DT2hBSGJtUHp2SEFiMHFFZ3JOOUd3U3lCang0Q1BjdVBtYVJaTTQ",
+   "kind": "news",
+   "lang": "es",
+   "title": "Terremoto leve mag. 3.5 (inconfirmado) - Océano Pacífico Norte, 78 km al suroeste de Santiago, Veraguas, Panamá, Thursday 5 Nov 2026 a las 11:28 (Hora Panama)",
+   "source": "Volcano Discovery",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUnFYZzFuQkxMUjZodkgwZlRNQjllMUNGekFJU0hKRC1aUW1HelNyUW9fTEVqTE5oMl9jZTJiWHE0WXVWX0puU1dUaEl6QWEtUXFXaUpHTi1Ndm5QT3AzQkdmZnlKcC1rYkZWOEdUbXhXM2ZfdVdlbW5DT2hBSGJtUHp2SEFiMHFFZ3JOOUd3U3lCang0Q1BjdVBtYVJaTTQ?oc=5",
+   "published_utc": "2026-11-05T16:31:00Z",
+   "first_seen_utc": "2026-11-05T18:59:20Z"
+  },
+  {
+   "id": "gn:CBMinwFBVV95cUxPcDRybUhyRHh2SWxETGNSNEk2YUpFWTA0YjVUUXZPMXAyTDdqTE9wRjJvb1JodmlKNHFiakU5bVJjSEhtaDFLT2JpMzB0TWtlc0dOV05FQ3h1aFpDLUwzRUVpWFVPMGdWMzN1X0xkVHlicHpINFBCWlpHRzBObUdoNFZTRTRMM0Y3bE5YTU1TY3BxVTJLVm5NUEZPM0FNN0k",
+   "kind": "news",
+   "lang": "es",
+   "title": "Terremoto leve mag. 3.5 - 44 km al suroeste de Sona, Veraguas, Panamá, Thursday 5 Nov 2026 a las 11:18 (Hora Panama)",
+   "source": "Volcano Discovery",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcDRybUhyRHh2SWxETGNSNEk2YUpFWTA0YjVUUXZPMXAyTDdqTE9wRjJvb1JodmlKNHFiakU5bVJjSEhtaDFLT2JpMzB0TWtlc0dOV05FQ3h1aFpDLUwzRUVpWFVPMGdWMzN1X0xkVHlicHpINFBCWlpHRzBObUdoNFZTRTRMM0Y3bE5YTU1TY3BxVTJLVm5NUEZPM0FNN0k?oc=5",
+   "published_utc": "2026-11-05T16:27:37Z",
+   "first_seen_utc": "2026-11-05T18:59:20Z"
+  },
+  {
+   "id": "gn:CBMiwwFBVV95cUxQR0FSbkdmVFRtUEw4Z1kzeVZYNjZ2Z2cyal80R2t2U2xuUm5OLVBuUmNQYzhRdGVLeWFBRDNYX2p3U2I5bUJHUG85XzFDUGVxaE51SDd5d3A5TF9xNlYyUDlCTnhxMkdVbjN6SHowcXlsSmVDMU1nQTJUaG1aMVhWVFpuNnNVX0lwQ0JMSjVRSkF0TjMwNm03eVlZSl8tY3d3UV85MkhzRG4wbElCZ0xBY203M1JRd09mWFBfRGpUbjV4U1U",
+   "kind": "news",
+   "lang": "es",
+   "title": "Madrugada de sismos en Panamá este 5 de noviembre: temblores sacudieron Azuero y Veraguas",
+   "source": "Mi Diario",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQR0FSbkdmVFRtUEw4Z1kzeVZYNjZ2Z2cyal80R2t2U2xuUm5OLVBuUmNQYzhRdGVLeWFBRDNYX2p3U2I5bUJHUG85XzFDUGVxaE51SDd5d3A5TF9xNlYyUDlCTnhxMkdVbjN6SHowcXlsSmVDMU1nQTJUaG1aMVhWVFpuNnNVX0lwQ0JMSjVRSkF0TjMwNm03eVlZSl8tY3d3UV85MkhzRG4wbElCZ0xBY203M1JRd09mWFBfRGpUbjV4U1U?oc=5",
+   "published_utc": "2026-11-05T16:25:28Z",
+   "first_seen_utc": "2026-11-05T18:59:20Z"
+  },
+  {
+   "id": "gn:CBMingFBVV95cUxPek5wU2FDb1VGbjhJMEJYbklTWnhab0xUamVXeW5aTVdseHJJSnJ4R21hNm1kN2E3SWtJbzRISXFLcGp1SHM5dzB2TXk5ekNreUdiQmFWTEx0bmZSbTFfaS1WdVd1WUZNTkJmYTNoOVlZRm0yNFpueXM1TTVDWV9YZkU4ZWdjSDZsWW9rb25ydDY2ZG5FckNaaG9QVHd0UQ",
+   "kind": "news",
+   "lang": "en",
+   "title": "Light mag. 3.8 earthquake - North Pacific Ocean, 60 km southwest of Ocu, Provincia de Herrera, Panama, on Thursday, Nov 5, 2026, at 10:32 am (Panama time)",
+   "source": "Volcano Discovery",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPek5wU2FDb1VGbjhJMEJYbklTWnhab0xUamVXeW5aTVdseHJJSnJ4R21hNm1kN2E3SWtJbzRISXFLcGp1SHM5dzB2TXk5ekNreUdiQmFWTEx0bmZSbTFfaS1WdVd1WUZNTkJmYTNoOVlZRm0yNFpueXM1TTVDWV9YZkU4ZWdjSDZsWW9rb25ydDY2ZG5FckNaaG9QVHd0UQ?oc=5",
+   "published_utc": "2026-11-05T15:37:50Z",
+   "first_seen_utc": "2026-11-05T18:59:20Z"
+  },
+  {
+   "id": "gn:CBMinwFBVV95cUxOM19ta3lvZGJfZDhMNE84WE83eVd0UUhGc0tiUGtIclBYM1ZzeGlCc1h6LVN4R0VTRnRTeUhzNldSUDJIblNSZ2h1YjBxdjhrOFBJcFJ6alp1b0pyN0c3ZnNhUEJINVFWdEpUcUkxaXdaajh3N2J1STZvX2lKbWlwbGJpUjF3dlBHQ1VUSDhxQVpDU2gxNUtlSlRSTzhfMUE",
+   "kind": "news",
+   "lang": "es",
+   "title": "Terremoto leve mag. 3.8 - Océano Pacífico Norte, 60 km al suroeste de Ocu, Provincia de Herrera, Panamá, Thursday 5 Nov 2026 a las 10:32 (Hora Panama)",
+   "source": "Volcano Discovery",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOM19ta3lvZGJfZDhMNE84WE83eVd0UUhGc0tiUGtIclBYM1ZzeGlCc1h6LVN4R0VTRnRTeUhzNldSUDJIblNSZ2h1YjBxdjhrOFBJcFJ6alp1b0pyN0c3ZnNhUEJINVFWdEpUcUkxaXdaajh3N2J1STZvX2lKbWlwbGJpUjF3dlBHQ1VUSDhxQVpDU2gxNUtlSlRSTzhfMUE?oc=5",
+   "published_utc": "2026-11-05T15:36:33Z",
+   "first_seen_utc": "2026-11-05T18:59:20Z"
+  },
+  {
+   "id": "gn:CBMinwFBVV95cUxPZmlzUjJmQlplaHRfN2NvcEUxME5nTkdvR0lTMXFXNU9WQ2hCaDJ6T3FFSm05REZrLV96OUpQTGtGTzhTcFg5SU01ZDYyUkZTTGJmQ3Iwc3JsUk5UdVptc0VoZG5aZ2YyMm5RLUhkR2RoTm43MU5ueGd2NHdDazBpaGo0NHV5cVBPUFRiVXN2Ym1qWkFxNGxkZmZoYzhtYm8",
+   "kind": "news",
+   "lang": "es",
+   "title": "Terremoto leve mag. 3.7 - 32 km al sur de Las Tablas, Los Santos, Panamá, Thursday 5 Nov 2026 a las 10:12 (Hora Panama)",
+   "source": "Volcano Discovery",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZmlzUjJmQlplaHRfN2NvcEUxME5nTkdvR0lTMXFXNU9WQ2hCaDJ6T3FFSm05REZrLV96OUpQTGtGTzhTcFg5SU01ZDYyUkZTTGJmQ3Iwc3JsUk5UdVptc0VoZG5aZ2YyMm5RLUhkR2RoTm43MU5ueGd2NHdDazBpaGo0NHV5cVBPUFRiVXN2Ym1qWkFxNGxkZmZoYzhtYm8?oc=5",
+   "published_utc": "2026-11-05T15:21:20Z",
+   "first_seen_utc": "2026-11-05T18:59:20Z"
+  },
+  {
+   "id": "gn:CBMingFBVV95cUxOZmI5QTFnaUt2MUNIZkhIcnNrczJ0aXZ5WVI4RTRKOUkyQ0hNQXE2M0w1LUwwWWdQYUpjMDFZMkR2a19hdXlXNGhLeHlOWHhkeXBwcE1HNGVqR1dRRWZaVzBhRi1kTnlvUDdMQWx1NGY1VlZFajBfNUppS05zMERzNnIxeFR3SV80dXgtWkZyY0p6bXM4UDJMZnNfV2NuQQ",
+   "kind": "news",
+   "lang": "en",
+   "title": "Light mag. 3.7 earthquake - 32 km south of Las Tablas, Provincia de Los Santos, Panama, on Thursday, Nov 5, 2026, at 10:12 am (Panama time)",
+   "source": "Volcano Discovery",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZmI5QTFnaUt2MUNIZkhIcnNrczJ0aXZ5WVI4RTRKOUkyQ0hNQXE2M0w1LUwwWWdQYUpjMDFZMkR2a19hdXlXNGhLeHlOWHhkeXBwcE1HNGVqR1dRRWZaVzBhRi1kTnlvUDdMQWx1NGY1VlZFajBfNUppS05zMERzNnIxeFR3SV80dXgtWkZyY0p6bXM4UDJMZnNfV2NuQQ?oc=5",
+   "published_utc": "2026-11-05T15:20:25Z",
+   "first_seen_utc": "2026-11-05T18:59:20Z"
+  },
+  {
+   "id": "gn:CBMi1AFBVV95cUxQZEZlN05Kajd0X0NGWXVnenFrZ2lKN2tVUXQ1TDJ3NzBHaWY5emk4OW82ZXJwWjdyX0VSbG5OeUoyOG1fRWktQTB6TWg1VXlYdVo5OVZsWUhOM0hxakNTOHpKRGotZUE4LXBac2ZxZTlsRVhQZThUQzNYYmFwd3JhWXhiUkZ2NVVoc3pkdDJxSWwzMVozTnZCaTNMaUx5WUlteDl2NTB1OVNocUVwbHhYVXIxdlVPVEQ2Vy1EZFlVbjhBVFpzenJSbHFhMXpNcm1OOUpHY9IB1AFBVV95cUxQZEZlN05Kajd0X0NGWXVnenFrZ2lKN2tVUXQ1TDJ3NzBHaWY5emk4OW82ZXJwWjdyX0VSbG5OeUoyOG1fRWktQTB6TWg1VXlYdVo5OVZsWUhOM0hxakNTOHpKRGotZUE4LXBac2ZxZTlsRVhQZThUQzNYYmFwd3JhWXhiUkZ2NVVoc3pkdDJxSWwzMVozTnZCaTNMaUx5WUlteDl2NTB1OVNocUVwbHhYVXIxdlVPVEQ2Vy1EZFlVbjhBVFpzenJSbHFhMXpNcm1OOUpHYw",
+   "kind": "news",
+   "lang": "es",
+   "title": "Sismo de 3.9 del 4 de noviembre está relacionado con la falla de Pedro Miguel y no con las réplicas de Azuero",
+   "source": "Telemetro",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZEZlN05Kajd0X0NGWXVnenFrZ2lKN2tVUXQ1TDJ3NzBHaWY5emk4OW82ZXJwWjdyX0VSbG5OeUoyOG1fRWktQTB6TWg1VXlYdVo5OVZsWUhOM0hxakNTOHpKRGotZUE4LXBac2ZxZTlsRVhQZThUQzNYYmFwd3JhWXhiUkZ2NVVoc3pkdDJxSWwzMVozTnZCaTNMaUx5WUlteDl2NTB1OVNocUVwbHhYVXIxdlVPVEQ2Vy1EZFlVbjhBVFpzenJSbHFhMXpNcm1OOUpHY9IB1AFBVV95cUxQZEZlN05Kajd0X0NGWXVnenFrZ2lKN2tVUXQ1TDJ3NzBHaWY5emk4OW82ZXJwWjdyX0VSbG5OeUoyOG1fRWktQTB6TWg1VXlYdVo5OVZsWUhOM0hxakNTOHpKRGotZUE4LXBac2ZxZTlsRVhQZThUQzNYYmFwd3JhWXhiUkZ2NVVoc3pkdDJxSWwzMVozTnZCaTNMaUx5WUlteDl2NTB1OVNocUVwbHhYVXIxdlVPVEQ2Vy1EZFlVbjhBVFpzenJSbHFhMXpNcm1OOUpHYw?oc=5",
+   "published_utc": "2026-11-05T15:20:00Z",
+   "first_seen_utc": "2026-11-05T18:59:20Z"
+  },
+  {
+   "id": "gn:CBMilwFBVV95cUxQVzl2aVFvelQzQk5BdVJuVlA0U2xPdDRBZHM3emxuYjVSMVplWW1jeUN5T1lxbU0temlZcHVfTzJ1cTdJanlvZEZZa1ZkZnFkQlNSMEp6d0pzclBkeXRfNVRuMzlBMlVYUl9JN0dnaUdiQ29vMW9LQTYwVU9URU9ubDhPNzUwZUtIbFY3cGNHTzhRZGlDcVVR0gGcAUFVX3lxTE5DZmg0REdRU0lfSTVqTlkxTHc3Ujk1VGZTczVRZll0OE8zcktZcmtnSmFZalBZX3c3a3VRUW5rMmlReXRVMFJSWkZTMm9ZQTBuckMxb19JbGZPLXVKcU91Ql9ka1RPYWZlUXhNN2NKMktyX0stLXVSLVowMndoWjFkcmVXdXhDNFByVUFWZHpwQUJpYlB5bGRKdjRJVA",
+   "kind": "news",
+   "lang": "es",
+   "title": "Sismo en la falla de Pedro Miguel: Geociencias explica por qué se sintió tan fuerte y registra 79 movimientos desde 2019",
+   "source": "Tvn Panamá",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVzl2aVFvelQzQk5BdVJuVlA0U2xPdDRBZHM3emxuYjVSMVplWW1jeUN5T1lxbU0temlZcHVfTzJ1cTdJanlvZEZZa1ZkZnFkQlNSMEp6d0pzclBkeXRfNVRuMzlBMlVYUl9JN0dnaUdiQ29vMW9LQTYwVU9URU9ubDhPNzUwZUtIbFY3cGNHTzhRZGlDcVVR0gGcAUFVX3lxTE5DZmg0REdRU0lfSTVqTlkxTHc3Ujk1VGZTczVRZll0OE8zcktZcmtnSmFZalBZX3c3a3VRUW5rMmlReXRVMFJSWkZTMm9ZQTBuckMxb19JbGZPLXVKcU91Ql9ka1RPYWZlUXhNN2NKMktyX0stLXVSLVowMndoWjFkcmVXdXhDNFByVUFWZHpwQUJpYlB5bGRKdjRJVA?oc=5",
+   "published_utc": "2026-11-05T14:37:46Z",
+   "first_seen_utc": "2026-11-05T18:59:20Z"
+  },
+  {
+   "id": "gn:CBMinwFBVV95cUxQcjBfQXhZV2ptZjVVOVl2OUJQdmJVZVJvWVdZVGdSWGd3bmtad1RlLVBiSHN3VXFJbkl0SFJzY1g5dmlsNVFQNnZsd0VwV3JheWU5dXA3VFFVWE9FWE1ueHhQLWxXbm41OHFoRjhqY3VZZmRBODg1TmVoRklROVlYVXpqbEVWa2ZiU0puMENhSi1MdzhialdMeW0zOXFCZGc",
+   "kind": "news",
+   "lang": "es",
+   "title": "Terremoto leve mag. 3.6 - 45 km al sur de Santiago, Veraguas, Panamá, Thursday 5 Nov 2026 a las 09:08 (Hora Panama)",
+   "source": "Volcano Discovery",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcjBfQXhZV2ptZjVVOVl2OUJQdmJVZVJvWVdZVGdSWGd3bmtad1RlLVBiSHN3VXFJbkl0SFJzY1g5dmlsNVFQNnZsd0VwV3JheWU5dXA3VFFVWE9FWE1ueHhQLWxXbm41OHFoRjhqY3VZZmRBODg1TmVoRklROVlYVXpqbEVWa2ZiU0puMENhSi1MdzhialdMeW0zOXFCZGc?oc=5",
+   "published_utc": "2026-11-05T14:24:06Z",
+   "first_seen_utc": "2026-11-05T18:59:20Z"
+  },
+  {
+   "id": "gn:CBMingFBVV95cUxQSWphU1ZqSVdaUTJKV2FHRFZBM0o4VEE0NXFXNHM4d1kxdU8xUk5xbDI2RXg5aFRHNV9LNm93TmhCS3V4bXRSRUlCdFB6LU1zR3RFZDVoNDdPd0trSF9XcUk0ZjRST0kxZzlOY1hUZUZSV1lMOFQ4ekpIOUkzeVAtVzB6UzN6UHNrVTJRSVBpZGoyVm80aUdoSG9FWlViQQ",
+   "kind": "news",
+   "lang": "en",
+   "title": "Light mag. 3.6 earthquake - 45 km south of Santiago, Provincia de Veraguas, Panama, on Thursday, Nov 5, 2026, at 09:08 am (Panama time)",
+   "source": "Volcano Discovery",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSWphU1ZqSVdaUTJKV2FHRFZBM0o4VEE0NXFXNHM4d1kxdU8xUk5xbDI2RXg5aFRHNV9LNm93TmhCS3V4bXRSRUlCdFB6LU1zR3RFZDVoNDdPd0trSF9XcUk0ZjRST0kxZzlOY1hUZUZSV1lMOFQ4ekpIOUkzeVAtVzB6UzN6UHNrVTJRSVBpZGoyVm80aUdoSG9FWlViQQ?oc=5",
+   "published_utc": "2026-11-05T14:15:33Z",
+   "first_seen_utc": "2026-11-05T18:59:20Z"
+  },
+  {
+   "id": "gn:CBMiygFBVV95cUxOcHM4U2FzVjlucXpOeW1ZSmowaHdmNU1PMmlJeGpIUEpqOFh5Z0wxT2xWdDNQNF9xVkxiVGVUdGliWDQ4dTBianBrckQwaFJ5c0FTYTJDbk51TWNDeFhSUzRNcVg2b19fWlE0N0NTLVJFdHI5MTBWc1ZsZmE2ZVcyNnk4bWtFV2sySl9FOWU4UWRDc0VPRENOdXpFcjJXWWtxNU8yY0hrV04zQUhWRmVPVUx0R3ZwRUVPMVltN1dXckZrSktZWWNpSkNR",
+   "kind": "news",
+   "lang": "es",
+   "title": "Tres réplicas con magnitud superior a 4 se reportan en la madrugada de este jueves",
+   "source": "Panamá América",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcHM4U2FzVjlucXpOeW1ZSmowaHdmNU1PMmlJeGpIUEpqOFh5Z0wxT2xWdDNQNF9xVkxiVGVUdGliWDQ4dTBianBrckQwaFJ5c0FTYTJDbk51TWNDeFhSUzRNcVg2b19fWlE0N0NTLVJFdHI5MTBWc1ZsZmE2ZVcyNnk4bWtFV2sySl9FOWU4UWRDc0VPRENOdXpFcjJXWWtxNU8yY0hrV04zQUhWRmVPVUx0R3ZwRUVPMVltN1dXckZrSktZWWNpSkNR?oc=5",
+   "published_utc": "2026-11-05T14:04:20Z",
+   "first_seen_utc": "2026-11-05T18:59:20Z"
+  },
+  {
+   "id": "gn:CBMi3gFBVV95cUxNM2xPNUw4SnVlaDBlQVJjYWNrSEltaGM3bzlfOGpNRXJOam0yR1ZMZWVyWnpsSENlTVZhQjFCUzNNUHg5RTZjeEc1Rk5RcXgzQk1jUVhSNGxLaEZZV1ZMcHByZmRFY2NlaWljTVFaZThNWmMyUkw3dnA4ek1rNEh4Qm1qUy14NF9LYkxBRl81WW12M2JGeHJCanBHZVh3Z3V4LTB4YXc1WmYzMGw3a013UzB2S0p5M0IyWmtNcU1udXQtWHZsQTdqZHkyOFg5N0hESUZCMktweDgtbHM5YUE",
+   "kind": "news",
+   "lang": "es",
+   "title": "Tres réplicas con magnitud superior a 4 se reportan en la madrugada de este jueves en Azuero-Soná",
+   "source": "Panamá América",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNM2xPNUw4SnVlaDBlQVJjYWNrSEltaGM3bzlfOGpNRXJOam0yR1ZMZWVyWnpsSENlTVZhQjFCUzNNUHg5RTZjeEc1Rk5RcXgzQk1jUVhSNGxLaEZZV1ZMcHByZmRFY2NlaWljTVFaZThNWmMyUkw3dnA4ek1rNEh4Qm1qUy14NF9LYkxBRl81WW12M2JGeHJCanBHZVh3Z3V4LTB4YXc1WmYzMGw3a013UzB2S0p5M0IyWmtNcU1udXQtWHZsQTdqZHkyOFg5N0hESUZCMktweDgtbHM5YUE?oc=5",
+   "published_utc": "2026-11-05T14:04:20Z",
+   "first_seen_utc": "2026-11-05T18:59:20Z"
+  },
+  {
+   "id": "gn:CBMimgFBVV95cUxQdGkwU3RfNm1uaTVLU09KMzJ3bThGYlV6bWFSazdsZzk5bDBDRTFHR000LThSdXQ4SVNEQ29KS0RrSlJia1JSUTB1TVJCaElMV1NuQm45aDRMRWdWUHl0ZzllSFQ0VnlpOXpxVV9LLXZfVzhqbTU0YzBQRDY1aXd5UGgxcVpweTRkSldDaDJTekJSdnRHUXlXUjZn",
+   "kind": "news",
+   "lang": "es",
+   "title": "Bomberos de Santiago instalan contenedores donde operarán durante dos años por daños que dejó el sismo",
+   "source": "TVN Panamá",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdGkwU3RfNm1uaTVLU09KMzJ3bThGYlV6bWFSazdsZzk5bDBDRTFHR000LThSdXQ4SVNEQ29KS0RrSlJia1JSUTB1TVJCaElMV1NuQm45aDRMRWdWUHl0ZzllSFQ0VnlpOXpxVV9LLXZfVzhqbTU0YzBQRDY1aXd5UGgxcVpweTRkSldDaDJTekJSdnRHUXlXUjZn?oc=5",
+   "published_utc": "2026-11-05T13:05:44Z",
+   "first_seen_utc": "2026-11-05T18:59:20Z"
+  },
   {
    "id": "gn:CBMisAFBVV95cUxPWGdhd1ZPbU5uLUJCNm51MzBsbWJaVWthVlNSbk1ma0FFVHV2dnpVQkU5TjJZbVBBckhlYlB0X2FqQUxUdkZ5QTJ5RFZZb3ZWTVFkakVzMUZPTHkzZlBYUWc3MUIyUVk1SS1RX3lCTHN0dzl3SGxER2FXS3ZXTzM1R1JERmNha1hhVGczY0tweEx6aVNTbTNweEM2QnFBNW5aanFwRk56RWp5UHNiNXo0WNIBtgFBVV95cUxPTlZ1N3hUMy1KNW1xTXdMZmo1RUZId1BUOGhvcXhkZkZ4Uy1wcE5JNm4tUnNjYTBpRWg3TFRYc1JxM0VsVld6dHRVaExMQXA4bXN6Q0g3WWRGOEpTb1YtdENnV0FUUkNoREtzeWdweTJiVmd0bjNWSG5tbzQ2WjNFR1B2akJocTdTcDl3SUhONXFHTzZWU3liUDNxdklMaUtwTmpkSWVtT3N1WVVyUDJ5cGs5aFEwUQ",
    "kind": "news",
@@ -20,6 +240,16 @@
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdy1DU250WFBOajF1Y2RRZDFUY25oankzbmJlR1ZLNGU2cDhxUlNnd2VWbllyUXFhSDR3RmxpXzQ2aVBlMUZWVTFOSFI1THNqMDEzZUZxd0M4RE9WMDRKbV84UGFzeFRhdVdDS3Zrc2loYVNoTFB5eFhiLVZWYW9HUzczYkZ1TXVxRkctby00M0RnZUZkV2haT0ZJS1puZw?oc=5",
    "published_utc": "2026-11-05T08:54:50Z",
    "first_seen_utc": "2026-11-05T11:32:05Z"
+  },
+  {
+   "id": "gn:CBMinwFBVV95cUxQYzBQdTYxV3cxaXV5TVZLRDJmYTJmZGpHZXExbWZOVDNlb0ZDMDE0cEMwaEZSOUZDeXc4el9UY05KTVF0ZTFIN3JaRHV1MjE2NV94eVg0TVFoTm1nZXJubWdQNm9naWRTYzk1S2N0a0hKVGFUR3hLQzEzX0toZmY3X25SbnZVUlBCTVhURzNGYm03TThvR3o3NXVVZUdPTE0",
+   "kind": "news",
+   "lang": "es",
+   "title": "Terremoto leve mag. 3.7 - Océano Pacífico Norte, 53 km al sur de Las Tablas, Los Santos, Panamá, Thursday 5 Nov 2026 a las 03:22 (Hora Panama)",
+   "source": "Volcano Discovery",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYzBQdTYxV3cxaXV5TVZLRDJmYTJmZGpHZXExbWZOVDNlb0ZDMDE0cEMwaEZSOUZDeXc4el9UY05KTVF0ZTFIN3JaRHV1MjE2NV94eVg0TVFoTm1nZXJubWdQNm9naWRTYzk1S2N0a0hKVGFUR3hLQzEzX0toZmY3X25SbnZVUlBCTVhURzNGYm03TThvR3o3NXVVZUdPTE0?oc=5",
+   "published_utc": "2026-11-05T08:31:01Z",
+   "first_seen_utc": "2026-11-05T18:59:20Z"
   },
   {
    "id": "gn:CBMingFBVV95cUxNT3o2dVY3VVJTUzNhallPSkhUR2lEXzlkemNrb05DWE9JTHZGbEVEUVNGR0Z6a0xibGVxZzEzMHZjTUN1UmNvQlJOT0hCMU96T3JMTTdfdUlQQndHaU01STduLVJPUHRkaUlQSW1zSVczVWxWZFNaZWJvVUtJQUdkamhPczZGR1d4QjZrZE12S1Y2cnpIS3htODU1aU5hUQ",
@@ -180,6 +410,16 @@
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTnU4TFM2djhXNmNPdHFUZGFZOHJjbWplSTJMdWphZWtFRmlOdVZyaE0xNjZpZFoyNElvLUVIUXk1eDBrdG5qSHFJUUlYWDNQMWJhUndXOGVPSmFMUGFPTkd2Unp5QzlOSFU3aHNaRTBJS0p0UFNWczBDLW5feHFMSm1lRlZjRm40MjRwbTBaWXZIMDlYdDZ3NEZ3MWQ0QQ?oc=5",
    "published_utc": "2026-11-05T04:16:46Z",
    "first_seen_utc": "2026-11-05T11:32:05Z"
+  },
+  {
+   "id": "gn:CBMivAFBVV95cUxON0hYa3piQTR5SzREWW9CY09hZXlTbl9iVU96eUczXzNzUEpoWkM4ZHZ5TXpQUWlJcWphbl9zVjF3MFpuR3FiN1RGUnM3b2J2SjVSTzhLQTA2N0hVeGg3cFhkZ3M0MUdmWXpYUkJPcWhBZlJvSmtjcW1xWFpqNlR3R0J0MjJ2OHZ3WGhydXdOR0tCYWNBVThIRWhuTzdCTzFoaDVzcGl3SXRPeHktODJvZk1NcUd2NVdKY2tjRA",
+   "kind": "news",
+   "lang": "es",
+   "title": "ALERTA EN PANAMÁ: Un sismo de 3.9 se sintió cerca del Canal y reaviva temores por las fallas",
+   "source": "Uruguay Al Día",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxON0hYa3piQTR5SzREWW9CY09hZXlTbl9iVU96eUczXzNzUEpoWkM4ZHZ5TXpQUWlJcWphbl9zVjF3MFpuR3FiN1RGUnM3b2J2SjVSTzhLQTA2N0hVeGg3cFhkZ3M0MUdmWXpYUkJPcWhBZlJvSmtjcW1xWFpqNlR3R0J0MjJ2OHZ3WGhydXdOR0tCYWNBVThIRWhuTzdCTzFoaDVzcGl3SXRPeHktODJvZk1NcUd2NVdKY2tjRA?oc=5",
+   "published_utc": "2026-11-05T03:53:10Z",
+   "first_seen_utc": "2026-11-05T18:59:20Z"
   },
   {
    "id": "gn:CBMiwgFBVV95cUxNNzZKMWNKX1BGQ1dSenFFT3BPQlhQYm9BZWFGQjZOdmEtb0p1MmtUbzI0QnlQN0swRjk5Z1JLMmdhenM5TGg4LXpZLVVrWmZKSVdnemxFWjB6dlZrUFZCTi1tZ0xiOTJmRzdvLWtZX1ZraUkxb2wyWjBHc2FRNDVQU0M2SjRfeHFpOHd5UXlzVE83bURRWHNpZnF3eG5ZQjVxUF9QRFFNV0FRWDVpWHRxYnBXdHUwMU1CbGprUWR0N1VsUdIB3AFBVV95cUxQZXhNZlNWNEdSZ0lwYTlDblJSVHJ0SEZ2VFQyQmZQWklEejhEbzRJZkpKLS12Q0VkMEhEbmNDVXUwQ2pfTDdRSUZocEZuaVMtOW83ZzFIam5ESnJrT2ZKeUx0d0EtaGFQQ29SaXNPai1xYi0xZGlpeUNmTWtiOTNOZ2V5R1ZkaGQ1bjdNYWpmcnRIS1JMUW5CbkVRYnBvUldIeE9FZERrQ2xTQW1wNnpHanBrV1kxQnlEVG8xNGJSSUlKUVBibE03S3NfcEpPQnhVbld3SzB2aWZxWU1f",
@@ -1380,6 +1620,16 @@
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTkQ2TjdEeTgxdDZZVFVFY0VFTzQzTkdxa2dFN0ItU3huaGZmLUNGUmJxSjZOQ3NXcWhTSVJoUkRMWGNiTGxMSU11Z3BMdGo3SWtzV3dsSDJaWUY3U1NrTUNuckdTLVotWTl1S0FaQ2FaQnZJTl9nV3pIWWVmWGwwcGNCQTVnWU0wajlpb09UdE91VDFSQlpxUnRGSFVQT1k?oc=5",
    "published_utc": "2026-11-03T20:12:00Z",
    "first_seen_utc": "2026-11-04T23:17:55Z"
+  },
+  {
+   "id": "gn:CBMiYEFVX3lxTE95d2l6YW44UHJmWDh2Mk1qRERqUUE5VV9hMmZ5NTRVa0dmXzZQcnExN3l4UmF0aHhFM1VMNDVIVW9DVG5lSllqTWhiUWs2UzYwYTcwRjVKS2hEQnpYREdVbNIBXEFVX3lxTE0xMm9NalBLb1BuSDhhbWZfamp5NXpxdzZKZ2lIdFRFYmZIbU1YX21tMnFDdUdLeWFsT1BpbURBUmwybXhxSU1zT3FuRnlnbjZkQnJkNzFnRDAzX0Vi",
+   "kind": "news",
+   "lang": "en",
+   "title": "Buildings destroyed in Panama earthquake",
+   "source": "Modern Ghana",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE95d2l6YW44UHJmWDh2Mk1qRERqUUE5VV9hMmZ5NTRVa0dmXzZQcnExN3l4UmF0aHhFM1VMNDVIVW9DVG5lSllqTWhiUWs2UzYwYTcwRjVKS2hEQnpYREdVbNIBXEFVX3lxTE0xMm9NalBLb1BuSDhhbWZfamp5NXpxdzZKZ2lIdFRFYmZIbU1YX21tMnFDdUdLeWFsT1BpbURBUmwybXhxSU1zT3FuRnlnbjZkQnJkNzFnRDAzX0Vi?oc=5",
+   "published_utc": "2026-11-03T20:10:46Z",
+   "first_seen_utc": "2026-11-05T18:59:20Z"
   },
   {
    "id": "gn:CBMingFBVV95cUxNVUZheTJQd212R0VJSHhtWUdHZUdNLVoxZmlGSGVlNTh1amhCTVhoTm05c1pJUXd1bC1CUHh6YU1IVXlFMms4YkNEZHFFVjdPZU1fWHA5NUdSM1pjYjBsaFFQZkNGeHc3RWdLakhhTXkwbXNUUzZxX092d1lSQkJ2S2R1U1JDeGpBNTAyQW5qNjJqZUVTR2NRY1dpOWNmdw",
@@ -5750,256 +6000,6 @@
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPV1gzNUhULWRjR3IxOWtUejJld09CbTlWMDZUZHZTdVNxVHQxRlJOY2NjMUpycjB4MXFNNjVDOFRrdFN3NFVhbXdxaUZTbjhFcFZ5SmhHUkhjWnJmX3d0Ni1KRlBwWDNfOTJSMThlSndRd1dTSmE3ckpMZWZlUGRVeVI0U0xweExueFduZDhMaVBKaUZiZWVtWlZ1Qkt6c2liTks3aHRFSldVSGoxUEhLYTcycFdYek94cDBWdXduY1BVcU5HQkZJ0gHHAUFVX3lxTE9XWDM1SFQtZGNHcjE5a1R6MmV3T0JtOVYwNlRkdlN1U3FUdDFGUk5jY2MxSnJyMHgxcU02NUM4VGt0U3c0VWFtd3FpRlNuOEVwVnlKaEdSSGNacmZfd3Q2LUpGUHBYM185MlIxOGVKd1F3V1NKYTdySkxlZmVQZFV5UjRTTHB4TG54V25kOExpUEppRmJlZW1aVnVCS3pzaWJOSzdodEVKV1VIajFQSEthNzJwV1h6T3hwMFZ1d25jUFVxTkdCRkk?oc=5",
    "published_utc": "2026-10-30T21:40:00Z",
    "first_seen_utc": "2026-10-31T02:43:28Z"
-  },
-  {
-   "id": "gn:CBMiwwFBVV95cUxQNWFKRi1EbTF2QTNqWnYyUUZEMGVYdV8zdFVIa2ZGVUJDcVh1NG9od292a3NMb01SVGdWOFV6LW5UX0RlQUZjTGFhWVJfNXA1UXBXRkptVFdncllkam9uUmNiRzB3R1lTRE1pdFgxd2luSm1LMkN1REFOVXdnSVd2QXgtc0sxTkhZN08yelg2ZkM1VnR5RGNTaU5yRzRLYV81UkN3d1plR1p2WVZjYmtENmRJN2NDMlVmM1FfV3JqOVVKQUE",
-   "kind": "news",
-   "lang": "es",
-   "title": "Panamá extiende aviso de prevención por lluvias y tormentas en zonas afectadas por terremoto",
-   "source": "CRprensa.com",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNWFKRi1EbTF2QTNqWnYyUUZEMGVYdV8zdFVIa2ZGVUJDcVh1NG9od292a3NMb01SVGdWOFV6LW5UX0RlQUZjTGFhWVJfNXA1UXBXRkptVFdncllkam9uUmNiRzB3R1lTRE1pdFgxd2luSm1LMkN1REFOVXdnSVd2QXgtc0sxTkhZN08yelg2ZkM1VnR5RGNTaU5yRzRLYV81UkN3d1plR1p2WVZjYmtENmRJN2NDMlVmM1FfV3JqOVVKQUE?oc=5",
-   "published_utc": "2026-10-30T21:19:29Z",
-   "first_seen_utc": "2026-10-30T23:30:23Z"
-  },
-  {
-   "id": "gn:CBMioAFBVV95cUxNaFRXVE11RWpldmE3NTVVajJpRldMbVp6emtRZVpNY2g3dmREaWlRaUhEQ3RBS3c3bDY1T3NOWmNCc2lTdTFjYmd2MXBSNkFlRmFBVGI3c1loWE54c2JNRmZmQnR1cDhjMlAtY042TEZ6UEh1NTRxTUM5S3p3TXptSkx0SENxdzVtS0ZqbUJ1bUlFdjFvQ1B1Tk1BUC1sWjgy",
-   "kind": "news",
-   "lang": "es",
-   "title": "Sismo débil mag. 2.5 - Panama, Friday 30 Oct 2026 a las 15:37 (GMT -5)",
-   "source": "Volcano Discovery",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaFRXVE11RWpldmE3NTVVajJpRldMbVp6emtRZVpNY2g3dmREaWlRaUhEQ3RBS3c3bDY1T3NOWmNCc2lTdTFjYmd2MXBSNkFlRmFBVGI3c1loWE54c2JNRmZmQnR1cDhjMlAtY042TEZ6UEh1NTRxTUM5S3p3TXptSkx0SENxdzVtS0ZqbUJ1bUlFdjFvQ1B1Tk1BUC1sWjgy?oc=5",
-   "published_utc": "2026-10-30T20:51:07Z",
-   "first_seen_utc": "2026-10-30T23:30:23Z"
-  },
-  {
-   "id": "gn:CBMinwFBVV95cUxNQmRwZ1YzUDFGY3pkN1ctZHlDcEFoS2tKVEFtQW9TR0V5VmtQdGN4bExnbWpuNVdqS1NvS3RQeFdvb1ZSUDA0UjEwdThWcDNTMzZFczd0ZUYyM0MxSzI2aXVtb25HU0dPMm5QUlZnRWRiMVRBTV91dmlyXzRubFJBNG1SZG81aG54SjVFRDRWN3hqbTZXLXJYS3FGRnJCdVk",
-   "kind": "news",
-   "lang": "en",
-   "title": "Light mag. 3.4 earthquake - 58 km southwest of Santiago, Provincia de Veraguas, Panama, on Friday, Oct 30, 2026, at 03:35 pm (GMT -5)",
-   "source": "Volcano Discovery",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQmRwZ1YzUDFGY3pkN1ctZHlDcEFoS2tKVEFtQW9TR0V5VmtQdGN4bExnbWpuNVdqS1NvS3RQeFdvb1ZSUDA0UjEwdThWcDNTMzZFczd0ZUYyM0MxSzI2aXVtb25HU0dPMm5QUlZnRWRiMVRBTV91dmlyXzRubFJBNG1SZG81aG54SjVFRDRWN3hqbTZXLXJYS3FGRnJCdVk?oc=5",
-   "published_utc": "2026-10-30T20:50:33Z",
-   "first_seen_utc": "2026-10-30T23:30:23Z"
-  },
-  {
-   "id": "gn:CBMinwFBVV95cUxNX2o4VkFNWjdzdTY4WEoyMkxRQ0doWjRWelUzMWgxTVZKeHdwZUIwbGlRUElIR1U4MmFzZm4ycU5zbC1YTTNIR043MkJaQlZ3SURwaFdWeG5PN2N4N3ljcGM1SUNBVWoxQU5RZzZBckN6aERjYUlWZU0wTzlFWGxoNVVxY2JnQWdKQmE4ektvRk1qcjV1RkEtS0Vpc2VKaDg",
-   "kind": "news",
-   "lang": "en",
-   "title": "Weak mag. 2.5 earthquake - 67 km southwest of Santiago, Provincia de Veraguas, Panama, on Friday, Oct 30, 2026, at 08:37 pm (Universal Time)",
-   "source": "Volcano Discovery",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNX2o4VkFNWjdzdTY4WEoyMkxRQ0doWjRWelUzMWgxTVZKeHdwZUIwbGlRUElIR1U4MmFzZm4ycU5zbC1YTTNIR043MkJaQlZ3SURwaFdWeG5PN2N4N3ljcGM1SUNBVWoxQU5RZzZBckN6aERjYUlWZU0wTzlFWGxoNVVxY2JnQWdKQmE4ektvRk1qcjV1RkEtS0Vpc2VKaDg?oc=5",
-   "published_utc": "2026-10-30T20:50:33Z",
-   "first_seen_utc": "2026-10-30T23:30:23Z"
-  },
-  {
-   "id": "gn:CBMioAFBVV95cUxOeDhhNlBFVXZ5SVFnYnpPaS1yOWFPTkZvQmNRR0p2aXFINWJmaUtpME05bGdmY3BqT0ZKV1BVYXBxczdDR1hadGRMZTZGaEFfa0RTd2dNQUhlYzFVTEx3SFFydWVSckJrMmo0NXlZYzVmYW96dlZqck84V1cxTkZ3ZGltdms4c0tUOU16RUdpZjNWZUFhQktJV1ZJS3VVSC1B",
-   "kind": "news",
-   "lang": "es",
-   "title": "Terremoto leve mag. 3.5 - Veraguas, 46 km al sur de Ocu, Provincia de Herrera, Panamá, Friday 30 Oct 2026 a las 22:56 (Tiempo Universal)",
-   "source": "Volcano Discovery",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeDhhNlBFVXZ5SVFnYnpPaS1yOWFPTkZvQmNRR0p2aXFINWJmaUtpME05bGdmY3BqT0ZKV1BVYXBxczdDR1hadGRMZTZGaEFfa0RTd2dNQUhlYzFVTEx3SFFydWVSckJrMmo0NXlZYzVmYW96dlZqck84V1cxTkZ3ZGltdms4c0tUOU16RUdpZjNWZUFhQktJV1ZJS3VVSC1B?oc=5",
-   "published_utc": "2026-10-30T20:39:57Z",
-   "first_seen_utc": "2026-10-31T02:43:28Z"
-  },
-  {
-   "id": "gn:CBMinwFBVV95cUxOQ1BOekl1VDFvX3ZWbVpaZ0xXY0pyS1pJMnJ2bnhDaXlZZU9DM0JmRU84Wmg2bF9IWmNoTXlXaGVCNjd1dEZBUHBPd1lKTHNWVkJvMUdZclhnY0tKcVhrSDRCT3o0aFd5TVBCb1RHOXo2ZWhHYWZ5TnZ5bW5Hb1NFVS1LbFQwNTNtYWx6Mm96R3RtSlZCVlBnUk9URFh0aE0",
-   "kind": "news",
-   "lang": "en",
-   "title": "Light mag. 3.5 earthquake - North Pacific Ocean, 60 km south of Las Tablas, Provincia de Los Santos, Panama, on Friday, Oct 30, 2026, at 11:41 am (GMT -5)",
-   "source": "Volcano Discovery",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ1BOekl1VDFvX3ZWbVpaZ0xXY0pyS1pJMnJ2bnhDaXlZZU9DM0JmRU84Wmg2bF9IWmNoTXlXaGVCNjd1dEZBUHBPd1lKTHNWVkJvMUdZclhnY0tKcVhrSDRCT3o0aFd5TVBCb1RHOXo2ZWhHYWZ5TnZ5bW5Hb1NFVS1LbFQwNTNtYWx6Mm96R3RtSlZCVlBnUk9URFh0aE0?oc=5",
-   "published_utc": "2026-10-30T20:35:33Z",
-   "first_seen_utc": "2026-10-30T23:30:23Z"
-  },
-  {
-   "id": "gn:CBMinwFBVV95cUxPX2hNSGNnN085Nk0ybU9ya0NsMzZUeGZkQ2gzODFxbFd2YlUzNE83cU9KMVVtUEFyRUpGOFRZTk1ZcVFfODdjcTMxazI0VGNhUFhxdkozMS1JaU5SUE5JaE5oNHhGQVYxR2ZRQ0s5UkNxa3dWdnNxVk44VjBXRHNQUTlOZjRTZXRINmtrYXphejAtWmNrRHAxbTQyRk45SUE",
-   "kind": "news",
-   "lang": "en",
-   "title": "Light Mag. 3.5 Earthquake - Panama on Friday, Oct 30, 2026, at 06:40 pm (Universal Time)",
-   "source": "Volcano Discovery",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPX2hNSGNnN085Nk0ybU9ya0NsMzZUeGZkQ2gzODFxbFd2YlUzNE83cU9KMVVtUEFyRUpGOFRZTk1ZcVFfODdjcTMxazI0VGNhUFhxdkozMS1JaU5SUE5JaE5oNHhGQVYxR2ZRQ0s5UkNxa3dWdnNxVk44VjBXRHNQUTlOZjRTZXRINmtrYXphejAtWmNrRHAxbTQyRk45SUE?oc=5",
-   "published_utc": "2026-10-30T20:15:32Z",
-   "first_seen_utc": "2026-10-30T23:30:23Z"
-  },
-  {
-   "id": "gn:CBMipgFBVV95cUxNWEJjbVRJZ0xfM0h1S0NnZTdBaE1QSHNfaGtGQVpYd3R3WTNROFY5Yi03VkN1N1R2UFJvVkZkT0gweXZObTh0bUt1Nllra3RSWTRzdnF2ZmhvYUh2aC1jZUhZVjB4UE1TT0RmQ0wyOEtIZkFEWjkxYTc5cW9XU1hZYUNEWFpMWnNBblBGbU1MM0hCNm9ndkVjLU4yTUtrcV9CQWlzb3B3",
-   "kind": "news",
-   "lang": "es",
-   "title": "Sismo débil mag. 2.3 - Océano Pacífico Norte, 21 km al sur de Golfito, Puntarenas, Costa Rica, Friday 30 Oct 2026 a las 15:37 (Hora Costa_Rica)",
-   "source": "Volcano Discovery",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWEJjbVRJZ0xfM0h1S0NnZTdBaE1QSHNfaGtGQVpYd3R3WTNROFY5Yi03VkN1N1R2UFJvVkZkT0gweXZObTh0bUt1Nllra3RSWTRzdnF2ZmhvYUh2aC1jZUhZVjB4UE1TT0RmQ0wyOEtIZkFEWjkxYTc5cW9XU1hZYUNEWFpMWnNBblBGbU1MM0hCNm9ndkVjLU4yTUtrcV9CQWlzb3B3?oc=5",
-   "published_utc": "2026-10-30T19:52:00Z",
-   "first_seen_utc": "2026-10-31T08:56:39Z"
-  },
-  {
-   "id": "gn:CBMi3AFBVV95cUxQczV4clVveTNaU3VIYUNaZU5zTWVnT1YzVktiSWc2UzZNWkpqbnVYcnlTdnQ0clVFb3VGVE1WOTAyY1o4UldJR1IzbVZhdFlrXzdub1Nzb2xFMENLN1M5UXJLVnkxc0p2b0lsaGlHVVdSMVJSdkY1QkhOMmxkNUlKWWtDbDBFdW42ay1DSm9FOHp4VFQ4eU9kSjU3QlBCQXpJUS1nYnNOMDBRbWVUcXFjd25TazhQZ3B1ZzFtV2w5Ujh5UUlKcnMtdlJlX0ljZnZvaVB0M29IOWhZQ1Vs0gH3AUFVX3lxTFBYb0NlN0NaSEJNVVJkMW9hRWZrcXNIdHRpbnpLWmNqRy1Xal9SNVoyNjN4VHBtZXB2a2wwLUtJbFplVk5QRG41MHlDZ2E2TXEwS2duN0o3eWhJSXFFekUtUDVES1h0eUtpNE5DWEpIc2xweGlCWWxfRjF0QzlCWHVLd2tDU0ZCWFR0STJEanpKMFpwQjZacXR4TndWQk5SdlF5WmplU0E2T1BOUDZ1Z0YtX2JRSzZ1Q0dyUGp2UXdydTBkZUtGNGVrV1lGSF9ackVHTlhkNDc4NzdEYlJ1dzUwMTlZVE5jWlNhS3lpOXBkTmhXeU5pOEk",
-   "kind": "news",
-   "lang": "es",
-   "title": "Nueva alerta meteorológica en Panamá agrava la preocupación por las zonas devastadas por el terremoto",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQczV4clVveTNaU3VIYUNaZU5zTWVnT1YzVktiSWc2UzZNWkpqbnVYcnlTdnQ0clVFb3VGVE1WOTAyY1o4UldJR1IzbVZhdFlrXzdub1Nzb2xFMENLN1M5UXJLVnkxc0p2b0lsaGlHVVdSMVJSdkY1QkhOMmxkNUlKWWtDbDBFdW42ay1DSm9FOHp4VFQ4eU9kSjU3QlBCQXpJUS1nYnNOMDBRbWVUcXFjd25TazhQZ3B1ZzFtV2w5Ujh5UUlKcnMtdlJlX0ljZnZvaVB0M29IOWhZQ1Vs0gH3AUFVX3lxTFBYb0NlN0NaSEJNVVJkMW9hRWZrcXNIdHRpbnpLWmNqRy1Xal9SNVoyNjN4VHBtZXB2a2wwLUtJbFplVk5QRG41MHlDZ2E2TXEwS2duN0o3eWhJSXFFekUtUDVES1h0eUtpNE5DWEpIc2xweGlCWWxfRjF0QzlCWHVLd2tDU0ZCWFR0STJEanpKMFpwQjZacXR4TndWQk5SdlF5WmplU0E2T1BOUDZ1Z0YtX2JRSzZ1Q0dyUGp2UXdydTBkZUtGNGVrV1lGSF9ackVHTlhkNDc4NzdEYlJ1dzUwMTlZVE5jWlNhS3lpOXBkTmhXeU5pOEk?oc=5",
-   "published_utc": "2026-10-30T19:50:19Z",
-   "first_seen_utc": "2026-10-30T19:55:52Z"
-  },
-  {
-   "id": "gn:CBMiwwFBVV95cUxNZVlzazRIRXNzWUF6Ui0tcnFxaGNHYUlyM0ZaanoyR2x3T09hUGJsS1JfR3JwOGt4bHVoNUNkVGtlQUNYSG4ydjE3bjM4Q0Y3RXN6OGxjMHlUSzJLcjZKSDR2a0gzYjJ5VTA0eXlqSFVRZG9tNmpITEN1MWRFRlFYX09QdkRUQ2xkcTZ1c2tDNkw4N25Sb1VkLUh4Q3E2ZXZzS2RfQ2c4amFXTkh2ckxaQVpZSkJudVhIb09ySjV3em85MnfSAcgBQVVfeXFMTUhoZ3VwNnZ5aXRjakRNLW1jZWlpYUI2dTJFN0FfOHBGTE5HaElnMi1LVVJYQjdGMGlkQUJWUTl2TDg1RWhxRmpVSVJSXy1oaHJiX0I4eGR0SnhMNjgwRFhmTE95dUR0VGJDS2M1bzlsbG1CM1pfS3p2UlZQM1dnOTg3dnZYeno2SzluMzg5VTFHQTVnZDFNcXdjSWNZUlJuZWpRTFNyeWMzSEJRV01WMWRETWlDd2s0M1pyNEg1LW1wNWdlUVFLbTM",
-   "kind": "news",
-   "lang": "en",
-   "title": "Viral Video: Terrifying Footage Shows Panama Shaken By 7.7-Magnitude Earthquake!",
-   "source": "Asianet Newsable",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZVlzazRIRXNzWUF6Ui0tcnFxaGNHYUlyM0ZaanoyR2x3T09hUGJsS1JfR3JwOGt4bHVoNUNkVGtlQUNYSG4ydjE3bjM4Q0Y3RXN6OGxjMHlUSzJLcjZKSDR2a0gzYjJ5VTA0eXlqSFVRZG9tNmpITEN1MWRFRlFYX09QdkRUQ2xkcTZ1c2tDNkw4N25Sb1VkLUh4Q3E2ZXZzS2RfQ2c4amFXTkh2ckxaQVpZSkJudVhIb09ySjV3em85MnfSAcgBQVVfeXFMTUhoZ3VwNnZ5aXRjakRNLW1jZWlpYUI2dTJFN0FfOHBGTE5HaElnMi1LVVJYQjdGMGlkQUJWUTl2TDg1RWhxRmpVSVJSXy1oaHJiX0I4eGR0SnhMNjgwRFhmTE95dUR0VGJDS2M1bzlsbG1CM1pfS3p2UlZQM1dnOTg3dnZYeno2SzluMzg5VTFHQTVnZDFNcXdjSWNZUlJuZWpRTFNyeWMzSEJRV01WMWRETWlDd2s0M1pyNEg1LW1wNWdlUVFLbTM?oc=5",
-   "published_utc": "2026-10-30T19:16:05Z",
-   "first_seen_utc": "2026-10-30T19:55:52Z"
-  },
-  {
-   "id": "gn:CBMiwwFBVV95cUxPb1N2RFhnaEx0cDdfTzAyeURXemNVYjRBdHd4RGxJZlhLSG1xbDZuNzAwZHM0SzZpWThFX1Ria2xkbUNyYW96Y1d0U3g0NUw1dW5hS3dqQ2xjT3pnS2RNN2V2SFFTVE5UeVFvMF82aXI3VU8tdFA0SFhzU1R5ZkE4d3loMGEyZTdPcmhrcGI0Rk83T3paSm5DN25lQ0IybG5KbExXOWRiNDRuYVMtUmw0R2xxRnp3M2o5MHBTNTdja3QtdFXSAcgBQVVfeXFMTWVrQjVQS18zZDdVNTN6WjhSZ2xQaHBCRG5BSjFIekdpZGlBYm9DRUlaQ3NMeGxJUTF4bFZ2d1YxbXNCYmZmREYzYWduQXdFY0pPdmplRVEtYkpyYklmZ0tJMmx0MGpKWmZBbHBIOGQwMlRiT1BaWG41ZXFkNmRwUFhZeDBzZ2JqRVgxSTRQV2kwN3JBS0dES2ZNYjU3aW4xdzJXLVRyOXZ6ZkVIOHpvc3hsZTBqMXBQeEZFUXVRZnQwLS0yWnktckU",
-   "kind": "news",
-   "lang": "es",
-   "title": "Mulino garantiza viviendas a familias afectadas por el terremoto en Veraguas y Herrera",
-   "source": "www.ecotvpanama.com",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPb1N2RFhnaEx0cDdfTzAyeURXemNVYjRBdHd4RGxJZlhLSG1xbDZuNzAwZHM0SzZpWThFX1Ria2xkbUNyYW96Y1d0U3g0NUw1dW5hS3dqQ2xjT3pnS2RNN2V2SFFTVE5UeVFvMF82aXI3VU8tdFA0SFhzU1R5ZkE4d3loMGEyZTdPcmhrcGI0Rk83T3paSm5DN25lQ0IybG5KbExXOWRiNDRuYVMtUmw0R2xxRnp3M2o5MHBTNTdja3QtdFXSAcgBQVVfeXFMTWVrQjVQS18zZDdVNTN6WjhSZ2xQaHBCRG5BSjFIekdpZGlBYm9DRUlaQ3NMeGxJUTF4bFZ2d1YxbXNCYmZmREYzYWduQXdFY0pPdmplRVEtYkpyYklmZ0tJMmx0MGpKWmZBbHBIOGQwMlRiT1BaWG41ZXFkNmRwUFhZeDBzZ2JqRVgxSTRQV2kwN3JBS0dES2ZNYjU3aW4xdzJXLVRyOXZ6ZkVIOHpvc3hsZTBqMXBQeEZFUXVRZnQwLS0yWnktckU?oc=5",
-   "published_utc": "2026-10-30T19:11:00Z",
-   "first_seen_utc": "2026-10-30T23:30:23Z"
-  },
-  {
-   "id": "gn:CBMiyAFBVV95cUxPUTNUdTlrdkdsSElfY2p3UldVbVg2MWtNWnRYZFNUejZaQ3lMaGdIQ0hxVXI0NGY4WlZqZGtMc3M2a0o2d1lfWEw4NTZkWHRIVnZ1aW5wcmRHeE0zSnRYNm5qUFBBcHRRTFdLLU5mZm8tWEg0cFlYWnAzMjNnWjg2WFppemp0T19DdW0wVXZKSGlYYTNPSWFidGpub3N1NE9GX1VaazNVODhFVm5mUHN3OHlzb25qbFptbG1iRElQR1lJSHRwVkdWWtIByAFBVV95cUxPUTNUdTlrdkdsSElfY2p3UldVbVg2MWtNWnRYZFNUejZaQ3lMaGdIQ0hxVXI0NGY4WlZqZGtMc3M2a0o2d1lfWEw4NTZkWHRIVnZ1aW5wcmRHeE0zSnRYNm5qUFBBcHRRTFdLLU5mZm8tWEg0cFlYWnAzMjNnWjg2WFppemp0T19DdW0wVXZKSGlYYTNPSWFidGpub3N1NE9GX1VaazNVODhFVm5mUHN3OHlzb25qbFptbG1iRElQR1lJSHRwVkdWWg",
-   "kind": "news",
-   "lang": "es",
-   "title": "Terremoto deja inhabitable el edificio de la Alcaldía de Penonomé y se evalúa su demolición",
-   "source": "Día a Día",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUTNUdTlrdkdsSElfY2p3UldVbVg2MWtNWnRYZFNUejZaQ3lMaGdIQ0hxVXI0NGY4WlZqZGtMc3M2a0o2d1lfWEw4NTZkWHRIVnZ1aW5wcmRHeE0zSnRYNm5qUFBBcHRRTFdLLU5mZm8tWEg0cFlYWnAzMjNnWjg2WFppemp0T19DdW0wVXZKSGlYYTNPSWFidGpub3N1NE9GX1VaazNVODhFVm5mUHN3OHlzb25qbFptbG1iRElQR1lJSHRwVkdWWtIByAFBVV95cUxPUTNUdTlrdkdsSElfY2p3UldVbVg2MWtNWnRYZFNUejZaQ3lMaGdIQ0hxVXI0NGY4WlZqZGtMc3M2a0o2d1lfWEw4NTZkWHRIVnZ1aW5wcmRHeE0zSnRYNm5qUFBBcHRRTFdLLU5mZm8tWEg0cFlYWnAzMjNnWjg2WFppemp0T19DdW0wVXZKSGlYYTNPSWFidGpub3N1NE9GX1VaazNVODhFVm5mUHN3OHlzb25qbFptbG1iRElQR1lJSHRwVkdWWg?oc=5",
-   "published_utc": "2026-10-30T19:10:00Z",
-   "first_seen_utc": "2026-10-30T23:30:23Z"
-  },
-  {
-   "id": "gn:CBMi3gFBVV95cUxQekdjdk14bEEzMC0zNmtxaVIwVko3eFpLUTg5WVpHQUZocGNCWGRjVlo4b3RWOFJ2MFRiVWc2WmJ3c1lsRnA5QlBCZ050X1gwb24wMzVtZmJ4SVJDQThITzVrem5YU0ZfM2lQR0drekRhTXVhNEp0MVVtbkVnMmdQMGZMYXJZcEViNWNmRUd1YmJCMHQzM0xKYUNQT1g3OGVzcGkzRy15WDZWRTNUMHNJTU9jVG5FWjczZUdEOG1rZUhOX2xhMkVpTHRlM3dGVGRNU0E4dmdvXzg4c2RDd3fSAeMBQVVfeXFMT181cEN3SGZiTzF5RFQzXzNWTl83amZveno4RGRQZld4bC1uVXZUd2xJVDRhVURTM2Z0elBIcklQYy15c1NuYXFFNzFndF9uNzJFOTVOUFRtd1c2NzctQ3RqcU5lZGVHbGF2SnJCb2lQbFhKckp1RGxLNkpnbDhkNWdILUdzaTliWjJTZ0JJMzFkYUV6QjVZVTVUV1lYa0twaUcxYlM5NkxRRVVTRWtKRUdZbjg0cXgzejNBSnE0T0ZwTGR6ZTBlblBxc0RvNFQ0TW5iSVNHaFpSNWc2LWRQelVvb3M",
-   "kind": "news",
-   "lang": "es",
-   "title": "Terremoto en Panamá: Mulino anuncia 300 viviendas en Herrera y asistencia para Isla Cañas",
-   "source": "La Estrella de Panamá",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQekdjdk14bEEzMC0zNmtxaVIwVko3eFpLUTg5WVpHQUZocGNCWGRjVlo4b3RWOFJ2MFRiVWc2WmJ3c1lsRnA5QlBCZ050X1gwb24wMzVtZmJ4SVJDQThITzVrem5YU0ZfM2lQR0drekRhTXVhNEp0MVVtbkVnMmdQMGZMYXJZcEViNWNmRUd1YmJCMHQzM0xKYUNQT1g3OGVzcGkzRy15WDZWRTNUMHNJTU9jVG5FWjczZUdEOG1rZUhOX2xhMkVpTHRlM3dGVGRNU0E4dmdvXzg4c2RDd3fSAeMBQVVfeXFMT181cEN3SGZiTzF5RFQzXzNWTl83amZveno4RGRQZld4bC1uVXZUd2xJVDRhVURTM2Z0elBIcklQYy15c1NuYXFFNzFndF9uNzJFOTVOUFRtd1c2NzctQ3RqcU5lZGVHbGF2SnJCb2lQbFhKckp1RGxLNkpnbDhkNWdILUdzaTliWjJTZ0JJMzFkYUV6QjVZVTVUV1lYa0twaUcxYlM5NkxRRVVTRWtKRUdZbjg0cXgzejNBSnE0T0ZwTGR6ZTBlblBxc0RvNFQ0TW5iSVNHaFpSNWc2LWRQelVvb3M?oc=5",
-   "published_utc": "2026-10-30T18:59:19Z",
-   "first_seen_utc": "2026-10-30T19:55:52Z"
-  },
-  {
-   "id": "gn:CBMioAFBVV95cUxPOW1kZkpVdTROa0JTQWJlMlc4bGNmTDRaTDl5N0JIZ3RxNk1NV2pBbUZDZUoxeTJ6Vk9ucEk2OWEzU21nTzhabzdaSzNlQlA4TTB3S3RneU4tVWYwRUNuMllBTGdIeEk0d0NybUV5Nl9OOU9vd2J0dHhtNjF2NUNEN0lLZl82TDNjVE82c0RVX3I3TlJRYURXX2tXT2Y4VFcw",
-   "kind": "news",
-   "lang": "es",
-   "title": "Terremoto leve mag. 3.5 - Provincia de Herrera, 55 km al sureste de Santiago, Veraguas, Panamá, Friday 30 Oct 2026 a las 18:40 (Tiempo Universal)",
-   "source": "Volcano Discovery",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOW1kZkpVdTROa0JTQWJlMlc4bGNmTDRaTDl5N0JIZ3RxNk1NV2pBbUZDZUoxeTJ6Vk9ucEk2OWEzU21nTzhabzdaSzNlQlA4TTB3S3RneU4tVWYwRUNuMllBTGdIeEk0d0NybUV5Nl9OOU9vd2J0dHhtNjF2NUNEN0lLZl82TDNjVE82c0RVX3I3TlJRYURXX2tXT2Y4VFcw?oc=5",
-   "published_utc": "2026-10-30T18:49:08Z",
-   "first_seen_utc": "2026-10-30T23:30:23Z"
-  },
-  {
-   "id": "gn:CBMisAFBVV95cUxNUVNYVjBmRmdUUnNaTG5ORHdhQ0otTUU2NmcteWkxU19Ea0hCRDg5Nm9rV29zNVFZY3d4RktUVVM4UUhkNXdJSXBXVE1NQkxlWHlfdVhTelZiUi1wOENYeFpxZEpwNFhSNUJwNnZjbDMtMDNxejItd1JkS1ZUNjNValdyWmQxcy1PZi1kbDNJSkxpWkRpUEVTeG1haDI1MUtXN0VJWnJaWmpvNzRhM1J3UQ",
-   "kind": "news",
-   "lang": "es",
-   "title": "Panamá crea segundo fideicomiso para atender a damnificados por terremoto",
-   "source": "CRC 891",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUVNYVjBmRmdUUnNaTG5ORHdhQ0otTUU2NmcteWkxU19Ea0hCRDg5Nm9rV29zNVFZY3d4RktUVVM4UUhkNXdJSXBXVE1NQkxlWHlfdVhTelZiUi1wOENYeFpxZEpwNFhSNUJwNnZjbDMtMDNxejItd1JkS1ZUNjNValdyWmQxcy1PZi1kbDNJSkxpWkRpUEVTeG1haDI1MUtXN0VJWnJaWmpvNzRhM1J3UQ?oc=5",
-   "published_utc": "2026-10-30T18:32:18Z",
-   "first_seen_utc": "2026-10-30T23:30:23Z"
-  },
-  {
-   "id": "gn:CBMixwFBVV95cUxOSDhFVzNETGZLQlFfLTI1Tnd4UC0xaEFIOVhPZkFCczVBLWNEcGlyUWx0aU4zV2lSMmdEM0JBRUJhblVKd01fUk5jbUloQzBEYzJvWFZzZE5YR3kyNXVsUU9tWnJ0WVR2YmtfeGdGZTdraUhCMWlYWm5kZVdUSWZaMGxCd3p6Y0RJcXVkTUd4b3RjQ2pCeEZmVXlRQmNndGYtMUhYNDhUamdMOXNPZTdBQ1UtaWR3UkFPM1VrblBYWWExNndRdVFr0gHHAUFVX3lxTE5IOEVXM0RMZktCUV8tMjVOd3hQLTFoQUg5WE9mQUJzNUEtY0RwaXJRbHRpTjNXaVIyZ0QzQkFFQmFuVUp3TV9STmNtSWhDMERjMm9YVnNkTlhHeTI1dWxRT21acnRZVHZia194Z0ZlN2tpSEIxaVhabmRlV1RJZlowbEJ3enpjRElxdWRNR3hvdGNDakJ4RmZVeVFCY2d0Zi0xSFg0OFRqZ0w5c09lN0FDVS1pZHdSQU8zVWtuUFhZYTE2d1F1UWs",
-   "kind": "news",
-   "lang": "es",
-   "title": "Presidente Mulino supervisa construcción de viviendas de familias afectadas por el sismo",
-   "source": "Telemetro",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSDhFVzNETGZLQlFfLTI1Tnd4UC0xaEFIOVhPZkFCczVBLWNEcGlyUWx0aU4zV2lSMmdEM0JBRUJhblVKd01fUk5jbUloQzBEYzJvWFZzZE5YR3kyNXVsUU9tWnJ0WVR2YmtfeGdGZTdraUhCMWlYWm5kZVdUSWZaMGxCd3p6Y0RJcXVkTUd4b3RjQ2pCeEZmVXlRQmNndGYtMUhYNDhUamdMOXNPZTdBQ1UtaWR3UkFPM1VrblBYWWExNndRdVFr0gHHAUFVX3lxTE5IOEVXM0RMZktCUV8tMjVOd3hQLTFoQUg5WE9mQUJzNUEtY0RwaXJRbHRpTjNXaVIyZ0QzQkFFQmFuVUp3TV9STmNtSWhDMERjMm9YVnNkTlhHeTI1dWxRT21acnRZVHZia194Z0ZlN2tpSEIxaVhabmRlV1RJZlowbEJ3enpjRElxdWRNR3hvdGNDakJ4RmZVeVFCY2d0Zi0xSFg0OFRqZ0w5c09lN0FDVS1pZHdSQU8zVWtuUFhZYTE2d1F1UWs?oc=5",
-   "published_utc": "2026-10-30T18:23:00Z",
-   "first_seen_utc": "2026-10-30T19:55:52Z"
-  },
-  {
-   "id": "gn:CBMioAFBVV95cUxNZGd3MGtZV0dsZ2NoVDZiYXNmcjFwSm5QOFp3WU9jSm9ZQm8yS2FGeUZFdmczcEg0Z3pXcHB5V0tzZ1Jud05kVTFFQlJFU1NEN0NzbWh3anNiOGlUTDJnU3NNU0pTMjJzZ2V0VFJJNnpqZUFtQkF5OGNLM1ZlVGRsencxcF9xOXRNTDA4V0c1QWphWEtTRnlfWjd3allzSlBj",
-   "kind": "news",
-   "lang": "es",
-   "title": "Terremoto leve mag. 3.6 - Panama, Thursday 29 Oct 2026 a las 21:05 (GMT -5)",
-   "source": "Volcano Discovery",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZGd3MGtZV0dsZ2NoVDZiYXNmcjFwSm5QOFp3WU9jSm9ZQm8yS2FGeUZFdmczcEg0Z3pXcHB5V0tzZ1Jud05kVTFFQlJFU1NEN0NzbWh3anNiOGlUTDJnU3NNU0pTMjJzZ2V0VFJJNnpqZUFtQkF5OGNLM1ZlVGRsencxcF9xOXRNTDA4V0c1QWphWEtTRnlfWjd3allzSlBj?oc=5",
-   "published_utc": "2026-10-30T18:18:19Z",
-   "first_seen_utc": "2026-10-31T08:56:39Z"
-  },
-  {
-   "id": "gn:CBMiXkFVX3lxTE16MHNGRXZQcnJBTUdhaUppTkxCOG5rUUtJVWZnTmpfQ0xPVEQxUzNJSjRrMWJDV3dyZEp3a2xGbENySHYtU1RrMlF4dFJzSi01bmZ0eHZhckJ0enJzUlE",
-   "kind": "news",
-   "lang": "en",
-   "title": "Earthquakes Today: Latest Quakes Worldwide Past 30 Days",
-   "source": "Volcano Discovery",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE16MHNGRXZQcnJBTUdhaUppTkxCOG5rUUtJVWZnTmpfQ0xPVEQxUzNJSjRrMWJDV3dyZEp3a2xGbENySHYtU1RrMlF4dFJzSi01bmZ0eHZhckJ0enJzUlE?oc=5",
-   "published_utc": "2026-10-30T18:13:08Z",
-   "first_seen_utc": "2026-10-31T22:42:09Z"
-  },
-  {
-   "id": "gn:CBMiwgFBVV95cUxPeUROeV95Ym13UHhSYWhMR3hiNFlaMEdYVDYxTjZ4RnFvdWxydDN1QXJlUXpDQ0NyMUwzRnVyVkxfYm1WTnRCQzBTY1VCdDdxNndFeVAteVdQdE9zSWItUzRWUEpUcUhLU2hiM0t6V19Vbzg0WWZDUG1neEZsUU82MGpqdjZ1QjRrRGhDZnFxZkxrcTd5S1FUSXdJTENTYmtjQ25kdnZQcEZLbWxZdFdiZXlQcWJERmRoOEdiTGx6UllPUdIBxwFBVV95cUxOek9MMGQ3M2N2c2JjWGZkUnEwalc5ZWFZUHVncHdMekdUNlc5ckIzemwxSmZ5NWE1cE9MNDRZVnFGNlpsczFUT1F3cW00TWQwek0zQ2pOZ2lmT01xOXZZWTVHSlJzMzRWbGhoamJPcmxTOVJISDBOMHpUS3AyZWFpd3daOS1FdXlzeHNyb2N5S0poMExmdk1idGJEN2lNTVhZVW5MdWZWOENCM1JBZGtpWkY2ZGtkZjJoY3ZSY19fY1FxZzdSb2FF",
-   "kind": "news",
-   "lang": "es",
-   "title": "Unas 26 escuelas de Herrera serán demolidas tras daños ocasionados por el terremoto",
-   "source": "Día a Día",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeUROeV95Ym13UHhSYWhMR3hiNFlaMEdYVDYxTjZ4RnFvdWxydDN1QXJlUXpDQ0NyMUwzRnVyVkxfYm1WTnRCQzBTY1VCdDdxNndFeVAteVdQdE9zSWItUzRWUEpUcUhLU2hiM0t6V19Vbzg0WWZDUG1neEZsUU82MGpqdjZ1QjRrRGhDZnFxZkxrcTd5S1FUSXdJTENTYmtjQ25kdnZQcEZLbWxZdFdiZXlQcWJERmRoOEdiTGx6UllPUdIBxwFBVV95cUxOek9MMGQ3M2N2c2JjWGZkUnEwalc5ZWFZUHVncHdMekdUNlc5ckIzemwxSmZ5NWE1cE9MNDRZVnFGNlpsczFUT1F3cW00TWQwek0zQ2pOZ2lmT01xOXZZWTVHSlJzMzRWbGhoamJPcmxTOVJISDBOMHpUS3AyZWFpd3daOS1FdXlzeHNyb2N5S0poMExmdk1idGJEN2lNTVhZVW5MdWZWOENCM1JBZGtpWkY2ZGtkZjJoY3ZSY19fY1FxZzdSb2FF?oc=5",
-   "published_utc": "2026-10-30T18:02:00Z",
-   "first_seen_utc": "2026-10-31T02:43:28Z"
-  },
-  {
-   "id": "gn:CBMi1gFBVV95cUxNTnl1dEtoN2c2dGRfeVRmQy1YVndLcEF3OGFpb19YU3FMTlZZRENuQ2hHb1hkYm9pZElqMklabUxYczR6V2k4eHJtVnZoODRMLXhtN0x6X21BZVcwc1VMMFdFMGZLLXhQVXVfa2NGbmF6QXJXLWZCWHZ1SUVGZTFRdFpjNXBZeXQ5RUd4RGM3S1l5TDRSX2VSWDJlNmIxaFoyeU9SLU1Kdkt1MVZ0aFdab2l4LXpiQjNtY1c5dHloaHdyZ0Y5a1FWREJubHpPa0ZHUzMxV3V30gHbAUFVX3lxTE43SWdTa29GanFqWUpsMHEwUnQ4VUZYUllCR09lN29fMGJMLS05ZXR4Nld6T3pEVjNld0RDRUppdmh3M3RMTzhIdzhEQ1JUM3BZa1lqUnZLUGZyaFFCSV9DSF9QZy1GMmM1dFVOZExFNVVaRkJ3bGE1akFsQWZCb0xob2N2dUUzQU9Fb0E2cFczNXRsTWtYQ0JrMjgyMkFuVlJsam9oN1JZSXNWNjRBSkdzcGEzcThUazI5UC00R1NyVDZlVnk1Q0NsOF9SZDZEcW9mbXhMZHhaamM2OA",
-   "kind": "news",
-   "lang": "es",
-   "title": "¿Cómo activar la alerta de sismos de Google en Panamá? Conozca cómo funciona",
-   "source": "La Estrella de Panamá",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTnl1dEtoN2c2dGRfeVRmQy1YVndLcEF3OGFpb19YU3FMTlZZRENuQ2hHb1hkYm9pZElqMklabUxYczR6V2k4eHJtVnZoODRMLXhtN0x6X21BZVcwc1VMMFdFMGZLLXhQVXVfa2NGbmF6QXJXLWZCWHZ1SUVGZTFRdFpjNXBZeXQ5RUd4RGM3S1l5TDRSX2VSWDJlNmIxaFoyeU9SLU1Kdkt1MVZ0aFdab2l4LXpiQjNtY1c5dHloaHdyZ0Y5a1FWREJubHpPa0ZHUzMxV3V30gHbAUFVX3lxTE43SWdTa29GanFqWUpsMHEwUnQ4VUZYUllCR09lN29fMGJMLS05ZXR4Nld6T3pEVjNld0RDRUppdmh3M3RMTzhIdzhEQ1JUM3BZa1lqUnZLUGZyaFFCSV9DSF9QZy1GMmM1dFVOZExFNVVaRkJ3bGE1akFsQWZCb0xob2N2dUUzQU9Fb0E2cFczNXRsTWtYQ0JrMjgyMkFuVlJsam9oN1JZSXNWNjRBSkdzcGEzcThUazI5UC00R1NyVDZlVnk1Q0NsOF9SZDZEcW9mbXhMZHhaamM2OA?oc=5",
-   "published_utc": "2026-10-30T17:47:00Z",
-   "first_seen_utc": "2026-10-30T23:30:23Z"
-  },
-  {
-   "id": "gn:CBMiwgFBVV95cUxOVzVfbUxRbmxNalFkTE9yOHo2d01GSnczT2pYeFh4TDd6RW5XXy1ycXFBYUd0c2xsSWtLajJrWEhpaUVEOTlhVlhfaWswS1ppVXBIYUJzd0FhLXpqS3V0Y0kycjBtNEJVTjNlbVRjWjUtY3lxTHA4VTh6b1FZSW9fblU4bkRjNDNhWHJvUWluMWdsWVBmU0JFSXpnUUNJekl0b01pNjJiRUNWM2VWWU9MQ3FoekpRTWpWTjZobDI2ZGdqd9IBxwFBVV95cUxQUExWeWhzUy02TW9CcFlKTGtidy1qS3FIaksxazlRdDBrS0VHa3dYdk9yckFta1ljcGdxUDJ3UDI3R1U1czhaal9zNmMxa1V1QzQyb0M1QlU2NjFBZUVabUpsSjdiUERUZWFUc2JRV2RhRmt6MWtXRl9HSjQxdWp3RlhIRXFEM1JMZ1BDN1ctRTBRQkxjOEF0b0hxWkw4czlsY01zWWhMcnJfNlQwenhFWmpKMm1xZ3JUNzNtdjJvRGlVLTJrb21j",
-   "kind": "news",
-   "lang": "es",
-   "title": "\"La tierra se partió\": impactante video muestra cómo vivieron el terremoto en Panamá",
-   "source": "Telemetro",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVzVfbUxRbmxNalFkTE9yOHo2d01GSnczT2pYeFh4TDd6RW5XXy1ycXFBYUd0c2xsSWtLajJrWEhpaUVEOTlhVlhfaWswS1ppVXBIYUJzd0FhLXpqS3V0Y0kycjBtNEJVTjNlbVRjWjUtY3lxTHA4VTh6b1FZSW9fblU4bkRjNDNhWHJvUWluMWdsWVBmU0JFSXpnUUNJekl0b01pNjJiRUNWM2VWWU9MQ3FoekpRTWpWTjZobDI2ZGdqd9IBxwFBVV95cUxQUExWeWhzUy02TW9CcFlKTGtidy1qS3FIaksxazlRdDBrS0VHa3dYdk9yckFta1ljcGdxUDJ3UDI3R1U1czhaal9zNmMxa1V1QzQyb0M1QlU2NjFBZUVabUpsSjdiUERUZWFUc2JRV2RhRmt6MWtXRl9HSjQxdWp3RlhIRXFEM1JMZ1BDN1ctRTBRQkxjOEF0b0hxWkw4czlsY01zWWhMcnJfNlQwenhFWmpKMm1xZ3JUNzNtdjJvRGlVLTJrb21j?oc=5",
-   "published_utc": "2026-10-30T17:17:00Z",
-   "first_seen_utc": "2026-10-30T19:55:52Z"
-  },
-  {
-   "id": "gn:CBMinwFBVV95cUxQckN1a2o3dUk2ZEtfc016NEZ5aE1VOXM3QXk3SXdCei1vajFKcklRRVlzenZReUlOTGpiLVRNb1dwdnhESm9RQWgwTXdSZGk0a2U1c3plUVlQVHN5RkwweXpuQ3V5ZlpRMV85SVZ4SnBKWUdHUXBDaWxCV0RFcXZQakJ1Uks5RFNXdEZ3MWxRRmRwZGtGaVNDMENVTm1CQVk",
-   "kind": "news",
-   "lang": "en",
-   "title": "Light mag. 3.5 earthquake - 51 km southwest of Las Tablas, Provincia de Los Santos, Panama, on Friday, Oct 30, 2026, at 12:36 am (GMT -5)",
-   "source": "Volcano Discovery",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQckN1a2o3dUk2ZEtfc016NEZ5aE1VOXM3QXk3SXdCei1vajFKcklRRVlzenZReUlOTGpiLVRNb1dwdnhESm9RQWgwTXdSZGk0a2U1c3plUVlQVHN5RkwweXpuQ3V5ZlpRMV85SVZ4SnBKWUdHUXBDaWxCV0RFcXZQakJ1Uks5RFNXdEZ3MWxRRmRwZGtGaVNDMENVTm1CQVk?oc=5",
-   "published_utc": "2026-10-30T17:10:45Z",
-   "first_seen_utc": "2026-10-30T19:55:52Z"
-  },
-  {
-   "id": "gn:CBMioAFBVV95cUxOYWZ1YWkwaXdEdDg3cDlSaEtCMlFGcERkTVVTSVhRcFJJVGVDWmNnZDBpNTgwS2I3blNGS0V3TmZEZGpDYkpldTIxbVg0blpJUGlTT0hiT1pYNnluSU13djBGV0NqZVlydG9kSXNMbnBlZXdWc3hEYWd0ZTNkV2NqMXoyYnM5SDRhcGwxemNBc1VlVlVMTlFJQ2hwbl9Dem9m",
-   "kind": "news",
-   "lang": "es",
-   "title": "Terremoto leve mag. 3.5 - Océano Pacífico Norte, 60 km al sur de Las Tablas, Los Santos, Panamá, Friday 30 Oct 2026 a las 11:41 (GMT -5)",
-   "source": "Volcano Discovery",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYWZ1YWkwaXdEdDg3cDlSaEtCMlFGcERkTVVTSVhRcFJJVGVDWmNnZDBpNTgwS2I3blNGS0V3TmZEZGpDYkpldTIxbVg0blpJUGlTT0hiT1pYNnluSU13djBGV0NqZVlydG9kSXNMbnBlZXdWc3hEYWd0ZTNkV2NqMXoyYnM5SDRhcGwxemNBc1VlVlVMTlFJQ2hwbl9Dem9m?oc=5",
-   "published_utc": "2026-10-30T16:53:18Z",
-   "first_seen_utc": "2026-10-30T19:55:52Z"
-  },
-  {
-   "id": "gn:CBMixgFBVV95cUxNWG5ZajctOTNWU0lCR1dhQ3oxY0xOV2Y4aUEtSXRPeTdlbWplYUdhWG9qMHY3WnAxWFFLUFRpeXFsQWI1cmdvZkJvX2tnYzF2aUNXMFktMFJoazNSVVRJWmhZX2wyRGFIc0ZkWmg0MU5tSE5qaTFNM1A5TEMxOUFsWmhJZFZQNTk5ZVo1V0lWc1NqVlREZ0VGMWZOdGl6dzU0NEZRWjd6VllFSXNWQWp5bC1iRW1YRTRvRGVkRGdLbGE4bDUzbGfSAcsBQVVfeXFMUGtVaDNvSElCRzR2Zm96cl8zeGdaUTk4bExha19SMERkUm9ia3liRzczU09SMFhMV1YyYmFMbFZHbGdVdktESkV1cW0zTzVFcHRfaUtHbVM1WkpLUGtfVjFDSHRNT0N1a05WcnJTemNOOXZ1LS1ra1VLc1J0NjF0V3NKN182U25vZHU3eVVBbzFjY3NRaGlPUXVXOEZ2S1pWWVNTZXNmRnJXb0NsVGZmS3FYN1RrTV9RV3EtRXNRcHZtOXVvcUpSNFFGc2M",
-   "kind": "news",
-   "lang": "es",
-   "title": "Mulino supervisa construcción de viviendas para damnificados por terremoto en Veraguas y Herrera",
-   "source": "Telemetro",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWG5ZajctOTNWU0lCR1dhQ3oxY0xOV2Y4aUEtSXRPeTdlbWplYUdhWG9qMHY3WnAxWFFLUFRpeXFsQWI1cmdvZkJvX2tnYzF2aUNXMFktMFJoazNSVVRJWmhZX2wyRGFIc0ZkWmg0MU5tSE5qaTFNM1A5TEMxOUFsWmhJZFZQNTk5ZVo1V0lWc1NqVlREZ0VGMWZOdGl6dzU0NEZRWjd6VllFSXNWQWp5bC1iRW1YRTRvRGVkRGdLbGE4bDUzbGfSAcsBQVVfeXFMUGtVaDNvSElCRzR2Zm96cl8zeGdaUTk4bExha19SMERkUm9ia3liRzczU09SMFhMV1YyYmFMbFZHbGdVdktESkV1cW0zTzVFcHRfaUtHbVM1WkpLUGtfVjFDSHRNT0N1a05WcnJTemNOOXZ1LS1ra1VLc1J0NjF0V3NKN182U25vZHU3eVVBbzFjY3NRaGlPUXVXOEZ2S1pWWVNTZXNmRnJXb0NsVGZmS3FYN1RrTV9RV3EtRXNRcHZtOXVvcUpSNFFGc2M?oc=5",
-   "published_utc": "2026-10-30T16:34:00Z",
-   "first_seen_utc": "2026-10-30T19:55:52Z"
-  },
-  {
-   "id": "gn:CBMi3gFBVV95cUxQUXUzT1dVSjJMbGtFWFc2Z1BBak9kWTJDMEVLTkpMSDRpbFgycmJrbW9sb0tUUWN1OWJVT2JmLWFlcUdUZVJUM05yUE5idmFaUG16M05SNWNPM20zRWRwWFVXQ2Q1X3lQRklCM1JWSnFkbDlCYmdNVFpLdTFIZmhoVVZpc1dXVFBsRm1VQTU2RkEyay1WY0tTYzJjUlhqSzExNkdRX3FUb2tGeVNEUGZnREw5c2p4V19tdzFwRERWSHBkcWstaWthZU43RHZyMVpUOFZtMHNGSDIwSjRuZ0E",
-   "kind": "news",
-   "lang": "es",
-   "title": "Presidente Mulino regresa con respuestas y ayuda a las zonas afectadas por sismo en Veraguas y Herrera",
-   "source": "Presidencia de Panamá",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUXUzT1dVSjJMbGtFWFc2Z1BBak9kWTJDMEVLTkpMSDRpbFgycmJrbW9sb0tUUWN1OWJVT2JmLWFlcUdUZVJUM05yUE5idmFaUG16M05SNWNPM20zRWRwWFVXQ2Q1X3lQRklCM1JWSnFkbDlCYmdNVFpLdTFIZmhoVVZpc1dXVFBsRm1VQTU2RkEyay1WY0tTYzJjUlhqSzExNkdRX3FUb2tGeVNEUGZnREw5c2p4V19tdzFwRERWSHBkcWstaWthZU43RHZyMVpUOFZtMHNGSDIwSjRuZ0E?oc=5",
-   "published_utc": "2026-10-30T16:25:16Z",
-   "first_seen_utc": "2026-10-30T23:30:23Z"
   }
  ]
 }
