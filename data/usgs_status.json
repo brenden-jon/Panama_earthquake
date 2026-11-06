@@ -1,5 +1,5 @@
 {
- "checked_utc": "2026-11-06T06:47:00Z",
+ "checked_utc": "2026-11-06T14:49:53Z",
  "mag": 7.7,
  "alert": "orange",
  "mmi": 8.112,
@@ -11,12 +11,5 @@
   "dyfi": 1791840896226
  },
  "pinned": true,
- "gdacs": [
-  {
-   "alert": "Orange",
-   "name": "Earthquake in Panama",
-   "url": "https://www.gdacs.org/report.aspx?eventid=1570339&episodeid=1738684&eventtype=EQ",
-   "severity": "Magnitude 7.7M, Depth:12.647km"
-  }
- ]
+ "gdacs": []
 }
