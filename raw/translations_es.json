@@ -706,6 +706,68 @@
   "u202610302000_14": {
    "title": "Moody's: costo fiscal acotado (~US$100 millones, ~0.1% del PIB); sin impacto en la calificación",
    "summary": "El analista principal de Moody's para Panamá dijo que el costo fiscal es acotado, con base en necesidades de gasto del MEF de hasta ~US$100 millones (~0.1% del PIB), y no prevé un efecto significativo en la calificación Baa3 (negativa); revisión prevista en noviembre."
+  },
+  "u202611101400_1": {
+   "title": "Al mes: 62,665 personas afectadas; 2,731 siguen en 100 albergues",
+   "summary": "Comunicado #30 del SINAPROC (al 8 de noviembre): 19,666 familias (62,665 personas) afectadas; 2,731 personas (765 familias) siguen en 100 albergues; el COE atendió 13,259 reportes de daños estructurales en 30 días; se entregaron 6,544 kits de higiene y 6,428 colchones."
+  },
+  "u202611101400_2": {
+   "title": "COE: 19,865 viviendas evaluadas, 4,633 con daño total",
+   "summary": "Balance del COE al 2 de noviembre: 19,865 viviendas evaluadas: 4,633 con daño total, 11,107 moderado o parcial y 4,125 leve; 63,767 personas inspeccionadas; 3,356 personas en 113 albergues (Veraguas 1,635, Los Santos 1,153, Herrera 359)."
+  },
+  "u202611101400_3": {
+   "title": "Réplicas M5.8 y M5.9 cerca de Tonosí el 31 de octubre; Cañas sin electricidad",
+   "summary": "Dos réplicas de M5.8 y M5.9 sacudieron cerca de Tonosí el 31 de octubre; el SINAPROC reportó posibles daños adicionales en viviendas ya afectadas, sin heridos; Cañas quedó sin luz ni señal celular; el MOP no halló nuevos daños en vías ni puentes. El 6 de noviembre siguió otra réplica M5.0 al este de Tonosí."
+  },
+  "u202611101400_4": {
+   "title": "IGC-UP: 1,483 réplicas y 12,251 deslizamientos; la tasa de réplicas cae ~80%",
+   "summary": "Actualización al mes del Instituto de Geociencias de la Universidad de Panamá: 1,483 réplicas localizadas; el promedio diario bajó de 102 en la primera semana a 21 en la última; 12,251 deslizamientos cartografiados con imágenes Sentinel-2 (6,086 en la zona epicentral), concentrados en Torio, La Cabuya, Los Planes y el oeste de Veraguas."
+  },
+  "u202611101400_5": {
+   "title": "Aseguradoras: 6,453 reclamos y B/.108.7 millones en reservas",
+   "summary": "La Asociación Panameña de Aseguradores (APADEA, 19 aseguradoras) reporta 6,453 reclamos por daños del sismo y reservas preliminares de B/.108.7 millones al 31 de octubre; las cifras cambiarán con las inspecciones."
+  },
+  "u202611101400_6": {
+   "title": "Gobierno: más de 300 viviendas en construcción, 1,200 empleos y 'sin techo fiscal' para la reconstrucción",
+   "summary": "Balance al mes: 3,500 soluciones habitacionales previstas (nuevas, reconstruidas o reparadas); 311 viviendas en demolición, remoción de escombros o construcción (Los Santos 92, Chiriquí 85, Coclé 67, Herrera 29, Veraguas 38); primera vivienda reconstruida entregada en Quebrada Grande (Soná); 1,200 empleos; la asignación de emergencia de US$100 millones podría aumentar; plazo para viviendas de reemplazo: 31 de marzo de 2027."
+  },
+  "u202611101400_7": {
+   "title": "MEF: menos de US$20 millones desembolsados; solicitudes cerca de US$80 millones",
+   "summary": "El ministro de Economía, Felipe Chapman, dijo que los desembolsos del fideicomiso de emergencia de US$100 millones en el Banco Nacional no superan unos US$20 millones, mientras las solicitudes (sobre todo del MIVIOT y el MOP) se acercan a US$80 millones; los fondos se liberan según avanzan las obras. El Banco Nacional paga a los contratistas por cada cinco viviendas construidas."
+  },
+  "u202611101400_8": {
+   "title": "Foto: Tonosí — 1,600 estructuras afectadas, ~110 viviendas por demoler",
+   "summary": "Secretario Icaza: más de 1,600 estructuras afectadas en Tonosí; de ~1,000 viviendas evaluadas, ~110 deberán demolerse y reconstruirse y ~600 repararse. La remoción de escombros empezó en el Hotel El Valle y el centro comercial de Tonosí; la vía a Búcaro tiene un desnivel de ~2 m y debe rediseñarse; se prepara el terreno para un hospital modular.",
+   "image_caption": "Remoción de un edificio colapsado en el centro de Tonosí"
+  },
+  "u202611101400_9": {
+   "title": "Foto: inicia la demolición de escuelas dañadas en Coclé",
+   "summary": "El MEDUCA comenzó a demoler escuelas con daño estructural en Coclé, empezando por la Escuela Bilingüe Sagrejá (Toabré), San Isidro y El Potrero (La Pintada); cinco escuelas de Coclé serán demolidas y reconstruidas para 2027. A nivel nacional, 1,342 de 2,000 escuelas inspeccionadas operan; 27 escuelas en Bocas del Toro, Chiriquí y Ngäbe-Buglé reabren el 11 de noviembre.",
+   "image_caption": "Retroexcavadora demuele una escuela dañada en Coclé"
+  },
+  "u202611101400_10": {
+   "title": "UNICEF: 90,000 estudiantes afectados; 15,000 niños con impactos severos",
+   "summary": "UNICEF: más de 90,000 estudiantes afectados directamente y al menos 15,000 niños, niñas y adolescentes con impactos severos; 11 espacios temporales de aprendizaje para ~3,000 estudiantes en Veraguas, Herrera y Los Santos; agua y saneamiento para 343 desplazados de Isla Cañas; un caso de hantavirus en Los Santos."
+  },
+  "u202611101400_11": {
+   "title": "MICI: 73 empresas reportan pérdidas; 12 recortaron personal",
+   "summary": "El MICI con CONEP y Fedecámaras: 73 de 370 empresas contactadas (de 454 en zonas afectadas) reportan daños estructurales, menores ventas o paros; 12 empresas recortaron personal, afectando a 31 trabajadores; 25 casos prioritarios requieren apoyo técnico o financiero; el informe irá al Consejo de Gabinete."
+  },
+  "u202611101400_12": {
+   "title": "Colón: más de 200 familias serán reubicadas en Alto de los Lagos",
+   "summary": "Más de 200 familias del centro de Colón cuyos edificios se agrietaron por el sismo esperan ser reubicadas en el proyecto Alto de los Lagos entre noviembre y diciembre; los edificios desocupados serán demolidos o cerrados."
+  },
+  "u202611101400_13": {
+   "title": "Mulino compromete fondos para un sistema de alerta sísmica; el USGS estudiará las fallas",
+   "summary": "El presidente Mulino dijo que el Gobierno pagará un sistema de alerta temprana de sismos (el IGC-UP estima US$1.5–3 millones) y Panamá se sumará a las alertas sísmicas de Android; se reforzaron los presupuestos 2027 del SINAPROC y el IGC-UP. El USGS enviará unos cinco especialistas en fallas para estudiar el sistema Azuero–Soná."
+  },
+  "u202611101400_14": {
+   "title": "M3.9 cerca de Arraiján en la falla de Pedro Miguel; evacúan brevemente el Metro",
+   "summary": "Un sismo M3.9 a ~4 km al noroeste de Arraiján (5 km de profundidad) el 4 de noviembre se sintió en la Ciudad de Panamá; el Metro evacuó estaciones de forma preventiva. El IGC-UP lo vincula a la falla de Pedro Miguel (79 eventos desde 2019), no a las réplicas de Azuero. Sin daños."
+  },
+  "u202611101400_15": {
+   "title": "Tercera muerte: mujer de 86 años atendida desde el 14 de octubre",
+   "summary": "La Caja de Seguro Social confirmó que una mujer de 86 años que recibía atención especializada en la Ciudad de la Salud desde el 14 de octubre falleció el 30 de octubre, con lo que suben a tres las muertes asociadas al terremoto."
   }
  },
  "official_notes": {
@@ -726,7 +788,9 @@
   "2026-10-21T23:00:00Z": "Balance de SINAPROC (18:00, miércoles 21 oct): 11.321 viviendas evaluadas: 2.890 pérdida total, 6.874 daño moderado o parcial, 1.557 leve (Los Santos 5.060 y Herrera 3.267 evaluadas); 37.210 personas registradas en las evaluaciones de daños y necesidades (EDAN); 5.628 personas (1.051 familias) en 126 albergues, 3.531 de ellas en Veraguas; 27 heridos; 2 fallecidos; 47 puntos críticos y 23 puentes por rehabilitar; el IMA entregó 58.909 bolsas de comida a 750 comunidades.",
   "2026-10-22T23:30:00Z": "Informe del Gobierno (18:30, jueves 22 oct, ministro J. R. Icaza y director de SINAPROC Omar Smith): 12.333 viviendas afectadas con 40.791 residentes; 3.129 viviendas con daño total; 6.654 personas en 122 albergues; 576 escuelas afectadas; 775 comunidades asistidas en cinco provincias. Fallecidas: Elena Barría (68, Macaracas, murió el 14 oct) y Regina Miranda (60, secretaria de una escuela en Santiago, herida al evacuar, murió el 22 oct); La Prensa contabiliza una tercera muerte de una persona con condiciones preexistentes. Las viviendas se marcan en verde (segura), amarillo (acceso restringido, requiere reparación) o rojo (inhabitable); hay un mapa público en panamaconecta.gob.pa. Instalaciones de salud (42), edificios públicos (87) e iglesias (44 oficiales; más de 100 según la Iglesia católica) de informes anteriores; puentes = 23 por rehabilitar (SINAPROC 21 oct).",
   "2026-10-25T23:00:00Z": "Balance del COE del 9 al 24 de octubre (publicado el 25 oct): 13.985 viviendas evaluadas: 3.390 con daño total, 7.883 moderado o parcial, 1.869 leve; 5.779 personas en 154 albergues activos (Los Santos 1.143 en 36; Herrera 675 en 39; la mayoría del resto en Veraguas); 27 heridos; 853 escuelas y 120 centros de salud inspeccionados; ayuda alimentaria del IMA a 1.304 comunidades. Fallecidos (2) según el MINSA; personas afectadas (40.791) del informe del 22 oct, no actualizadas en este balance. Chiriquí: más de 300 viviendas afectadas y ~1.200 personas afectadas (TVN, 26 oct).",
-  "2026-10-29T02:00:00Z": "Informe preliminar del SINAPROC al 28 de octubre: 17,048 viviendas evaluadas; 55,212 personas registradas en comunidades afectadas; 4,428 personas en 135 albergues; 2 fallecidos y 27 lesionados; daños en 619 escuelas, 120 instalaciones de salud, 127 edificios de gobierno, 44 iglesias y 22 puentes; 66 reportes de daños en vías en verificación; entre los afectados, 166 embarazadas y 2,242 personas con discapacidad. Las viviendas con daño total (3,390) provienen del balance del COE del 24 de octubre; el SINAPROC no actualizó esta cifra. Corte anterior (27 oct, TVN): 16,302 viviendas, 52,874 personas y 4,501 en 141 albergues."
+  "2026-10-29T02:00:00Z": "Informe preliminar del SINAPROC al 28 de octubre: 17,048 viviendas evaluadas; 55,212 personas registradas en comunidades afectadas; 4,428 personas en 135 albergues; 2 fallecidos y 27 lesionados; daños en 619 escuelas, 120 instalaciones de salud, 127 edificios de gobierno, 44 iglesias y 22 puentes; 66 reportes de daños en vías en verificación; entre los afectados, 166 embarazadas y 2,242 personas con discapacidad. Las viviendas con daño total (3,390) provienen del balance del COE del 24 de octubre; el SINAPROC no actualizó esta cifra. Corte anterior (27 oct, TVN): 16,302 viviendas, 52,874 personas y 4,501 en 141 albergues.",
+  "2026-11-03T02:00:00Z": "Balance del COE al 2 de noviembre: 19,865 viviendas evaluadas: 4,633 con daño total, 11,107 con daño moderado o parcial y 4,125 leve; 63,767 personas inspeccionadas en diez provincias y la comarca Ngäbe-Buglé; 3,356 personas (886 familias) en 113 albergues: Veraguas 1,635, Los Santos 1,153, Herrera 359, Ngäbe-Buglé 129, Coclé 66, Chiriquí 14. Tercera muerte: una mujer de 86 años atendida desde el 14 de octubre falleció en la Ciudad de la Salud el 30 de octubre (confirmado por la CSS). Las cifras de infraestructura son del informe del SINAPROC del 28 de octubre.",
+  "2026-11-09T03:00:00Z": "Comunicado #30 del SINAPROC (al 8 de noviembre): 19,666 familias (62,665 personas) afectadas; 2,731 personas (765 familias) en 100 albergues administrados por el MIDES; entre los afectados, 2,781 personas con discapacidad y 202 embarazadas. Viviendas: el último desglose es el balance del COE al 2 de noviembre (19,865 evaluadas, 4,633 con daño total). El MIVIOT reporta 16,106 viviendas con evaluación técnica (5,871 pérdida total, 10,235 parcial) y un acumulado de 40,720 viviendas con daños reportados, cifra no conciliada con la del COE. Fallecidos (3) según la conferencia de prensa del Gobierno al mes del sismo (9 de noviembre)."
  },
  "conflicts": [
   "Magnitud: USGS M7,7 (inicialmente 8,0, luego 7,6), profundidad de 12,6 km; IGC-UP M7,2 (inicialmente 7,0), profundidad de 4–10 km, ubicado a 39 km al O/NO de Tonosí; SGC de Colombia, 7,3 y luego 8,0.",
@@ -741,7 +805,8 @@
   "ShakeMap del USGS: la versión 10 (automática, 12 oct 19:54 UTC) recalibra el modelo con reportes de '¿Lo sintió?' y reduce fuertemente las intensidades (epicentro ~VI, Los Pozos ~V–VI, Soná ~III; personas en MMI VII+ de ~550.000 a ~60.000). Esto contradice los daños observados (más de 300 viviendas colapsadas en Los Pozos, torres de iglesias caídas, escuelas destruidas), por lo que esta plataforma mantiene el ShakeMap anterior (v8) para su análisis de exposición y pobreza hasta que el USGS revise el mapa.",
   "Las cifras de vivienda difieren según la fuente y el método: conteos de campo de SINAPROC (1.287 viviendas el 12 oct), autorregistro en la plataforma Panamá Conecta (3.300 al 14 oct, más de 8.000 reportes al 20 oct), MIVIOT (más de 6.400 viviendas) y evaluaciones técnicas del COE (9.124 evaluadas con 2.318 de daño total al 19 oct; 10.100 evaluadas con más de 3.000 en rojo al 20 oct). Esta plataforma muestra las últimas cifras de evaluación del COE.",
   "Fallecidos: el MINSA confirma dos muertes por trauma directo (Elena Barría, 14 oct; Regina Miranda, 22 oct); La Prensa reporta tres, incluida una persona con condiciones preexistentes cuya salud empeoró durante el sismo.",
-  "Costo de los daños: Moody's (28 oct) cita necesidades de gasto del MEF de hasta ~US$100 millones (~0.1% del PIB) y no prevé impacto relevante en la calificación; el Gobierno dijo antes que los daños están 'lejos' del umbral de US$450 millones del Fondo de Ahorro de Panamá. Estas cifras excluyen pérdidas privadas y no son una evaluación completa de daños; los costos del MOP en vías y puentes siguen pendientes."
+  "Costo de los daños: Moody's (28 oct) cita necesidades de gasto del MEF de hasta ~US$100 millones (~0.1% del PIB) y no prevé impacto relevante en la calificación; el Gobierno dijo antes que los daños están 'lejos' del umbral de US$450 millones del Fondo de Ahorro de Panamá. Estas cifras excluyen pérdidas privadas y no son una evaluación completa de daños; los costos del MOP en vías y puentes siguen pendientes.",
+  "Fallecidos: la Caja de Seguro Social (CSS) confirmó una tercera muerte el 30 de octubre (una mujer de 86 años atendida en la Ciudad de la Salud desde el 14 de octubre), y la conferencia del Gobierno al mes del sismo reporta 3 fallecidos; el conteo anterior del Minsa era 2. Albergues: SINAPROC/MIDES reportan 2,731 personas en 100 albergues (8 nov), mientras UNICEF y algunos medios citan 4,478 personas en 120 albergues (cifra anterior). Viviendas: COE 19,865 evaluadas con 4,633 de daño total (2 nov); MIVIOT 16,106 con evaluación técnica, 5,871 de pérdida total y 40,720 viviendas con daños reportados."
  ],
  "source_hashes": {}
 }

@@ -1,14 +1,14 @@
 {
- "generated_utc": "2026-11-10T10:58:13Z",
+ "generated_utc": "2026-11-10T16:56:16Z",
  "official_latest": {
-  "as_of_utc": "2026-10-29T02:00:00Z",
-  "deaths": 2,
+  "as_of_utc": "2026-11-09T03:00:00Z",
+  "deaths": 3,
   "injured": 27,
   "missing": 0,
-  "displaced": 4428,
-  "homes_damaged": 17048,
-  "homes_destroyed": 3390,
-  "affected_people": 55212,
+  "displaced": 2731,
+  "homes_damaged": 19865,
+  "homes_destroyed": 4633,
+  "affected_people": 62665,
   "infrastructure": {
    "schools": 619,
    "health_facilities": 120,
@@ -16,10 +16,10 @@
    "churches": 44,
    "bridges": 22
   },
-  "source_name": "SINAPROC preliminary report, cut-off 28 Oct (via La Estrella de Panamá)",
-  "url": "https://www.laestrella.com.pa/panama/nacional/sinaproc-actualiza-cifras-de-afectados-por-el-sismo-del-9-de-octubre-DM26917127",
-  "note": "SINAPROC preliminary report to 28 Oct: 17,048 homes evaluated; 55,212 people registered in affected communities; 4,428 people in 135 shelters; 2 deaths, 27 injured; 619 schools, 120 health facilities, 127 government buildings, 44 churches and 22 bridges damaged; 66 road-damage reports being verified; 166 pregnant women and 2,242 people with disabilities among those affected. Homes with total damage (3,390) are from the COE balance of 24 Oct; SINAPROC did not update this figure. Previous cut-off (27 Oct, TVN): 16,302 homes, 52,874 people, 4,501 in 141 shelters.",
-  "note_es": "Informe preliminar del SINAPROC al 28 de octubre: 17,048 viviendas evaluadas; 55,212 personas registradas en comunidades afectadas; 4,428 personas en 135 albergues; 2 fallecidos y 27 lesionados; daños en 619 escuelas, 120 instalaciones de salud, 127 edificios de gobierno, 44 iglesias y 22 puentes; 66 reportes de daños en vías en verificación; entre los afectados, 166 embarazadas y 2,242 personas con discapacidad. Las viviendas con daño total (3,390) provienen del balance del COE del 24 de octubre; el SINAPROC no actualizó esta cifra. Corte anterior (27 oct, TVN): 16,302 viviendas, 52,874 personas y 4,501 en 141 albergues."
+  "source_name": "SINAPROC Comunicado #30, to 8 Nov (via La Estrella de Panamá); one-month Government briefing",
+  "url": "https://www.laestrella.com.pa/panama/nacional/un-mes-del-sismo-62665-personas-afectadas-y-solo-2731-en-albergues-temporales-PG27216669",
+  "note": "SINAPROC Comunicado #30 (to 8 Nov): 19,666 families (62,665 people) affected; 2,731 people (765 families) in 100 shelters run by MIDES; 2,781 people with disabilities and 202 pregnant women among those affected. Homes: latest split is the COE balance to 2 Nov (19,865 evaluated, 4,633 total damage). MIVIOT reports 16,106 homes technically evaluated (5,871 total loss, 10,235 partial) and a cumulative 40,720 homes with damage reported, which is not reconciled with the COE count. Deaths (3) from the one-month Government briefing (9 Nov).",
+  "note_es": "Comunicado #30 del SINAPROC (al 8 de noviembre): 19,666 familias (62,665 personas) afectadas; 2,731 personas (765 familias) en 100 albergues administrados por el MIDES; entre los afectados, 2,781 personas con discapacidad y 202 embarazadas. Viviendas: el último desglose es el balance del COE al 2 de noviembre (19,865 evaluadas, 4,633 con daño total). El MIVIOT reporta 16,106 viviendas con evaluación técnica (5,871 pérdida total, 10,235 parcial) y un acumulado de 40,720 viviendas con daños reportados, cifra no conciliada con la del COE. Fallecidos (3) según la conferencia de prensa del Gobierno al mes del sismo (9 de noviembre)."
  },
  "official_snapshots": [
   {
@@ -368,6 +368,48 @@
    "url": "https://www.laestrella.com.pa/panama/nacional/sinaproc-actualiza-cifras-de-afectados-por-el-sismo-del-9-de-octubre-DM26917127",
    "note": "SINAPROC preliminary report to 28 Oct: 17,048 homes evaluated; 55,212 people registered in affected communities; 4,428 people in 135 shelters; 2 deaths, 27 injured; 619 schools, 120 health facilities, 127 government buildings, 44 churches and 22 bridges damaged; 66 road-damage reports being verified; 166 pregnant women and 2,242 people with disabilities among those affected. Homes with total damage (3,390) are from the COE balance of 24 Oct; SINAPROC did not update this figure. Previous cut-off (27 Oct, TVN): 16,302 homes, 52,874 people, 4,501 in 141 shelters.",
    "note_es": "Informe preliminar del SINAPROC al 28 de octubre: 17,048 viviendas evaluadas; 55,212 personas registradas en comunidades afectadas; 4,428 personas en 135 albergues; 2 fallecidos y 27 lesionados; daños en 619 escuelas, 120 instalaciones de salud, 127 edificios de gobierno, 44 iglesias y 22 puentes; 66 reportes de daños en vías en verificación; entre los afectados, 166 embarazadas y 2,242 personas con discapacidad. Las viviendas con daño total (3,390) provienen del balance del COE del 24 de octubre; el SINAPROC no actualizó esta cifra. Corte anterior (27 oct, TVN): 16,302 viviendas, 52,874 personas y 4,501 en 141 albergues."
+  },
+  {
+   "as_of_utc": "2026-11-03T02:00:00Z",
+   "deaths": 3,
+   "injured": 27,
+   "missing": 0,
+   "displaced": 3356,
+   "homes_damaged": 19865,
+   "homes_destroyed": 4633,
+   "affected_people": 63767,
+   "infrastructure": {
+    "schools": 619,
+    "health_facilities": 120,
+    "government_buildings": 127,
+    "churches": 44,
+    "bridges": 22
+   },
+   "source_name": "COE balance to 2 Nov (via Infobae)",
+   "url": "https://www.infobae.com/panama/2026/11/04/4633-viviendas-con-danos-totales-las-huellas-del-terremoto-que-azoto-panama/",
+   "note": "COE balance updated to 2 Nov: 19,865 homes evaluated: 4,633 total damage, 11,107 moderate or partial, 4,125 minor; 63,767 people inspected in ten provinces and the Ngäbe-Buglé comarca; 3,356 people (886 families) in 113 shelters: Veraguas 1,635, Los Santos 1,153, Herrera 359, Ngäbe-Buglé 129, Coclé 66, Chiriquí 14. Third death: an 86-year-old woman treated since 14 Oct died at Ciudad de la Salud on 30 Oct (confirmed by CSS). Infrastructure counts are from the 28 Oct SINAPROC report.",
+   "note_es": "Balance del COE al 2 de noviembre: 19,865 viviendas evaluadas: 4,633 con daño total, 11,107 con daño moderado o parcial y 4,125 leve; 63,767 personas inspeccionadas en diez provincias y la comarca Ngäbe-Buglé; 3,356 personas (886 familias) en 113 albergues: Veraguas 1,635, Los Santos 1,153, Herrera 359, Ngäbe-Buglé 129, Coclé 66, Chiriquí 14. Tercera muerte: una mujer de 86 años atendida desde el 14 de octubre falleció en la Ciudad de la Salud el 30 de octubre (confirmado por la CSS). Las cifras de infraestructura son del informe del SINAPROC del 28 de octubre."
+  },
+  {
+   "as_of_utc": "2026-11-09T03:00:00Z",
+   "deaths": 3,
+   "injured": 27,
+   "missing": 0,
+   "displaced": 2731,
+   "homes_damaged": 19865,
+   "homes_destroyed": 4633,
+   "affected_people": 62665,
+   "infrastructure": {
+    "schools": 619,
+    "health_facilities": 120,
+    "government_buildings": 127,
+    "churches": 44,
+    "bridges": 22
+   },
+   "source_name": "SINAPROC Comunicado #30, to 8 Nov (via La Estrella de Panamá); one-month Government briefing",
+   "url": "https://www.laestrella.com.pa/panama/nacional/un-mes-del-sismo-62665-personas-afectadas-y-solo-2731-en-albergues-temporales-PG27216669",
+   "note": "SINAPROC Comunicado #30 (to 8 Nov): 19,666 families (62,665 people) affected; 2,731 people (765 families) in 100 shelters run by MIDES; 2,781 people with disabilities and 202 pregnant women among those affected. Homes: latest split is the COE balance to 2 Nov (19,865 evaluated, 4,633 total damage). MIVIOT reports 16,106 homes technically evaluated (5,871 total loss, 10,235 partial) and a cumulative 40,720 homes with damage reported, which is not reconciled with the COE count. Deaths (3) from the one-month Government briefing (9 Nov).",
+   "note_es": "Comunicado #30 del SINAPROC (al 8 de noviembre): 19,666 familias (62,665 personas) afectadas; 2,731 personas (765 familias) en 100 albergues administrados por el MIDES; entre los afectados, 2,781 personas con discapacidad y 202 embarazadas. Viviendas: el último desglose es el balance del COE al 2 de noviembre (19,865 evaluadas, 4,633 con daño total). El MIVIOT reporta 16,106 viviendas con evaluación técnica (5,871 pérdida total, 10,235 parcial) y un acumulado de 40,720 viviendas con daños reportados, cifra no conciliada con la del COE. Fallecidos (3) según la conferencia de prensa del Gobierno al mes del sismo (9 de noviembre)."
   }
  ],
  "humanitarian": {
@@ -391,7 +433,8 @@
   "USGS ShakeMap: version 10 (automatic, 12 Oct 19:54 UTC) re-calibrates the model with 'Did You Feel It?' reports and lowers intensities sharply (epicentre ~VI, Los Pozos ~V–VI, Soná ~III; people at MMI VII+ from ~550,000 to ~60,000). This contradicts observed damage (300+ homes collapsed in Los Pozos, church towers down, schools destroyed), so this platform keeps the earlier ShakeMap (v8) for its exposure and poverty analysis until USGS reviews the map.",
   "Housing counts differ by source and method: SINAPROC field counts (1,287 homes on 12 Oct), self-registration on the government platform Panamá Conecta (3,300 by 14 Oct, 8,000+ reports by 20 Oct), MIVIOT (6,400+ homes) and COE technical evaluations (9,124 evaluated with 2,318 total damage by 19 Oct; 10,100 evaluated with 3,000+ red by 20 Oct). This platform shows the latest COE evaluation figures.",
   "Deaths: the Health Ministry confirms two deaths from direct trauma (Elena Barría, 14 Oct; Regina Miranda, 22 Oct); La Prensa reports three, including a person with pre-existing conditions whose health worsened during the earthquake.",
-  "Cost of damage: Moody's (28 Oct) cites MEF spending needs of up to ~US$100M (~0.1% of GDP) and sees no material rating impact; the government earlier said damage is 'far from' the US$450M threshold of the Fondo de Ahorro de Panamá. These figures exclude private losses and are not a full damage assessment; MOP road and bridge costs are still pending."
+  "Cost of damage: Moody's (28 Oct) cites MEF spending needs of up to ~US$100M (~0.1% of GDP) and sees no material rating impact; the government earlier said damage is 'far from' the US$450M threshold of the Fondo de Ahorro de Panamá. These figures exclude private losses and are not a full damage assessment; MOP road and bridge costs are still pending.",
+  "Deaths: the Social Security Fund (CSS) confirmed a third death on 30 Oct (an 86-year-old woman treated at Ciudad de la Salud since 14 Oct), and the Government's one-month briefing reports 3 deaths; the Health Ministry's earlier count was 2. Shelters: SINAPROC/MIDES report 2,731 people in 100 shelters (8 Nov), while UNICEF and some media cite 4,478 people in 120 shelters (earlier figure). Homes: COE 19,865 evaluated with 4,633 total damage (2 Nov); MIVIOT 16,106 technically evaluated with 5,871 total loss and 40,720 homes with damage reported."
  ],
  "conflicts_es": [
   "Magnitud: USGS M7,7 (inicialmente 8,0, luego 7,6), profundidad de 12,6 km; IGC-UP M7,2 (inicialmente 7,0), profundidad de 4–10 km, ubicado a 39 km al O/NO de Tonosí; SGC de Colombia, 7,3 y luego 8,0.",
@@ -406,7 +449,8 @@
   "ShakeMap del USGS: la versión 10 (automática, 12 oct 19:54 UTC) recalibra el modelo con reportes de '¿Lo sintió?' y reduce fuertemente las intensidades (epicentro ~VI, Los Pozos ~V–VI, Soná ~III; personas en MMI VII+ de ~550.000 a ~60.000). Esto contradice los daños observados (más de 300 viviendas colapsadas en Los Pozos, torres de iglesias caídas, escuelas destruidas), por lo que esta plataforma mantiene el ShakeMap anterior (v8) para su análisis de exposición y pobreza hasta que el USGS revise el mapa.",
   "Las cifras de vivienda difieren según la fuente y el método: conteos de campo de SINAPROC (1.287 viviendas el 12 oct), autorregistro en la plataforma Panamá Conecta (3.300 al 14 oct, más de 8.000 reportes al 20 oct), MIVIOT (más de 6.400 viviendas) y evaluaciones técnicas del COE (9.124 evaluadas con 2.318 de daño total al 19 oct; 10.100 evaluadas con más de 3.000 en rojo al 20 oct). Esta plataforma muestra las últimas cifras de evaluación del COE.",
   "Fallecidos: el MINSA confirma dos muertes por trauma directo (Elena Barría, 14 oct; Regina Miranda, 22 oct); La Prensa reporta tres, incluida una persona con condiciones preexistentes cuya salud empeoró durante el sismo.",
-  "Costo de los daños: Moody's (28 oct) cita necesidades de gasto del MEF de hasta ~US$100 millones (~0.1% del PIB) y no prevé impacto relevante en la calificación; el Gobierno dijo antes que los daños están 'lejos' del umbral de US$450 millones del Fondo de Ahorro de Panamá. Estas cifras excluyen pérdidas privadas y no son una evaluación completa de daños; los costos del MOP en vías y puentes siguen pendientes."
+  "Costo de los daños: Moody's (28 oct) cita necesidades de gasto del MEF de hasta ~US$100 millones (~0.1% del PIB) y no prevé impacto relevante en la calificación; el Gobierno dijo antes que los daños están 'lejos' del umbral de US$450 millones del Fondo de Ahorro de Panamá. Estas cifras excluyen pérdidas privadas y no son una evaluación completa de daños; los costos del MOP en vías y puentes siguen pendientes.",
+  "Fallecidos: la Caja de Seguro Social (CSS) confirmó una tercera muerte el 30 de octubre (una mujer de 86 años atendida en la Ciudad de la Salud desde el 14 de octubre), y la conferencia del Gobierno al mes del sismo reporta 3 fallecidos; el conteo anterior del Minsa era 2. Albergues: SINAPROC/MIDES reportan 2,731 personas en 100 albergues (8 nov), mientras UNICEF y algunos medios citan 4,478 personas en 120 albergues (cifra anterior). Viviendas: COE 19,865 evaluadas con 4,633 de daño total (2 nov); MIVIOT 16,106 con evaluación técnica, 5,871 de pérdida total y 40,720 viviendas con daños reportados."
  ],
  "pager": {
   "fatality_alert": "yellow",
@@ -559,8 +603,8 @@
    ]
   }
  },
- "reports_count": 511,
- "reports_with_images": 177,
+ "reports_count": 526,
+ "reports_with_images": 179,
  "places_with_damage": [
   "Agua Fría (La Pintada)",
   "Aguadulce",
@@ -572,6 +616,7 @@
   "Atalaya (Basílica Menor Jesús Nazareno)",
   "Azuero",
   "Azuero (epicentral zone)",
+  "Azuero–Soná fault system",
   "Bajo Corral",
   "Bayano (La Canoa, Taboga)",
   "Between La Pitaloza and Malena",
@@ -590,6 +635,7 @@
   "Chitré",
   "Chitré (fire stations)",
   "Chupaito",
+  "Ciudad de la Salud, Panama City",
   "Coclé (Escuela Alejandro Tapia / Federico Zúñiga)",
   "Coclé province",
   "Colón (El Vaticano and Paseo Marino)",
@@ -647,6 +693,7 @@
   "Marbella, Panama City",
   "Mariato",
   "Montijo (town)",
+  "National",
   "Nationwide (schools)",
   "Natá",
   "Ocú (Escuela Gloriela Barría)",
