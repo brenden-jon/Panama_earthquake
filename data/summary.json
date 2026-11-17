@@ -1,14 +1,14 @@
 {
- "generated_utc": "2026-11-17T00:48:12Z",
+ "generated_utc": "2026-11-17T04:02:54Z",
  "official_latest": {
-  "as_of_utc": "2026-11-09T03:00:00Z",
+  "as_of_utc": "2026-11-13T20:15:00Z",
   "deaths": 3,
   "injured": 27,
   "missing": 0,
   "displaced": 2731,
-  "homes_damaged": 19865,
-  "homes_destroyed": 4633,
-  "affected_people": 62665,
+  "homes_damaged": 19843,
+  "homes_destroyed": 4503,
+  "affected_people": 70306,
   "infrastructure": {
    "schools": 619,
    "health_facilities": 120,
@@ -16,10 +16,10 @@
    "churches": 44,
    "bridges": 22
   },
-  "source_name": "SINAPROC Comunicado #30, to 8 Nov (via La Estrella de Panamá); one-month Government briefing",
-  "url": "https://www.laestrella.com.pa/panama/nacional/un-mes-del-sismo-62665-personas-afectadas-y-solo-2731-en-albergues-temporales-PG27216669",
-  "note": "SINAPROC Comunicado #30 (to 8 Nov): 19,666 families (62,665 people) affected; 2,731 people (765 families) in 100 shelters run by MIDES; 2,781 people with disabilities and 202 pregnant women among those affected. Homes: latest split is the COE balance to 2 Nov (19,865 evaluated, 4,633 total damage). MIVIOT reports 16,106 homes technically evaluated (5,871 total loss, 10,235 partial) and a cumulative 40,720 homes with damage reported, which is not reconciled with the COE count. Deaths (3) from the one-month Government briefing (9 Nov).",
-  "note_es": "Comunicado #30 del SINAPROC (al 8 de noviembre): 19,666 familias (62,665 personas) afectadas; 2,731 personas (765 familias) en 100 albergues administrados por el MIDES; entre los afectados, 2,781 personas con discapacidad y 202 embarazadas. Viviendas: el último desglose es el balance del COE al 2 de noviembre (19,865 evaluadas, 4,633 con daño total). El MIVIOT reporta 16,106 viviendas con evaluación técnica (5,871 pérdida total, 10,235 parcial) y un acumulado de 40,720 viviendas con daños reportados, cifra no conciliada con la del COE. Fallecidos (3) según la conferencia de prensa del Gobierno al mes del sismo (9 de noviembre)."
+  "source_name": "SINAPROC Comunicado Oficial #31 (13 Nov)",
+  "url": "https://www.sinaproc.gob.pa/comunicado-oficial-31/",
+  "note": "SINAPROC Comunicado #31 (13 Nov): 22,245 homes evaluated (EDAN) covering 70,306 people: 4,503 total damage, 10,836 moderate or partial, 4,504 minor (19,843 with damage; the rest undamaged). Total-damage count is slightly lower than the 4,633 of 2 Nov after re-evaluation. 91 shelters active, mostly in Veraguas and Los Santos; #31 gives no head count, so 'displaced' is the last published figure (2,731 people in 100 shelters, 8 Nov, SINAPROC #30 / UN Sitrep 9). 853 schools and 120 health centres evaluated; most water plants restored; 40 of 46 heritage sites evaluated, 19 being shored up. Deaths (3) from the Government's one-month briefing; injured from SINAPROC.",
+  "note_es": "Comunicado #31 del SINAPROC (13 nov): 22,245 viviendas evaluadas (EDAN) que abarcan a 70,306 personas: 4,503 con daño total, 10,836 con daños moderados o parciales y 4,504 con daños leves (19,843 con daños; el resto sin daños). El número con daño total es algo menor que los 4,633 del 2 nov tras reevaluaciones. Hay 91 albergues activos, sobre todo en Veraguas y Los Santos; el #31 no da el número de personas, por lo que 'desplazados' es la última cifra publicada (2,731 personas en 100 albergues, 8 nov, SINAPROC #30 / Informe de Situación 9 de la ONU). Se evaluaron 853 centros educativos y 120 centros de salud; la mayoría de las potabilizadoras operan; 40 de 46 sitios patrimoniales evaluados y 19 en apuntalamiento. Fallecidos (3) según el balance del Gobierno al mes; heridos según SINAPROC."
  },
  "official_snapshots": [
   {
@@ -410,6 +410,27 @@
    "url": "https://www.laestrella.com.pa/panama/nacional/un-mes-del-sismo-62665-personas-afectadas-y-solo-2731-en-albergues-temporales-PG27216669",
    "note": "SINAPROC Comunicado #30 (to 8 Nov): 19,666 families (62,665 people) affected; 2,731 people (765 families) in 100 shelters run by MIDES; 2,781 people with disabilities and 202 pregnant women among those affected. Homes: latest split is the COE balance to 2 Nov (19,865 evaluated, 4,633 total damage). MIVIOT reports 16,106 homes technically evaluated (5,871 total loss, 10,235 partial) and a cumulative 40,720 homes with damage reported, which is not reconciled with the COE count. Deaths (3) from the one-month Government briefing (9 Nov).",
    "note_es": "Comunicado #30 del SINAPROC (al 8 de noviembre): 19,666 familias (62,665 personas) afectadas; 2,731 personas (765 familias) en 100 albergues administrados por el MIDES; entre los afectados, 2,781 personas con discapacidad y 202 embarazadas. Viviendas: el último desglose es el balance del COE al 2 de noviembre (19,865 evaluadas, 4,633 con daño total). El MIVIOT reporta 16,106 viviendas con evaluación técnica (5,871 pérdida total, 10,235 parcial) y un acumulado de 40,720 viviendas con daños reportados, cifra no conciliada con la del COE. Fallecidos (3) según la conferencia de prensa del Gobierno al mes del sismo (9 de noviembre)."
+  },
+  {
+   "as_of_utc": "2026-11-13T20:15:00Z",
+   "deaths": 3,
+   "injured": 27,
+   "missing": 0,
+   "displaced": 2731,
+   "homes_damaged": 19843,
+   "homes_destroyed": 4503,
+   "affected_people": 70306,
+   "infrastructure": {
+    "schools": 619,
+    "health_facilities": 120,
+    "government_buildings": 127,
+    "churches": 44,
+    "bridges": 22
+   },
+   "source_name": "SINAPROC Comunicado Oficial #31 (13 Nov)",
+   "url": "https://www.sinaproc.gob.pa/comunicado-oficial-31/",
+   "note": "SINAPROC Comunicado #31 (13 Nov): 22,245 homes evaluated (EDAN) covering 70,306 people: 4,503 total damage, 10,836 moderate or partial, 4,504 minor (19,843 with damage; the rest undamaged). Total-damage count is slightly lower than the 4,633 of 2 Nov after re-evaluation. 91 shelters active, mostly in Veraguas and Los Santos; #31 gives no head count, so 'displaced' is the last published figure (2,731 people in 100 shelters, 8 Nov, SINAPROC #30 / UN Sitrep 9). 853 schools and 120 health centres evaluated; most water plants restored; 40 of 46 heritage sites evaluated, 19 being shored up. Deaths (3) from the Government's one-month briefing; injured from SINAPROC.",
+   "note_es": "Comunicado #31 del SINAPROC (13 nov): 22,245 viviendas evaluadas (EDAN) que abarcan a 70,306 personas: 4,503 con daño total, 10,836 con daños moderados o parciales y 4,504 con daños leves (19,843 con daños; el resto sin daños). El número con daño total es algo menor que los 4,633 del 2 nov tras reevaluaciones. Hay 91 albergues activos, sobre todo en Veraguas y Los Santos; el #31 no da el número de personas, por lo que 'desplazados' es la última cifra publicada (2,731 personas en 100 albergues, 8 nov, SINAPROC #30 / Informe de Situación 9 de la ONU). Se evaluaron 853 centros educativos y 120 centros de salud; la mayoría de las potabilizadoras operan; 40 de 46 sitios patrimoniales evaluados y 19 en apuntalamiento. Fallecidos (3) según el balance del Gobierno al mes; heridos según SINAPROC."
   }
  ],
  "humanitarian": {
@@ -434,7 +455,8 @@
   "Housing counts differ by source and method: SINAPROC field counts (1,287 homes on 12 Oct), self-registration on the government platform Panamá Conecta (3,300 by 14 Oct, 8,000+ reports by 20 Oct), MIVIOT (6,400+ homes) and COE technical evaluations (9,124 evaluated with 2,318 total damage by 19 Oct; 10,100 evaluated with 3,000+ red by 20 Oct). This platform shows the latest COE evaluation figures.",
   "Deaths: the Health Ministry confirms two deaths from direct trauma (Elena Barría, 14 Oct; Regina Miranda, 22 Oct); La Prensa reports three, including a person with pre-existing conditions whose health worsened during the earthquake.",
   "Cost of damage: Moody's (28 Oct) cites MEF spending needs of up to ~US$100M (~0.1% of GDP) and sees no material rating impact; the government earlier said damage is 'far from' the US$450M threshold of the Fondo de Ahorro de Panamá. These figures exclude private losses and are not a full damage assessment; MOP road and bridge costs are still pending.",
-  "Deaths: the Social Security Fund (CSS) confirmed a third death on 30 Oct (an 86-year-old woman treated at Ciudad de la Salud since 14 Oct), and the Government's one-month briefing reports 3 deaths; the Health Ministry's earlier count was 2. Shelters: SINAPROC/MIDES report 2,731 people in 100 shelters (8 Nov), while UNICEF and some media cite 4,478 people in 120 shelters (earlier figure). Homes: COE 19,865 evaluated with 4,633 total damage (2 Nov); MIVIOT 16,106 technically evaluated with 5,871 total loss and 40,720 homes with damage reported."
+  "Deaths: the Social Security Fund (CSS) confirmed a third death on 30 Oct (an 86-year-old woman treated at Ciudad de la Salud since 14 Oct), and the Government's one-month briefing reports 3 deaths; the Health Ministry's earlier count was 2. Shelters: SINAPROC/MIDES report 2,731 people in 100 shelters (8 Nov), while UNICEF and some media cite 4,478 people in 120 shelters (earlier figure). Homes: COE 19,865 evaluated with 4,633 total damage (2 Nov); MIVIOT 16,106 technically evaluated with 5,871 total loss and 40,720 homes with damage reported.",
+  "Homes destroyed: SINAPROC #31 (13 Nov) counts 4,503 with total damage among 22,245 evaluated (down from 4,633 on 2 Nov); the housing minister says 4,000–6,000 need rebuilding from 38,000+ reports (16,000+ evaluated), and MIVIOT has contracted 4,197 replacement homes. Deaths: the UN Situation Report 9 (11 Nov) still cites 2 deaths, while the Government reports 3."
  ],
  "conflicts_es": [
   "Magnitud: USGS M7,7 (inicialmente 8,0, luego 7,6), profundidad de 12,6 km; IGC-UP M7,2 (inicialmente 7,0), profundidad de 4–10 km, ubicado a 39 km al O/NO de Tonosí; SGC de Colombia, 7,3 y luego 8,0.",
@@ -450,7 +472,8 @@
   "Las cifras de vivienda difieren según la fuente y el método: conteos de campo de SINAPROC (1.287 viviendas el 12 oct), autorregistro en la plataforma Panamá Conecta (3.300 al 14 oct, más de 8.000 reportes al 20 oct), MIVIOT (más de 6.400 viviendas) y evaluaciones técnicas del COE (9.124 evaluadas con 2.318 de daño total al 19 oct; 10.100 evaluadas con más de 3.000 en rojo al 20 oct). Esta plataforma muestra las últimas cifras de evaluación del COE.",
   "Fallecidos: el MINSA confirma dos muertes por trauma directo (Elena Barría, 14 oct; Regina Miranda, 22 oct); La Prensa reporta tres, incluida una persona con condiciones preexistentes cuya salud empeoró durante el sismo.",
   "Costo de los daños: Moody's (28 oct) cita necesidades de gasto del MEF de hasta ~US$100 millones (~0.1% del PIB) y no prevé impacto relevante en la calificación; el Gobierno dijo antes que los daños están 'lejos' del umbral de US$450 millones del Fondo de Ahorro de Panamá. Estas cifras excluyen pérdidas privadas y no son una evaluación completa de daños; los costos del MOP en vías y puentes siguen pendientes.",
-  "Fallecidos: la Caja de Seguro Social (CSS) confirmó una tercera muerte el 30 de octubre (una mujer de 86 años atendida en la Ciudad de la Salud desde el 14 de octubre), y la conferencia del Gobierno al mes del sismo reporta 3 fallecidos; el conteo anterior del Minsa era 2. Albergues: SINAPROC/MIDES reportan 2,731 personas en 100 albergues (8 nov), mientras UNICEF y algunos medios citan 4,478 personas en 120 albergues (cifra anterior). Viviendas: COE 19,865 evaluadas con 4,633 de daño total (2 nov); MIVIOT 16,106 con evaluación técnica, 5,871 de pérdida total y 40,720 viviendas con daños reportados."
+  "Fallecidos: la Caja de Seguro Social (CSS) confirmó una tercera muerte el 30 de octubre (una mujer de 86 años atendida en la Ciudad de la Salud desde el 14 de octubre), y la conferencia del Gobierno al mes del sismo reporta 3 fallecidos; el conteo anterior del Minsa era 2. Albergues: SINAPROC/MIDES reportan 2,731 personas en 100 albergues (8 nov), mientras UNICEF y algunos medios citan 4,478 personas en 120 albergues (cifra anterior). Viviendas: COE 19,865 evaluadas con 4,633 de daño total (2 nov); MIVIOT 16,106 con evaluación técnica, 5,871 de pérdida total y 40,720 viviendas con daños reportados.",
+  "Viviendas destruidas: el comunicado #31 del SINAPROC (13 nov) cuenta 4,503 con daño total entre 22,245 evaluadas (frente a 4,633 el 2 nov); el ministro de Vivienda dice que entre 4,000 y 6,000 deben reconstruirse a partir de más de 38,000 reportes (más de 16,000 evaluados), y el MIVIOT ha contratado 4,197 viviendas de reposición. Fallecidos: el Informe de Situación 9 de la ONU (11 nov) aún cita 2 fallecidos, mientras el Gobierno reporta 3."
  ],
  "pager": {
   "fatality_alert": "yellow",
@@ -603,8 +626,8 @@
    ]
   }
  },
- "reports_count": 526,
- "reports_with_images": 179,
+ "reports_count": 549,
+ "reports_with_images": 180,
  "places_with_damage": [
   "Agua Fría (La Pintada)",
   "Aguadulce",
@@ -721,6 +744,7 @@
   "Penonomé (commercial building)",
   "Penonomé (fire station 1)",
   "Penonomé (town centre)",
+  "Pesé",
   "Playa Venao",
   "Playa Venao (Hostal El Sitio)",
   "Puerto Armuelles (Hospital Dionisio Arrocha)",

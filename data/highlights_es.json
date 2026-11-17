@@ -1,83 +1,82 @@
 {
- "updated_utc": "2026-11-10T14:00:00Z",
- "headline": "Al mes: 3 fallecidos, 4,633 viviendas destruidas de 19,865 evaluadas y 62,665 personas afectadas; 2,731 siguen en 100 albergues. La reconstrucción empezó (más de 300 viviendas en obra) pero avanza lento, y siguen las réplicas, incluida una M5.9 cerca de Tonosí el 31 de octubre.",
+ "updated_utc": "2026-11-17T04:00:00Z",
+ "headline": "A cinco semanas: 3 fallecidos, 4,503 viviendas destruidas entre 22,245 evaluadas y unas 2,700 personas aún en albergues (SINAPROC, 13 nov). La reconstrucción se acelera, con contratos para 4,197 viviendas de reposición, y las réplicas siguen a razón de unas 20 al día.",
  "key_points": [
-  "Oficial: 3 fallecidos (el tercero el 30 oct), 27 lesionados; 62,665 personas afectadas (SINAPROC, 8 nov); 2,731 personas en 100 albergues, frente a 6,654 en el pico.",
-  "Viviendas (COE, 2 nov): 19,865 evaluadas: 4,633 con daño total, 11,107 moderado o parcial, 4,125 leve. Solo Veraguas tiene 2,179 destruidas; en Tonosí ~110 por demoler.",
-  "Reconstrucción: 311 viviendas en demolición o construcción; 3,500 soluciones habitacionales previstas, viviendas de reemplazo para el 31 de marzo de 2027; 1,200 empleos locales; las familias dicen que avanza lento.",
-  "Dinero: menos de US$20 millones desembolsados del fideicomiso de emergencia de US$100 millones, solicitudes cerca de US$80 millones; el Gobierno dice que la reconstrucción 'no tendrá techo fiscal'. Aseguradoras: 6,453 reclamos, B/.108.7 millones en reservas.",
-  "Escuelas: 1,342 de 2,000 inspeccionadas operan; avanza la demolición de escuelas colapsadas; UNICEF estima 90,000 estudiantes afectados.",
-  "Réplicas: 1,483 hasta ahora, la tasa bajó ~80%; M5.8 y M5.9 cerca de Tonosí el 31 oct y M5.0 el 6 nov, sin nuevas víctimas; 12,251 deslizamientos cartografiados.",
-  "Colón: más de 200 familias de edificios agrietados del centro serán reubicadas en Alto de los Lagos entre noviembre y diciembre.",
-  "Preparación: el Gobierno financiará un sistema de alerta temprana de sismos (US$1.5–3 millones); el USGS enviará especialistas en fallas."
+  "Oficial (13 nov): 3 fallecidos, 27 heridos; de 22,245 viviendas evaluadas, 4,503 destruidas y 10,836 con daños moderados o parciales.",
+  "Albergues: 91 siguen abiertos, sobre todo en Veraguas y Los Santos; 2,731 personas en el último conteo (8 nov).",
+  "Vivienda: 75 contratos para 4,197 viviendas de reposición; el Gabinete ofrece casa nueva, compensación equivalente o aporte para reparar.",
+  "Salud: unidades de la CSS en Remón, San Cristóbal, Los Pozos y Tonosí cerradas o en carpas; saneamiento crítico en Los Pozos (ONU).",
+  "Agua: 26 de 45 tanques del IDAAN revisados con daños críticos, incluida la reserva principal de Chitré; Farfán (Soná) perdió su tanque.",
+  "Réplicas: más de 1,500, ahora ~20 al día; sismos de M4.8 el 11 y 12 nov se sintieron en la capital.",
+  "Escuelas: el año 2027 empieza el 1 de marzo; aulas temporales para ~5,500 estudiantes; espacios de UNICEF/UE para más de 6,800 menores."
  ],
  "areas": [
   {
    "area": "Los Santos (Macaracas, Tonosí, Las Tablas, Pedasí)",
    "status": "severe",
-   "text": "4,633 viviendas destruidas a nivel nacional, la mayoría en Los Santos y Herrera. Tonosí: más de 1,600 estructuras afectadas, ~110 viviendas por demoler, desnivel de ~2 m en la vía a Búcaro, terreno listo para hospital modular; las réplicas M5.8–5.9 del 31 oct dejaron sin luz a Cañas. Familias de Isla Cañas siguen desplazadas."
+   "text": "1,285 viviendas de reposición contratadas, la provincia con más. Tonosí: hospital y unidad de la CSS atienden en carpas; las evaluaciones de reparación pasaron de Tonosí a Isla Cañas y Macaracas. Pedasí exonera por 12 meses los impuestos municipales a reparaciones."
   },
   {
-   "area": "Herrera (Los Pozos, Las Minas, Pesé, Ocú)",
+   "area": "Herrera (Los Pozos, Las Minas, Pesé, Ocú, Chitré)",
    "status": "severe",
-   "text": "Gran parte de las viviendas destruidas y 20 de las 35 escuelas colapsadas (Las Minas, Los Pozos). Primeras 300 viviendas del Gobierno en obra; la Embajada de EE. UU. entregó viviendas modulares en El Rincón."
+   "text": "El CAPPS de Los Pozos atiende en la cancha municipal y su hospital temporal tiene graves carencias de saneamiento. Chitré: fuera de servicio el tanque principal de 400,000 galones; policlínica en estructura modular. Biblioteca pública de Pesé declarada no habitable."
   },
   {
    "area": "Veraguas (Soná, Mariato, Montijo, Cañazas, Santiago)",
    "status": "severe",
-   "text": "2,179 viviendas destruidas, sobre todo en Mariato y Soná; 1,635 personas aún en albergues (la mayor parte); primera vivienda reconstruida entregada en Quebrada Grande (Soná); más de 80 escuelas requieren reparación y seis puentes afectados; algunas comunidades de Soná siguen incomunicadas."
+   "text": "Concentra la mayoría de personas albergadas; 850 viviendas de reposición contratadas. Tanques y acueductos colapsados dejan sin agua a Farfán y otras comunidades de Soná; turismo y pesca de Santa Catalina y Mariato muy golpeados. Réplica de M4.8 al sur de Soná el 12 nov."
   },
   {
    "area": "Coclé (Penonomé, La Pintada, Antón, Aguadulce)",
    "status": "significant",
-   "text": "Catedral de Penonomé y gobernación dañadas; inició la demolición de escuelas dañadas (Sagrejá, San Isidro, El Potrero); 67 viviendas en reconstrucción; la mayoría de albergues cerrados."
+   "text": "439 viviendas de reposición contratadas; continúa la demolición de escuelas colapsadas; reparaciones del IDAAN en la potabilizadora de Natá; la mayoría de albergues cerrados."
   },
   {
    "area": "Chiriquí y Ngäbe-Buglé",
    "status": "significant",
-   "text": "Este de Chiriquí y Ngäbe-Buglé: viviendas de adobe dañadas; 85 viviendas en reconstrucción en Chiriquí; 27 escuelas de Bocas del Toro, Chiriquí y Ngäbe-Buglé reabren el 11 de noviembre."
+   "text": "Sobre todo viviendas de adobe dañadas; unas 16 de 130 viviendas evaluadas en la comarca colapsaron. Se demolerán los cuarteles de bomberos de David (estación central) y Gualaca; dañada la potabilizadora de Santa Marta (Bugaba)."
   },
   {
    "area": "Ciudad de Panamá y Colón",
    "status": "moderate",
-   "text": "La Policlínica Presidente Remón sigue cerrada; Metro, Tocumen y puertos operan con normalidad. Colón: más de 200 familias de edificios agrietados serán reubicadas. Un M3.9 en la falla de Pedro Miguel (4 nov) obligó a evacuar brevemente el Metro, sin relación con Azuero."
+   "text": "Siguen cerradas la Policlínica Presidente Remón y la ULAPS de San Cristóbal; cerrados por daños los Centros de Bienestar de la CSS en San Miguelito y Plaza 5 de Mayo. Colón: más de 200 familias de edificios agrietados serán reubicadas."
   }
  ],
  "services": [
   {
    "sector": "Vivienda",
    "status": "disrupted",
-   "text": "19,865 evaluadas, 4,633 destruidas (2 nov); 2,731 personas en 100 albergues; 311 viviendas en demolición o construcción; viviendas de reemplazo para el 31 de marzo de 2027.",
-   "source": "COE / SINAPROC / MIVIOT"
+   "text": "4,503 destruidas y 10,836 con daños moderados o parciales (13 nov); 4,197 viviendas de reposición contratadas; opciones de casa nueva, compensación o aporte para reparar; viviendas de reposición para el 31 de marzo de 2027.",
+   "source": "SINAPROC / MIVIOT / Gabinete"
   },
   {
    "sector": "Escuelas",
    "status": "disrupted",
-   "text": "1,342 de 2,000 escuelas inspeccionadas operan; demoliciones en curso; 85 escuelas por reconstruir para marzo de 2027; 27 escuelas más reabren el 11 nov.",
-   "source": "MEDUCA / UNICEF"
+   "text": "853 centros educativos evaluados; el año escolar empieza el 1 de marzo de 2027; espacios temporales de aprendizaje en Soná, Tonosí, Macaracas y La Villa para ~5,500 estudiantes.",
+   "source": "SINAPROC / MEDUCA / UNICEF"
   },
   {
    "sector": "Salud",
    "status": "disrupted",
-   "text": "MINSA: 15 hospitales al 100%, 118 instalaciones pendientes de reparación; CSS: Remón, Los Pozos y Tonosí cerradas o en módulos; hospital modular previsto en Tonosí.",
-   "source": "MINSA / CSS"
+   "text": "CSS: Remón y San Cristóbal cerradas; Los Pozos y Tonosí en sedes temporales; policlínica de Chitré en módulo; hospitales de Soná y Santiago con áreas cerradas.",
+   "source": "CSS / MINSA"
   },
   {
    "sector": "Vías y puentes",
    "status": "disrupted",
-   "text": "70 vías dañadas habilitadas, trabajos en 29 frentes; la vía a Búcaro requiere rediseño; el MOP aún no publica el costo de reparación.",
+   "text": "Todas las vías abiertas y derrumbes casi removidos; plan para reparar 16–17 puentes irá al Gabinete; siguen trabajos en Búcaro; se licitará la vía Macaracas–Tonosí.",
    "source": "MOP"
   },
   {
    "sector": "Agua y electricidad",
    "status": "disrupted",
-   "text": "Electricidad y agua mayormente restablecidas; Cañas perdió la luz tras las réplicas del 31 oct; persisten faltantes de agua en partes de Veraguas.",
-   "source": "ASEP / IDAAN vía medios"
+   "text": "La mayoría de potabilizadoras operan, pero 26 de 45 tanques revisados tienen daños críticos; 19 carros cisterna en uso; electricidad mayormente restablecida.",
+   "source": "IDAAN / SINAPROC"
   },
   {
    "sector": "Aeropuertos, Metro y puertos",
    "status": "operating",
-   "text": "Tocumen y las líneas 1 y 2 del Metro operan desde el 12 oct; puertos estatales al ~80 %.",
+   "text": "Tocumen y las Líneas 1 y 2 del Metro operan desde el 12 oct; puertos estatales a ~80%.",
    "source": "Tocumen, Metro, AMP"
   },
   {
@@ -87,11 +86,11 @@
    "source": "ACP"
   }
  ],
- "upcoming": "Próximamente: costos del MOP en vías y puentes; informe del MICI sobre empresas afectadas al Gabinete; posible aumento de la asignación de emergencia de US$100 millones; revisión de Moody's en noviembre.",
+ "upcoming": "Próximamente: decisión del Gabinete sobre la reparación de puentes del MOP; registro del MICI de negocios afectados; asistencia en efectivo del PMA desde inicios de diciembre.",
  "unknowns": [
-  "Cuántas viviendas requerirán reemplazo total: el COE cuenta 4,633 destruidas, el MIVIOT 5,871 pérdidas totales y 40,720 con algún daño.",
-  "Costo total de los daños: solicitudes al MEF cerca de US$80 millones; aún sin costos del MOP ni pérdidas privadas.",
-  "Dónde se reubicará a los residentes de Isla Cañas.",
-  "Cuántas de las viviendas previstas estarán listas antes del plazo de marzo de 2027."
+  "Cuántas viviendas requieren reposición total: el SINAPROC cuenta 4,503 destruidas; el MIVIOT dice entre 4,000 y 6,000.",
+  "Cuántos aportes para reparación se pagarán, y con qué rapidez, con la nueva resolución de Gabinete.",
+  "Dónde serán reubicados los residentes de Isla Cañas.",
+  "Costo público total: aún no se publican los costos de puentes del MOP ni las pérdidas de empresas privadas."
  ]
 }

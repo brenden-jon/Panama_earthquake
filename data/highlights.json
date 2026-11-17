@@ -1,78 +1,77 @@
 {
- "updated_utc": "2026-11-10T14:00:00Z",
- "headline": "One month on: 3 deaths, 4,633 homes destroyed among 19,865 evaluated, and 62,665 people affected; 2,731 remain in 100 shelters. Reconstruction has started (300+ homes under way) but is slow, and aftershocks continue, including an M5.9 near Tonosí on 31 Oct.",
+ "updated_utc": "2026-11-17T04:00:00Z",
+ "headline": "Five weeks on: 3 deaths, 4,503 homes destroyed among 22,245 evaluated, and about 2,700 people still in shelters (SINAPROC, 13 Nov). Rebuilding is scaling up, with contracts for 4,197 replacement homes, and aftershocks continue at about 20 a day.",
  "key_points": [
-  "Official: 3 deaths (third on 30 Oct), 27 injured; 62,665 people affected (SINAPROC, 8 Nov); 2,731 people in 100 shelters, down from 6,654 at the peak.",
-  "Homes (COE, 2 Nov): 19,865 evaluated: 4,633 total damage, 11,107 moderate or partial, 4,125 minor. Veraguas alone has 2,179 destroyed; Tonosí ~110 to demolish.",
-  "Reconstruction: 311 homes in demolition or construction; 3,500 housing solutions planned, replacement homes due by 31 March 2027; 1,200 local jobs; families say progress is slow.",
-  "Money: under US$20M of the US$100M emergency trust disbursed, requests near US$80M; Government says reconstruction has 'no fiscal ceiling'. Insurers: 6,453 claims, B/.108.7M reserved.",
-  "Schools: 1,342 of 2,000 inspected operating; demolition of collapsed schools under way; UNICEF says 90,000 students affected.",
-  "Aftershocks: 1,483 so far, rate down ~80%; M5.8 and M5.9 near Tonosí on 31 Oct and M5.0 on 6 Nov, no new casualties; 12,251 landslides mapped.",
-  "Colón: 200+ families from cracked downtown buildings to be relocated to Alto de los Lagos in Nov–Dec.",
-  "Preparedness: Government will fund an earthquake early-warning system (US$1.5–3M); USGS sending fault specialists."
+  "Official (13 Nov): 3 deaths, 27 injured; of 22,245 homes evaluated, 4,503 destroyed, 10,836 moderate or partial damage.",
+  "Shelters: 91 still open, mostly in Veraguas and Los Santos; 2,731 people at last count (8 Nov).",
+  "Housing: 75 contracts for 4,197 replacement homes; Cabinet now offers a new home, a cash equivalent or a repair grant.",
+  "Health: CSS units at Remón, San Cristóbal, Los Pozos and Tonosí closed or in tents; Los Pozos sanitation critical (UN).",
+  "Water: 26 of 45 inspected IDAAN tanks critically damaged, including Chitré's main reserve; Farfán (Soná) lost its tank.",
+  "Aftershocks: 1,500+ so far, now ~20 a day; M4.8 events on 11–12 Nov felt in the capital.",
+  "Schools: year 2027 starts 1 March as planned; temporary classrooms for ~5,500 students; UNICEF/EU spaces reach 6,800+ children."
  ],
  "areas": [
   {
    "area": "Los Santos (Macaracas, Tonosí, Las Tablas, Pedasí)",
    "status": "severe",
-   "text": "4,633 homes destroyed nationally, most in Los Santos and Herrera. Tonosí: 1,600+ structures affected, ~110 homes to demolish, Búcaro road offset ~2 m, modular hospital site prepared; M5.8–5.9 aftershocks on 31 Oct cut power in Cañas. Isla Cañas families still displaced."
+   "text": "1,285 replacement homes contracted, the most of any province. Tonosí: hospital and CSS unit work from tents; repair evaluations moved from Tonosí to Isla Cañas and Macaracas. Pedasí waives municipal taxes on repairs for 12 months."
   },
   {
-   "area": "Herrera (Los Pozos, Las Minas, Pesé, Ocú)",
+   "area": "Herrera (Los Pozos, Las Minas, Pesé, Ocú, Chitré)",
    "status": "severe",
-   "text": "Large share of destroyed homes and 20 of the 35 collapsed schools (Las Minas, Los Pozos). First 300 government homes under way; US Embassy delivered modular homes in El Rincón."
+   "text": "Los Pozos CSS clinic works from the municipal court, and its temporary hospital has critical sanitation gaps. Chitré: main 400,000-gallon water tank out of service, polyclinic in a modular unit. Pesé public library declared unfit for use."
   },
   {
    "area": "Veraguas (Soná, Mariato, Montijo, Cañazas, Santiago)",
    "status": "severe",
-   "text": "2,179 homes destroyed, mainly in Mariato and Soná; 1,635 people still in shelters (largest share); first rebuilt home delivered in Quebrada Grande (Soná); 80+ schools need repair, six bridges affected; some Soná communities still cut off."
+   "text": "Most people still in shelters; 850 replacement homes contracted. Collapsed tanks and aqueducts leave Farfán and other Soná communities short of water; Santa Catalina and Mariato tourism and fishing hit hard. M4.8 aftershock south of Soná on 12 Nov."
   },
   {
    "area": "Coclé (Penonomé, La Pintada, Antón, Aguadulce)",
    "status": "significant",
-   "text": "Penonomé cathedral and governorship damaged; demolition of quake-damaged schools started (Sagrejá, San Isidro, El Potrero); 67 homes in reconstruction; most shelters closed."
+   "text": "439 replacement homes contracted; demolition of collapsed schools continues; IDAAN repairs at the Natá water plant; most shelters closed."
   },
   {
    "area": "Chiriquí & Ngäbe-Buglé",
    "status": "significant",
-   "text": "Eastern Chiriquí and Ngäbe-Buglé: mostly adobe homes damaged; 85 homes in reconstruction in Chiriquí; 27 schools in Bocas del Toro, Chiriquí and Ngäbe-Buglé reopen on 11 Nov."
+   "text": "Mostly adobe homes damaged; about 16 of 130 homes evaluated in the comarca collapsed. Fire stations in David (central) and Gualaca to be demolished; Santa Marta (Bugaba) water plant damaged."
   },
   {
    "area": "Panama City & Colón",
    "status": "moderate",
-   "text": "Policlínica Presidente Remón still closed; Metro, Tocumen and ports normal. Colón: 200+ families from cracked downtown buildings to be relocated. M3.9 on the Pedro Miguel fault (4 Nov) briefly evacuated the Metro, unrelated to Azuero."
+   "text": "Policlínica Presidente Remón and ULAPS San Cristóbal still closed; CSS senior centres in San Miguelito and Plaza 5 de Mayo closed for damage. Colón: 200+ families from cracked buildings to be relocated."
   }
  ],
  "services": [
   {
    "sector": "Housing",
    "status": "disrupted",
-   "text": "19,865 evaluated, 4,633 destroyed (2 Nov); 2,731 people in 100 shelters; 311 homes in demolition or construction; replacement homes due 31 March 2027.",
-   "source": "COE / SINAPROC / MIVIOT"
+   "text": "4,503 destroyed and 10,836 with moderate or partial damage (13 Nov); 4,197 replacement homes contracted; options include a new home, cash or a repair grant; replacement homes due by 31 March 2027.",
+   "source": "SINAPROC / MIVIOT / Cabinet"
   },
   {
    "sector": "Schools",
    "status": "disrupted",
-   "text": "1,342 of 2,000 inspected schools operating; demolitions under way; 85 schools to rebuild for March 2027; 27 more schools reopen 11 Nov.",
-   "source": "MEDUCA / UNICEF"
+   "text": "853 schools evaluated; school year starts 1 March 2027; temporary learning spaces in Soná, Tonosí, Macaracas and La Villa for ~5,500 students.",
+   "source": "SINAPROC / MEDUCA / UNICEF"
   },
   {
    "sector": "Health",
    "status": "disrupted",
-   "text": "MINSA: 15 hospitals at 100%, 118 facilities pending repair; CSS: Remón, Los Pozos and Tonosí closed or in modular units; modular hospital planned in Tonosí.",
-   "source": "MINSA / CSS"
+   "text": "CSS: Remón and San Cristóbal closed; Los Pozos and Tonosí in temporary sites; Chitré polyclinic modular; Soná and Santiago hospitals with closed areas.",
+   "source": "CSS / MINSA"
   },
   {
    "sector": "Roads & bridges",
    "status": "disrupted",
-   "text": "70 damaged roads cleared, work on 29 fronts; Búcaro road needs redesign; MOP repair cost not yet published.",
+   "text": "All roads open and landslides almost cleared; plan to repair 16–17 bridges going to Cabinet; Búcaro work continues; Macaracas–Tonosí road to be tendered.",
    "source": "MOP"
   },
   {
    "sector": "Water & power",
    "status": "disrupted",
-   "text": "Power and water largely restored; Cañas briefly lost power after the 31 Oct aftershocks; water shortages persist in parts of Veraguas.",
-   "source": "ASEP / IDAAN via media"
+   "text": "Most water plants restored, but 26 of 45 inspected tanks have critical damage; 19 tanker trucks in use; power largely restored.",
+   "source": "IDAAN / SINAPROC"
   },
   {
    "sector": "Airports, Metro & ports",
@@ -87,11 +86,11 @@
    "source": "ACP"
   }
  ],
- "upcoming": "Coming up: MOP road and bridge costs; MICI business-damage report to Cabinet; possible increase of the US$100M emergency allocation; Moody's rating review in November.",
+ "upcoming": "Coming up: Cabinet decision on MOP bridge repairs; MICI business-damage register; WFP cash assistance from early December.",
  "unknowns": [
-  "How many homes will need full replacement: COE counts 4,633 destroyed, MIVIOT 5,871 total loss and 40,720 with some damage.",
-  "Total cost of damage: MEF requests near US$80M; MOP road and bridge costs and private losses not yet included.",
+  "How many homes need full replacement: SINAPROC counts 4,503 destroyed; MIVIOT says 4,000–6,000.",
+  "How many repair grants will be paid, and how fast, under the new Cabinet resolution.",
   "Where Isla Cañas residents will be relocated.",
-  "How many of the planned homes will be finished before the March 2027 deadline."
+  "Total public cost: MOP bridge costs and private business losses are still not published."
  ]
 }
