@@ -1,10 +1,10 @@
 {
- "checked_utc": "2026-11-17T08:51:37Z",
+ "checked_utc": "2026-11-17T18:13:51Z",
  "mag": 7.7,
  "alert": "orange",
  "mmi": 8.112,
  "felt": 2021,
- "updated_utc": "2026-11-16T16:58:59Z",
+ "updated_utc": "2026-11-17T18:05:39Z",
  "versions": {
   "shakemap": "10",
   "losspager": 1791835152352,
